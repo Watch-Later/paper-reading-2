@@ -1,6 +1,8 @@
 ---
 title: CUDA by Example
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/CUDA_by_Example.pdf)

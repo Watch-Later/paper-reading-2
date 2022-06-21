@@ -1,6 +1,8 @@
 ---
 title: Base An Acid Alternative
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/base-an-acid-alternative.pdf)

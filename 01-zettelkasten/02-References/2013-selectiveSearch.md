@@ -1,6 +1,8 @@
 ---
 title: Selectivesearch(2013)
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/2013-selectiveSearch.pdf)

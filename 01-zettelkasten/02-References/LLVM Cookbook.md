@@ -1,6 +1,8 @@
 ---
 title: LLVM Cookbook
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/LLVM%20Cookbook.pdf)

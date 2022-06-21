@@ -1,6 +1,8 @@
 ---
 title: Cgroups Intro
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/cgroups-intro.pdf)

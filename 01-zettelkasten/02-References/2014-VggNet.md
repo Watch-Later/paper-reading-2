@@ -1,6 +1,8 @@
 ---
 title: Vggnet(2014)
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/2014-VggNet.pdf)

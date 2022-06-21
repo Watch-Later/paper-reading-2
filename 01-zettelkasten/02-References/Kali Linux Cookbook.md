@@ -1,6 +1,8 @@
 ---
 title: Kali Linux Cookbook
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/Kali%20Linux%20Cookbook.pdf)

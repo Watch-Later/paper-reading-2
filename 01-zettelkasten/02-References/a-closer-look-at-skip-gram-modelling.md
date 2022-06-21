@@ -1,6 +1,8 @@
 ---
 title: A Closer Look At Skip Gram Modelling
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/a-closer-look-at-skip-gram-modelling.pdf)

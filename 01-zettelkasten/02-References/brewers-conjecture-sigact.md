@@ -1,6 +1,8 @@
 ---
 title: Brewers Conjecture Sigact
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/brewers-conjecture-sigact.pdf)

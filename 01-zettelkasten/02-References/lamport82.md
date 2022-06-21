@@ -1,6 +1,8 @@
 ---
 title: Lamport82
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/lamport82.pdf)

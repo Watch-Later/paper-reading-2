@@ -1,6 +1,8 @@
 ---
 title: Generic Programming And The Stl
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/generic-programming-and-the-stl.pdf)

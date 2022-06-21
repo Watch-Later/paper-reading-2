@@ -1,6 +1,8 @@
 ---
 title: Solve It With Inf
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/solve-it-with-inf.pdf)

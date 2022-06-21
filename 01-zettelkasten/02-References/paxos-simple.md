@@ -1,6 +1,8 @@
 ---
 title: Paxos Simple
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/paxos-simple.pdf)

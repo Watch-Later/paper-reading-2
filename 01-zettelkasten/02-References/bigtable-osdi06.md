@@ -1,6 +1,8 @@
 ---
 title: Bigtable Osdi06
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/bigtable-osdi06.pdf)

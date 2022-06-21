@@ -1,6 +1,8 @@
 ---
 title: Mtcnn(2016)
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/2016-mtcnn.pdf)

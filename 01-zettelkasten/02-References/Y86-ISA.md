@@ -1,6 +1,8 @@
 ---
 title: Y86 Isa
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/Y86-ISA.pdf)

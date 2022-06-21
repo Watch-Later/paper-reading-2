@@ -1,6 +1,8 @@
 ---
 title: rss on nhtsa
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/rss_on_nhtsa.pdf)

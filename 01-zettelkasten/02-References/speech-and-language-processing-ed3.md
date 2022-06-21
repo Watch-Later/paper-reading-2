@@ -1,6 +1,8 @@
 ---
 title: Speech And Language Processing
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/speech-and-language-processing-ed3.pdf)

@@ -1,6 +1,8 @@
 ---
 title: Chubby Osdi06
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/chubby-osdi06.pdf)

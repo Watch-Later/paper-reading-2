@@ -1,6 +1,8 @@
 ---
 title: Patterson 19
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/patterson-19.pdf)

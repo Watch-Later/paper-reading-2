@@ -1,6 +1,8 @@
 ---
 title: Moore 2003
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/moore-2003.pdf)

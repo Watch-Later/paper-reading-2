@@ -1,6 +1,8 @@
 ---
 title: Crftut Fnt
-tags: other-default
+tags:
+- other-default
+
 ---
 
 [local pdf](../../../pdfs/crftut-fnt.pdf)
