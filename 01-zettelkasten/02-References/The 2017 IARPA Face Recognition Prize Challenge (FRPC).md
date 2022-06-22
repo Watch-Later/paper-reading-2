@@ -2,6 +2,7 @@
 title: The 2017 IARPA Face Recognition Prize Challenge (FRPC)
 tags:
 - other-default
+- paper
 
 ---
 

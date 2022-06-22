@@ -2,6 +2,7 @@
 title: Spam Filtering With Naive Bayes Which Naive Bayes
 tags:
 - other-default
+- paper
 
 ---
 

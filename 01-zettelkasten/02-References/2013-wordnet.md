@@ -2,6 +2,7 @@
 title: Wordnet(2013)
 tags:
 - other-default
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: Toward Efficient Trajectory Planning - The Path-Velocity Decomposition
 tags:
 - other-default
+- paper
 
 ---
 

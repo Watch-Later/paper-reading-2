@@ -2,6 +2,7 @@
 title: Guide to Y86 Processor Simulators
 tags:
 - other-default
+- paper
 
 ---
 

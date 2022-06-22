@@ -2,6 +2,7 @@
 title: A Quantization-Friendly Separable Convolution for MobileNets
 tags:
 - other-default
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: PCI Express Technology 3.0
 tags:
 - other-default
+- paper
 
 ---
 

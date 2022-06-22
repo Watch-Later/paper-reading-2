@@ -2,6 +2,7 @@
 title: Robust Multipose Face Detection in Images(2004)
 tags:
 - other-default
+- paper
 
 ---
 

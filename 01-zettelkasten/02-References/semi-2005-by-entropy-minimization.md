@@ -2,6 +2,7 @@
 title: Semi 2005 By Entropy Minimization
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

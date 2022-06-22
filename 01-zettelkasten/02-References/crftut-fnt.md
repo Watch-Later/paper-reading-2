@@ -2,6 +2,7 @@
 title: Crftut Fnt
 tags:
 - other-default
+- paper
 
 ---
 

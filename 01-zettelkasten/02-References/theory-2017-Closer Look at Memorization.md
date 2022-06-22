@@ -2,6 +2,7 @@
 title: theory-2017-Closer Look at Memorization
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

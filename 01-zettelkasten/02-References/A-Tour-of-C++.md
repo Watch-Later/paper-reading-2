@@ -2,6 +2,7 @@
 title: A Tour Of C++
 tags:
 - other-default
+- paper
 
 ---
 

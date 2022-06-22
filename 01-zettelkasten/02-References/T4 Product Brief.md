@@ -2,6 +2,7 @@
 title: T4 Product Brief
 tags:
 - other-default
+- paper
 
 ---
 

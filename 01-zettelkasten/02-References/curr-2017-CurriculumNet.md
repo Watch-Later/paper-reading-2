@@ -2,6 +2,7 @@
 title: Curr 2017 Curriculumnet
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

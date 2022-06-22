@@ -2,6 +2,7 @@
 title: Real-time safety assessment of trajectories(2021)
 tags:
 - other-default
+- paper
 
 ---
 

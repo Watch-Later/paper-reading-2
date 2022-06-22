@@ -2,6 +2,7 @@
 title: HiSVP 开发指南
 tags:
 - other-default
+- paper
 
 ---
 

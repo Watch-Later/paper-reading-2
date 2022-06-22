@@ -2,6 +2,7 @@
 title: Thrift-The Missing Guide
 tags:
 - other-default
+- paper
 
 ---
 

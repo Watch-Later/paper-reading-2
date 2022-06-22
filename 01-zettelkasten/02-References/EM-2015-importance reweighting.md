@@ -2,6 +2,7 @@
 title: EM-2015-importance reweighting
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

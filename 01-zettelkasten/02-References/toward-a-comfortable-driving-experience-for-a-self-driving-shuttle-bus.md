@@ -2,6 +2,7 @@
 title: Toward A Comfortable Driving Experience For A Self Driving Shuttle Bus
 tags:
 - other-default
+- paper
 
 ---
 

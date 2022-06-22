@@ -2,6 +2,7 @@
 title: Semi 2019 Mixmatch
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

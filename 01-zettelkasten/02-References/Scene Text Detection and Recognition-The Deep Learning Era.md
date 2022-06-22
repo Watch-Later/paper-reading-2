@@ -2,6 +2,7 @@
 title: Scene Text Detection and Recognition-The Deep Learning Era
 tags:
 - OCR
+- paper
 
 ---
 

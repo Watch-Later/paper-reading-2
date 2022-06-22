@@ -2,6 +2,7 @@
 title: N Gram Similarity And Distance
 tags:
 - other-default
+- paper
 
 ---
 

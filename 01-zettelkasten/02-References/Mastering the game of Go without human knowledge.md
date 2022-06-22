@@ -2,6 +2,7 @@
 title: Mastering the game of Go without human knowledge
 tags:
 - other-default
+- paper
 
 ---
 

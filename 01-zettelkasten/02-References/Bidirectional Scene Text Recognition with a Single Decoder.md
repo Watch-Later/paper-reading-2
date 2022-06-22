@@ -2,6 +2,7 @@
 title: Bidirectional Scene Text Recognition with a Single Decoder
 tags:
 - OCR
+- paper
 
 ---
 

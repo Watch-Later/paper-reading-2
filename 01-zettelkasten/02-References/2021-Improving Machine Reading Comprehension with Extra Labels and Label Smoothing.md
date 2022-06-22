@@ -2,6 +2,7 @@
 title: Improving Machine Reading Comprehension with Extra Labels and Label Smoothing(2021)
 tags:
 - other-default
+- paper
 
 ---
 

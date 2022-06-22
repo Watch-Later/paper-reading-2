@@ -2,6 +2,7 @@
 title: Lane Change Strategy for  Autonomous Vehicle(2018)
 tags:
 - other-default
+- paper
 
 ---
 

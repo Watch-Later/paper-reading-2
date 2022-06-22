@@ -2,6 +2,7 @@
 title: Csapp Talk 3E
 tags:
 - other-default
+- paper
 
 ---
 

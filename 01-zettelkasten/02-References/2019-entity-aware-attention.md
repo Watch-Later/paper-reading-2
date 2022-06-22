@@ -2,6 +2,7 @@
 title: Entity Aware Attention(2019)
 tags:
 - OCR
+- paper
 
 ---
 

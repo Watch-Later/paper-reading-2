@@ -2,6 +2,7 @@
 title: Lane Change Scheduling for Autonomous Vehicles(2016)
 tags:
 - other-default
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: Decoupled Attention Network for Text Recognition
 tags:
 - OCR
+- paper
 
 ---
 

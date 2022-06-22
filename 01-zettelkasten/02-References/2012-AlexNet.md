@@ -2,6 +2,7 @@
 title: Alexnet(2012)
 tags:
 - other-default
+- paper
 
 ---
 

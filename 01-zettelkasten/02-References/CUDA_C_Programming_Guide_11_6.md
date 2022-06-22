@@ -2,6 +2,7 @@
 title: CUDA C Programming Guide 11 6
 tags:
 - other-default
+- paper
 
 ---
 

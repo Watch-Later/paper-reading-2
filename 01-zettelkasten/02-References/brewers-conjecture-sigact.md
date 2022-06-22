@@ -2,6 +2,7 @@
 title: Brewers Conjecture Sigact
 tags:
 - other-default
+- paper
 
 ---
 

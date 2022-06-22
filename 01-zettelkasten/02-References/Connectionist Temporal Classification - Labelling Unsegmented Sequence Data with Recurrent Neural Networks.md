@@ -2,6 +2,7 @@
 title: Connectionist Temporal Classification - Labelling Unsegmented Sequence Data with Recurrent Neural Networks
 tags:
 - other-default
+- paper
 
 ---
 

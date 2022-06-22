@@ -2,6 +2,7 @@
 title: Learning from Large-scale Noisy Web(2018)
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

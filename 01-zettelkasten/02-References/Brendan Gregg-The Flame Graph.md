@@ -2,6 +2,7 @@
 title: Brendan Gregg-The Flame Graph
 tags:
 - other-default
+- paper
 
 ---
 

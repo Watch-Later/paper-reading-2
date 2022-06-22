@@ -2,6 +2,7 @@
 title: The Eight Pillars of Causal Wisdom
 tags:
 - other-default
+- paper
 
 ---
 

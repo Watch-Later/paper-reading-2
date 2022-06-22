@@ -2,6 +2,7 @@
 title: Cgroups Intro
 tags:
 - other-default
+- paper
 
 ---
 

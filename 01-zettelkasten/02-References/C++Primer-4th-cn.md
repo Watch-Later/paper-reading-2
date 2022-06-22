@@ -2,6 +2,7 @@
 title: C++Primer
 tags:
 - other-default
+- paper
 
 ---
 

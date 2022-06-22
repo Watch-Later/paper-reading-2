@@ -2,6 +2,7 @@
 title: CUDA Application Design and Development
 tags:
 - other-default
+- paper
 
 ---
 

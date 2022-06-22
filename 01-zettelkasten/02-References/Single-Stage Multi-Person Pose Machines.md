@@ -2,6 +2,7 @@
 title: Single-Stage Multi-Person Pose Machines
 tags:
 - other-default
+- paper
 
 ---
 

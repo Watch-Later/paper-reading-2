@@ -2,6 +2,7 @@
 title: Cpp Primer Plus
 tags:
 - other-default
+- paper
 
 ---
 

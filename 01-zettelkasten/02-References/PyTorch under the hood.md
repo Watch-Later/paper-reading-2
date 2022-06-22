@@ -5,6 +5,7 @@ pub date: Feb 2019
 subtitle: A guide to understand PyTorch internals
 tags:
 - pytorch
+- paper
 
 ---
 

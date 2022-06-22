@@ -2,6 +2,7 @@
 title: Reinforcement Learning-An Introduction(2014)
 tags:
 - other-default
+- paper
 
 ---
 

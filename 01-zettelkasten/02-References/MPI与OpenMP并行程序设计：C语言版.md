@@ -2,6 +2,7 @@
 title: Mpi与Openmp并行程序设计：C语言版
 tags:
 - other-default
+- paper
 
 ---
 

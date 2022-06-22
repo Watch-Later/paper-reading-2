@@ -2,6 +2,7 @@
 title: Deep Learning based Recommender System - A Survey and New Perspectives
 tags:
 - other-default
+- paper
 
 ---
 

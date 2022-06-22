@@ -2,6 +2,7 @@
 title: Semi-Supervised Novelty Detection(2010)
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

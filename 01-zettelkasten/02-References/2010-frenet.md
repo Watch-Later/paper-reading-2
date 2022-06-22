@@ -2,6 +2,7 @@
 title: Frenet(2010)
 tags:
 - other-default
+- paper
 
 ---
 

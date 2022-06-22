@@ -2,6 +2,7 @@
 title: Object Detection in 20 Years A Survey
 tags:
 - other-default
+- paper
 
 ---
 

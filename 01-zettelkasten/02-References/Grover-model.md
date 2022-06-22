@@ -2,6 +2,7 @@
 title: Grover Model
 tags:
 - other-default
+- paper
 
 ---
 

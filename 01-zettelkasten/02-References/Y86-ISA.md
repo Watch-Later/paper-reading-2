@@ -2,6 +2,7 @@
 title: Y86 Isa
 tags:
 - other-default
+- paper
 
 ---
 

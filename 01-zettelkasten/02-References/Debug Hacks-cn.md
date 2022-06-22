@@ -2,6 +2,7 @@
 title: Debug Hacks(cn)
 tags:
 - other-default
+- paper
 
 ---
 

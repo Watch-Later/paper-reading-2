@@ -2,6 +2,7 @@
 title: Natural Language Processing (Almost) from Scratch
 tags:
 - other-default
+- paper
 
 ---
 

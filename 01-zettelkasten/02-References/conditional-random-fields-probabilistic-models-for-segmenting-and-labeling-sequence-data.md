@@ -2,6 +2,7 @@
 title: Conditional Random Fields Probabilistic Models For Segmenting And Labeling Sequence Data
 tags:
 - other-default
+- paper
 
 ---
 

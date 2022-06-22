@@ -2,6 +2,7 @@
 title: theory-2017-rethinking generalization
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

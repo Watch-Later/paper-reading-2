@@ -2,6 +2,7 @@
 title: Gender Prediction Using Browsing History
 tags:
 - other-default
+- paper
 
 ---
 

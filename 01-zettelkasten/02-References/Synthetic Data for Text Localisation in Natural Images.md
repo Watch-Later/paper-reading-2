@@ -2,6 +2,7 @@
 title: Synthetic Data for Text Localisation in Natural Images
 tags:
 - other-default
+- paper
 
 ---
 

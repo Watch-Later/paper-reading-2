@@ -2,6 +2,7 @@
 title: 20160319 Dengli Interspeech Tutorial
 tags:
 - other-default
+- paper
 
 ---
 

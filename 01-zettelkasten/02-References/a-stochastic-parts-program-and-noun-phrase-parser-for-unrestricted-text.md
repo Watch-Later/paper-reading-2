@@ -2,6 +2,7 @@
 title: A Stochastic Parts Program And Noun Phrase Parser For Unrestricted Text
 tags:
 - other-default
+- paper
 
 ---
 

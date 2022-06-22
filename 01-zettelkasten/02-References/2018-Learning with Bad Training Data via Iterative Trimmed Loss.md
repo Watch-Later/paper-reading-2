@@ -2,6 +2,7 @@
 title: Learning with Bad Training Data via Iterative Trimmed Loss(2018)
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

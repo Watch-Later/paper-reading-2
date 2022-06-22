@@ -2,6 +2,7 @@
 title: Model Compression and Hardware Acceleration for Neural Networks - A Comprehensive Survey
 tags:
 - other-default
+- paper
 
 ---
 

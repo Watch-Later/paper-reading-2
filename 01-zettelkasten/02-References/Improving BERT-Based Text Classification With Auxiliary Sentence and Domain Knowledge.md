@@ -2,6 +2,7 @@
 title: Improving BERT-Based Text Classification With Auxiliary Sentence and Domain Knowledge
 tags:
 - other-default
+- paper
 
 ---
 

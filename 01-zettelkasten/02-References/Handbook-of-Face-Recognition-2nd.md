@@ -2,6 +2,7 @@
 title: Handbook Of Face Recognition
 tags:
 - other-default
+- paper
 
 ---
 

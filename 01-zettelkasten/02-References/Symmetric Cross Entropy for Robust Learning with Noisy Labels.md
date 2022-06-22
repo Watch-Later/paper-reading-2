@@ -2,6 +2,7 @@
 title: Symmetric Cross Entropy for Robust Learning with Noisy Labels
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

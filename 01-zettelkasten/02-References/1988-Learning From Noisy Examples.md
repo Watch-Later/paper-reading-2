@@ -2,6 +2,7 @@
 title: Learning From Noisy Examples(1988)
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

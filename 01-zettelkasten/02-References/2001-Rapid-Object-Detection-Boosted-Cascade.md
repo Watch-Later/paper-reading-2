@@ -2,6 +2,7 @@
 title: Rapid Object Detection Boosted Cascade(2001)
 tags:
 - other-default
+- paper
 
 ---
 

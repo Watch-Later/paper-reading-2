@@ -2,6 +2,7 @@
 title: Text Classification Algorithms- A Survey
 tags:
 - other-default
+- paper
 
 ---
 

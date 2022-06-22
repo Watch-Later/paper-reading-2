@@ -2,6 +2,7 @@
 title: Em 2014 Sukhbaatar Noise Layer
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

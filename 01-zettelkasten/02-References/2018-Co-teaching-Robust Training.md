@@ -2,6 +2,7 @@
 title: Co-teaching-Robust Training(2018)
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: Planning trajectories constrained by predictions
 tags:
 - other-default
+- paper
 
 ---
 

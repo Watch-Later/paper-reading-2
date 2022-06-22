@@ -2,6 +2,7 @@
 title: OSX Mavericks Core Technology Overview
 tags:
 - other-default
+- paper
 
 ---
 

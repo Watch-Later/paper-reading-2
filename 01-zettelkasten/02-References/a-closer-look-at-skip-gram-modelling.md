@@ -2,6 +2,7 @@
 title: A Closer Look At Skip Gram Modelling
 tags:
 - other-default
+- paper
 
 ---
 

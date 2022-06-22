@@ -2,6 +2,7 @@
 title: Curr 2009 Curriculum Learning
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

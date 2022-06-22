@@ -2,6 +2,7 @@
 title: Patterson 19
 tags:
 - other-default
+- paper
 
 ---
 

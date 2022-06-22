@@ -2,6 +2,7 @@
 title: end-to-end arguments in system design
 tags:
 - other-default
+- paper
 
 ---
 

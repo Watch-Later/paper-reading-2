@@ -2,6 +2,7 @@
 title: Drop an Octave
 tags:
 - other-default
+- paper
 
 ---
 

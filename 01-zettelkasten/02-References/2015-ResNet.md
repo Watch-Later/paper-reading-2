@@ -2,6 +2,7 @@
 title: Resnet(2015)
 tags:
 - other-default
+- paper
 
 ---
 

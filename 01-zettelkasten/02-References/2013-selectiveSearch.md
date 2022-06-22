@@ -2,6 +2,7 @@
 title: Selectivesearch(2013)
 tags:
 - other-default
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: Mtcnn(2016)
 tags:
 - other-default
+- paper
 
 ---
 

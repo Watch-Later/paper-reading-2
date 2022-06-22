@@ -2,6 +2,7 @@
 title: Towards Causal Representation Learning
 tags:
 - other-default
+- paper
 
 ---
 

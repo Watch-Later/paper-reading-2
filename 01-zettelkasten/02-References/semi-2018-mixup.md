@@ -2,6 +2,7 @@
 title: Semi 2018 Mixup
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

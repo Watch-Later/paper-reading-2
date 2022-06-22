@@ -2,6 +2,7 @@
 title: A Statistical Approach To Machine Translation
 tags:
 - other-default
+- paper
 
 ---
 

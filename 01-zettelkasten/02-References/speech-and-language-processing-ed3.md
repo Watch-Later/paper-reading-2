@@ -2,6 +2,7 @@
 title: Speech And Language Processing
 tags:
 - other-default
+- paper
 
 ---
 

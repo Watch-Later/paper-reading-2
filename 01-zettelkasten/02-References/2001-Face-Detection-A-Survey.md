@@ -2,6 +2,7 @@
 title: Face Detection A Survey(2001)
 tags:
 - other-default
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: TEXT CLASSIFICATION TECHNIQUES- A LITERATURE REVIEW
 tags:
 - other-default
+- paper
 
 ---
 

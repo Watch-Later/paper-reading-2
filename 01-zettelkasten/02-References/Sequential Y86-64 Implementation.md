@@ -2,6 +2,7 @@
 title: Sequential Y86-64 Implementation
 tags:
 - other-default
+- paper
 
 ---
 

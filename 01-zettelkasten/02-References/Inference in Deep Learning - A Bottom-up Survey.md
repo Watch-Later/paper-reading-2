@@ -2,6 +2,7 @@
 title: Inference in Deep Learning - A Bottom-up Survey
 tags:
 - other-default
+- paper
 
 ---
 

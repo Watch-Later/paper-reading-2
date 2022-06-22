@@ -2,6 +2,7 @@
 title: Optimizing Batched Winograd Convolution on GPUs
 tags:
 - other-default
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: Kali Linux Cookbook
 tags:
 - other-default
+- paper
 
 ---
 

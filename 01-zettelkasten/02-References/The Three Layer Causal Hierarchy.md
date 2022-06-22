@@ -2,6 +2,7 @@
 title: The Three Layer Causal Hierarchy
 tags:
 - other-default
+- paper
 
 ---
 

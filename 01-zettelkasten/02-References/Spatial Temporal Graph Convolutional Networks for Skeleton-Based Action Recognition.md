@@ -2,6 +2,7 @@
 title: Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition
 tags:
 - other-default
+- paper
 
 ---
 

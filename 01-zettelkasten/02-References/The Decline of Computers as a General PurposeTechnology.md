@@ -2,6 +2,7 @@
 title: The Decline of Computers as a General PurposeTechnology
 tags:
 - other-default
+- paper
 
 ---
 

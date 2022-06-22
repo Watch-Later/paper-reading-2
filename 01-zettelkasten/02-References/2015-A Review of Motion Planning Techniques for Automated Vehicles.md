@@ -2,6 +2,7 @@
 title: A Review of Motion Planning Techniques for Automated Vehicles(2015)
 tags:
 - other-default
+- paper
 
 ---
 

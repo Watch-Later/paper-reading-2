@@ -2,6 +2,7 @@
 title: Mobilenetv1
 tags:
 - other-default
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: a survey on motion prediction and risk assessment(2014)
 tags:
 - other-default
+- paper
 
 ---
 

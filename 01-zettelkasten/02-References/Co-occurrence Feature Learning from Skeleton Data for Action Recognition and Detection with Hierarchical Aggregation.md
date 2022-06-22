@@ -2,6 +2,7 @@
 title: Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation
 tags:
 - other-default
+- paper
 
 ---
 

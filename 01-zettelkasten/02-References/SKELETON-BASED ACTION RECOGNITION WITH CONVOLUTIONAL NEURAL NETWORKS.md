@@ -2,6 +2,7 @@
 title: SKELETON-BASED ACTION RECOGNITION WITH CONVOLUTIONAL NEURAL NETWORKS
 tags:
 - other-default
+- paper
 
 ---
 

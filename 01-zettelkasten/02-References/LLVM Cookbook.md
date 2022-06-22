@@ -2,6 +2,7 @@
 title: LLVM Cookbook
 tags:
 - other-default
+- paper
 
 ---
 

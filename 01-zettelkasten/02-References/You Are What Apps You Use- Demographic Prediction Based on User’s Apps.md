@@ -2,6 +2,7 @@
 title: You Are What Apps You Use- Demographic Prediction Based on User’s Apps
 tags:
 - other-default
+- paper
 
 ---
 

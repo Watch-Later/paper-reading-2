@@ -2,6 +2,7 @@
 title: Ceph - A Scalable High-Performance Distributed File System
 tags:
 - other-default
+- paper
 
 ---
 

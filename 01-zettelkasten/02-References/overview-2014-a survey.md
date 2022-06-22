@@ -2,6 +2,7 @@
 title: overview-2014-a survey
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

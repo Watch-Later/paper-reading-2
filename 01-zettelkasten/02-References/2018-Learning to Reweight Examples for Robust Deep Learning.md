@@ -2,6 +2,7 @@
 title: Learning to Reweight Examples for Robust Deep Learning(2018)
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: Googlecluster Ieee
 tags:
 - other-default
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: EM-2015-class-probability estimation
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

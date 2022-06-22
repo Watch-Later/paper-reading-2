@@ -2,6 +2,7 @@
 title: Fast Rcnn(2015)
 tags:
 - other-default
+- paper
 
 ---
 

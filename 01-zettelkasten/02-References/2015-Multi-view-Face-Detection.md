@@ -2,6 +2,7 @@
 title: Multi View Face Detection(2015)
 tags:
 - other-default
+- paper
 
 ---
 

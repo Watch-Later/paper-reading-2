@@ -2,6 +2,7 @@
 title: Linux Performance Analysis And Tools
 tags:
 - other-default
+- paper
 
 ---
 

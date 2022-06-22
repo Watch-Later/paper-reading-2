@@ -2,6 +2,7 @@
 title: Deep Neural Networks for YouTube Recommendations
 tags:
 - other-default
+- paper
 
 ---
 

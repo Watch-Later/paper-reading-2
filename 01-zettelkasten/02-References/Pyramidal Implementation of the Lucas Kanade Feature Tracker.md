@@ -2,6 +2,7 @@
 title: Pyramidal Implementation of the Lucas Kanade Feature Tracker
 tags:
 - other-default
+- paper
 
 ---
 

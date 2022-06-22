@@ -2,6 +2,7 @@
 title: Bitcask Intro
 tags:
 - other-default
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: Safe Autonomous Lane Changes in Dense Traffic(2017)
 tags:
 - other-default
+- paper
 
 ---
 

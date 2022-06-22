@@ -2,6 +2,7 @@
 title: Convolutional Neural Networks for Sentence Classification 2014
 tags:
 - other-default
+- paper
 
 ---
 

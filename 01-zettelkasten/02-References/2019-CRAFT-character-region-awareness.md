@@ -2,6 +2,7 @@
 title: Craft Character Region Awareness(2019)
 tags:
 - OCR
+- paper
 
 ---
 

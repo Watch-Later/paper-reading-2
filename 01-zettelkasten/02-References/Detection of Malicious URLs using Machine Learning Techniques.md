@@ -2,6 +2,7 @@
 title: Detection of Malicious URLs using Machine Learning Techniques
 tags:
 - other-default
+- paper
 
 ---
 

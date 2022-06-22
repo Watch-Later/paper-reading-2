@@ -2,6 +2,7 @@
 title: A guide to convolution arithmetic for deep learning
 tags:
 - other-default
+- paper
 
 ---
 

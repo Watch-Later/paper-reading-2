@@ -2,6 +2,7 @@
 title: Solve It With Inf
 tags:
 - other-default
+- paper
 
 ---
 

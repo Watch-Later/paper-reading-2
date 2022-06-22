@@ -2,6 +2,7 @@
 title: semi-2018-Virtual Adversarial Training
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: Self Supervised Learning at Google
 tags:
 - other-default
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: Planning and Decision-Making for Autonomous Vehicles(2018)
 tags:
 - other-default
+- paper
 
 ---
 

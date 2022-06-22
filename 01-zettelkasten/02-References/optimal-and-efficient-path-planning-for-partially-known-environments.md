@@ -2,6 +2,7 @@
 title: Optimal And Efficient Path Planning For Partially Known Environments
 tags:
 - other-default
+- paper
 
 ---
 

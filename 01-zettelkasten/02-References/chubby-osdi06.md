@@ -2,6 +2,7 @@
 title: Chubby Osdi06
 tags:
 - other-default
+- paper
 
 ---
 

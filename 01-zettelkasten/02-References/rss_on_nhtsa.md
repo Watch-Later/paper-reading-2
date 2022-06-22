@@ -2,6 +2,7 @@
 title: rss on nhtsa
 tags:
 - other-default
+- paper
 
 ---
 

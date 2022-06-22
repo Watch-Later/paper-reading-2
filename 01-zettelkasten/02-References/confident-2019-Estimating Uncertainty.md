@@ -2,6 +2,7 @@
 title: confident-2019-Estimating Uncertainty
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

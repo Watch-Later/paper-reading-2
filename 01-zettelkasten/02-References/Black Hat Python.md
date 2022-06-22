@@ -2,6 +2,7 @@
 title: Black Hat Python
 tags:
 - other-default
+- paper
 
 ---
 

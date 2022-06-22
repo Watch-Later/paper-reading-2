@@ -2,6 +2,7 @@
 title: Semi 2013 Pseudo Label
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

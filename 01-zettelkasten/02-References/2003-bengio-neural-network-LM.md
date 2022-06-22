@@ -2,6 +2,7 @@
 title: Bengio Neural Network Lm(2003)
 tags:
 - other-default
+- paper
 
 ---
 

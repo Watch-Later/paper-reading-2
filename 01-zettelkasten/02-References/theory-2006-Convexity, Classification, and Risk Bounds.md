@@ -2,6 +2,7 @@
 title: theory-2006-Convexity, Classification, and Risk Bounds
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

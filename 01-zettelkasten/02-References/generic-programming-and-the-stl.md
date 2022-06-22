@@ -2,6 +2,7 @@
 title: Generic Programming And The Stl
 tags:
 - other-default
+- paper
 
 ---
 

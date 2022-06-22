@@ -2,6 +2,7 @@
 title: Eventually Consistent
 tags:
 - other-default
+- paper
 
 ---
 

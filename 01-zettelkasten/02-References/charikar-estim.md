@@ -2,6 +2,7 @@
 title: Charikar Estim
 tags:
 - other-default
+- paper
 
 ---
 

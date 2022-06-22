@@ -2,6 +2,7 @@
 title: Unsupervised Label Noise Modeling and Loss Correction(2019)
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

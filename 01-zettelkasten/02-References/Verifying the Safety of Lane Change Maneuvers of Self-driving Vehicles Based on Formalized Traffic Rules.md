@@ -2,6 +2,7 @@
 title: Verifying the Safety of Lane Change Maneuvers of Self-driving Vehicles Based on Formalized Traffic Rules
 tags:
 - other-default
+- paper
 
 ---
 

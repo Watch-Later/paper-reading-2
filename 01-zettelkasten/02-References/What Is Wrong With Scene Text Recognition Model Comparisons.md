@@ -2,6 +2,7 @@
 title: What Is Wrong With Scene Text Recognition Model Comparisons
 tags:
 - OCR
+- paper
 
 ---
 

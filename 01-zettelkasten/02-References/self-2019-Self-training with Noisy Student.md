@@ -2,6 +2,7 @@
 title: self-2019-Self-training with Noisy Student
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

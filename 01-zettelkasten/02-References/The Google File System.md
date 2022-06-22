@@ -2,6 +2,7 @@
 title: The Google File System
 tags:
 - other-default
+- paper
 
 ---
 

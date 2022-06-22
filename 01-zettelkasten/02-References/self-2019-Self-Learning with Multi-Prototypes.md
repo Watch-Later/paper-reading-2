@@ -2,6 +2,7 @@
 title: self-2019-Self-Learning with Multi-Prototypes
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

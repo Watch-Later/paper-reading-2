@@ -2,6 +2,7 @@
 title: Demographic Prediction Based on User-s Mobile Behaviors
 tags:
 - other-default
+- paper
 
 ---
 

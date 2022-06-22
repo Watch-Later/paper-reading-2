@@ -2,6 +2,7 @@
 title: Curr 2018 Mentornet
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: HBase Schema Design-hbasecon2012
 tags:
 - other-default
+- paper
 
 ---
 

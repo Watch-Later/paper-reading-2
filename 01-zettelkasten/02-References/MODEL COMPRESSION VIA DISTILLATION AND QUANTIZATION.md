@@ -2,6 +2,7 @@
 title: MODEL COMPRESSION VIA DISTILLATION AND QUANTIZATION
 tags:
 - other-default
+- paper
 
 ---
 

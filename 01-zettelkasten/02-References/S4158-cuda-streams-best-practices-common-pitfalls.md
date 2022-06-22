@@ -2,6 +2,7 @@
 title: S4158 Cuda Streams Best Practices Common Pitfalls
 tags:
 - other-default
+- paper
 
 ---
 

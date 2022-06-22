@@ -2,6 +2,7 @@
 title: confident-2017-Rank Pruning
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

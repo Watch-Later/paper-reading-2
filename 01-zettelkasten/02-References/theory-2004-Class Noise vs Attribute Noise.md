@@ -2,6 +2,7 @@
 title: theory-2004-Class Noise vs Attribute Noise
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

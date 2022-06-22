@@ -2,6 +2,7 @@
 title: Jsconf2018 Design Mistakes In Node
 tags:
 - other-default
+- paper
 
 ---
 

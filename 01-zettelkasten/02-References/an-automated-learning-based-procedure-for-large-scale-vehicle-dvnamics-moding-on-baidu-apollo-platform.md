@@ -2,6 +2,7 @@
 title: An Automated Learning Based Procedure For Large Scale Vehicle Dvnamics Moding On Baidu Apollo Platform
 tags:
 - other-default
+- paper
 
 ---
 

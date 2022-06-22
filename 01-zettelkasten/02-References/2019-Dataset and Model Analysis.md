@@ -2,6 +2,7 @@
 title: Dataset and Model Analysis(2019)
 tags:
 - OCR
+- paper
 
 ---
 

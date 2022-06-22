@@ -2,6 +2,7 @@
 title: Enabling GPUs in the Container Runtime Ecosystem   NVIDIA Developer Blog
 tags:
 - other-default
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: Vggnet(2014)
 tags:
 - other-default
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: CNN- Single-label to Multi-label
 tags:
 - other-default
+- paper
 
 ---
 

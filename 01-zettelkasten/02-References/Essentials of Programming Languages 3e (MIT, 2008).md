@@ -2,6 +2,7 @@
 title: Essentials of Programming Languages 3e (MIT, 2008)
 tags:
 - other-default
+- paper
 
 ---
 

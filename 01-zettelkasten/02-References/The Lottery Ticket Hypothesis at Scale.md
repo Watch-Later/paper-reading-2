@@ -2,6 +2,7 @@
 title: The Lottery Ticket Hypothesis at Scale
 tags:
 - other-default
+- paper
 
 ---
 

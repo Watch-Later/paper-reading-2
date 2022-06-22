@@ -2,6 +2,7 @@
 title: FPN-Feature Pyramid Networks(2016)
 tags:
 - other-default
+- paper
 
 ---
 

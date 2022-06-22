@@ -2,6 +2,7 @@
 title: EM-2017-loss correction approach
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

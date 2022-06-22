@@ -2,6 +2,7 @@
 title: Mask Rcnn(2017)
 tags:
 - other-default
+- paper
 
 ---
 

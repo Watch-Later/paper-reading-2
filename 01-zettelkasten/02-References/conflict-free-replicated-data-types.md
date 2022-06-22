@@ -2,6 +2,7 @@
 title: Conflict Free Replicated Data Types
 tags:
 - other-default
+- paper
 
 ---
 

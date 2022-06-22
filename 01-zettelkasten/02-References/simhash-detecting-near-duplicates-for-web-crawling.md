@@ -2,6 +2,7 @@
 title: Simhash Detecting Near Duplicates For Web Crawling
 tags:
 - other-default
+- paper
 
 ---
 

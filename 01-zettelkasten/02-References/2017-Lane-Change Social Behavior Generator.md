@@ -2,6 +2,7 @@
 title: Lane-Change Social Behavior Generator(2017)
 tags:
 - other-default
+- paper
 
 ---
 

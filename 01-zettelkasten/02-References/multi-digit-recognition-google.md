@@ -2,6 +2,7 @@
 title: Multi Digit Recognition Google
 tags:
 - other-default
+- paper
 
 ---
 

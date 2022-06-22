@@ -2,6 +2,7 @@
 title: NVIDIA Fermi Compute Architecture Whitepaper
 tags:
 - other-default
+- paper
 
 ---
 

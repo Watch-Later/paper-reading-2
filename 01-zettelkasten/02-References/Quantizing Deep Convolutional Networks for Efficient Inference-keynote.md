@@ -2,6 +2,7 @@
 title: Quantizing Deep Convolutional Networks for Efficient Inference-keynote
 tags:
 - other-default
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: CUDA by Example
 tags:
 - other-default
+- paper
 
 ---
 

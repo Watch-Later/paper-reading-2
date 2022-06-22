@@ -2,6 +2,7 @@
 title: Dragon Book Compilers
 tags:
 - other-default
+- paper
 
 ---
 

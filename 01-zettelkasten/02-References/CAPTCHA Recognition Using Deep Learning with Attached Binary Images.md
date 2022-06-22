@@ -2,6 +2,7 @@
 title: CAPTCHA Recognition Using Deep Learning with Attached Binary Images
 tags:
 - other-default
+- paper
 
 ---
 

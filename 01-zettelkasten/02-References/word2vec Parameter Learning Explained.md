@@ -2,6 +2,7 @@
 title: word2vec Parameter Learning Explained
 tags:
 - other-default
+- paper
 
 ---
 

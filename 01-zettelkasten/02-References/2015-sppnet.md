@@ -2,6 +2,7 @@
 title: Sppnet(2015)
 tags:
 - other-default
+- paper
 
 ---
 

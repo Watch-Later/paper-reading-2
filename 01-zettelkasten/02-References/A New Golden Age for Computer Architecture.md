@@ -2,6 +2,7 @@
 title: A New Golden Age for Computer Architecture
 tags:
 - other-default
+- paper
 
 ---
 

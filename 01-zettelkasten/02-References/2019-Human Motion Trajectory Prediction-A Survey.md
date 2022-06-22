@@ -2,6 +2,7 @@
 title: Human Motion Trajectory Prediction-A Survey(2019)
 tags:
 - other-default
+- paper
 
 ---
 

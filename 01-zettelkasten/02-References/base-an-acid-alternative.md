@@ -2,6 +2,7 @@
 title: Base An Acid Alternative
 tags:
 - other-default
+- paper
 
 ---
 

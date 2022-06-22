@@ -2,6 +2,7 @@
 title: The Part Time Parliament
 tags:
 - other-default
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: Introduction to HBase Schema Design
 tags:
 - other-default
+- paper
 
 ---
 

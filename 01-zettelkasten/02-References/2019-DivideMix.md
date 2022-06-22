@@ -2,6 +2,7 @@
 title: Dividemix(2019)
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

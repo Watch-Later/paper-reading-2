@@ -2,6 +2,7 @@
 title: Fast Algorithm For Detecting Community Structure In Networks
 tags:
 - other-default
+- paper
 
 ---
 

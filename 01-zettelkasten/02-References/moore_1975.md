@@ -2,6 +2,7 @@
 title: moore 1975
 tags:
 - other-default
+- paper
 
 ---
 

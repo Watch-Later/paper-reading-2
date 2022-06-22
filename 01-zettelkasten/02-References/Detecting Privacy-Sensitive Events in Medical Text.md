@@ -2,6 +2,7 @@
 title: Detecting Privacy-Sensitive Events in Medical Text
 tags:
 - other-default
+- paper
 
 ---
 

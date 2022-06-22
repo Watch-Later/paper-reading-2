@@ -2,6 +2,7 @@
 title: Scalable Top-K Retrieval with Sparta
 tags:
 - other-default
+- paper
 
 ---
 

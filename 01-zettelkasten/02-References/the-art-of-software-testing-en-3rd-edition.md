@@ -2,6 +2,7 @@
 title: The Art Of Software Testing
 tags:
 - other-default
+- paper
 
 ---
 

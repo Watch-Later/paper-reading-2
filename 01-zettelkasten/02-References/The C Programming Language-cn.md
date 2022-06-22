@@ -2,6 +2,7 @@
 title: The C Programming Language(cn)
 tags:
 - other-default
+- paper
 
 ---
 

@@ -2,6 +2,7 @@
 title: Formal Verification of Pipelined Y86-64 Microprocessors with UCLID5
 tags:
 - other-default
+- paper
 
 ---
 

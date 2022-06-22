@@ -2,6 +2,7 @@
 title: Tesla P4 Product Brief
 tags:
 - other-default
+- paper
 
 ---
 

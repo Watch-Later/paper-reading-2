@@ -2,6 +2,7 @@
 title: EM-2016-Binary Instance Dependent
 tags:
 - learning-with-noisy-label
+- paper
 
 ---
 

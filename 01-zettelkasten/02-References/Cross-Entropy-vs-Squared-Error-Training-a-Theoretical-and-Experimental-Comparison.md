@@ -2,6 +2,7 @@
 title: Cross Entropy Vs Squared Error Training A Theoretical And Experimental Comparison
 tags:
 - other-default
+- paper
 
 ---
 

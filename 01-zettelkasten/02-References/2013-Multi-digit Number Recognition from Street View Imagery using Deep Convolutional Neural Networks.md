@@ -2,6 +2,7 @@
 title: Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks(2013)
 tags:
 - OCR
+- paper
 
 ---
 

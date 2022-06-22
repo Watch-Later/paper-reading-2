@@ -2,6 +2,7 @@
 title: Pagerank Algorithm(1999)
 tags:
 - other-default
+- paper
 
 ---
 

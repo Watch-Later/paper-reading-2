@@ -2,6 +2,7 @@
 title: neural reading comprehension and beyond 2018
 tags:
 - other-default
+- paper
 
 ---
 

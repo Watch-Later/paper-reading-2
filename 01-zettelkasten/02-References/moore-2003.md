@@ -2,6 +2,7 @@
 title: Moore 2003
 tags:
 - other-default
+- paper
 
 ---
 

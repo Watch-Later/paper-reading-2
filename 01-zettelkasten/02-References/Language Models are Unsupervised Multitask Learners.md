@@ -2,6 +2,7 @@
 title: Language Models are Unsupervised Multitask Learners
 tags:
 - other-default
+- paper
 
 ---
 

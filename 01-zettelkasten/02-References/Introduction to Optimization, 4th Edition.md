@@ -2,6 +2,7 @@
 title: Introduction to Optimization
 tags:
 - other-default
+- paper
 
 ---
 

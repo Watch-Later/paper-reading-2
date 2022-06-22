@@ -2,6 +2,7 @@
 title: On Discriminative Vs Generative Classifiers A Comparison Of Logistic Regression And Naive Bayes
 tags:
 - other-default
+- paper
 
 ---
 

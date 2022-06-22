@@ -2,6 +2,7 @@
 title: Finding And Evaluating Community Structure In Networks
 tags:
 - other-default
+- paper
 
 ---
 
