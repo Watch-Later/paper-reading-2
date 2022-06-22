@@ -4,7 +4,6 @@ status: todo
 tags:
 - other-default
 - paper
-
 ---
 
 [local pdf](../../../pdfs/The%20Lottery%20Ticket%20Hypothesis%20at%20Scale.pdf)

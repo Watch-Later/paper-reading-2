@@ -2,9 +2,8 @@
 title: LLVM Cookbook
 status: todo
 tags:
-- other-default
+- compiler
 - paper
-
 ---
 
 [local pdf](../../../pdfs/LLVM%20Cookbook.pdf)

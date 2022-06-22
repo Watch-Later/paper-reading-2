@@ -4,7 +4,6 @@ status: todo
 tags:
 - other-default
 - paper
-
 ---
 
 [local pdf](../../../pdfs/solve-it-with-inf.pdf)

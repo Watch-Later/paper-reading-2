@@ -1,12 +1,11 @@
 ---
-title: Brewers Conjecture Sigact
+title: CAP Prove
 status: todo
 tags:
-- other-default
+- engineering
 - paper
-
 ---
 
 [local pdf](../../../pdfs/brewers-conjecture-sigact.pdf)
 
-# Brewers Conjecture Sigact
+# CAP Prove

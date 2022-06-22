@@ -2,9 +2,8 @@
 title: A Statistical Approach To Machine Translation
 status: todo
 tags:
-- other-default
+- nlp
 - paper
-
 ---
 
 [local pdf](../../../pdfs/a-statistical-approach-to-machine-translation.pdf)

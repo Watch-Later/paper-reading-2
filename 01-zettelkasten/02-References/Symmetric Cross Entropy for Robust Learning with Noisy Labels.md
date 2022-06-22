@@ -2,9 +2,8 @@
 title: Symmetric Cross Entropy for Robust Learning with Noisy Labels
 status: todo
 tags:
-- learning-with-noisy-label
+- noisy-label
 - paper
-
 ---
 
 [local pdf](../../../pdfs/Symmetric%20Cross%20Entropy%20for%20Robust%20Learning%20with%20Noisy%20Labels.pdf)

@@ -2,9 +2,8 @@
 title: NVIDIA Fermi Compute Architecture Whitepaper
 status: todo
 tags:
-- other-default
+- gpu-cuda
 - paper
-
 ---
 
 [local pdf](../../../pdfs/NVIDIA_Fermi_Compute_Architecture_Whitepaper.pdf)

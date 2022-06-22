@@ -2,9 +2,8 @@
 title: Paxos Simple
 status: todo
 tags:
-- other-default
+- engineering
 - paper
-
 ---
 
 [local pdf](../../../pdfs/paxos-simple.pdf)

@@ -4,7 +4,6 @@ status: todo
 tags:
 - other-default
 - paper
-
 ---
 
 [local pdf](../../../pdfs/MODEL%20COMPRESSION%20VIA%20DISTILLATION%20AND%20QUANTIZATION.pdf)

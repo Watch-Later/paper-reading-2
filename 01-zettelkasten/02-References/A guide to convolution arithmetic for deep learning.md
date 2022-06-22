@@ -4,7 +4,6 @@ status: todo
 tags:
 - other-default
 - paper
-
 ---
 
 [local pdf](../../../pdfs/A%20guide%20to%20convolution%20arithmetic%20for%20deep%20learning.pdf)

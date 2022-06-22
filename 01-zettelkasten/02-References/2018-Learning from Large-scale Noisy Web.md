@@ -2,9 +2,8 @@
 title: Learning from Large-scale Noisy Web(2018)
 status: todo
 tags:
-- learning-with-noisy-label
+- noisy-label
 - paper
-
 ---
 
 [local pdf](../../../pdfs/2018-Learning%20from%20Large-scale%20Noisy%20Web.pdf)

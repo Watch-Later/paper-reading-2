@@ -2,9 +2,8 @@
 title: Curr 2017 Curriculumnet
 status: todo
 tags:
-- learning-with-noisy-label
+- noisy-label
 - paper
-
 ---
 
 [local pdf](../../../pdfs/curr-2017-CurriculumNet.pdf)

@@ -2,9 +2,8 @@
 title: Y86 Isa
 status: todo
 tags:
-- other-default
+- computer-system
 - paper
-
 ---
 
 [local pdf](../../../pdfs/Y86-ISA.pdf)

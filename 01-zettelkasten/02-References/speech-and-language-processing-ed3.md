@@ -2,9 +2,8 @@
 title: Speech And Language Processing
 status: todo
 tags:
-- other-default
+- nlp
 - paper
-
 ---
 
 [local pdf](../../../pdfs/speech-and-language-processing-ed3.pdf)

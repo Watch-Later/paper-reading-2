@@ -2,9 +2,8 @@
 title: Mobilenetv1
 status: todo
 tags:
-- other-default
+- cnn-model
 - paper
-
 ---
 
 [local pdf](../../../pdfs/mobileNetV1.pdf)

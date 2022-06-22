@@ -2,9 +2,8 @@
 title: Chubby Osdi06
 status: todo
 tags:
-- other-default
+- engineering
 - paper
-
 ---
 
 [local pdf](../../../pdfs/chubby-osdi06.pdf)

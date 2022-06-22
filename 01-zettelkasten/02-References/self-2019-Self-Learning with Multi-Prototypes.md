@@ -2,9 +2,8 @@
 title: self-2019-Self-Learning with Multi-Prototypes
 status: todo
 tags:
-- learning-with-noisy-label
+- noisy-label
 - paper
-
 ---
 
 [local pdf](../../../pdfs/self-2019-Self-Learning%20with%20Multi-Prototypes.pdf)

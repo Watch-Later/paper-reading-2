@@ -2,9 +2,8 @@
 title: Vggnet(2014)
 status: todo
 tags:
-- other-default
+- cnn-model
 - paper
-
 ---
 
 [local pdf](../../../pdfs/2014-VggNet.pdf)

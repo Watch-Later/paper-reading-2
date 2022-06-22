@@ -2,9 +2,8 @@
 title: Conflict Free Replicated Data Types
 status: todo
 tags:
-- other-default
+- engineering
 - paper
-
 ---
 
 [local pdf](../../../pdfs/conflict-free-replicated-data-types.pdf)

@@ -2,9 +2,8 @@
 title: Thrift-The Missing Guide
 status: todo
 tags:
-- other-default
+- engineering
 - paper
-
 ---
 
 [local pdf](../../../pdfs/Thrift-The%20Missing%20Guide.pdf)

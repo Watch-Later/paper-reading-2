@@ -4,7 +4,6 @@ status: todo
 tags:
 - other-default
 - paper
-
 ---
 
 [local pdf](../../../pdfs/2015-sppnet.pdf)

@@ -1,10 +1,10 @@
 ---
-title: Alexnet(2012)
+title: Alexnet
 status: todo
 tags:
-- other-default
+- cnn-model
 - paper
-
+year: 2012
 ---
 
 [local pdf](../../../pdfs/2012-AlexNet.pdf)

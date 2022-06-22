@@ -1,5 +1,5 @@
 ---
-Alias: "OCR"
+Alias: "ocr"
 ---
 
 # OCR Paper Map
@@ -8,7 +8,7 @@ Alias: "OCR"
 
 ```dataview
 table length(rows.file.link) AS Count
-From #OCR
+From #ocr
 FLATTEN file.tags AS tag
 GROUP BY tag
 SORT length(rows.file.link) DESC
@@ -18,14 +18,14 @@ SORT length(rows.file.link) DESC
 
 ```dataview
 table title
-From #OCR and #dataset
+From #ocr and #dataset
 ```
 
 ## Papers
 
 ```dataview
 table status
-From #OCR and #paper
+From #ocr and #paper
 SORT status DESC
 ```
 

@@ -2,9 +2,8 @@
 title: Entity Aware Attention(2019)
 status: todo
 tags:
-- OCR
+- ocr
 - paper
-
 ---
 
 [local pdf](../../../pdfs/2019-entity-aware-attention.pdf)

@@ -2,9 +2,8 @@
 title: CNN- Single-label to Multi-label
 status: todo
 tags:
-- other-default
+- cnn-model
 - paper
-
 ---
 
 [local pdf](../../../pdfs/CNN-%20Single-label%20to%20Multi-label.pdf)

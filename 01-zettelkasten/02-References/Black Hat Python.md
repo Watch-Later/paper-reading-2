@@ -2,9 +2,8 @@
 title: Black Hat Python
 status: todo
 tags:
-- other-default
+- programming/python
 - paper
-
 ---
 
 [local pdf](../../../pdfs/Black%20Hat%20Python.pdf)

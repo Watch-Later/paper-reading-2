@@ -1,10 +1,10 @@
 ---
-title: Wordnet(2013)
+title: Wordnet
 status: todo
 tags:
-- other-default
+- nlp
 - paper
-
+year: 2013
 ---
 
 [local pdf](../../../pdfs/2013-wordnet.pdf)

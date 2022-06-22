@@ -2,9 +2,8 @@
 title: Multi Digit Recognition Google
 status: todo
 tags:
-- other-default
+- ocr
 - paper
-
 ---
 
 [local pdf](../../../pdfs/multi-digit-recognition-google.pdf)

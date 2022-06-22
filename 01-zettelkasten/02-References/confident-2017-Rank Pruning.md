@@ -2,9 +2,8 @@
 title: confident-2017-Rank Pruning
 status: todo
 tags:
-- learning-with-noisy-label
+- noisy-label
 - paper
-
 ---
 
 [local pdf](../../../pdfs/confident-2017-Rank%20Pruning.pdf)

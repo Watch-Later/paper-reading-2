@@ -2,9 +2,8 @@
 title: Semi-Supervised Novelty Detection(2010)
 status: todo
 tags:
-- learning-with-noisy-label
+- noisy-label
 - paper
-
 ---
 
 [local pdf](../../../pdfs/2010-Semi-Supervised%20Novelty%20Detection.pdf)

@@ -2,9 +2,8 @@
 title: Gender Prediction Using Browsing History
 status: todo
 tags:
-- other-default
+- archive
 - paper
-
 ---
 
 [local pdf](../../../pdfs/Gender%20Prediction%20Using%20Browsing%20History.pdf)

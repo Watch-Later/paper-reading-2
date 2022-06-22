@@ -2,9 +2,8 @@
 title: The Part Time Parliament
 status: todo
 tags:
-- other-default
+- engineering
 - paper
-
 ---
 
 [local pdf](../../../pdfs/The-Part-Time-Parliament.pdf)

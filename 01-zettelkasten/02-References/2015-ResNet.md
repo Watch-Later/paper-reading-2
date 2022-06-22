@@ -1,10 +1,10 @@
 ---
-title: Resnet(2015)
+title: ResNet
 status: todo
 tags:
-- other-default
+- cnn-model
 - paper
-
+year: 2015
 ---
 
 [local pdf](../../../pdfs/2015-ResNet.pdf)

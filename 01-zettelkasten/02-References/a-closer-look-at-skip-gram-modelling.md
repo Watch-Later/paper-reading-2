@@ -2,9 +2,8 @@
 title: A Closer Look At Skip Gram Modelling
 status: todo
 tags:
-- other-default
+- nlp
 - paper
-
 ---
 
 [local pdf](../../../pdfs/a-closer-look-at-skip-gram-modelling.pdf)

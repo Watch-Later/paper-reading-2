@@ -1,10 +1,9 @@
 ---
 title: ICDAR 2003
 tags:
-- OCR
+- ocr
 - dataset
 url: http://www.imglab.org/db/files/ICDAR2003-SceneTrialTrain-GT4.tar.gz
-
 ---
 
 # ICDAR 2003

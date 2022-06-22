@@ -1,10 +1,9 @@
 ---
-title: Charikar Estim
+title: Similarity Estimation Techniques from Rounding Algorithms
 status: todo
 tags:
-- other-default
+- nlp
 - paper
-
 ---
 
 [local pdf](../../../pdfs/charikar-estim.pdf)

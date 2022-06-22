@@ -2,9 +2,8 @@
 title: Patterson 19
 status: todo
 tags:
-- other-default
+- computer-system
 - paper
-
 ---
 
 [local pdf](../../../pdfs/patterson-19.pdf)

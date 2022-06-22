@@ -2,9 +2,8 @@
 title: Kali Linux Cookbook
 status: todo
 tags:
-- other-default
+- engineering
 - paper
-
 ---
 
 [local pdf](../../../pdfs/Kali%20Linux%20Cookbook.pdf)

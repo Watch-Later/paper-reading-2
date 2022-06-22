@@ -1,10 +1,9 @@
 ---
-title: Gray Python(cn)
+title: Gray Python
 status: todo
 tags:
-- other-default
+- programming/python
 - paper
-
 ---
 
 [local pdf](../../../pdfs/Gray%20Python-cn.pdf)

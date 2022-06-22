@@ -4,7 +4,6 @@ status: todo
 tags:
 - other-default
 - paper
-
 ---
 
 [local pdf](../../../pdfs/The%20Three%20Layer%20Causal%20Hierarchy.pdf)

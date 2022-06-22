@@ -2,9 +2,8 @@
 title: CUDA Application Design and Development
 status: todo
 tags:
-- other-default
+- gpu-cuda
 - paper
-
 ---
 
 [local pdf](../../../pdfs/CUDA_Application_Design_and_Development.pdf)

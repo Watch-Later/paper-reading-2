@@ -2,9 +2,8 @@
 title: PCI Express Technology 3.0
 status: todo
 tags:
-- other-default
+- computer-system
 - paper
-
 ---
 
 [local pdf](../../../pdfs/PCI%20Express%20Technology%203.0.pdf)

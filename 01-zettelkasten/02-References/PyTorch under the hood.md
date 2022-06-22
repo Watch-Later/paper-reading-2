@@ -7,7 +7,6 @@ subtitle: A guide to understand PyTorch internals
 tags:
 - pytorch
 - paper
-
 ---
 
 [local pdf](../../../pdfs/PyTorch%20under%20the%20hood.pdf)

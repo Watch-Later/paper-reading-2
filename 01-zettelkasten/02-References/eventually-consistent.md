@@ -2,9 +2,8 @@
 title: Eventually Consistent
 status: todo
 tags:
-- other-default
+- engineering
 - paper
-
 ---
 
 [local pdf](../../../pdfs/eventually-consistent.pdf)

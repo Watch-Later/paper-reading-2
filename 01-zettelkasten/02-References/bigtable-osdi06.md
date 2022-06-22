@@ -2,9 +2,8 @@
 title: Bigtable Osdi06
 status: todo
 tags:
-- other-default
+- engineering
 - paper
-
 ---
 
 [local pdf](../../../pdfs/bigtable-osdi06.pdf)

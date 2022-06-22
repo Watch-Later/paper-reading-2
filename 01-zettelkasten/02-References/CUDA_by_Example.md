@@ -2,9 +2,8 @@
 title: CUDA by Example
 status: todo
 tags:
-- other-default
+- gpu-cuda
 - paper
-
 ---
 
 [local pdf](../../../pdfs/CUDA_by_Example.pdf)

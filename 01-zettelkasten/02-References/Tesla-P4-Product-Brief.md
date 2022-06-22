@@ -2,9 +2,8 @@
 title: Tesla P4 Product Brief
 status: todo
 tags:
-- other-default
+- gpu-cuda
 - paper
-
 ---
 
 [local pdf](../../../pdfs/Tesla-P4-Product-Brief.pdf)

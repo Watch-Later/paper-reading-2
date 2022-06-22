@@ -2,9 +2,8 @@
 title: EM-2015-importance reweighting
 status: todo
 tags:
-- learning-with-noisy-label
+- noisy-label
 - paper
-
 ---
 
 [local pdf](../../../pdfs/EM-2015-importance%20reweighting.pdf)

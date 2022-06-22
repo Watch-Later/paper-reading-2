@@ -2,9 +2,8 @@
 title: Semi 2019 Mixmatch
 status: todo
 tags:
-- learning-with-noisy-label
+- noisy-label
 - paper
-
 ---
 
 [local pdf](../../../pdfs/semi-2019-MixMatch.pdf)

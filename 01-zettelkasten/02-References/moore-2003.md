@@ -2,9 +2,8 @@
 title: Moore 2003
 status: todo
 tags:
-- other-default
+- computer-system
 - paper
-
 ---
 
 [local pdf](../../../pdfs/moore-2003.pdf)

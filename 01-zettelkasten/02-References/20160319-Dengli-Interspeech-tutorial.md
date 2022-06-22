@@ -1,10 +1,10 @@
 ---
-title: 20160319 Dengli Interspeech Tutorial
+title: Deep Machine Learning Applied to Speech & Language Processing
 status: todo
 tags:
-- other-default
+- nlp
 - paper
-
+year: 2016
 ---
 
 [local pdf](../../../pdfs/20160319-Dengli-Interspeech-tutorial.pdf)

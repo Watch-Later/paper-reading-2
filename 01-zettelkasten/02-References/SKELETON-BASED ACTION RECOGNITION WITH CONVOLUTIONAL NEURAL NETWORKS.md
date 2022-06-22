@@ -4,7 +4,6 @@ status: todo
 tags:
 - other-default
 - paper
-
 ---
 
 [local pdf](../../../pdfs/SKELETON-BASED%20ACTION%20RECOGNITION%20WITH%20CONVOLUTIONAL%20NEURAL%20NETWORKS.pdf)

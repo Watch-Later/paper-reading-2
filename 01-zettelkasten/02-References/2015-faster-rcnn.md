@@ -1,10 +1,10 @@
 ---
-title: Faster Rcnn(2015)
+title: Faster RCNN
 status: todo
 tags:
-- other-default
+- detection
 - paper
-
+year: 2015
 ---
 
 [local pdf](../../../pdfs/2015-faster-rcnn.pdf)

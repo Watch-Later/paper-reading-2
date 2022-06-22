@@ -2,9 +2,8 @@
 title: CAPTCHA Recognition Using Deep Learning with Attached Binary Images
 status: todo
 tags:
-- other-default
+- ocr
 - paper
-
 ---
 
 [local pdf](../../../pdfs/CAPTCHA%20Recognition%20Using%20Deep%20Learning%20with%20Attached%20Binary%20Images.pdf)

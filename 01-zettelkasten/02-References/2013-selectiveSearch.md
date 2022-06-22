@@ -1,10 +1,10 @@
 ---
-title: Selectivesearch(2013)
+title: Selective Search
 status: todo
 tags:
-- other-default
+- detection
 - paper
-
+year: 2013
 ---
 
 [local pdf](../../../pdfs/2013-selectiveSearch.pdf)

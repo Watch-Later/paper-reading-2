@@ -2,9 +2,8 @@
 title: Residual Networks Behave Like Ensembles of Relatively Shallow Networks
 status: todo
 tags:
-- other-default
+- cnn-model
 - paper
-
 ---
 
 [local pdf](../../../pdfs/Residual%20Networks%20Behave%20Like%20Ensembles%20of%20Relatively%20Shallow%20Networks.pdf)

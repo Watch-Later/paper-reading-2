@@ -2,9 +2,8 @@
 title: Sequential Y86-64 Implementation
 status: todo
 tags:
-- other-default
+- computer-system
 - paper
-
 ---
 
 [local pdf](../../../pdfs/Sequential%20Y86-64%20Implementation.pdf)

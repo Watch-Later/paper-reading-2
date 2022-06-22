@@ -1,10 +1,10 @@
 ---
-title: Glove(2014)
+title: Glove
 status: todo
 tags:
-- other-default
+- nlp
 - paper
-
+year: 2014
 ---
 
 [local pdf](../../../pdfs/2014-GloVe.pdf)

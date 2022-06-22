@@ -2,9 +2,8 @@
 title: Self Supervised Learning at Google
 status: todo
 tags:
-- other-default
+- noisy-label
 - paper
-
 ---
 
 [local pdf](../../../pdfs/Self%20Supervised%20Learning%20at%20Google.pdf)

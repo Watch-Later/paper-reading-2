@@ -2,9 +2,8 @@
 title: Grover Model
 status: todo
 tags:
-- other-default
+- nlp
 - paper
-
 ---
 
 [local pdf](../../../pdfs/Grover-model.pdf)

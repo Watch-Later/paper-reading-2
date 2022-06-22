@@ -2,9 +2,8 @@
 title: Em 2014 Sukhbaatar Noise Layer
 status: todo
 tags:
-- learning-with-noisy-label
+- noisy-label
 - paper
-
 ---
 
 [local pdf](../../../pdfs/EM-2014-Sukhbaatar-noise-layer.pdf)

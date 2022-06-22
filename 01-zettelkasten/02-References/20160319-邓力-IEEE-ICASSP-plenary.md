@@ -4,7 +4,6 @@ status: todo
 tags:
 - other-default
 - paper
-
 ---
 
 [local pdf](../../../pdfs/20160319-%E9%82%93%E5%8A%9B-IEEE-ICASSP-plenary.pdf)

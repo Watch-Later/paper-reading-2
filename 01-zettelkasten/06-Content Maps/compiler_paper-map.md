@@ -1,10 +1,14 @@
-# other-default Paper Map
+---
+Alias: "compiler"
+---
+
+# compiler Paper Map
 
 ## Overview
 
 ```dataview
 table length(rows.file.link) AS Count
-From #other-default
+From #compiler
 FLATTEN file.tags AS tag
 GROUP BY tag
 SORT length(rows.file.link) DESC
@@ -14,7 +18,7 @@ SORT length(rows.file.link) DESC
 
 ```dataview
 table status
-From #other-default and #paper
+From #compiler and #paper
 SORT status DESC
 ```
 

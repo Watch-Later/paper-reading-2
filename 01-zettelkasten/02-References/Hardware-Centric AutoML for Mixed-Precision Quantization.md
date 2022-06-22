@@ -4,7 +4,6 @@ status: todo
 tags:
 - other-default
 - paper
-
 ---
 
 [local pdf](../../../pdfs/Hardware-Centric%20AutoML%20for%20Mixed-Precision%20Quantization.pdf)

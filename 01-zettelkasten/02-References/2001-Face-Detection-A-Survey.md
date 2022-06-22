@@ -1,10 +1,10 @@
 ---
-title: Face Detection A Survey(2001)
+title: Face Detection A Survey
 status: todo
 tags:
-- other-default
+- detection
 - paper
-
+year: 2001
 ---
 
 [local pdf](../../../pdfs/2001-Face-Detection-A-Survey.pdf)

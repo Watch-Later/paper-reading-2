@@ -2,9 +2,8 @@
 title: moore 1975
 status: todo
 tags:
-- other-default
+- computer-system
 - paper
-
 ---
 
 [local pdf](../../../pdfs/moore_1975.pdf)

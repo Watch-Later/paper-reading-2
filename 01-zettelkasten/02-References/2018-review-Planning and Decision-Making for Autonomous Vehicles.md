@@ -1,12 +1,12 @@
 ---
-title: review-Planning and Decision-Making for Autonomous Vehicles(2018)
+title: Review - Planning and Decision-Making for Autonomous Vehicles
 status: todo
 tags:
-- other-default
+- self-driving/motion-planning
 - paper
-
+year: 2018
 ---
 
 [local pdf](../../../pdfs/2018-review-Planning%20and%20Decision-Making%20for%20Autonomous%20Vehicles.pdf)
 
-# review-Planning and Decision-Making for Autonomous Vehicles(2018)
+# Review - Planning and Decision-Making for Autonomous Vehicles

@@ -2,9 +2,8 @@
 title: Bitcask Intro
 status: todo
 tags:
-- other-default
+- engineering
 - paper
-
 ---
 
 [local pdf](../../../pdfs/bitcask-intro.pdf)

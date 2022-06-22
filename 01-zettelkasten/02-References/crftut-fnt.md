@@ -1,10 +1,9 @@
 ---
-title: Crftut Fnt
+title: An Introduction to Conditional Random Fields
 status: todo
 tags:
-- other-default
+- nlp
 - paper
-
 ---
 
 [local pdf](../../../pdfs/crftut-fnt.pdf)
