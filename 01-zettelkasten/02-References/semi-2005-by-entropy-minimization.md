@@ -1,5 +1,6 @@
 ---
 title: Semi 2005 By Entropy Minimization
+status: todo
 tags:
 - learning-with-noisy-label
 - paper

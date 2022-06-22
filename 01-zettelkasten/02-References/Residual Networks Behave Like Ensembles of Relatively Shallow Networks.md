@@ -1,5 +1,6 @@
 ---
 title: Residual Networks Behave Like Ensembles of Relatively Shallow Networks
+status: todo
 tags:
 - other-default
 - paper

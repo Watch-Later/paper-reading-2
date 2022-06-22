@@ -1,5 +1,6 @@
 ---
 title: Learning with Bad Training Data via Iterative Trimmed Loss(2018)
+status: todo
 tags:
 - learning-with-noisy-label
 - paper

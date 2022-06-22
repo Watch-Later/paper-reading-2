@@ -1,5 +1,6 @@
 ---
 title: Patterson 19
+status: todo
 tags:
 - other-default
 - paper

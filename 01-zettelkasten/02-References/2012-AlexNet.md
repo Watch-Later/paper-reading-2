@@ -1,5 +1,6 @@
 ---
 title: Alexnet(2012)
+status: todo
 tags:
 - other-default
 - paper

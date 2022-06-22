@@ -1,5 +1,6 @@
 ---
 title: The Google File System
+status: todo
 tags:
 - other-default
 - paper

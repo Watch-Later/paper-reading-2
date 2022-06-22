@@ -1,5 +1,6 @@
 ---
 title: Model Compression and Hardware Acceleration for Neural Networks - A Comprehensive Survey
+status: todo
 tags:
 - other-default
 - paper

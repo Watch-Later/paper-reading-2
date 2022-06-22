@@ -1,5 +1,6 @@
 ---
 title: T4 Product Brief
+status: todo
 tags:
 - other-default
 - paper

@@ -1,5 +1,6 @@
 ---
 title: What Is Wrong With Scene Text Recognition Model Comparisons
+status: todo
 tags:
 - OCR
 - paper

@@ -1,5 +1,6 @@
 ---
 title: A New Golden Age for Computer Architecture
+status: todo
 tags:
 - other-default
 - paper

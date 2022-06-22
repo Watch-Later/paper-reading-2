@@ -1,5 +1,6 @@
 ---
 title: theory-2004-Class Noise vs Attribute Noise
+status: todo
 tags:
 - learning-with-noisy-label
 - paper

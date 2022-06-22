@@ -1,5 +1,6 @@
 ---
 title: NVIDIA Docker  GPU Server Application Deployment Made Easy   NVIDIA Developer Blog
+status: todo
 tags:
 - other-default
 - paper

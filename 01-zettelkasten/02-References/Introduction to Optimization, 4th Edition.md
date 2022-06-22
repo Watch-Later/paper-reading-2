@@ -1,5 +1,6 @@
 ---
 title: Introduction to Optimization
+status: todo
 tags:
 - other-default
 - paper

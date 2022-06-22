@@ -1,5 +1,6 @@
 ---
 title: Connectionist Temporal Classification - Labelling Unsegmented Sequence Data with Recurrent Neural Networks
+status: todo
 tags:
 - other-default
 - paper

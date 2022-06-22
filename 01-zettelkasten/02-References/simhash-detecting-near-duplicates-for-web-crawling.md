@@ -1,5 +1,6 @@
 ---
 title: Simhash Detecting Near Duplicates For Web Crawling
+status: todo
 tags:
 - other-default
 - paper

@@ -1,5 +1,6 @@
 ---
 title: The Eight Pillars of Causal Wisdom
+status: todo
 tags:
 - other-default
 - paper

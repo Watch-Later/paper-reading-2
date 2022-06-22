@@ -1,5 +1,6 @@
 ---
 title: Ceph - A Scalable High-Performance Distributed File System
+status: todo
 tags:
 - other-default
 - paper

@@ -1,5 +1,6 @@
 ---
 title: Scalable Top-K Retrieval with Sparta
+status: todo
 tags:
 - other-default
 - paper

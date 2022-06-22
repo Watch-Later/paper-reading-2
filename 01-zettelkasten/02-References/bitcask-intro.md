@@ -1,5 +1,6 @@
 ---
 title: Bitcask Intro
+status: todo
 tags:
 - other-default
 - paper

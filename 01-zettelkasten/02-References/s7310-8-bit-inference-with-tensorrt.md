@@ -1,5 +1,6 @@
 ---
 title: S7310 8 Bit Inference With Tensorrt
+status: todo
 tags:
 - other-default
 - paper

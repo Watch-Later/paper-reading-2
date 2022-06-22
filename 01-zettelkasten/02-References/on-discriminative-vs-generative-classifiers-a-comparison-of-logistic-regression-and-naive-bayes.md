@@ -1,5 +1,6 @@
 ---
 title: On Discriminative Vs Generative Classifiers A Comparison Of Logistic Regression And Naive Bayes
+status: todo
 tags:
 - other-default
 - paper

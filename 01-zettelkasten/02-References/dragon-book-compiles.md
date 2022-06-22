@@ -1,5 +1,6 @@
 ---
 title: Dragon Book Compiles
+status: todo
 tags:
 - other-default
 - paper

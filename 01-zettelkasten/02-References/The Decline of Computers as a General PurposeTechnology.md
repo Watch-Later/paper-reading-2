@@ -1,5 +1,6 @@
 ---
 title: The Decline of Computers as a General PurposeTechnology
+status: todo
 tags:
 - other-default
 - paper

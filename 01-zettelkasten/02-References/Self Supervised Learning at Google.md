@@ -1,5 +1,6 @@
 ---
 title: Self Supervised Learning at Google
+status: todo
 tags:
 - other-default
 - paper

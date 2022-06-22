@@ -1,5 +1,6 @@
 ---
 title: PCI Express Technology 3.0
+status: todo
 tags:
 - other-default
 - paper

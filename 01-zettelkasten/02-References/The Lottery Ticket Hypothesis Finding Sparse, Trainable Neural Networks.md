@@ -1,5 +1,6 @@
 ---
 title: The Lottery Ticket Hypothesis Finding Sparse, Trainable Neural Networks
+status: todo
 tags:
 - other-default
 - paper

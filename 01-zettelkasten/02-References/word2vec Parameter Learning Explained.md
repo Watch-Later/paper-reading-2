@@ -1,5 +1,6 @@
 ---
 title: word2vec Parameter Learning Explained
+status: todo
 tags:
 - other-default
 - paper

@@ -1,5 +1,6 @@
 ---
 title: Semi-Supervised Novelty Detection(2010)
+status: todo
 tags:
 - learning-with-noisy-label
 - paper

@@ -2,6 +2,7 @@
 title: PyTorch under the hood
 author: Christian S. Perone
 pub date: Feb 2019
+status: todo
 subtitle: A guide to understand PyTorch internals
 tags:
 - pytorch

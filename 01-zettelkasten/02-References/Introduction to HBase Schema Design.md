@@ -1,5 +1,6 @@
 ---
 title: Introduction to HBase Schema Design
+status: todo
 tags:
 - other-default
 - paper

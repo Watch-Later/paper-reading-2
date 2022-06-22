@@ -1,5 +1,6 @@
 ---
 title: Sequential Y86-64 Implementation
+status: todo
 tags:
 - other-default
 - paper

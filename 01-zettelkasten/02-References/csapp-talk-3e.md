@@ -1,5 +1,6 @@
 ---
 title: Csapp Talk 3E
+status: todo
 tags:
 - other-default
 - paper

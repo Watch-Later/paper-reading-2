@@ -1,5 +1,6 @@
 ---
 title: CAPTCHA Recognition Using Deep Learning with Attached Binary Images
+status: todo
 tags:
 - other-default
 - paper

@@ -1,5 +1,6 @@
 ---
 title: Conflict Free Replicated Data Types
+status: todo
 tags:
 - other-default
 - paper

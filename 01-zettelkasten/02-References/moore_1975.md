@@ -1,5 +1,6 @@
 ---
 title: moore 1975
+status: todo
 tags:
 - other-default
 - paper

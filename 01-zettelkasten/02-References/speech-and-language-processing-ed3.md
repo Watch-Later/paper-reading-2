@@ -1,5 +1,6 @@
 ---
 title: Speech And Language Processing
+status: todo
 tags:
 - other-default
 - paper

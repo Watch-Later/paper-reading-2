@@ -1,5 +1,6 @@
 ---
 title: SKELETON-BASED ACTION RECOGNITION WITH CONVOLUTIONAL NEURAL NETWORKS
+status: todo
 tags:
 - other-default
 - paper

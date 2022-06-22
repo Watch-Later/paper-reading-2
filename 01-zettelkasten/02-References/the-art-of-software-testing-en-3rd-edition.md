@@ -1,5 +1,6 @@
 ---
 title: The Art Of Software Testing
+status: todo
 tags:
 - other-default
 - paper

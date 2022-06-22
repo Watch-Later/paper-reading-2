@@ -1,5 +1,6 @@
 ---
 title: Attribute-Driven Feature Disentangling and Temporal Aggregation for Video Person Re-Identification
+status: todo
 tags:
 - other-default
 - paper

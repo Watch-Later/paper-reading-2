@@ -1,5 +1,6 @@
 ---
 title: Curr 2017 Curriculumnet
+status: todo
 tags:
 - learning-with-noisy-label
 - paper

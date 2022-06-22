@@ -1,5 +1,6 @@
 ---
 title: A Stochastic Parts Program And Noun Phrase Parser For Unrestricted Text
+status: todo
 tags:
 - other-default
 - paper

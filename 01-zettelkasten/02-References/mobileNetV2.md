@@ -1,5 +1,6 @@
 ---
 title: Mobilenetv2
+status: todo
 tags:
 - other-default
 - paper

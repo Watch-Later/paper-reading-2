@@ -1,5 +1,6 @@
 ---
 title: Why Systolic Architecture 1982
+status: todo
 tags:
 - other-default
 - paper

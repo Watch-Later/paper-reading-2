@@ -1,5 +1,6 @@
 ---
 title: Curr 2018 Mentornet
+status: todo
 tags:
 - learning-with-noisy-label
 - paper

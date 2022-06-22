@@ -1,5 +1,6 @@
 ---
 title: Scene Text Detection and Recognition-The Deep Learning Era
+status: todo
 tags:
 - OCR
 - paper

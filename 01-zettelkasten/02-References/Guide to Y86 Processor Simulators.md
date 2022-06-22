@@ -1,5 +1,6 @@
 ---
 title: Guide to Y86 Processor Simulators
+status: todo
 tags:
 - other-default
 - paper

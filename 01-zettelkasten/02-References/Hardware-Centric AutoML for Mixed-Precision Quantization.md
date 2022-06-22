@@ -1,5 +1,6 @@
 ---
 title: Hardware-Centric AutoML for Mixed-Precision Quantization
+status: todo
 tags:
 - other-default
 - paper

@@ -1,5 +1,6 @@
 ---
 title: Quantizing Deep Convolutional Networks for Efficient Inference-keynote
+status: todo
 tags:
 - other-default
 - paper

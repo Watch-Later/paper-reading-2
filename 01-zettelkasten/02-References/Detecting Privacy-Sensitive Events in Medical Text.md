@@ -1,5 +1,6 @@
 ---
 title: Detecting Privacy-Sensitive Events in Medical Text
+status: todo
 tags:
 - other-default
 - paper

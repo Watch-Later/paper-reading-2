@@ -1,5 +1,6 @@
 ---
 title: Curr 2009 Curriculum Learning
+status: todo
 tags:
 - learning-with-noisy-label
 - paper

@@ -1,5 +1,6 @@
 ---
 title: Thrift-The Missing Guide
+status: todo
 tags:
 - other-default
 - paper

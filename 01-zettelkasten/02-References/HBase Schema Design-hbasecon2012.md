@@ -1,5 +1,6 @@
 ---
 title: HBase Schema Design-hbasecon2012
+status: todo
 tags:
 - other-default
 - paper

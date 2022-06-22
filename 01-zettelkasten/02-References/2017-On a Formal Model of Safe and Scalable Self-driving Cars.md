@@ -1,5 +1,6 @@
 ---
 title: On a Formal Model of Safe and Scalable Self-driving Cars(2017)
+status: todo
 tags:
 - other-default
 - paper

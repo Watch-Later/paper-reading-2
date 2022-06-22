@@ -1,5 +1,6 @@
 ---
 title: Bidirectional Scene Text Recognition with a Single Decoder
+status: todo
 tags:
 - OCR
 - paper

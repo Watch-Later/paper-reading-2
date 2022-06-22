@@ -1,5 +1,6 @@
 ---
 title: NVIDIA Fermi Compute Architecture Whitepaper
+status: todo
 tags:
 - other-default
 - paper

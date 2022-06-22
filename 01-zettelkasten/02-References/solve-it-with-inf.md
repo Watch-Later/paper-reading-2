@@ -1,5 +1,6 @@
 ---
 title: Solve It With Inf
+status: todo
 tags:
 - other-default
 - paper

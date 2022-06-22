@@ -1,5 +1,6 @@
 ---
 title: A Quantization-Friendly Separable Convolution for MobileNets
+status: todo
 tags:
 - other-default
 - paper

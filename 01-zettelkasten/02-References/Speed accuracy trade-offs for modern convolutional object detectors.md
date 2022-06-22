@@ -1,5 +1,6 @@
 ---
 title: Speed accuracy trade-offs for modern convolutional object detectors
+status: todo
 tags:
 - other-default
 - paper

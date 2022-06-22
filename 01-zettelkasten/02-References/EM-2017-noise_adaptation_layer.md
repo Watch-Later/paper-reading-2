@@ -1,5 +1,6 @@
 ---
 title: EM-2017-noise adaptation layer
+status: todo
 tags:
 - learning-with-noisy-label
 - paper

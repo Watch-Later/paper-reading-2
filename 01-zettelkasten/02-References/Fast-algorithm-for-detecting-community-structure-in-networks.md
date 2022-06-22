@@ -1,5 +1,6 @@
 ---
 title: Fast Algorithm For Detecting Community Structure In Networks
+status: todo
 tags:
 - other-default
 - paper

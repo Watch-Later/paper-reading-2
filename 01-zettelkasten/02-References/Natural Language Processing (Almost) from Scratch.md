@@ -1,5 +1,6 @@
 ---
 title: Natural Language Processing (Almost) from Scratch
+status: todo
 tags:
 - other-default
 - paper

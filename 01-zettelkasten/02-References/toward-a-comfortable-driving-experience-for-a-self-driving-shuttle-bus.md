@@ -1,5 +1,6 @@
 ---
 title: Toward A Comfortable Driving Experience For A Self Driving Shuttle Bus
+status: todo
 tags:
 - other-default
 - paper

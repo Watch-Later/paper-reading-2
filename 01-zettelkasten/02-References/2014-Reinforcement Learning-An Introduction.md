@@ -1,5 +1,6 @@
 ---
 title: Reinforcement Learning-An Introduction(2014)
+status: todo
 tags:
 - other-default
 - paper

@@ -1,5 +1,6 @@
 ---
 title: 视觉Slam十四讲(高翔第二版)
+status: todo
 tags:
 - other-default
 - paper

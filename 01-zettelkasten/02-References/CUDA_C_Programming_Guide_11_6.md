@@ -1,5 +1,6 @@
 ---
 title: CUDA C Programming Guide 11 6
+status: todo
 tags:
 - other-default
 - paper

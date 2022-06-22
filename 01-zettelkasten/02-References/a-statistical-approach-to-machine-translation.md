@@ -1,5 +1,6 @@
 ---
 title: A Statistical Approach To Machine Translation
+status: todo
 tags:
 - other-default
 - paper

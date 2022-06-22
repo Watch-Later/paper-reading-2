@@ -1,5 +1,6 @@
 ---
 title: Convolutional Neural Networks for Sentence Classification 2014
+status: todo
 tags:
 - other-default
 - paper

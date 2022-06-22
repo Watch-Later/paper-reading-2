@@ -1,5 +1,6 @@
 ---
 title: Mastering the game of Go without human knowledge
+status: todo
 tags:
 - other-default
 - paper

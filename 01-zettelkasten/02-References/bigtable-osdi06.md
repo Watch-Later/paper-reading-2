@@ -1,5 +1,6 @@
 ---
 title: Bigtable Osdi06
+status: todo
 tags:
 - other-default
 - paper

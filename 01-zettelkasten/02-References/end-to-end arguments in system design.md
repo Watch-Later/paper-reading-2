@@ -1,5 +1,6 @@
 ---
 title: end-to-end arguments in system design
+status: todo
 tags:
 - other-default
 - paper

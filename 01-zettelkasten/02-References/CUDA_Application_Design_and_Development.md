@@ -1,5 +1,6 @@
 ---
 title: CUDA Application Design and Development
+status: todo
 tags:
 - other-default
 - paper

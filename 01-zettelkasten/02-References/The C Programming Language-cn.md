@@ -1,5 +1,6 @@
 ---
 title: The C Programming Language(cn)
+status: todo
 tags:
 - other-default
 - paper

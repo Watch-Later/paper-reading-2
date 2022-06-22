@@ -1,5 +1,6 @@
 ---
 title: The Lottery Ticket Hypothesis at Scale
+status: todo
 tags:
 - other-default
 - paper

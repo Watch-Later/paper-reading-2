@@ -1,5 +1,6 @@
 ---
 title: The Part Time Parliament
+status: todo
 tags:
 - other-default
 - paper

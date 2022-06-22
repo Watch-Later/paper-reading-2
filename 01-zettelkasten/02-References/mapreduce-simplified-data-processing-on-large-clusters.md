@@ -1,5 +1,6 @@
 ---
 title: Mapreduce Simplified Data Processing On Large Clusters
+status: todo
 tags:
 - other-default
 - paper

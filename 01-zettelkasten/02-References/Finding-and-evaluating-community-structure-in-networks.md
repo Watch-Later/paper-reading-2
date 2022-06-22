@@ -1,5 +1,6 @@
 ---
 title: Finding And Evaluating Community Structure In Networks
+status: todo
 tags:
 - other-default
 - paper

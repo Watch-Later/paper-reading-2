@@ -1,5 +1,6 @@
 ---
 title: A Closer Look At Skip Gram Modelling
+status: todo
 tags:
 - other-default
 - paper

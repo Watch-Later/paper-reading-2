@@ -1,5 +1,6 @@
 ---
 title: MODEL COMPRESSION VIA DISTILLATION AND QUANTIZATION
+status: todo
 tags:
 - other-default
 - paper

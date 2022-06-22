@@ -1,5 +1,6 @@
 ---
 title: theory-2017-rethinking generalization
+status: todo
 tags:
 - learning-with-noisy-label
 - paper

@@ -1,5 +1,6 @@
 ---
 title: Entity Aware Attention(2019)
+status: todo
 tags:
 - OCR
 - paper

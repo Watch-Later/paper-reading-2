@@ -1,5 +1,6 @@
 ---
 title: Y86 Isa
+status: todo
 tags:
 - other-default
 - paper

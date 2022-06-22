@@ -1,5 +1,6 @@
 ---
 title: Paxos Simple
+status: todo
 tags:
 - other-default
 - paper

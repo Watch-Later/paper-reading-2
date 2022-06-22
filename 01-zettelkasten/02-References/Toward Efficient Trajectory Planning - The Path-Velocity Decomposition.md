@@ -1,5 +1,6 @@
 ---
 title: Toward Efficient Trajectory Planning - The Path-Velocity Decomposition
+status: todo
 tags:
 - other-default
 - paper

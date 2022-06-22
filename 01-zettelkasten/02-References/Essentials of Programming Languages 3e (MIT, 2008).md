@@ -1,5 +1,6 @@
 ---
 title: Essentials of Programming Languages 3e (MIT, 2008)
+status: todo
 tags:
 - other-default
 - paper

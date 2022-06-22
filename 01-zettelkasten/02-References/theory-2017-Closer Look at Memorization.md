@@ -1,5 +1,6 @@
 ---
 title: theory-2017-Closer Look at Memorization
+status: todo
 tags:
 - learning-with-noisy-label
 - paper

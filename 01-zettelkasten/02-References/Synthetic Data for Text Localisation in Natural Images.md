@@ -1,5 +1,6 @@
 ---
 title: Synthetic Data for Text Localisation in Natural Images
+status: todo
 tags:
 - other-default
 - paper

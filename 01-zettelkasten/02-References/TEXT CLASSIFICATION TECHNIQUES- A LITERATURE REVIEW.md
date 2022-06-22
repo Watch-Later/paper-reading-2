@@ -1,5 +1,6 @@
 ---
 title: TEXT CLASSIFICATION TECHNIQUES- A LITERATURE REVIEW
+status: todo
 tags:
 - other-default
 - paper

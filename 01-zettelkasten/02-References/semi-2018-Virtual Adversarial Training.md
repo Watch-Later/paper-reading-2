@@ -1,5 +1,6 @@
 ---
 title: semi-2018-Virtual Adversarial Training
+status: todo
 tags:
 - learning-with-noisy-label
 - paper

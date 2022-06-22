@@ -1,5 +1,6 @@
 ---
 title: Debug Hacks(cn)
+status: todo
 tags:
 - other-default
 - paper

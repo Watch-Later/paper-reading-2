@@ -1,5 +1,6 @@
 ---
 title: CUDA by Example
+status: todo
 tags:
 - other-default
 - paper

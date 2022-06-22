@@ -1,5 +1,6 @@
 ---
 title: Cross Entropy Vs Squared Error Training A Theoretical And Experimental Comparison
+status: todo
 tags:
 - other-default
 - paper

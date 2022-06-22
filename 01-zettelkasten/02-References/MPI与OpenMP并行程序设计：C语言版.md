@@ -1,5 +1,6 @@
 ---
 title: Mpi与Openmp并行程序设计：C语言版
+status: todo
 tags:
 - other-default
 - paper

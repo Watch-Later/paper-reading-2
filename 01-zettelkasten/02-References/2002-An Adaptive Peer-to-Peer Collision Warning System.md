@@ -1,5 +1,6 @@
 ---
 title: An Adaptive Peer-to-Peer Collision Warning System(2002)
+status: todo
 tags:
 - other-default
 - paper

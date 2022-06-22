@@ -1,5 +1,6 @@
 ---
 title: Crftut Fnt
+status: todo
 tags:
 - other-default
 - paper

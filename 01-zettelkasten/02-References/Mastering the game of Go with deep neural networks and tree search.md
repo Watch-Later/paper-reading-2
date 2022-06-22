@@ -1,5 +1,6 @@
 ---
 title: Mastering the game of Go with deep neural networks and tree search
+status: todo
 tags:
 - other-default
 - paper

@@ -1,5 +1,6 @@
 ---
 title: Decoupled Attention Network for Text Recognition
+status: todo
 tags:
 - OCR
 - paper

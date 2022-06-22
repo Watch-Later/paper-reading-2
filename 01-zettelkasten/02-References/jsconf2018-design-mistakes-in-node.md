@@ -1,5 +1,6 @@
 ---
 title: Jsconf2018 Design Mistakes In Node
+status: todo
 tags:
 - other-default
 - paper

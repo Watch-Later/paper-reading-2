@@ -1,5 +1,6 @@
 ---
 title: A guide to convolution arithmetic for deep learning
+status: todo
 tags:
 - other-default
 - paper

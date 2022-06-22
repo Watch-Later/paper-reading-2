@@ -1,5 +1,6 @@
 ---
 title: Lamport82
+status: todo
 tags:
 - other-default
 - paper

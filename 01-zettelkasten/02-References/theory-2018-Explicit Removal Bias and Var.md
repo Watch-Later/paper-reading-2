@@ -1,5 +1,6 @@
 ---
 title: theory-2018-Explicit Removal Bias and Var
+status: todo
 tags:
 - learning-with-noisy-label
 - paper
