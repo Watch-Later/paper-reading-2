@@ -6,15 +6,15 @@ Created: 2022-04-28 01:55
 
 通常使用top命令查询Rss驻留的内存，找到相应的pid，再用lsof -p pid查看打开了哪些文件，可以优化比较大的文件，第三步pmap -X pid查看内存分配情况。如果发在[heap]类型占用的内存较大，那就要查找程序malloc分配了哪些内容占用内容（如果是第三方程序，就需要dump内存来查看个大概是什么内容在里了）,dump内存的方法
 
-> #获取内存地址起止地址
-> #cat /proc/6086/maps 或#pmap 6086
+> # 获取内存地址起止地址
+> # cat /proc/6086/maps 或#pmap 6086
 >
-> #gdb --pid 1604
+> # gdb --pid 1604
 >
 > >dump memory /tmp/php-memory.dump 0x0146f000 0x06ebf000 --表示开始和结束内存地址（16进制）
 >
-> #查看数据
-> #strings -n 10 /tmp/php-memory.dump
+> # 查看数据
+> # strings -n 10 /tmp/php-memory.dump
 
 
 C++的内存问题（内存泄露，内存溢出，内存宕机，堆栈破坏等问题）
