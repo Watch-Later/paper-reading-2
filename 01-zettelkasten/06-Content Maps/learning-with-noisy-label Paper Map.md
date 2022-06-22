@@ -22,6 +22,7 @@ From #learning-with-noisy-label and #dataset
 ```dataview
 table status
 From #learning-with-noisy-label and #paper
+SORT status DESC
 ```
 
 ## Notes

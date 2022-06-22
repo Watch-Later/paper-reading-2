@@ -20,8 +20,9 @@ From #OCR and #dataset
 ## Papers
 
 ```dataview
-table title
+table status
 From #OCR and #paper
+SORT status DESC
 ```
 
 ## Tasks
@@ -73,7 +74,6 @@ Real-time Scene Text Detection with Differentiable Binarization
 ### Recognation
 
 [What Is Wrong With Scene Text Recognition Model Comparisons](../02-References/What%20Is%20Wrong%20With%20Scene%20Text%20Recognition%20Model%20Comparisons.md)
-
 
 ### Spotting
 

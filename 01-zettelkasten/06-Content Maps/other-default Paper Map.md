@@ -1,4 +1,4 @@
-# Other-default Paper Map
+# other-default Paper Map
 
 ## Overview
 
@@ -15,4 +15,7 @@ SORT length(rows.file.link) DESC
 ```dataview
 table status
 From #other-default and #paper
+SORT status DESC
 ```
+
+## Notes
