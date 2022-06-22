@@ -1,3 +1,7 @@
+---
+Alias: "learning-with-noisy-label"
+---
+
 # learning-with-noisy-label Paper Map
 
 ## Overview

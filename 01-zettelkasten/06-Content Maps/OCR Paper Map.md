@@ -1,3 +1,7 @@
+---
+Alias: "OCR"
+---
+
 # OCR Paper Map
 
 ## Overview
