@@ -20,7 +20,7 @@ From #learning-with-noisy-label and #dataset
 ## Papers
 
 ```dataview
-table title
+table status
 From #learning-with-noisy-label and #paper
 ```
 

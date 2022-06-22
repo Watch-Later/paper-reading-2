@@ -13,8 +13,6 @@ SORT length(rows.file.link) DESC
 ## Papers
 
 ```dataview
-table title
+table status
 From #other-default and #paper
 ```
-
-## Notes
