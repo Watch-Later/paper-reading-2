@@ -1,11 +1,11 @@
 ---
 title: Craft Character Region Awareness(2019)
+highlight: CVPR2019
 tags:
 - OCR
 - paper
-year: 2019
 url: https://arxiv.org/pdf/1904.01941.pdf
-highlight：CVPR2019
+year: 2019
 
 ---
 
