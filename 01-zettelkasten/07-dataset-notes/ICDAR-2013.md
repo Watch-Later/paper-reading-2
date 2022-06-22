@@ -1,7 +1,8 @@
 ---
 title: ICDAR 2013
 tags:
-- OCR-data
+- OCR
+- dataset
 url: http://rrc.cvc.uab.es/?ch=2&com=downloads
 
 ---
