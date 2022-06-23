@@ -14,6 +14,10 @@ score: ⭐️⭐️⭐️⭐️
 
 不错的 baseline 数据。真实场景，但偏简单。
 
+## links
+
+https://paperswithcode.com/dataset/icdar-2013
+
 ## 描述
 
 聚焦场景文本的 229 个训练图像和 233 个测试图像。继承了 ICDAR 2003 数据集的大部分样本。
@@ -25,9 +29,6 @@ score: ⭐️⭐️⭐️⭐️
 
 广泛用于测试文本探测器的性能。
 
-
 ## 预览
 
-
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h3cqwd732ij20t50ew75l.jpg)
-
