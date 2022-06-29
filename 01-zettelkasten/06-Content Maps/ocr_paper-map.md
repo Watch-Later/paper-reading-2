@@ -48,6 +48,10 @@ SORT status DESC
 - 卡证识别。银行卡、身份证等。类似票据识别，但要简单很多。
 - 数学公式识别。需求通常是自动转 latex 语法。比票据识别更复杂的空间关系。然后叠加手写识别的难点。
 
+##  方法综述
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3peql9s6lj20fi0claal.jpg)
+
 ## 一些 Notes
 
 提升算法性能的 tricks：
@@ -62,6 +66,8 @@ SORT status DESC
 标注很难。比如，这个应该标注 ”清真“，还是”清直“。真的两个点被遮掉了。
 
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h32c31dwzyj203f00r0pg.jpg)
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3pepg9f6sj20fh08y75j.jpg)
 
 ## More Papers
 
