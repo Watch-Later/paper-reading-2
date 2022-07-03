@@ -1,6 +1,6 @@
 ---
-title: Connectionist Temporal Classification - Labelling Unsegmented Sequence Data with Recurrent Neural Networks
 Alias: ctc-loss
+title: Connectionist Temporal Classification - Labelling Unsegmented Sequence Data with Recurrent Neural Networks
 status: todo
 tags:
 - ocr
