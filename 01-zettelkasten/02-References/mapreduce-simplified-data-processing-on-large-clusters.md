@@ -1,5 +1,6 @@
 ---
 title: Mapreduce Simplified Data Processing On Large Clusters
+pdf_relpath: pdfs/mapreduce-simplified-data-processing-on-large-clusters.pdf
 status: todo
 tags:
 - engineering

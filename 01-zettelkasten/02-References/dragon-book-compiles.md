@@ -1,5 +1,6 @@
 ---
 title: Dragon Book Compiles
+pdf_relpath: pdfs/dragon-book-compiles.pdf
 status: todo
 tags:
 - compiler

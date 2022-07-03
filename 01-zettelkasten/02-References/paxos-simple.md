@@ -1,5 +1,6 @@
 ---
 title: Paxos Simple
+pdf_relpath: pdfs/paxos-simple.pdf
 status: todo
 tags:
 - engineering

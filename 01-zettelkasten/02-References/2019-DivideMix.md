@@ -1,5 +1,6 @@
 ---
 title: Dividemix(2019)
+pdf_relpath: pdfs/2019-DivideMix.pdf
 status: todo
 tags:
 - noisy-label

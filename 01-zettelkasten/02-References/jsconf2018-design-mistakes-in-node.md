@@ -1,5 +1,6 @@
 ---
 title: Jsconf2018 Design Mistakes In Node
+pdf_relpath: pdfs/jsconf2018-design-mistakes-in-node.pdf
 status: todo
 tags:
 - engineering

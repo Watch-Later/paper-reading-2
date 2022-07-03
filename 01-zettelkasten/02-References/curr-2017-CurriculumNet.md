@@ -1,5 +1,6 @@
 ---
 title: Curr 2017 Curriculumnet
+pdf_relpath: pdfs/curr-2017-CurriculumNet.pdf
 status: todo
 tags:
 - noisy-label

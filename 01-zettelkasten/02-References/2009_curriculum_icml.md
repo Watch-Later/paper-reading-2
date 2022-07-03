@@ -1,5 +1,6 @@
 ---
 title: 2009 curriculum icml
+pdf_relpath: pdfs/2009_curriculum_icml.pdf
 status: todo
 tags:
 - noisy-label

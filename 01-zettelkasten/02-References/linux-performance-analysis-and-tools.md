@@ -1,5 +1,6 @@
 ---
 title: Linux Performance Analysis And Tools
+pdf_relpath: pdfs/linux-performance-analysis-and-tools.pdf
 status: todo
 tags:
 - engineering

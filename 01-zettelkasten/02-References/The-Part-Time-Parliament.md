@@ -1,5 +1,6 @@
 ---
 title: The Part Time Parliament
+pdf_relpath: pdfs/The-Part-Time-Parliament.pdf
 status: todo
 tags:
 - engineering

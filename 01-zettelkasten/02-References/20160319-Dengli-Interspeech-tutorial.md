@@ -1,5 +1,6 @@
 ---
 title: Deep Machine Learning Applied to Speech & Language Processing
+pdf_relpath: pdfs/20160319-Dengli-Interspeech-tutorial.pdf
 status: todo
 tags:
 - nlp

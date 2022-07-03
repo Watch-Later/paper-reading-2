@@ -1,5 +1,6 @@
 ---
 title: Black Hat Python
+pdf_relpath: pdfs/Black%20Hat%20Python.pdf
 status: todo
 tags:
 - programming/python

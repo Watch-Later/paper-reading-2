@@ -1,5 +1,6 @@
 ---
 title: N Gram Similarity And Distance
+pdf_relpath: pdfs/n-gram-similarity-and-distance.pdf
 status: todo
 tags:
 - nlp

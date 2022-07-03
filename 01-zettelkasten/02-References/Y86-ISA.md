@@ -1,5 +1,6 @@
 ---
 title: Y86 Isa
+pdf_relpath: pdfs/Y86-ISA.pdf
 status: todo
 tags:
 - computer-system

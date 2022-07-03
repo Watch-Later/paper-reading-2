@@ -1,5 +1,6 @@
 ---
 title: Grover Model
+pdf_relpath: pdfs/Grover-model.pdf
 status: todo
 tags:
 - nlp

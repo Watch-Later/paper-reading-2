@@ -1,5 +1,6 @@
 ---
 title: Base An Acid Alternative
+pdf_relpath: pdfs/base-an-acid-alternative.pdf
 status: todo
 tags:
 - engineering

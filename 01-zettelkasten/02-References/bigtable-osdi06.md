@@ -1,5 +1,6 @@
 ---
 title: Bigtable Osdi06
+pdf_relpath: pdfs/bigtable-osdi06.pdf
 status: todo
 tags:
 - engineering

@@ -1,6 +1,7 @@
 ---
 title: PyTorch under the hood
 author: Christian S. Perone
+pdf_relpath: pdfs/PyTorch%20under%20the%20hood.pdf
 pub date: Feb 2019
 status: todo
 subtitle: A guide to understand PyTorch internals

@@ -1,5 +1,6 @@
 ---
 title: Gordon Moore 1975 Speech
+pdf_relpath: pdfs/Gordon_Moore_1975_Speech.pdf
 status: todo
 tags:
 - computer-system

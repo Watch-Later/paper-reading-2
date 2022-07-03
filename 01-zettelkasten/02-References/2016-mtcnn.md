@@ -1,5 +1,6 @@
 ---
 title: Mtcnn(2016)
+pdf_relpath: pdfs/2016-mtcnn.pdf
 status: todo
 tags:
 - other-default

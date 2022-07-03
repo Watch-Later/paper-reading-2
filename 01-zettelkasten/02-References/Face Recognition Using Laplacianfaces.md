@@ -1,5 +1,6 @@
 ---
 title: Face Recognition Using Laplacianfaces
+pdf_relpath: pdfs/Face%20Recognition%20Using%20Laplacianfaces.pdf
 status: todo
 tags:
 - other-default

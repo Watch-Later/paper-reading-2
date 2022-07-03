@@ -1,5 +1,6 @@
 ---
 title: Glove
+pdf_relpath: pdfs/2014-GloVe.pdf
 status: todo
 tags:
 - nlp

@@ -1,5 +1,6 @@
 ---
 title: CAP Prove
+pdf_relpath: pdfs/brewers-conjecture-sigact.pdf
 status: todo
 tags:
 - engineering

@@ -1,5 +1,6 @@
 ---
 title: Semi 2013 Pseudo Label
+pdf_relpath: pdfs/semi-2013-pseudo-label.pdf
 status: todo
 tags:
 - noisy-label

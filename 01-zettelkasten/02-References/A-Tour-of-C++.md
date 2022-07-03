@@ -1,5 +1,6 @@
 ---
 title: A Tour Of C++
+pdf_relpath: pdfs/A-Tour-of-C%2B%2B.pdf
 status: todo
 tags:
 - programming/cpp

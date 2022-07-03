@@ -1,5 +1,6 @@
 ---
 title: Conflict Free Replicated Data Types
+pdf_relpath: pdfs/conflict-free-replicated-data-types.pdf
 status: todo
 tags:
 - engineering

@@ -1,5 +1,6 @@
 ---
 title: Unsupervised Label Noise Modeling and Loss Correction(2019)
+pdf_relpath: pdfs/2019-Unsupervised%20Label%20Noise%20Modeling%20and%20Loss%20Correction.pdf
 status: todo
 tags:
 - noisy-label

@@ -1,5 +1,6 @@
 ---
 title: Fast RCNN
+pdf_relpath: pdfs/2015-fast-rcnn.pdf
 status: todo
 tags:
 - detection

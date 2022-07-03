@@ -1,5 +1,6 @@
 ---
 title: Semi 2019 Mixmatch
+pdf_relpath: pdfs/semi-2019-MixMatch.pdf
 status: todo
 tags:
 - noisy-label

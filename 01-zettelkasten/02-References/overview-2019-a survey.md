@@ -1,5 +1,6 @@
 ---
 title: overview-2019-a survey
+pdf_relpath: pdfs/overview-2019-a%20survey.pdf
 status: todo
 tags:
 - noisy-label

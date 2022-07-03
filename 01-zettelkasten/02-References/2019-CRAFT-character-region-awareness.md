@@ -1,6 +1,7 @@
 ---
 title: Craft Character Region Awareness(2019)
 highlight: CVPR2019
+pdf_relpath: pdfs/2019-CRAFT-character-region-awareness.pdf
 status: reading
 tags:
 - ocr

@@ -1,5 +1,6 @@
 ---
 title: Optimal Trajectory Generation for Dynamic Street Scenarios in a Frenet Frame
+pdf_relpath: pdfs/2010-frenet.pdf
 status: todo
 tags:
 - self-driving/motion-planning

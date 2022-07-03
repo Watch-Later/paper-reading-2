@@ -1,5 +1,6 @@
 ---
 title: Cgroups Intro
+pdf_relpath: pdfs/cgroups-intro.pdf
 status: todo
 tags:
 - engineering

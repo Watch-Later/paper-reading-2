@@ -1,5 +1,6 @@
 ---
 title: Top 10 Considerations For Bot Management Ebook
+pdf_relpath: pdfs/top-10-considerations-for-bot-management-ebook.pdf
 status: todo
 tags:
 - crawler

@@ -1,5 +1,6 @@
 ---
 title: Guide to Y86 Processor Simulators
+pdf_relpath: pdfs/Guide%20to%20Y86%20Processor%20Simulators.pdf
 status: todo
 tags:
 - computer-system

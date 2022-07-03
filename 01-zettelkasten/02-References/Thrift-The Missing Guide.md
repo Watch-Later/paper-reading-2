@@ -1,5 +1,6 @@
 ---
 title: Thrift-The Missing Guide
+pdf_relpath: pdfs/Thrift-The%20Missing%20Guide.pdf
 status: todo
 tags:
 - engineering

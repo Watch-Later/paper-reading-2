@@ -1,5 +1,6 @@
 ---
 title: An Introduction to Conditional Random Fields
+pdf_relpath: pdfs/crftut-fnt.pdf
 status: todo
 tags:
 - nlp

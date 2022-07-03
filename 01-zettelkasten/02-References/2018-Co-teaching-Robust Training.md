@@ -1,5 +1,6 @@
 ---
 title: Co-teaching-Robust Training(2018)
+pdf_relpath: pdfs/2018-Co-teaching-Robust%20Training.pdf
 status: todo
 tags:
 - noisy-label

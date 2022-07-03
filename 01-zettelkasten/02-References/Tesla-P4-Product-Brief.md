@@ -1,5 +1,6 @@
 ---
 title: Tesla P4 Product Brief
+pdf_relpath: pdfs/Tesla-P4-Product-Brief.pdf
 status: todo
 tags:
 - gpu-cuda

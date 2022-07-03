@@ -1,5 +1,6 @@
 ---
 title: Bengio Neural Network LM
+pdf_relpath: pdfs/2003-bengio-neural-network-LM.pdf
 status: todo
 tags:
 - nlp

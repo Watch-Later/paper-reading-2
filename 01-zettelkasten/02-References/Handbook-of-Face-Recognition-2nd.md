@@ -1,5 +1,6 @@
 ---
 title: Handbook Of Face Recognition
+pdf_relpath: pdfs/Handbook-of-Face-Recognition-2nd.pdf
 status: todo
 tags:
 - detection
