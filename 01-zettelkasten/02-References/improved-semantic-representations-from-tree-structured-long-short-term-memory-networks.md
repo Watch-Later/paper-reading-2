@@ -1,10 +1,21 @@
 ---
 title: Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks
+authors:
+- Kai Sheng Tai
+- R. Socher
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: improved-semantic-representations-from-tree-structured-long-short-term-memory-networks
+numCitedBy: 2501
 pdf_relpath: null
+ref_count: 43
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2015
 ---
 
 # Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks

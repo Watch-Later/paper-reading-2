@@ -1,10 +1,25 @@
 ---
 title: Intriguing properties of neural networks
+authors:
+- Christian Szegedy
+- Wojciech Zaremba
+- Ilya Sutskever
+- Joan Bruna
+- D. Erhan
+- Ian J. Goodfellow
+- R. Fergus
+fieldsOfStudy:
+- Computer Science
+meta_key: intriguing-properties-of-neural-networks
+numCitedBy: 8881
 pdf_relpath: null
+ref_count: 19
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2014
 ---
 
 # Intriguing properties of neural networks

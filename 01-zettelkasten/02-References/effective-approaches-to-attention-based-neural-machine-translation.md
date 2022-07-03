@@ -1,10 +1,21 @@
 ---
 title: Effective Approaches to Attention-based Neural Machine Translation
+authors:
+- Thang Luong
+- Hieu Pham
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: effective-approaches-to-attention-based-neural-machine-translation
+numCitedBy: 5892
 pdf_relpath: null
+ref_count: 24
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2015
 ---
 
 # Effective Approaches to Attention-based Neural Machine Translation

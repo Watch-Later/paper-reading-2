@@ -1,10 +1,21 @@
 ---
 title: Detecting Visual Relationships with Deep Relational Networks
+authors:
+- Bo Dai
+- Yuqi Zhang
+- Dahua Lin
+fieldsOfStudy:
+- Computer Science
+meta_key: detecting-visual-relationships-with-deep-relational-networks
+numCitedBy: 362
 pdf_relpath: null
+ref_count: 69
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Detecting Visual Relationships with Deep Relational Networks

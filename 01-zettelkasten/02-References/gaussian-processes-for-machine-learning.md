@@ -1,10 +1,20 @@
 ---
 title: Gaussian Processes for Machine Learning
+authors:
+- C. Rasmussen
+- Christopher K. I. Williams
+fieldsOfStudy:
+- Computer Science
+meta_key: gaussian-processes-for-machine-learning
+numCitedBy: 17879
 pdf_relpath: null
+ref_count: 233
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Adaptive computation and machine learning
+year: 2009
 ---
 
 # Gaussian Processes for Machine Learning

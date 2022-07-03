@@ -1,10 +1,19 @@
 ---
 title: The Nature of Statistical Learning Theory
+authors:
+- V. Vapnik
+fieldsOfStudy:
+- Computer Science
+meta_key: the-nature-of-statistical-learning-theory
+numCitedBy: 38756
 pdf_relpath: null
+ref_count: 73
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Statistics for Engineering and Information Science
+year: 2000
 ---
 
 # The Nature of Statistical Learning Theory

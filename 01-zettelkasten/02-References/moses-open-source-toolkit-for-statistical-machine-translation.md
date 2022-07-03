@@ -1,10 +1,32 @@
 ---
 title: Moses - Open Source Toolkit for Statistical Machine Translation
+authors:
+- Philipp Koehn
+- Hieu T. Hoang
+- Alexandra Birch
+- Chris Callison-Burch
+- Marcello Federico
+- N. Bertoldi
+- Brooke Cowan
+- Wade Shen
+- C. Moran
+- R. Zens
+- Chris Dyer
+- Ondrej Bojar
+- Alexandra Constantin
+- Evan Herbst
+fieldsOfStudy:
+- Computer Science
+meta_key: moses-open-source-toolkit-for-statistical-machine-translation
+numCitedBy: 5929
 pdf_relpath: null
+ref_count: 74
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2007
 ---
 
 # Moses - Open Source Toolkit for Statistical Machine Translation

@@ -1,10 +1,21 @@
 ---
 title: A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task
+authors:
+- Danqi Chen
+- Jason Bolton
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: a-thorough-examination-of-the-cnn-daily-mail-reading-comprehension-task
+numCitedBy: 493
 pdf_relpath: null
+ref_count: 22
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2016
 ---
 
 # A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task

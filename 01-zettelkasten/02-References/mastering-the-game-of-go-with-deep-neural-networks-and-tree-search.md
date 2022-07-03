@@ -1,10 +1,38 @@
 ---
 title: Mastering the game of Go with deep neural networks and tree search
+authors:
+- David Silver
+- Aja Huang
+- Chris J. Maddison
+- A. Guez
+- L. Sifre
+- George van den Driessche
+- Julian Schrittwieser
+- Ioannis Antonoglou
+- Vedavyas Panneershelvam
+- Marc Lanctot
+- S. Dieleman
+- Dominik Grewe
+- John Nham
+- Nal Kalchbrenner
+- Ilya Sutskever
+- T. Lillicrap
+- M. Leach
+- K. Kavukcuoglu
+- T. Graepel
+- D. Hassabis
+fieldsOfStudy:
+- Computer Science
+meta_key: mastering-the-game-of-go-with-deep-neural-networks-and-tree-search
+numCitedBy: 11396
 pdf_relpath: null
+ref_count: 81
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Nature
+year: 2016
 ---
 
 # Mastering the game of Go with deep neural networks and tree search

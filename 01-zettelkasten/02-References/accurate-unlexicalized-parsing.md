@@ -1,10 +1,20 @@
 ---
 title: Accurate Unlexicalized Parsing
+authors:
+- D. Klein
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: accurate-unlexicalized-parsing
+numCitedBy: 3370
 pdf_relpath: null
+ref_count: 29
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2003
 ---
 
 # Accurate Unlexicalized Parsing

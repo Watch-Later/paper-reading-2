@@ -1,10 +1,25 @@
 ---
 title: VQA - Visual Question Answering
+authors:
+- Aishwarya Agrawal
+- Jiasen Lu
+- Stanislaw Antol
+- Margaret Mitchell
+- C. L. Zitnick
+- Devi Parikh
+- Dhruv Batra
+fieldsOfStudy:
+- Computer Science
+meta_key: vqa-visual-question-answering
+numCitedBy: 2887
 pdf_relpath: null
+ref_count: 76
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE International Conference on Computer Vision (ICCV)
+year: 2015
 ---
 
 # VQA - Visual Question Answering

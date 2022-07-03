@@ -1,10 +1,23 @@
 ---
 title: Molecular graph convolutions - moving beyond fingerprints
+authors:
+- S. Kearnes
+- Kevin McCloskey
+- Marc Berndl
+- V. Pande
+- Patrick F. Riley
+fieldsOfStudy:
+- Computer Science
+meta_key: molecular-graph-convolutions-moving-beyond-fingerprints
+numCitedBy: 916
 pdf_relpath: null
+ref_count: 63
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Journal of Computer-Aided Molecular Design
+year: 2016
 ---
 
 # Molecular graph convolutions - moving beyond fingerprints

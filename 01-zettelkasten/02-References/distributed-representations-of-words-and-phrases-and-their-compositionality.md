@@ -1,10 +1,23 @@
 ---
 title: Distributed Representations of Words and Phrases and their Compositionality
+authors:
+- Tomas Mikolov
+- Ilya Sutskever
+- Kai Chen
+- G. Corrado
+- J. Dean
+fieldsOfStudy:
+- Computer Science
+meta_key: distributed-representations-of-words-and-phrases-and-their-compositionality
+numCitedBy: 26054
 pdf_relpath: null
+ref_count: 32
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2013
 ---
 
 # Distributed Representations of Words and Phrases and their Compositionality

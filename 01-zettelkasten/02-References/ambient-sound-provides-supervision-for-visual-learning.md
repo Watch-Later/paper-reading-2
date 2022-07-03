@@ -1,10 +1,23 @@
 ---
 title: Ambient Sound Provides Supervision for Visual Learning
+authors:
+- Andrew Owens
+- Jiajun Wu
+- Josh H. McDermott
+- W. Freeman
+- A. Torralba
+fieldsOfStudy:
+- Computer Science
+meta_key: ambient-sound-provides-supervision-for-visual-learning
+numCitedBy: 317
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # Ambient Sound Provides Supervision for Visual Learning

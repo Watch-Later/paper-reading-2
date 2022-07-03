@@ -1,10 +1,22 @@
 ---
 title: Learning and Transferring Mid-level Image Representations Using Convolutional Neural Networks
+authors:
+- M. Oquab
+- L. Bottou
+- I. Laptev
+- Josef Sivic
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-and-transferring-mid-level-image-representations-using-convolutional-neural-networks
+numCitedBy: 2745
 pdf_relpath: null
+ref_count: 70
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2014 IEEE Conference on Computer Vision and Pattern Recognition
+year: 2014
 ---
 
 # Learning and Transferring Mid-level Image Representations Using Convolutional Neural Networks

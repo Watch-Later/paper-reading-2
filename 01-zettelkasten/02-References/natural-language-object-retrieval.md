@@ -1,10 +1,24 @@
 ---
 title: Natural Language Object Retrieval
+authors:
+- Ronghang Hu
+- Huazhe Xu
+- Marcus Rohrbach
+- Jiashi Feng
+- Kate Saenko
+- Trevor Darrell
+fieldsOfStudy:
+- Computer Science
+meta_key: natural-language-object-retrieval
+numCitedBy: 417
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Natural Language Object Retrieval

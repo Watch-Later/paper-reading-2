@@ -1,10 +1,23 @@
 ---
 title: Multi-task Sequence to Sequence Learning
+authors:
+- Minh-Thang Luong
+- Quoc V. Le
+- Ilya Sutskever
+- Oriol Vinyals
+- Lukasz Kaiser
+fieldsOfStudy:
+- Computer Science
+meta_key: multi-task-sequence-to-sequence-learning
+numCitedBy: 683
 pdf_relpath: null
+ref_count: 50
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # Multi-task Sequence to Sequence Learning

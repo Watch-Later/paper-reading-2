@@ -1,10 +1,21 @@
 ---
 title: LSTM Neural Networks for Language Modeling
+authors:
+- M. Sundermeyer
+- "R. Schl\xFCter"
+- H. Ney
+fieldsOfStudy:
+- Computer Science
+meta_key: lstm-neural-networks-for-language-modeling
+numCitedBy: 1491
 pdf_relpath: null
+ref_count: 18
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: INTERSPEECH
+year: 2012
 ---
 
 # LSTM Neural Networks for Language Modeling

@@ -1,10 +1,25 @@
 ---
 title: MAttNet - Modular Attention Network for Referring Expression Comprehension
+authors:
+- Licheng Yu
+- Zhe L. Lin
+- Xiaohui Shen
+- Jimei Yang
+- Xin Lu
+- Mohit Bansal
+- Tamara L. Berg
+fieldsOfStudy:
+- Computer Science
+meta_key: mattnet-modular-attention-network-for-referring-expression-comprehension
+numCitedBy: 369
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # MAttNet - Modular Attention Network for Referring Expression Comprehension

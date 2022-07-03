@@ -1,10 +1,22 @@
 ---
 title: Reasoning With Neural Tensor Networks for Knowledge Base Completion
+authors:
+- R. Socher
+- Danqi Chen
+- Christopher D. Manning
+- A. Ng
+fieldsOfStudy:
+- Computer Science
+meta_key: reasoning-with-neural-tensor-networks-for-knowledge-base-completion
+numCitedBy: 1558
 pdf_relpath: null
+ref_count: 25
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2013
 ---
 
 # Reasoning With Neural Tensor Networks for Knowledge Base Completion

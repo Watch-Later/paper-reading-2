@@ -1,10 +1,23 @@
 ---
 title: Detecting Text in Natural Image with Connectionist Text Proposal Network
+authors:
+- Zhi Tian
+- Weilin Huang
+- Tong He
+- Pan He
+- Y. Qiao
+fieldsOfStudy:
+- Computer Science
+meta_key: detecting-text-in-natural-image-with-connectionist-text-proposal-network
+numCitedBy: 647
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # Detecting Text in Natural Image with Connectionist Text Proposal Network

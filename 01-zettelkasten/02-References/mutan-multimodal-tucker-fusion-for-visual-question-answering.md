@@ -1,10 +1,22 @@
 ---
 title: MUTAN - Multimodal Tucker Fusion for Visual Question Answering
+authors:
+- H. Ben-younes
+- "R\xE9mi Cad\xE8ne"
+- M. Cord
+- Nicolas Thome
+fieldsOfStudy:
+- Computer Science
+meta_key: mutan-multimodal-tucker-fusion-for-visual-question-answering
+numCitedBy: 387
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # MUTAN - Multimodal Tucker Fusion for Visual Question Answering

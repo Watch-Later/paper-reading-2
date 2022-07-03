@@ -1,10 +1,20 @@
 ---
 title: Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift
+authors:
+- S. Ioffe
+- Christian Szegedy
+fieldsOfStudy:
+- Computer Science
+meta_key: batch-normalization-accelerating-deep-network-training-by-reducing-internal-covariate-shift
+numCitedBy: 29231
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2015
 ---
 
 # Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift

@@ -1,10 +1,19 @@
 ---
 title: Rectifier Nonlinearities Improve Neural Network Acoustic Models
+authors:
+- Andrew L. Maas
+fieldsOfStudy:
+- Computer Science
+meta_key: rectifier-nonlinearities-improve-neural-network-acoustic-models
+numCitedBy: 4401
 pdf_relpath: null
+ref_count: 16
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2013
 ---
 
 # Rectifier Nonlinearities Improve Neural Network Acoustic Models

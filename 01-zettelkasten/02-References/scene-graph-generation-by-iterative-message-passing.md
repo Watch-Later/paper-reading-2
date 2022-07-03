@@ -1,10 +1,22 @@
 ---
 title: Scene Graph Generation by Iterative Message Passing
+authors:
+- Danfei Xu
+- Yuke Zhu
+- C. Choy
+- Li Fei-Fei
+fieldsOfStudy:
+- Computer Science
+meta_key: scene-graph-generation-by-iterative-message-passing
+numCitedBy: 638
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Scene Graph Generation by Iterative Message Passing

@@ -1,10 +1,21 @@
 ---
 title: Recurrent Neural Network Regularization
+authors:
+- Wojciech Zaremba
+- Ilya Sutskever
+- Oriol Vinyals
+fieldsOfStudy:
+- Computer Science
+meta_key: recurrent-neural-network-regularization
+numCitedBy: 1970
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2014
 ---
 
 # Recurrent Neural Network Regularization

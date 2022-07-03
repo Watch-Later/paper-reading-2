@@ -1,10 +1,20 @@
 ---
 title: Neocognitron - A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position
+authors:
+- K. Fukushima
+fieldsOfStudy:
+- Computer Science
+- Biology
+meta_key: neocognitron-a-self-organizing-neural-network-model-for-a-mechanism-of-pattern-recognition-unaffected-by-shift-in-position
+numCitedBy: 3717
 pdf_relpath: null
+ref_count: 22
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Biological Cybernetics
+year: 2004
 ---
 
 # Neocognitron - A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position

@@ -1,10 +1,23 @@
 ---
 title: Explicit Knowledge-based Reasoning for Visual Question Answering
+authors:
+- Peng Wang
+- Qi Wu
+- Chunhua Shen
+- A. Dick
+- A. V. Hengel
+fieldsOfStudy:
+- Computer Science
+meta_key: explicit-knowledge-based-reasoning-for-visual-question-answering
+numCitedBy: 144
 pdf_relpath: null
+ref_count: 80
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IJCAI
+year: 2017
 ---
 
 # Explicit Knowledge-based Reasoning for Visual Question Answering

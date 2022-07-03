@@ -1,10 +1,26 @@
 ---
 title: UNITER - Learning UNiversal Image-TExt Representations
+authors:
+- Yen-Chun Chen
+- Linjie Li
+- Licheng Yu
+- Ahmed El Kholy
+- Faisal Ahmed
+- Zhe Gan
+- Yu Cheng
+- Jingjing Liu
+fieldsOfStudy:
+- Computer Science
+meta_key: uniter-learning-universal-image-text-representations
+numCitedBy: 282
 pdf_relpath: null
+ref_count: 57
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV 2020
+year: 2019
 ---
 
 # UNITER - Learning UNiversal Image-TExt Representations

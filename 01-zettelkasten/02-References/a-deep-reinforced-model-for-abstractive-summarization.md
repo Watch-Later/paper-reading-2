@@ -1,10 +1,21 @@
 ---
 title: A Deep Reinforced Model for Abstractive Summarization
+authors:
+- Romain Paulus
+- Caiming Xiong
+- R. Socher
+fieldsOfStudy:
+- Computer Science
+meta_key: a-deep-reinforced-model-for-abstractive-summarization
+numCitedBy: 1063
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2018
 ---
 
 # A Deep Reinforced Model for Abstractive Summarization

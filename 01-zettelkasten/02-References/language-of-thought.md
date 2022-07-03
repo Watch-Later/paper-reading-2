@@ -1,10 +1,20 @@
 ---
 title: LANGUAGE OF THOUGHT
+authors:
+- D. McDermott
+fieldsOfStudy:
+- Linguistics
+- Psychology
+meta_key: language-of-thought
+numCitedBy: 1244
 pdf_relpath: null
+ref_count: 7
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2012
 ---
 
 # LANGUAGE OF THOUGHT

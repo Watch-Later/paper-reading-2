@@ -1,10 +1,21 @@
 ---
 title: Grid Long Short-Term Memory
+authors:
+- Nal Kalchbrenner
+- Ivo Danihelka
+- A. Graves
+fieldsOfStudy:
+- Computer Science
+meta_key: grid-long-short-term-memory
+numCitedBy: 311
 pdf_relpath: null
+ref_count: 52
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # Grid Long Short-Term Memory

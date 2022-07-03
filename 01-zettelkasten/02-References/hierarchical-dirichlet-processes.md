@@ -1,10 +1,23 @@
 ---
 title: Hierarchical Dirichlet Processes
+authors:
+- Y. Teh
+- Michael I. Jordan
+- Matthew J. Beal
+- D. Blei
+fieldsOfStudy:
+- Mathematics
+- Computer Science
+meta_key: hierarchical-dirichlet-processes
+numCitedBy: 3577
 pdf_relpath: null
+ref_count: 86
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2006
 ---
 
 # Hierarchical Dirichlet Processes

@@ -1,10 +1,21 @@
 ---
 title: Multi-column deep neural networks for image classification
+authors:
+- D. Ciresan
+- U. Meier
+- J. Schmidhuber
+fieldsOfStudy:
+- Computer Science
+meta_key: multi-column-deep-neural-networks-for-image-classification
+numCitedBy: 3369
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2012 IEEE Conference on Computer Vision and Pattern Recognition
+year: 2012
 ---
 
 # Multi-column deep neural networks for image classification

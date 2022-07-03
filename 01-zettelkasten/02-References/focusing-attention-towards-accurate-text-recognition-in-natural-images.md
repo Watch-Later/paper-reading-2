@@ -1,10 +1,24 @@
 ---
 title: Focusing Attention - Towards Accurate Text Recognition in Natural Images
+authors:
+- Zhanzhan Cheng
+- Fan Bai
+- Yunlu Xu
+- Gang Zheng
+- Shiliang Pu
+- Shuigeng Zhou
+fieldsOfStudy:
+- Computer Science
+meta_key: focusing-attention-towards-accurate-text-recognition-in-natural-images
+numCitedBy: 284
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # Focusing Attention - Towards Accurate Text Recognition in Natural Images

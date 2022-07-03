@@ -1,10 +1,21 @@
 ---
 title: Adaptive Subgradient Methods for Online Learning and Stochastic Optimization
+authors:
+- John C. Duchi
+- Elad Hazan
+- Y. Singer
+fieldsOfStudy:
+- Computer Science
+meta_key: adaptive-subgradient-methods-for-online-learning-and-stochastic-optimization
+numCitedBy: 8025
 pdf_relpath: null
+ref_count: 75
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: J. Mach. Learn. Res.
+year: 2010
 ---
 
 # Adaptive Subgradient Methods for Online Learning and Stochastic Optimization

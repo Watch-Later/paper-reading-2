@@ -1,10 +1,21 @@
 ---
 title: Learning Conditioned Graph Structures for Interpretable Visual Question Answering
+authors:
+- Will Norcliffe-Brown
+- Efstathios Vafeias
+- Sarah Parisot
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-conditioned-graph-structures-for-interpretable-visual-question-answering
+numCitedBy: 149
 pdf_relpath: null
+ref_count: 24
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NeurIPS
+year: 2018
 ---
 
 # Learning Conditioned Graph Structures for Interpretable Visual Question Answering

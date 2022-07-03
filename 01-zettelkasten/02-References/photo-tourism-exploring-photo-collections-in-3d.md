@@ -1,10 +1,21 @@
 ---
 title: Photo tourism - exploring photo collections in 3D
+authors:
+- Noah Snavely
+- S. Seitz
+- R. Szeliski
+fieldsOfStudy:
+- Computer Science
+meta_key: photo-tourism-exploring-photo-collections-in-3d
+numCitedBy: 3203
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: SIGGRAPH '06
+year: 2006
 ---
 
 # Photo tourism - exploring photo collections in 3D

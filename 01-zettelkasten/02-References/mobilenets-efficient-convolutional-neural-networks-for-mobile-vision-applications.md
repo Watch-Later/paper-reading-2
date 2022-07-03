@@ -1,10 +1,26 @@
 ---
 title: MobileNets - Efficient Convolutional Neural Networks for Mobile Vision Applications
+authors:
+- Andrew G. Howard
+- Menglong Zhu
+- Bo Chen
+- Dmitry Kalenichenko
+- Weijun Wang
+- Tobias Weyand
+- M. Andreetto
+- Hartwig Adam
+fieldsOfStudy:
+- Computer Science
+meta_key: mobilenets-efficient-convolutional-neural-networks-for-mobile-vision-applications
+numCitedBy: 10142
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2017
 ---
 
 # MobileNets - Efficient Convolutional Neural Networks for Mobile Vision Applications

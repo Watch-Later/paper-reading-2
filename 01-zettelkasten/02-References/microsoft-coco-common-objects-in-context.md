@@ -1,10 +1,26 @@
 ---
 title: Microsoft COCO - Common Objects in Context
+authors:
+- Tsung-Yi Lin
+- M. Maire
+- Serge J. Belongie
+- James Hays
+- P. Perona
+- D. Ramanan
+- "Piotr Doll\xE1r"
+- C. L. Zitnick
+fieldsOfStudy:
+- Computer Science
+meta_key: microsoft-coco-common-objects-in-context
+numCitedBy: 19778
 pdf_relpath: null
+ref_count: 61
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2014
 ---
 
 # Microsoft COCO - Common Objects in Context

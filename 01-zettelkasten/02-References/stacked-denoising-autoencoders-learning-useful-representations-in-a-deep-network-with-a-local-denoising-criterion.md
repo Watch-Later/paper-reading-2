@@ -1,10 +1,23 @@
 ---
 title: Stacked Denoising Autoencoders - Learning Useful Representations in a Deep Network with a Local Denoising Criterion
+authors:
+- Pascal Vincent
+- H. Larochelle
+- Isabelle Lajoie
+- Yoshua Bengio
+- Pierre-Antoine Manzagol
+fieldsOfStudy:
+- Computer Science
+meta_key: stacked-denoising-autoencoders-learning-useful-representations-in-a-deep-network-with-a-local-denoising-criterion
+numCitedBy: 5610
 pdf_relpath: null
+ref_count: 63
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: J. Mach. Learn. Res.
+year: 2010
 ---
 
 # Stacked Denoising Autoencoders - Learning Useful Representations in a Deep Network with a Local Denoising Criterion

@@ -1,10 +1,24 @@
 ---
 title: ImageNet - A large-scale hierarchical image database
+authors:
+- Jia Deng
+- Wei Dong
+- R. Socher
+- Li-Jia Li
+- K. Li
+- Li Fei-Fei
+fieldsOfStudy:
+- Computer Science
+meta_key: imagenet-a-large-scale-hierarchical-image-database
+numCitedBy: 27401
 pdf_relpath: null
+ref_count: 53
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2009 IEEE Conference on Computer Vision and Pattern Recognition
+year: 2009
 ---
 
 # ImageNet - A large-scale hierarchical image database

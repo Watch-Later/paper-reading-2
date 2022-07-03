@@ -1,10 +1,23 @@
 ---
 title: Estimating the Support of a High-Dimensional Distribution
+authors:
+- "B. Sch\xF6lkopf"
+- John C. Platt
+- J. Shawe-Taylor
+- Alex Smola
+- R. C. Williamson
+fieldsOfStudy:
+- Computer Science
+meta_key: estimating-the-support-of-a-high-dimensional-distribution
+numCitedBy: 4688
 pdf_relpath: null
+ref_count: 110
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Neural Computation
+year: 2001
 ---
 
 # Estimating the Support of a High-Dimensional Distribution

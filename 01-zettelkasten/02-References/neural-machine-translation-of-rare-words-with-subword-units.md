@@ -1,10 +1,21 @@
 ---
 title: Neural Machine Translation of Rare Words with Subword Units
+authors:
+- Rico Sennrich
+- B. Haddow
+- Alexandra Birch
+fieldsOfStudy:
+- Computer Science
+meta_key: neural-machine-translation-of-rare-words-with-subword-units
+numCitedBy: 4794
 pdf_relpath: null
+ref_count: 53
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2016
 ---
 
 # Neural Machine Translation of Rare Words with Subword Units

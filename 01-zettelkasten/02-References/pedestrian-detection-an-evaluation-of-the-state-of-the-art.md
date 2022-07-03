@@ -1,10 +1,22 @@
 ---
 title: Pedestrian Detection - An Evaluation of the State of the Art
+authors:
+- "P. Doll\xE1r"
+- C. Wojek
+- B. Schiele
+- P. Perona
+fieldsOfStudy:
+- Computer Science
+meta_key: pedestrian-detection-an-evaluation-of-the-state-of-the-art
+numCitedBy: 2761
 pdf_relpath: null
+ref_count: 116
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2012
 ---
 
 # Pedestrian Detection - An Evaluation of the State of the Art

@@ -1,10 +1,26 @@
 ---
 title: Attention is All you Need
+authors:
+- Ashish Vaswani
+- Noam M. Shazeer
+- Niki Parmar
+- Jakob Uszkoreit
+- Llion Jones
+- Aidan N. Gomez
+- Lukasz Kaiser
+- Illia Polosukhin
+fieldsOfStudy:
+- Computer Science
+meta_key: attention-is-all-you-need
+numCitedBy: 35157
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2017
 ---
 
 # Attention is All you Need

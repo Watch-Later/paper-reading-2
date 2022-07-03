@@ -1,10 +1,20 @@
 ---
 title: End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures
+authors:
+- Makoto Miwa
+- Mohit Bansal
+fieldsOfStudy:
+- Computer Science
+meta_key: end-to-end-relation-extraction-using-lstms-on-sequences-and-tree-structures
+numCitedBy: 796
 pdf_relpath: null
+ref_count: 72
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2016
 ---
 
 # End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures

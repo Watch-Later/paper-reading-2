@@ -1,10 +1,21 @@
 ---
 title: A Bayesian hierarchical model for learning natural scene categories
+authors:
+- Li Fei-Fei
+- P. Perona
+fieldsOfStudy:
+- Computer Science
+meta_key: a-bayesian-hierarchical-model-for-learning-natural-scene-categories
+numCitedBy: 3886
 pdf_relpath: null
+ref_count: 22
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition
+  (CVPR'05)
+year: 2005
 ---
 
 # A Bayesian hierarchical model for learning natural scene categories

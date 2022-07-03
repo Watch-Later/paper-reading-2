@@ -1,10 +1,20 @@
 ---
 title: Named Entity Recognition with Bidirectional LSTM-CNNs
+authors:
+- Jason P. C. Chiu
+- Eric Nichols
+fieldsOfStudy:
+- Computer Science
+meta_key: named-entity-recognition-with-bidirectional-lstm-cnns
+numCitedBy: 1335
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: TACL
+year: 2016
 ---
 
 # Named Entity Recognition with Bidirectional LSTM-CNNs

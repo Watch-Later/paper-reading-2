@@ -1,10 +1,21 @@
 ---
 title: Multiresolution Gray-Scale and Rotation Invariant Texture Classification with Local Binary Patterns
+authors:
+- T. Ojala
+- "M. Pietik\xE4inen"
+- "Topi M\xE4enp\xE4\xE4"
+fieldsOfStudy:
+- Computer Science
+meta_key: multiresolution-gray-scale-and-rotation-invariant-texture-classification-with-local-binary-patterns
+numCitedBy: 13066
 pdf_relpath: null
+ref_count: 96
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Trans. Pattern Anal. Mach. Intell.
+year: 2002
 ---
 
 # Multiresolution Gray-Scale and Rotation Invariant Texture Classification with Local Binary Patterns

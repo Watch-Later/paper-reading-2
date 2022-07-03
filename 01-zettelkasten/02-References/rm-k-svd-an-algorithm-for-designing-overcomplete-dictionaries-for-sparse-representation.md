@@ -1,10 +1,21 @@
 ---
 title: $rm K$-SVD - An Algorithm for Designing Overcomplete Dictionaries for Sparse Representation
+authors:
+- M. Aharon
+- Michael Elad
+- A. Bruckstein
+fieldsOfStudy:
+- Computer Science
+meta_key: rm-k-svd-an-algorithm-for-designing-overcomplete-dictionaries-for-sparse-representation
+numCitedBy: 7336
 pdf_relpath: null
+ref_count: 55
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Signal Processing
+year: 2006
 ---
 
 # $rm K$-SVD - An Algorithm for Designing Overcomplete Dictionaries for Sparse Representation

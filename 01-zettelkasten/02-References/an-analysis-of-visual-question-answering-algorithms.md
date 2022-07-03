@@ -1,10 +1,20 @@
 ---
 title: An Analysis of Visual Question Answering Algorithms
+authors:
+- Kushal Kafle
+- Christopher Kanan
+fieldsOfStudy:
+- Computer Science
+meta_key: an-analysis-of-visual-question-answering-algorithms
+numCitedBy: 150
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # An Analysis of Visual Question Answering Algorithms

@@ -1,10 +1,20 @@
 ---
 title: An Overview of Multi-task Learning
+authors:
+- Yu Zhang
+- Qiang Yang
+fieldsOfStudy:
+- Computer Science
+meta_key: an-overview-of-multi-task-learning
+numCitedBy: 757
 pdf_relpath: null
+ref_count: 144
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2018
 ---
 
 # An Overview of Multi-task Learning

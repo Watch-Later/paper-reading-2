@@ -1,10 +1,23 @@
 ---
 title: Stacked Attention Networks for Image Question Answering
+authors:
+- Zichao Yang
+- Xiaodong He
+- Jianfeng Gao
+- L. Deng
+- Alex Smola
+fieldsOfStudy:
+- Computer Science
+meta_key: stacked-attention-networks-for-image-question-answering
+numCitedBy: 1475
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Stacked Attention Networks for Image Question Answering

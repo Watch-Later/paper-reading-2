@@ -1,10 +1,24 @@
 ---
 title: FigureQA - An Annotated Figure Dataset for Visual Reasoning
+authors:
+- S. Kahou
+- Adam Atkinson
+- Vincent Michalski
+- "\xC1kos K\xE1d\xE1r"
+- Adam Trischler
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: figureqa-an-annotated-figure-dataset-for-visual-reasoning
+numCitedBy: 105
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2018
 ---
 
 # FigureQA - An Annotated Figure Dataset for Visual Reasoning

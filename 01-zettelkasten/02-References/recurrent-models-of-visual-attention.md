@@ -1,10 +1,22 @@
 ---
 title: Recurrent Models of Visual Attention
+authors:
+- Volodymyr Mnih
+- N. Heess
+- A. Graves
+- K. Kavukcuoglu
+fieldsOfStudy:
+- Computer Science
+meta_key: recurrent-models-of-visual-attention
+numCitedBy: 2410
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2014
 ---
 
 # Recurrent Models of Visual Attention

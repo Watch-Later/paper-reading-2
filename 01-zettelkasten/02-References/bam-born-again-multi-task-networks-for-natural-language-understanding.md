@@ -1,10 +1,23 @@
 ---
 title: BAM! Born-Again Multi-Task Networks for Natural Language Understanding
+authors:
+- Kevin Clark
+- Minh-Thang Luong
+- Urvashi Khandelwal
+- Christopher D. Manning
+- Quoc V. Le
+fieldsOfStudy:
+- Computer Science
+meta_key: bam-born-again-multi-task-networks-for-natural-language-understanding
+numCitedBy: 139
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2019
 ---
 
 # BAM! Born-Again Multi-Task Networks for Natural Language Understanding

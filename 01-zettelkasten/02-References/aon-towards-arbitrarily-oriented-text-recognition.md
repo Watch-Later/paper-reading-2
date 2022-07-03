@@ -1,10 +1,24 @@
 ---
 title: AON - Towards Arbitrarily-Oriented Text Recognition
+authors:
+- Zhanzhan Cheng
+- Yangliu Xu
+- Fan Bai
+- Yi Niu
+- Shiliang Pu
+- Shuigeng Zhou
+fieldsOfStudy:
+- Computer Science
+meta_key: aon-towards-arbitrarily-oriented-text-recognition
+numCitedBy: 173
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # AON - Towards Arbitrarily-Oriented Text Recognition

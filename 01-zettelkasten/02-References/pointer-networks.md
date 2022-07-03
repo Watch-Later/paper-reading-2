@@ -1,10 +1,21 @@
 ---
 title: Pointer Networks
+authors:
+- Oriol Vinyals
+- Meire Fortunato
+- Navdeep Jaitly
+fieldsOfStudy:
+- Computer Science
+meta_key: pointer-networks
+numCitedBy: 1706
 pdf_relpath: null
+ref_count: 26
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2015
 ---
 
 # Pointer Networks

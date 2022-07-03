@@ -1,10 +1,22 @@
 ---
 title: MUREL - Multimodal Relational Reasoning for Visual Question Answering
+authors:
+- "R\xE9mi Cad\xE8ne"
+- H. Ben-younes
+- M. Cord
+- Nicolas Thome
+fieldsOfStudy:
+- Computer Science
+meta_key: murel-multimodal-relational-reasoning-for-visual-question-answering
+numCitedBy: 168
 pdf_relpath: null
+ref_count: 50
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2019
 ---
 
 # MUREL - Multimodal Relational Reasoning for Visual Question Answering

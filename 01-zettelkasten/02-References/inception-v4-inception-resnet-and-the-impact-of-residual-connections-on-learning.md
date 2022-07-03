@@ -1,10 +1,22 @@
 ---
 title: Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
+authors:
+- Christian Szegedy
+- S. Ioffe
+- Vincent Vanhoucke
+- Alexander A. Alemi
+fieldsOfStudy:
+- Computer Science
+meta_key: inception-v4-inception-resnet-and-the-impact-of-residual-connections-on-learning
+numCitedBy: 8045
 pdf_relpath: null
+ref_count: 26
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: AAAI
+year: 2017
 ---
 
 # Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning

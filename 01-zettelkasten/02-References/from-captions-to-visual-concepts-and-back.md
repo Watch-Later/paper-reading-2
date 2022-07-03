@@ -1,10 +1,30 @@
 ---
 title: From captions to visual concepts and back
+authors:
+- Hao Fang
+- Saurabh Gupta
+- Forrest N. Iandola
+- R. Srivastava
+- L. Deng
+- "Piotr Doll\xE1r"
+- Jianfeng Gao
+- Xiaodong He
+- Margaret Mitchell
+- John C. Platt
+- C. L. Zitnick
+- G. Zweig
+fieldsOfStudy:
+- Computer Science
+meta_key: from-captions-to-visual-concepts-and-back
+numCitedBy: 1107
 pdf_relpath: null
+ref_count: 61
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2015
 ---
 
 # From captions to visual concepts and back

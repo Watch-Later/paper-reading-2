@@ -1,10 +1,29 @@
 ---
 title: Zoneout - Regularizing RNNs by Randomly Preserving Hidden Activations
+authors:
+- David Krueger
+- Tegan Maharaj
+- J'anos Kram'ar
+- M. Pezeshki
+- Nicolas Ballas
+- Nan Rosemary Ke
+- Anirudh Goyal
+- Yoshua Bengio
+- H. Larochelle
+- Aaron C. Courville
+- Chris Pal
+fieldsOfStudy:
+- Computer Science
+meta_key: zoneout-regularizing-rnns-by-randomly-preserving-hidden-activations
+numCitedBy: 266
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2017
 ---
 
 # Zoneout - Regularizing RNNs by Randomly Preserving Hidden Activations

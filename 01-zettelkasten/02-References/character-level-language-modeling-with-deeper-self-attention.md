@@ -1,10 +1,23 @@
 ---
 title: Character-Level Language Modeling with Deeper Self-Attention
+authors:
+- Rami Al-Rfou
+- Dokook Choe
+- Noah Constant
+- Mandy Guo
+- Llion Jones
+fieldsOfStudy:
+- Computer Science
+meta_key: character-level-language-modeling-with-deeper-self-attention
+numCitedBy: 216
 pdf_relpath: null
+ref_count: 61
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: AAAI
+year: 2019
 ---
 
 # Character-Level Language Modeling with Deeper Self-Attention

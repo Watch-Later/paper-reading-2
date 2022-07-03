@@ -1,10 +1,23 @@
 ---
 title: Self-Critical Sequence Training for Image Captioning
+authors:
+- Steven J. Rennie
+- E. Marcheret
+- Youssef Mroueh
+- Jerret Ross
+- Vaibhava Goel
+fieldsOfStudy:
+- Computer Science
+meta_key: self-critical-sequence-training-for-image-captioning
+numCitedBy: 1029
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Self-Critical Sequence Training for Image Captioning

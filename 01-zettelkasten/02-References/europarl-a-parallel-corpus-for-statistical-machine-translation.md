@@ -1,10 +1,19 @@
 ---
 title: Europarl - A Parallel Corpus for Statistical Machine Translation
+authors:
+- Philipp Koehn
+fieldsOfStudy:
+- Computer Science
+meta_key: europarl-a-parallel-corpus-for-statistical-machine-translation
+numCitedBy: 3397
 pdf_relpath: null
+ref_count: 14
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: MTSUMMIT
+year: 2005
 ---
 
 # Europarl - A Parallel Corpus for Statistical Machine Translation

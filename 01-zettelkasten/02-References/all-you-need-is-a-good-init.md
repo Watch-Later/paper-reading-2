@@ -1,10 +1,20 @@
 ---
 title: All you need is a good init
+authors:
+- Dmytro Mishkin
+- Jiri Matas
+fieldsOfStudy:
+- Computer Science
+meta_key: all-you-need-is-a-good-init
+numCitedBy: 489
 pdf_relpath: null
+ref_count: 43
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # All you need is a good init

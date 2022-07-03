@@ -1,10 +1,21 @@
 ---
 title: Sequence to Sequence Learning with Neural Networks
+authors:
+- Ilya Sutskever
+- Oriol Vinyals
+- Quoc V. Le
+fieldsOfStudy:
+- Computer Science
+meta_key: sequence-to-sequence-learning-with-neural-networks
+numCitedBy: 14870
 pdf_relpath: null
+ref_count: 55
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2014
 ---
 
 # Sequence to Sequence Learning with Neural Networks

@@ -1,10 +1,21 @@
 ---
 title: TextBoxes++ - A Single-Shot Oriented Scene Text Detector
+authors:
+- Minghui Liao
+- Baoguang Shi
+- X. Bai
+fieldsOfStudy:
+- Computer Science
+meta_key: textboxes-a-single-shot-oriented-scene-text-detector
+numCitedBy: 442
 pdf_relpath: null
+ref_count: 67
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Image Processing
+year: 2018
 ---
 
 # TextBoxes++ - A Single-Shot Oriented Scene Text Detector

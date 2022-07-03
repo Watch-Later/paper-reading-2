@@ -1,10 +1,22 @@
 ---
 title: Greedy Layer-Wise Training of Deep Networks
+authors:
+- Yoshua Bengio
+- Pascal Lamblin
+- D. Popovici
+- H. Larochelle
+fieldsOfStudy:
+- Computer Science
+meta_key: greedy-layer-wise-training-of-deep-networks
+numCitedBy: 3434
 pdf_relpath: null
+ref_count: 25
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2006
 ---
 
 # Greedy Layer-Wise Training of Deep Networks

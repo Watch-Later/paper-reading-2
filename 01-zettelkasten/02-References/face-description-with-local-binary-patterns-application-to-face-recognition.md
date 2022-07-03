@@ -1,10 +1,21 @@
 ---
 title: Face Description with Local Binary Patterns - Application to Face Recognition
+authors:
+- T. Ahonen
+- A. Hadid
+- "M. Pietik\xE4inen"
+fieldsOfStudy:
+- Computer Science
+meta_key: face-description-with-local-binary-patterns-application-to-face-recognition
+numCitedBy: 5460
 pdf_relpath: null
+ref_count: 43
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2006
 ---
 
 # Face Description with Local Binary Patterns - Application to Face Recognition

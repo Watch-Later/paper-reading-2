@@ -1,10 +1,22 @@
 ---
 title: Auto-Encoding Scene Graphs for Image Captioning
+authors:
+- Xu Yang
+- Kaihua Tang
+- Hanwang Zhang
+- Jianfei Cai
+fieldsOfStudy:
+- Computer Science
+meta_key: auto-encoding-scene-graphs-for-image-captioning
+numCitedBy: 325
 pdf_relpath: null
+ref_count: 67
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2019
 ---
 
 # Auto-Encoding Scene Graphs for Image Captioning

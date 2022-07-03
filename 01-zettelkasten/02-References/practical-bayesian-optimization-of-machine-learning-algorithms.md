@@ -1,10 +1,21 @@
 ---
 title: Practical Bayesian Optimization of Machine Learning Algorithms
+authors:
+- Jasper Snoek
+- H. Larochelle
+- Ryan P. Adams
+fieldsOfStudy:
+- Computer Science
+meta_key: practical-bayesian-optimization-of-machine-learning-algorithms
+numCitedBy: 5019
 pdf_relpath: null
+ref_count: 50
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2012
 ---
 
 # Practical Bayesian Optimization of Machine Learning Algorithms

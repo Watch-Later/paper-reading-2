@@ -1,10 +1,21 @@
 ---
 title: Bilinear CNN Models for Fine-Grained Visual Recognition
+authors:
+- Tsung-Yu Lin
+- Aruni RoyChowdhury
+- Subhransu Maji
+fieldsOfStudy:
+- Computer Science
+meta_key: bilinear-cnn-models-for-fine-grained-visual-recognition
+numCitedBy: 1271
 pdf_relpath: null
+ref_count: 81
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE International Conference on Computer Vision (ICCV)
+year: 2015
 ---
 
 # Bilinear CNN Models for Fine-Grained Visual Recognition

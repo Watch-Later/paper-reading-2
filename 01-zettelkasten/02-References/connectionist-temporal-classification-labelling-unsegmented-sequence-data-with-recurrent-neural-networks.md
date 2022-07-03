@@ -1,10 +1,22 @@
 ---
 title: Connectionist temporal classification - labelling unsegmented sequence data with recurrent neural networks
+authors:
+- A. Graves
+- "Santiago Fern\xE1ndez"
+- Faustino J. Gomez
+- J. Schmidhuber
+fieldsOfStudy:
+- Computer Science
+meta_key: connectionist-temporal-classification-labelling-unsegmented-sequence-data-with-recurrent-neural-networks
+numCitedBy: 3467
 pdf_relpath: null
+ref_count: 24
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2006
 ---
 
 # Connectionist temporal classification - labelling unsegmented sequence data with recurrent neural networks

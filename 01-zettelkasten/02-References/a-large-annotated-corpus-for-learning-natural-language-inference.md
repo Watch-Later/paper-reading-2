@@ -1,10 +1,22 @@
 ---
 title: A large annotated corpus for learning natural language inference
+authors:
+- Samuel R. Bowman
+- Gabor Angeli
+- Christopher Potts
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: a-large-annotated-corpus-for-learning-natural-language-inference
+numCitedBy: 2525
 pdf_relpath: null
+ref_count: 38
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2015
 ---
 
 # A large annotated corpus for learning natural language inference

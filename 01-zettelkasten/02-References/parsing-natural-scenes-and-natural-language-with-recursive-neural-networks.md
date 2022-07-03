@@ -1,10 +1,22 @@
 ---
 title: Parsing Natural Scenes and Natural Language with Recursive Neural Networks
+authors:
+- R. Socher
+- Cliff Chiung-Yu Lin
+- A. Ng
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: parsing-natural-scenes-and-natural-language-with-recursive-neural-networks
+numCitedBy: 1320
 pdf_relpath: null
+ref_count: 26
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2011
 ---
 
 # Parsing Natural Scenes and Natural Language with Recursive Neural Networks

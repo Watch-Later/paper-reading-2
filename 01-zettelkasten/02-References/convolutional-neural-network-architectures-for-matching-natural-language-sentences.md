@@ -1,10 +1,22 @@
 ---
 title: Convolutional Neural Network Architectures for Matching Natural Language Sentences
+authors:
+- Baotian Hu
+- Zhengdong Lu
+- Hang Li
+- Qingcai Chen
+fieldsOfStudy:
+- Computer Science
+meta_key: convolutional-neural-network-architectures-for-matching-natural-language-sentences
+numCitedBy: 1104
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2014
 ---
 
 # Convolutional Neural Network Architectures for Matching Natural Language Sentences

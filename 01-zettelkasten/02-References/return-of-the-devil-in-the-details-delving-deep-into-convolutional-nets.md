@@ -1,10 +1,22 @@
 ---
 title: Return of the Devil in the Details - Delving Deep into Convolutional Nets
+authors:
+- K. Chatfield
+- K. Simonyan
+- A. Vedaldi
+- Andrew Zisserman
+fieldsOfStudy:
+- Computer Science
+meta_key: return-of-the-devil-in-the-details-delving-deep-into-convolutional-nets
+numCitedBy: 3045
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: BMVC
+year: 2014
 ---
 
 # Return of the Devil in the Details - Delving Deep into Convolutional Nets

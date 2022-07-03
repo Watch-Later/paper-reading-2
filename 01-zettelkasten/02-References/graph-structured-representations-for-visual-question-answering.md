@@ -1,10 +1,21 @@
 ---
 title: Graph-Structured Representations for Visual Question Answering
+authors:
+- Damien Teney
+- Lingqiao Liu
+- A. V. Hengel
+fieldsOfStudy:
+- Computer Science
+meta_key: graph-structured-representations-for-visual-question-answering
+numCitedBy: 259
 pdf_relpath: null
+ref_count: 36
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Graph-Structured Representations for Visual Question Answering

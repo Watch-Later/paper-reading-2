@@ -1,10 +1,20 @@
 ---
 title: Multi-Scale Context Aggregation by Dilated Convolutions
+authors:
+- F. Yu
+- V. Koltun
+fieldsOfStudy:
+- Computer Science
+meta_key: multi-scale-context-aggregation-by-dilated-convolutions
+numCitedBy: 5425
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # Multi-Scale Context Aggregation by Dilated Convolutions

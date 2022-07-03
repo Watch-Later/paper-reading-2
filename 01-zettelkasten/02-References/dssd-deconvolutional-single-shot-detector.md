@@ -1,10 +1,23 @@
 ---
 title: DSSD - Deconvolutional Single Shot Detector
+authors:
+- Cheng-Yang Fu
+- W. Liu
+- A. Ranga
+- A. Tyagi
+- A. Berg
+fieldsOfStudy:
+- Computer Science
+meta_key: dssd-deconvolutional-single-shot-detector
+numCitedBy: 1203
 pdf_relpath: null
+ref_count: 27
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2017
 ---
 
 # DSSD - Deconvolutional Single Shot Detector

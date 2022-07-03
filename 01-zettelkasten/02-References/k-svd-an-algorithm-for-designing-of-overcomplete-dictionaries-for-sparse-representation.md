@@ -1,10 +1,22 @@
 ---
 title: K-SVD - An Algorithm for Designing of Overcomplete Dictionaries for Sparse Representation
+authors:
+- M. Aharon
+- Michael Elad
+- A. Bruckstein
+- Y. Katz
+fieldsOfStudy:
+- Computer Science
+meta_key: k-svd-an-algorithm-for-designing-of-overcomplete-dictionaries-for-sparse-representation
+numCitedBy: 6193
 pdf_relpath: null
+ref_count: 49
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2005
 ---
 
 # K-SVD - An Algorithm for Designing of Overcomplete Dictionaries for Sparse Representation

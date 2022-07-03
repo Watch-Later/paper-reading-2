@@ -1,10 +1,20 @@
 ---
 title: Very Deep Convolutional Networks for Large-Scale Image Recognition
+authors:
+- K. Simonyan
+- Andrew Zisserman
+fieldsOfStudy:
+- Computer Science
+meta_key: very-deep-convolutional-networks-for-large-scale-image-recognition
+numCitedBy: 62220
 pdf_relpath: null
+ref_count: 59
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2015
 ---
 
 # Very Deep Convolutional Networks for Large-Scale Image Recognition

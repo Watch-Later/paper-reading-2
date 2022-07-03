@@ -1,10 +1,24 @@
 ---
 title: Natural Language Processing (Almost) from Scratch
+authors:
+- Ronan Collobert
+- J. Weston
+- L. Bottou
+- Michael Karlen
+- K. Kavukcuoglu
+- P. Kuksa
+fieldsOfStudy:
+- Computer Science
+meta_key: natural-language-processing-almost-from-scratch
+numCitedBy: 6661
 pdf_relpath: null
+ref_count: 108
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: J. Mach. Learn. Res.
+year: 2011
 ---
 
 # Natural Language Processing (Almost) from Scratch

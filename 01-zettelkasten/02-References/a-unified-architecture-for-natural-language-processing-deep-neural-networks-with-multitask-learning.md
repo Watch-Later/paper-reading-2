@@ -1,10 +1,20 @@
 ---
 title: A unified architecture for natural language processing - deep neural networks with multitask learning
+authors:
+- Ronan Collobert
+- J. Weston
+fieldsOfStudy:
+- Computer Science
+meta_key: a-unified-architecture-for-natural-language-processing-deep-neural-networks-with-multitask-learning
+numCitedBy: 5024
 pdf_relpath: null
+ref_count: 27
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML '08
+year: 2008
 ---
 
 # A unified architecture for natural language processing - deep neural networks with multitask learning

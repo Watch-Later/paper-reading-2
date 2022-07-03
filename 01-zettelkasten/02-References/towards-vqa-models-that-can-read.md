@@ -1,10 +1,26 @@
 ---
 title: Towards VQA Models That Can Read
+authors:
+- Amanpreet Singh
+- Vivek Natarajan
+- Meet Shah
+- Yu Jiang
+- Xinlei Chen
+- Dhruv Batra
+- Devi Parikh
+- Marcus Rohrbach
+fieldsOfStudy:
+- Computer Science
+meta_key: towards-vqa-models-that-can-read
+numCitedBy: 180
 pdf_relpath: null
+ref_count: 57
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2019
 ---
 
 # Towards VQA Models That Can Read

@@ -1,10 +1,27 @@
 ---
 title: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+authors:
+- Colin Raffel
+- Noam M. Shazeer
+- Adam Roberts
+- Katherine Lee
+- Sharan Narang
+- Michael Matena
+- Yanqi Zhou
+- Wei Li
+- Peter J. Liu
+fieldsOfStudy:
+- Computer Science
+meta_key: exploring-the-limits-of-transfer-learning-with-a-unified-text-to-text-transformer
+numCitedBy: 3764
 pdf_relpath: null
+ref_count: 139
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: J. Mach. Learn. Res.
+year: 2020
 ---
 
 # Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer

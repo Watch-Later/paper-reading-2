@@ -1,10 +1,23 @@
 ---
 title: Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond
+authors:
+- Ramesh Nallapati
+- Bowen Zhou
+- C. D. Santos
+- "\xC7aglar G\xFCl\xE7ehre"
+- Bing Xiang
+fieldsOfStudy:
+- Computer Science
+meta_key: abstractive-text-summarization-using-sequence-to-sequence-rnns-and-beyond
+numCitedBy: 1564
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: CoNLL
+year: 2016
 ---
 
 # Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond

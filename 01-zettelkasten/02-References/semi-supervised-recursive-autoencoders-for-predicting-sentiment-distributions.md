@@ -1,10 +1,23 @@
 ---
 title: Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions
+authors:
+- R. Socher
+- Jeffrey Pennington
+- E. Huang
+- A. Ng
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: semi-supervised-recursive-autoencoders-for-predicting-sentiment-distributions
+numCitedBy: 1244
 pdf_relpath: null
+ref_count: 38
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2011
 ---
 
 # Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions

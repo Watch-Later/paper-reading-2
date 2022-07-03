@@ -1,10 +1,25 @@
 ---
 title: Multimodal Residual Learning for Visual QA
+authors:
+- Jin-Hwa Kim
+- Sang-Woo Lee
+- Donghyun Kwak
+- Min-Oh Heo
+- Jeonghee Kim
+- Jung-Woo Ha
+- Byoung-Tak Zhang
+fieldsOfStudy:
+- Computer Science
+meta_key: multimodal-residual-learning-for-visual-qa
+numCitedBy: 223
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2016
 ---
 
 # Multimodal Residual Learning for Visual QA

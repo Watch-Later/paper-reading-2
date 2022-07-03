@@ -1,10 +1,20 @@
 ---
 title: LXMERT - Learning Cross-Modality Encoder Representations from Transformers
+authors:
+- Hao Hao Tan
+- Mohit Bansal
+fieldsOfStudy:
+- Computer Science
+meta_key: lxmert-learning-cross-modality-encoder-representations-from-transformers
+numCitedBy: 916
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2019
 ---
 
 # LXMERT - Learning Cross-Modality Encoder Representations from Transformers

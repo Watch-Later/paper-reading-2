@@ -1,10 +1,25 @@
 ---
 title: SCA-CNN - Spatial and Channel-Wise Attention in Convolutional Networks for Image Captioning
+authors:
+- Long Chen
+- Hanwang Zhang
+- Jun Xiao
+- Liqiang Nie
+- Jian Shao
+- Wei Liu
+- Tat-Seng Chua
+fieldsOfStudy:
+- Computer Science
+meta_key: sca-cnn-spatial-and-channel-wise-attention-in-convolutional-networks-for-image-captioning
+numCitedBy: 1004
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # SCA-CNN - Spatial and Channel-Wise Attention in Convolutional Networks for Image Captioning

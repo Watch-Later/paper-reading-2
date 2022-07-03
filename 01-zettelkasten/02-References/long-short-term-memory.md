@@ -1,10 +1,20 @@
 ---
 title: Long Short-Term Memory
+authors:
+- S. Hochreiter
+- J. Schmidhuber
+fieldsOfStudy:
+- Computer Science
+meta_key: long-short-term-memory
+numCitedBy: 51648
 pdf_relpath: null
+ref_count: 68
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Neural Computation
+year: 1997
 ---
 
 # Long Short-Term Memory

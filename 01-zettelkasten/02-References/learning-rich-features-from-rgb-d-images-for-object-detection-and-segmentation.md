@@ -1,10 +1,22 @@
 ---
 title: Learning Rich Features from RGB-D Images for Object Detection and Segmentation
+authors:
+- Saurabh Gupta
+- Ross B. Girshick
+- "Pablo Arbel\xE1ez"
+- Jitendra Malik
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-rich-features-from-rgb-d-images-for-object-detection-and-segmentation
+numCitedBy: 1294
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2014
 ---
 
 # Learning Rich Features from RGB-D Images for Object Detection and Segmentation

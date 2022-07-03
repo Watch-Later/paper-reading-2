@@ -1,6 +1,7 @@
 ---
 title: Craft Character Region Awareness(2019)
 highlight: CVPR2019
+meta_key: character-region-awareness-for-text-detection
 pdf_relpath: pdfs/2019-CRAFT-character-region-awareness.pdf
 status: reading
 tags:
@@ -193,7 +194,3 @@ pixel 级别置信度标注
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h329zx6i6uj20fv0a5dht.jpg)
 
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h329yryxpaj206m08c3z7.jpg)
-
-## References
-
-1.

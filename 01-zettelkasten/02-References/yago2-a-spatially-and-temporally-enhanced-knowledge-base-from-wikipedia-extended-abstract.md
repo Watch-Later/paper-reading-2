@@ -1,10 +1,22 @@
 ---
 title: YAGO2 - A Spatially and Temporally Enhanced Knowledge Base from Wikipedia - Extended Abstract
+authors:
+- Johannes Hoffart
+- Fabian M. Suchanek
+- K. Berberich
+- G. Weikum
+fieldsOfStudy:
+- Computer Science
+meta_key: yago2-a-spatially-and-temporally-enhanced-knowledge-base-from-wikipedia-extended-abstract
+numCitedBy: 1138
 pdf_relpath: null
+ref_count: 156
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IJCAI
+year: 2013
 ---
 
 # YAGO2 - A Spatially and Temporally Enhanced Knowledge Base from Wikipedia - Extended Abstract

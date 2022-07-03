@@ -1,10 +1,24 @@
 ---
 title: Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding
+authors:
+- Akira Fukui
+- Dong Huk Park
+- Daylen Yang
+- Anna Rohrbach
+- Trevor Darrell
+- Marcus Rohrbach
+fieldsOfStudy:
+- Computer Science
+meta_key: multimodal-compact-bilinear-pooling-for-visual-question-answering-and-visual-grounding
+numCitedBy: 1086
 pdf_relpath: null
+ref_count: 69
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2016
 ---
 
 # Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding

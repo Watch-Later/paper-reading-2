@@ -1,10 +1,20 @@
 ---
 title: CONDENSATION-Conditional Density Propagation for Visual Tracking
+authors:
+- M. Isard
+- A. Blake
+fieldsOfStudy:
+- Computer Science
+meta_key: condensation-conditional-density-propagation-for-visual-tracking
+numCitedBy: 5523
 pdf_relpath: null
+ref_count: 63
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: International Journal of Computer Vision
+year: 2004
 ---
 
 # CONDENSATION-Conditional Density Propagation for Visual Tracking

@@ -1,10 +1,22 @@
 ---
 title: Show and tell - A neural image caption generator
+authors:
+- Oriol Vinyals
+- Alexander Toshev
+- Samy Bengio
+- D. Erhan
+fieldsOfStudy:
+- Computer Science
+meta_key: show-and-tell-a-neural-image-caption-generator
+numCitedBy: 4510
 pdf_relpath: null
+ref_count: 36
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2015
 ---
 
 # Show and tell - A neural image caption generator

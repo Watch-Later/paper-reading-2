@@ -1,10 +1,24 @@
 ---
 title: Multimodal Deep Learning
+authors:
+- Jiquan Ngiam
+- A. Khosla
+- Mingyu Kim
+- Juhan Nam
+- Honglak Lee
+- A. Ng
+fieldsOfStudy:
+- Computer Science
+meta_key: multimodal-deep-learning
+numCitedBy: 2432
 pdf_relpath: null
+ref_count: 29
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2011
 ---
 
 # Multimodal Deep Learning

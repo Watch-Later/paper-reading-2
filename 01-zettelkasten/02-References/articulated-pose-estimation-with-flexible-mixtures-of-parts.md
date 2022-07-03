@@ -1,10 +1,20 @@
 ---
 title: Articulated pose estimation with flexible mixtures-of-parts
+authors:
+- Yi Yang
+- D. Ramanan
+fieldsOfStudy:
+- Computer Science
+meta_key: articulated-pose-estimation-with-flexible-mixtures-of-parts
+numCitedBy: 1117
 pdf_relpath: null
+ref_count: 43
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: CVPR 2011
+year: 2011
 ---
 
 # Articulated pose estimation with flexible mixtures-of-parts

@@ -1,10 +1,22 @@
 ---
 title: A large-scale hierarchical multi-view RGB-D object dataset
+authors:
+- Kevin Lai
+- Liefeng Bo
+- Xiaofeng Ren
+- D. Fox
+fieldsOfStudy:
+- Computer Science
+meta_key: a-large-scale-hierarchical-multi-view-rgb-d-object-dataset
+numCitedBy: 1370
 pdf_relpath: null
+ref_count: 25
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2011 IEEE International Conference on Robotics and Automation
+year: 2011
 ---
 
 # A large-scale hierarchical multi-view RGB-D object dataset

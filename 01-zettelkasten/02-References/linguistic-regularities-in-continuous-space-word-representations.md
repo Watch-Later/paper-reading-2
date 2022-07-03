@@ -1,10 +1,21 @@
 ---
 title: Linguistic Regularities in Continuous Space Word Representations
+authors:
+- Tomas Mikolov
+- Wen-tau Yih
+- G. Zweig
+fieldsOfStudy:
+- Computer Science
+meta_key: linguistic-regularities-in-continuous-space-word-representations
+numCitedBy: 3051
 pdf_relpath: null
+ref_count: 24
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NAACL
+year: 2013
 ---
 
 # Linguistic Regularities in Continuous Space Word Representations

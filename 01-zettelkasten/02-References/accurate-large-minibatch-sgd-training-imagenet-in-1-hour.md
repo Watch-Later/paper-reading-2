@@ -1,10 +1,27 @@
 ---
 title: Accurate, Large Minibatch SGD - Training ImageNet in 1 Hour
+authors:
+- Priya Goyal
+- "Piotr Doll\xE1r"
+- Ross B. Girshick
+- P. Noordhuis
+- Lukasz Wesolowski
+- Aapo Kyrola
+- Andrew Tulloch
+- Yangqing Jia
+- Kaiming He
+fieldsOfStudy:
+- Computer Science
+meta_key: accurate-large-minibatch-sgd-training-imagenet-in-1-hour
+numCitedBy: 2229
 pdf_relpath: null
+ref_count: 46
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2017
 ---
 
 # Accurate, Large Minibatch SGD - Training ImageNet in 1 Hour

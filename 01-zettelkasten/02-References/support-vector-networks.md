@@ -1,10 +1,20 @@
 ---
 title: Support-Vector Networks
+authors:
+- Corinna Cortes
+- V. Vapnik
+fieldsOfStudy:
+- Computer Science
+meta_key: support-vector-networks
+numCitedBy: 33430
 pdf_relpath: null
+ref_count: 26
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Machine Learning
+year: 2004
 ---
 
 # Support-Vector Networks

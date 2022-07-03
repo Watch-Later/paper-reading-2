@@ -1,10 +1,36 @@
 ---
 title: Natural Questions - A Benchmark for Question Answering Research
+authors:
+- T. Kwiatkowski
+- Jennimaria Palomaki
+- Olivia Redfield
+- Michael Collins
+- Ankur P. Parikh
+- Chris Alberti
+- D. Epstein
+- Illia Polosukhin
+- Jacob Devlin
+- Kenton Lee
+- Kristina Toutanova
+- Llion Jones
+- Matthew Kelcey
+- Ming-Wei Chang
+- Andrew M. Dai
+- Jakob Uszkoreit
+- Quoc V. Le
+- Slav Petrov
+fieldsOfStudy:
+- Computer Science
+meta_key: natural-questions-a-benchmark-for-question-answering-research
+numCitedBy: 897
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: TACL
+year: 2019
 ---
 
 # Natural Questions - A Benchmark for Question Answering Research

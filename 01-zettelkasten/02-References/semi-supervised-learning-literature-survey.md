@@ -1,10 +1,19 @@
 ---
 title: Semi-Supervised Learning Literature Survey
+authors:
+- Xiaojin Zhu
+fieldsOfStudy:
+- Education
+meta_key: semi-supervised-learning-literature-survey
+numCitedBy: 3963
 pdf_relpath: null
+ref_count: 324
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2005
 ---
 
 # Semi-Supervised Learning Literature Survey

@@ -1,10 +1,23 @@
 ---
 title: The Pascal Visual Object Classes (VOC) Challenge
+authors:
+- M. Everingham
+- L. Gool
+- Christopher K. I. Williams
+- J. Winn
+- Andrew Zisserman
+fieldsOfStudy:
+- Computer Science
+meta_key: the-pascal-visual-object-classes-voc-challenge
+numCitedBy: 11692
 pdf_relpath: null
+ref_count: 76
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: International Journal of Computer Vision
+year: 2009
 ---
 
 # The Pascal Visual Object Classes (VOC) Challenge

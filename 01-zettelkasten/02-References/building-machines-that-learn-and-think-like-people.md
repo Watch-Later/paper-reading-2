@@ -1,10 +1,22 @@
 ---
 title: Building machines that learn and think like people
+authors:
+- B. Lake
+- T. Ullman
+- J. Tenenbaum
+- S. Gershman
+fieldsOfStudy:
+- Computer Science
+meta_key: building-machines-that-learn-and-think-like-people
+numCitedBy: 1573
 pdf_relpath: null
+ref_count: 524
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Behavioral and Brain Sciences
+year: 2016
 ---
 
 # Building machines that learn and think like people

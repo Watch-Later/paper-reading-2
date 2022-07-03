@@ -1,10 +1,27 @@
 ---
 title: AllenNLP - A Deep Semantic Natural Language Processing Platform
+authors:
+- Matt Gardner
+- Joel Grus
+- Mark Neumann
+- Oyvind Tafjord
+- Pradeep Dasigi
+- Nelson F. Liu
+- Matthew E. Peters
+- Michael Schmitz
+- Luke Zettlemoyer
+fieldsOfStudy:
+- Computer Science
+meta_key: allennlp-a-deep-semantic-natural-language-processing-platform
+numCitedBy: 893
 pdf_relpath: null
+ref_count: 38
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2018
 ---
 
 # AllenNLP - A Deep Semantic Natural Language Processing Platform

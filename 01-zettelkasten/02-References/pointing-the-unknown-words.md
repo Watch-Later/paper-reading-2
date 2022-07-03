@@ -1,10 +1,23 @@
 ---
 title: Pointing the Unknown Words
+authors:
+- "\xC7aglar G\xFCl\xE7ehre"
+- Sungjin Ahn
+- Ramesh Nallapati
+- Bowen Zhou
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: pointing-the-unknown-words
+numCitedBy: 450
 pdf_relpath: null
+ref_count: 65
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2016
 ---
 
 # Pointing the Unknown Words

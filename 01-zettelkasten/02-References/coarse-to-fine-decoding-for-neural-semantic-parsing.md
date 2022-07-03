@@ -1,10 +1,20 @@
 ---
 title: Coarse-to-Fine Decoding for Neural Semantic Parsing
+authors:
+- Li Dong
+- Mirella Lapata
+fieldsOfStudy:
+- Computer Science
+meta_key: coarse-to-fine-decoding-for-neural-semantic-parsing
+numCitedBy: 285
 pdf_relpath: null
+ref_count: 52
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2018
 ---
 
 # Coarse-to-Fine Decoding for Neural Semantic Parsing

@@ -1,10 +1,21 @@
 ---
 title: Synthetic Data for Text Localisation in Natural Images
+authors:
+- Ankush Gupta
+- A. Vedaldi
+- Andrew Zisserman
+fieldsOfStudy:
+- Computer Science
+meta_key: synthetic-data-for-text-localisation-in-natural-images
+numCitedBy: 887
 pdf_relpath: null
+ref_count: 57
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Synthetic Data for Text Localisation in Natural Images

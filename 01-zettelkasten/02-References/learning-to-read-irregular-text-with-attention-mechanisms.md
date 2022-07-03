@@ -1,10 +1,23 @@
 ---
 title: Learning to Read Irregular Text with Attention Mechanisms
+authors:
+- X. Yang
+- Dafang He
+- Zihan Zhou
+- Daniel Kifer
+- C. Lee Giles
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-to-read-irregular-text-with-attention-mechanisms
+numCitedBy: 128
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IJCAI
+year: 2017
 ---
 
 # Learning to Read Irregular Text with Attention Mechanisms

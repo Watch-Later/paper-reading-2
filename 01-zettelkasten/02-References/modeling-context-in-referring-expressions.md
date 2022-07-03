@@ -1,10 +1,23 @@
 ---
 title: Modeling Context in Referring Expressions
+authors:
+- Licheng Yu
+- Patrick Poirson
+- Shan Yang
+- A. Berg
+- Tamara L. Berg
+fieldsOfStudy:
+- Computer Science
+meta_key: modeling-context-in-referring-expressions
+numCitedBy: 378
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # Modeling Context in Referring Expressions

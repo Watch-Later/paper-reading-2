@@ -1,10 +1,19 @@
 ---
 title: Sinkhorn Distances - Lightspeed Computation of Optimal Transport
+authors:
+- Marco Cuturi
+fieldsOfStudy:
+- Computer Science
+meta_key: sinkhorn-distances-lightspeed-computation-of-optimal-transport
+numCitedBy: 1873
 pdf_relpath: null
+ref_count: 50
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2013
 ---
 
 # Sinkhorn Distances - Lightspeed Computation of Optimal Transport

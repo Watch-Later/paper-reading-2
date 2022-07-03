@@ -1,10 +1,20 @@
 ---
 title: Gaussian Error Linear Units (GELUs)
+authors:
+- Dan Hendrycks
+- Kevin Gimpel
+fieldsOfStudy:
+- Computer Science
+meta_key: gaussian-error-linear-units-gelus
+numCitedBy: 971
 pdf_relpath: null
+ref_count: 26
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2016
 ---
 
 # Gaussian Error Linear Units (GELUs)

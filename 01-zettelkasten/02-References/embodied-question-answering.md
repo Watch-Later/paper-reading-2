@@ -1,10 +1,25 @@
 ---
 title: Embodied Question Answering
+authors:
+- Abhishek Das
+- Samyak Datta
+- Georgia Gkioxari
+- Stefan Lee
+- Devi Parikh
+- Dhruv Batra
+fieldsOfStudy:
+- Computer Science
+meta_key: embodied-question-answering
+numCitedBy: 361
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
+  (CVPRW)
+year: 2018
 ---
 
 # Embodied Question Answering

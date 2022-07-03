@@ -1,10 +1,23 @@
 ---
 title: Dropout - a simple way to prevent neural networks from overfitting
+authors:
+- Nitish Srivastava
+- Geoffrey E. Hinton
+- A. Krizhevsky
+- Ilya Sutskever
+- R. Salakhutdinov
+fieldsOfStudy:
+- Computer Science
+meta_key: dropout-a-simple-way-to-prevent-neural-networks-from-overfitting
+numCitedBy: 28149
 pdf_relpath: null
+ref_count: 43
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: J. Mach. Learn. Res.
+year: 2014
 ---
 
 # Dropout - a simple way to prevent neural networks from overfitting

@@ -1,10 +1,21 @@
 ---
 title: Learning to Count Objects in Natural Images for Visual Question Answering
+authors:
+- Y. Zhang
+- Jonathon S. Hare
+- "A. Pr\xFCgel-Bennett"
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-to-count-objects-in-natural-images-for-visual-question-answering
+numCitedBy: 148
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2018
 ---
 
 # Learning to Count Objects in Natural Images for Visual Question Answering

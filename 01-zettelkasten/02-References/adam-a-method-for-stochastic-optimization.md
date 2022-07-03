@@ -1,10 +1,20 @@
 ---
 title: Adam - A Method for Stochastic Optimization
+authors:
+- Diederik P. Kingma
+- Jimmy Ba
+fieldsOfStudy:
+- Computer Science
+meta_key: adam-a-method-for-stochastic-optimization
+numCitedBy: 90052
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2015
 ---
 
 # Adam - A Method for Stochastic Optimization

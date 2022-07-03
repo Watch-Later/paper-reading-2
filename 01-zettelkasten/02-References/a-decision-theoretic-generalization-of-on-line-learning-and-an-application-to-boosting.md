@@ -1,10 +1,20 @@
 ---
 title: A decision-theoretic generalization of on-line learning and an application to boosting
+authors:
+- Y. Freund
+- R. Schapire
+fieldsOfStudy:
+- Computer Science
+meta_key: a-decision-theoretic-generalization-of-on-line-learning-and-an-application-to-boosting
+numCitedBy: 13126
 pdf_relpath: null
+ref_count: 46
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EuroCOLT
+year: 1995
 ---
 
 # A decision-theoretic generalization of on-line learning and an application to boosting

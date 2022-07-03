@@ -1,10 +1,22 @@
 ---
 title: Pointer Sentinel Mixture Models
+authors:
+- Stephen Merity
+- Caiming Xiong
+- James Bradbury
+- R. Socher
+fieldsOfStudy:
+- Computer Science
+meta_key: pointer-sentinel-mixture-models
+numCitedBy: 1042
 pdf_relpath: null
+ref_count: 38
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2017
 ---
 
 # Pointer Sentinel Mixture Models

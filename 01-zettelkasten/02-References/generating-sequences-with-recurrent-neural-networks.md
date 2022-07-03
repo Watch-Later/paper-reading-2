@@ -1,10 +1,19 @@
 ---
 title: Generating Sequences With Recurrent Neural Networks
+authors:
+- A. Graves
+fieldsOfStudy:
+- Computer Science
+meta_key: generating-sequences-with-recurrent-neural-networks
+numCitedBy: 3151
 pdf_relpath: null
+ref_count: 36
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2013
 ---
 
 # Generating Sequences With Recurrent Neural Networks

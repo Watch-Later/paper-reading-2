@@ -1,10 +1,20 @@
 ---
 title: Baselines and Bigrams - Simple, Good Sentiment and Topic Classification
+authors:
+- Sida I. Wang
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: baselines-and-bigrams-simple-good-sentiment-and-topic-classification
+numCitedBy: 1090
 pdf_relpath: null
+ref_count: 49
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2012
 ---
 
 # Baselines and Bigrams - Simple, Good Sentiment and Topic Classification

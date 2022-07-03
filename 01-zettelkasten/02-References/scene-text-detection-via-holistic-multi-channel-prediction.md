@@ -1,10 +1,24 @@
 ---
 title: Scene Text Detection via Holistic, Multi-Channel Prediction
+authors:
+- C. Yao
+- X. Bai
+- N. Sang
+- Xinyu Zhou
+- Shuchang Zhou
+- Zhimin Cao
+fieldsOfStudy:
+- Computer Science
+meta_key: scene-text-detection-via-holistic-multi-channel-prediction
+numCitedBy: 181
 pdf_relpath: null
+ref_count: 65
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2016
 ---
 
 # Scene Text Detection via Holistic, Multi-Channel Prediction

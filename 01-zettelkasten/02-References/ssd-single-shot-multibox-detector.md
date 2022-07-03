@@ -1,10 +1,26 @@
 ---
+Alias: SSD Network
 title: SSD - Single Shot MultiBox Detector
+authors:
+- W. Liu
+- Dragomir Anguelov
+- D. Erhan
+- Christian Szegedy
+- Scott E. Reed
+- Cheng-Yang Fu
+- A. Berg
+fieldsOfStudy:
+- Computer Science
+meta_key: ssd-single-shot-multibox-detector
+numCitedBy: 15424
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # SSD - Single Shot MultiBox Detector

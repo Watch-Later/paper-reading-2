@@ -1,10 +1,23 @@
 ---
 title: Relation Classification via Convolutional Deep Neural Network
+authors:
+- Daojian Zeng
+- Kang Liu
+- Siwei Lai
+- Guangyou Zhou
+- Jun Zhao
+fieldsOfStudy:
+- Computer Science
+meta_key: relation-classification-via-convolutional-deep-neural-network
+numCitedBy: 1300
 pdf_relpath: null
+ref_count: 24
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: COLING
+year: 2014
 ---
 
 # Relation Classification via Convolutional Deep Neural Network

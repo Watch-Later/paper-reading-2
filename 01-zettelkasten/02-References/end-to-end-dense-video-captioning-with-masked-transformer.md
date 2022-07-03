@@ -1,10 +1,23 @@
 ---
 title: End-to-End Dense Video Captioning with Masked Transformer
+authors:
+- Luowei Zhou
+- Yingbo Zhou
+- Jason J. Corso
+- R. Socher
+- Caiming Xiong
+fieldsOfStudy:
+- Computer Science
+meta_key: end-to-end-dense-video-captioning-with-masked-transformer
+numCitedBy: 269
 pdf_relpath: null
+ref_count: 46
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # End-to-End Dense Video Captioning with Masked Transformer

@@ -1,10 +1,20 @@
 ---
 title: SGDR - Stochastic Gradient Descent with Warm Restarts
+authors:
+- I. Loshchilov
+- F. Hutter
+fieldsOfStudy:
+- Computer Science
+meta_key: sgdr-stochastic-gradient-descent-with-warm-restarts
+numCitedBy: 2723
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2017
 ---
 
 # SGDR - Stochastic Gradient Descent with Warm Restarts

@@ -1,10 +1,20 @@
 ---
 title: Computational Optimal Transport
+authors:
+- "G. Peyr\xE9"
+- Marco Cuturi
+fieldsOfStudy:
+- Geology
+meta_key: computational-optimal-transport
+numCitedBy: 960
 pdf_relpath: null
+ref_count: 474
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Found. Trends Mach. Learn.
+year: 2019
 ---
 
 # Computational Optimal Transport

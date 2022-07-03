@@ -1,10 +1,24 @@
 ---
 title: Published as a conference paper at ICLR 2018 S IMULATING A CTION D YNAMICS WITH N EURAL P ROCESS N ETWORKS
+authors:
+- A. Bosselut
+- Omer Levy
+- Ari Holtzman
+- C. Ennis
+- D. Fox
+- Yejin Choi
+fieldsOfStudy:
+- Computer Science
+meta_key: published-as-a-conference-paper-at-iclr-2018-s-imulating-a-ction-d-ynamics-with-n-eural-p-rocess-n-etworks
+numCitedBy: 156
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2018
 ---
 
 # Published as a conference paper at ICLR 2018 S IMULATING A CTION D YNAMICS WITH N EURAL P ROCESS N ETWORKS

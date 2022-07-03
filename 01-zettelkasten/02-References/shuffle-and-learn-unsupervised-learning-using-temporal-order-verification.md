@@ -1,10 +1,21 @@
 ---
 title: Shuffle and Learn - Unsupervised Learning Using Temporal Order Verification
+authors:
+- Ishan Misra
+- C. L. Zitnick
+- M. Hebert
+fieldsOfStudy:
+- Computer Science
+meta_key: shuffle-and-learn-unsupervised-learning-using-temporal-order-verification
+numCitedBy: 610
 pdf_relpath: null
+ref_count: 88
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # Shuffle and Learn - Unsupervised Learning Using Temporal Order Verification

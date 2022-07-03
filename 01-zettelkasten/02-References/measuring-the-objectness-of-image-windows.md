@@ -1,10 +1,21 @@
 ---
 title: Measuring the Objectness of Image Windows
+authors:
+- B. Alexe
+- Thomas Deselaers
+- V. Ferrari
+fieldsOfStudy:
+- Computer Science
+meta_key: measuring-the-objectness-of-image-windows
+numCitedBy: 1196
 pdf_relpath: null
+ref_count: 62
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2012
 ---
 
 # Measuring the Objectness of Image Windows

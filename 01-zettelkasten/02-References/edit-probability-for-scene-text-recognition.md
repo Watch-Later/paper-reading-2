@@ -1,10 +1,23 @@
 ---
 title: Edit Probability for Scene Text Recognition
+authors:
+- Fan Bai
+- Zhanzhan Cheng
+- Yi Niu
+- Shiliang Pu
+- Shuigeng Zhou
+fieldsOfStudy:
+- Computer Science
+meta_key: edit-probability-for-scene-text-recognition
+numCitedBy: 127
 pdf_relpath: null
+ref_count: 41
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # Edit Probability for Scene Text Recognition

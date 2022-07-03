@@ -1,10 +1,21 @@
 ---
 title: Maximum likelihood from incomplete data via the EM - algorithm plus discussions on the paper
+authors:
+- A. Dempster
+- N. Laird
+- D. Rubin
+fieldsOfStudy:
+- Engineering
+meta_key: maximum-likelihood-from-incomplete-data-via-the-em-algorithm-plus-discussions-on-the-paper
+numCitedBy: 48403
 pdf_relpath: null
+ref_count: 135
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 1977
 ---
 
 # Maximum likelihood from incomplete data via the EM - algorithm plus discussions on the paper

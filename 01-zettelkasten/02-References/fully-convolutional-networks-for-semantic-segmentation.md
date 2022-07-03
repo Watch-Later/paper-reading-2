@@ -1,10 +1,21 @@
 ---
 title: Fully Convolutional Networks for Semantic Segmentation
+authors:
+- Evan Shelhamer
+- Jonathan Long
+- Trevor Darrell
+fieldsOfStudy:
+- Computer Science
+meta_key: fully-convolutional-networks-for-semantic-segmentation
+numCitedBy: 15639
 pdf_relpath: null
+ref_count: 77
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2017
 ---
 
 # Fully Convolutional Networks for Semantic Segmentation

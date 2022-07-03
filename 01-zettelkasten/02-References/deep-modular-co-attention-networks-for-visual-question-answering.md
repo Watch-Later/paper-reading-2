@@ -1,10 +1,23 @@
 ---
 title: Deep Modular Co-Attention Networks for Visual Question Answering
+authors:
+- Zhou Yu
+- Jun Yu
+- Yuhao Cui
+- D. Tao
+- Q. Tian
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-modular-co-attention-networks-for-visual-question-answering
+numCitedBy: 323
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2019
 ---
 
 # Deep Modular Co-Attention Networks for Visual Question Answering

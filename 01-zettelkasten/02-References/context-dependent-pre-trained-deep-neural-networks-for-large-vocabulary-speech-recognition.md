@@ -1,10 +1,22 @@
 ---
 title: Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition
+authors:
+- George E. Dahl
+- Dong Yu
+- L. Deng
+- A. Acero
+fieldsOfStudy:
+- Computer Science
+meta_key: context-dependent-pre-trained-deep-neural-networks-for-large-vocabulary-speech-recognition
+numCitedBy: 2677
 pdf_relpath: null
+ref_count: 93
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Audio, Speech, and Language Processing
+year: 2012
 ---
 
 # Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition

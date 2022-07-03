@@ -1,10 +1,23 @@
 ---
 title: Conceptual Captions - A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning
+authors:
+- Piyush Sharma
+- N. Ding
+- Sebastian Goodman
+- Radu Soricut
+fieldsOfStudy:
+- Computer Science
+- Environmental Science
+meta_key: conceptual-captions-a-cleaned-hypernymed-image-alt-text-dataset-for-automatic-image-captioning
+numCitedBy: 632
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2018
 ---
 
 # Conceptual Captions - A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning

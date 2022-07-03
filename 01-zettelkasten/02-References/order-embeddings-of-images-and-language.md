@@ -1,10 +1,22 @@
 ---
 title: Order-Embeddings of Images and Language
+authors:
+- Ivan Vendrov
+- Ryan Kiros
+- S. Fidler
+- R. Urtasun
+fieldsOfStudy:
+- Computer Science
+meta_key: order-embeddings-of-images-and-language
+numCitedBy: 433
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # Order-Embeddings of Images and Language

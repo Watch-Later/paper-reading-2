@@ -1,10 +1,22 @@
 ---
 title: Hypercolumns for object segmentation and fine-grained localization
+authors:
+- Bharath Hariharan
+- "Pablo Arbel\xE1ez"
+- Ross B. Girshick
+- Jitendra Malik
+fieldsOfStudy:
+- Computer Science
+meta_key: hypercolumns-for-object-segmentation-and-fine-grained-localization
+numCitedBy: 1355
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2015
 ---
 
 # Hypercolumns for object segmentation and fine-grained localization

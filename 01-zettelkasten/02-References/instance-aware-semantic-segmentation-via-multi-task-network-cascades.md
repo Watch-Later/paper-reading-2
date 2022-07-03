@@ -1,10 +1,21 @@
 ---
 title: Instance-Aware Semantic Segmentation via Multi-task Network Cascades
+authors:
+- Jifeng Dai
+- Kaiming He
+- Jian Sun
+fieldsOfStudy:
+- Computer Science
+meta_key: instance-aware-semantic-segmentation-via-multi-task-network-cascades
+numCitedBy: 983
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Instance-Aware Semantic Segmentation via Multi-task Network Cascades

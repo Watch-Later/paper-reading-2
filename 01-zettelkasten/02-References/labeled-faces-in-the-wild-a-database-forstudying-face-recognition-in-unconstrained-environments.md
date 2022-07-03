@@ -1,10 +1,22 @@
 ---
 title: Labeled Faces in the Wild - A Database forStudying Face Recognition in Unconstrained Environments
+authors:
+- Gary B. Huang
+- Marwan A. Mattar
+- Tamara L. Berg
+- Eric Learned-Miller
+fieldsOfStudy:
+- Computer Science
+meta_key: labeled-faces-in-the-wild-a-database-forstudying-face-recognition-in-unconstrained-environments
+numCitedBy: 4899
 pdf_relpath: null
+ref_count: 64
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2008
 ---
 
 # Labeled Faces in the Wild - A Database forStudying Face Recognition in Unconstrained Environments

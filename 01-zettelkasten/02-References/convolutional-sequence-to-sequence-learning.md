@@ -1,10 +1,23 @@
 ---
 title: Convolutional Sequence to Sequence Learning
+authors:
+- Jonas Gehring
+- Michael Auli
+- David Grangier
+- Denis Yarats
+- Yann Dauphin
+fieldsOfStudy:
+- Computer Science
+meta_key: convolutional-sequence-to-sequence-learning
+numCitedBy: 2423
 pdf_relpath: null
+ref_count: 52
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2017
 ---
 
 # Convolutional Sequence to Sequence Learning

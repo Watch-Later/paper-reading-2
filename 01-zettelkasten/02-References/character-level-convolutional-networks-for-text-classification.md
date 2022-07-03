@@ -1,10 +1,21 @@
 ---
 title: Character-level Convolutional Networks for Text Classification
+authors:
+- X. Zhang
+- J. Zhao
+- Yann LeCun
+fieldsOfStudy:
+- Computer Science
+meta_key: character-level-convolutional-networks-for-text-classification
+numCitedBy: 3477
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2015
 ---
 
 # Character-level Convolutional Networks for Text Classification

@@ -1,10 +1,22 @@
 ---
 title: Recurrent Neural Network Grammars
+authors:
+- Chris Dyer
+- A. Kuncoro
+- Miguel Ballesteros
+- Noah A. Smith
+fieldsOfStudy:
+- Computer Science
+meta_key: recurrent-neural-network-grammars
+numCitedBy: 424
 pdf_relpath: null
+ref_count: 63
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NAACL
+year: 2016
 ---
 
 # Recurrent Neural Network Grammars

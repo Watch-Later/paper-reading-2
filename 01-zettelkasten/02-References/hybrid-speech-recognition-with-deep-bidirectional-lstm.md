@@ -1,10 +1,21 @@
 ---
 title: Hybrid speech recognition with Deep Bidirectional LSTM
+authors:
+- A. Graves
+- Navdeep Jaitly
+- Abdel-rahman Mohamed
+fieldsOfStudy:
+- Computer Science
+meta_key: hybrid-speech-recognition-with-deep-bidirectional-lstm
+numCitedBy: 1300
 pdf_relpath: null
+ref_count: 23
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2013 IEEE Workshop on Automatic Speech Recognition and Understanding
+year: 2013
 ---
 
 # Hybrid speech recognition with Deep Bidirectional LSTM

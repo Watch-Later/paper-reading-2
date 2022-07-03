@@ -1,10 +1,20 @@
 ---
 title: Deep Cross-Modal Projection Learning for Image-Text Matching
+authors:
+- Ying Zhang
+- Huchuan Lu
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-cross-modal-projection-learning-for-image-text-matching
+numCitedBy: 150
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2018
 ---
 
 # Deep Cross-Modal Projection Learning for Image-Text Matching

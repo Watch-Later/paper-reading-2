@@ -1,10 +1,23 @@
 ---
 title: Improving neural networks by preventing co-adaptation of feature detectors
+authors:
+- Geoffrey E. Hinton
+- Nitish Srivastava
+- A. Krizhevsky
+- Ilya Sutskever
+- R. Salakhutdinov
+fieldsOfStudy:
+- Computer Science
+meta_key: improving-neural-networks-by-preventing-co-adaptation-of-feature-detectors
+numCitedBy: 6191
 pdf_relpath: null
+ref_count: 31
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2012
 ---
 
 # Improving neural networks by preventing co-adaptation of feature detectors

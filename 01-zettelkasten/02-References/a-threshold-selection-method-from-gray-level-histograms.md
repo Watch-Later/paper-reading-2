@@ -1,10 +1,19 @@
 ---
 title: A threshold selection method from gray level histograms
+authors:
+- N. Otsu
+fieldsOfStudy:
+- Engineering
+meta_key: a-threshold-selection-method-from-gray-level-histograms
+numCitedBy: 32890
 pdf_relpath: null
+ref_count: 17
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 1979
 ---
 
 # A threshold selection method from gray level histograms

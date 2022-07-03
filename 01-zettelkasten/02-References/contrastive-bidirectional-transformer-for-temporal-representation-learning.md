@@ -1,10 +1,22 @@
 ---
 title: Contrastive Bidirectional Transformer for Temporal Representation Learning
+authors:
+- Chen Sun
+- Fabien Baradel
+- K. Murphy
+- C. Schmid
+fieldsOfStudy:
+- Computer Science
+meta_key: contrastive-bidirectional-transformer-for-temporal-representation-learning
+numCitedBy: 117
 pdf_relpath: null
+ref_count: 41
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2019
 ---
 
 # Contrastive Bidirectional Transformer for Temporal Representation Learning

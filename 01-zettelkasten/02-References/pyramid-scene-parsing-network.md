@@ -1,10 +1,23 @@
 ---
 title: Pyramid Scene Parsing Network
+authors:
+- Hengshuang Zhao
+- Jianping Shi
+- Xiaojuan Qi
+- Xiaogang Wang
+- Jiaya Jia
+fieldsOfStudy:
+- Computer Science
+meta_key: pyramid-scene-parsing-network
+numCitedBy: 5543
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Pyramid Scene Parsing Network

@@ -1,10 +1,21 @@
 ---
 title: Attribute-Based Classification for Zero-Shot Visual Object Categorization
+authors:
+- Christoph H. Lampert
+- H. Nickisch
+- S. Harmeling
+fieldsOfStudy:
+- Computer Science
+meta_key: attribute-based-classification-for-zero-shot-visual-object-categorization
+numCitedBy: 1212
 pdf_relpath: null
+ref_count: 69
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2014
 ---
 
 # Attribute-Based Classification for Zero-Shot Visual Object Categorization

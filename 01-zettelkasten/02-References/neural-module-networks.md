@@ -1,10 +1,22 @@
 ---
 title: Neural Module Networks
+authors:
+- Jacob Andreas
+- Marcus Rohrbach
+- Trevor Darrell
+- D. Klein
+fieldsOfStudy:
+- Computer Science
+meta_key: neural-module-networks
+numCitedBy: 733
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Neural Module Networks

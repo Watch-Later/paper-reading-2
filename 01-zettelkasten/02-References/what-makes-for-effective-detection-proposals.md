@@ -1,10 +1,22 @@
 ---
 title: What Makes for Effective Detection Proposals?
+authors:
+- J. Hosang
+- Rodrigo Benenson
+- "Piotr Doll\xE1r"
+- B. Schiele
+fieldsOfStudy:
+- Computer Science
+meta_key: what-makes-for-effective-detection-proposals
+numCitedBy: 621
 pdf_relpath: null
+ref_count: 81
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2016
 ---
 
 # What Makes for Effective Detection Proposals?

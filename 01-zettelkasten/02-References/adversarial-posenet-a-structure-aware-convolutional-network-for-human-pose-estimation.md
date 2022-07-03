@@ -1,10 +1,23 @@
 ---
 title: Adversarial PoseNet - A Structure-Aware Convolutional Network for Human Pose Estimation
+authors:
+- Y. Chen
+- Chunhua Shen
+- Xiu-Shen Wei
+- Lingqiao Liu
+- Jingqing Yang
+fieldsOfStudy:
+- Computer Science
+meta_key: adversarial-posenet-a-structure-aware-convolutional-network-for-human-pose-estimation
+numCitedBy: 233
 pdf_relpath: null
+ref_count: 46
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # Adversarial PoseNet - A Structure-Aware Convolutional Network for Human Pose Estimation

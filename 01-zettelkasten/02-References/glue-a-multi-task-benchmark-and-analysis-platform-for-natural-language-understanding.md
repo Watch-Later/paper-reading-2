@@ -1,10 +1,24 @@
 ---
 title: GLUE - A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding
+authors:
+- Alex Wang
+- Amanpreet Singh
+- Julian Michael
+- Felix Hill
+- Omer Levy
+- Samuel R. Bowman
+fieldsOfStudy:
+- Computer Science
+meta_key: glue-a-multi-task-benchmark-and-analysis-platform-for-natural-language-understanding
+numCitedBy: 2635
 pdf_relpath: null
+ref_count: 72
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: BlackboxNLP@EMNLP
+year: 2018
 ---
 
 # GLUE - A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding

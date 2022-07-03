@@ -1,10 +1,20 @@
 ---
 title: Distant Supervision for Relation Extraction beyond the Sentence Boundary
+authors:
+- Chris Quirk
+- Hoifung Poon
+fieldsOfStudy:
+- Computer Science
+meta_key: distant-supervision-for-relation-extraction-beyond-the-sentence-boundary
+numCitedBy: 165
 pdf_relpath: null
+ref_count: 62
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EACL
+year: 2017
 ---
 
 # Distant Supervision for Relation Extraction beyond the Sentence Boundary

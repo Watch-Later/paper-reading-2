@@ -1,10 +1,20 @@
 ---
 title: Efficient Graph-Based Image Segmentation
+authors:
+- Pedro F. Felzenszwalb
+- D. Huttenlocher
+fieldsOfStudy:
+- Computer Science
+meta_key: efficient-graph-based-image-segmentation
+numCitedBy: 3751
 pdf_relpath: null
+ref_count: 26
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: International Journal of Computer Vision
+year: 2004
 ---
 
 # Efficient Graph-Based Image Segmentation

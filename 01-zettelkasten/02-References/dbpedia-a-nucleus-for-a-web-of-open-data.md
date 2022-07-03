@@ -1,10 +1,24 @@
 ---
 title: DBpedia - A Nucleus for a Web of Open Data
+authors:
+- S. Auer
+- C. Bizer
+- Georgi Kobilarov
+- Jens Lehmann
+- Richard Cyganiak
+- Z. Ives
+fieldsOfStudy:
+- Computer Science
+meta_key: dbpedia-a-nucleus-for-a-web-of-open-data
+numCitedBy: 4419
 pdf_relpath: null
+ref_count: 21
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ISWC/ASWC
+year: 2007
 ---
 
 # DBpedia - A Nucleus for a Web of Open Data

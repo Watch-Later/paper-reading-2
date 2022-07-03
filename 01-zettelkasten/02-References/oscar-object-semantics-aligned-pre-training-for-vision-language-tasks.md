@@ -1,10 +1,30 @@
 ---
 title: Oscar - Object-Semantics Aligned Pre-training for Vision-Language Tasks
+authors:
+- Xiujun Li
+- Xi Yin
+- Chunyuan Li
+- Xiaowei Hu
+- Pengchuan Zhang
+- Lei Zhang
+- Lijuan Wang
+- Houdong Hu
+- Li Dong
+- Furu Wei
+- Yejin Choi
+- Jianfeng Gao
+fieldsOfStudy:
+- Computer Science
+meta_key: oscar-object-semantics-aligned-pre-training-for-vision-language-tasks
+numCitedBy: 534
 pdf_relpath: null
+ref_count: 52
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2020
 ---
 
 # Oscar - Object-Semantics Aligned Pre-training for Vision-Language Tasks

@@ -1,10 +1,21 @@
 ---
 title: Snakes - Active contour models
+authors:
+- M. Kass
+- A. Witkin
+- Demetri Terzopoulos
+fieldsOfStudy:
+- Physics
+meta_key: snakes-active-contour-models
+numCitedBy: 15501
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: International Journal of Computer Vision
+year: 2004
 ---
 
 # Snakes - Active contour models

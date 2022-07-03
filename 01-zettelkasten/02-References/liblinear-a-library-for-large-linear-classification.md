@@ -1,10 +1,23 @@
 ---
 title: LIBLINEAR - A Library for Large Linear Classification
+authors:
+- Rong-En Fan
+- Kai-Wei Chang
+- Cho-Jui Hsieh
+- Xiang-Rui Wang
+- Chih-Jen Lin
+fieldsOfStudy:
+- Computer Science
+meta_key: liblinear-a-library-for-large-linear-classification
+numCitedBy: 7765
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: J. Mach. Learn. Res.
+year: 2008
 ---
 
 # LIBLINEAR - A Library for Large Linear Classification

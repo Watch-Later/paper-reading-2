@@ -1,10 +1,21 @@
 ---
 title: An End-to-End Trainable Neural Network for Image-Based Sequence Recognition and Its Application to Scene Text Recognition
+authors:
+- Baoguang Shi
+- X. Bai
+- C. Yao
+fieldsOfStudy:
+- Computer Science
+meta_key: an-end-to-end-trainable-neural-network-for-image-based-sequence-recognition-and-its-application-to-scene-text-recognition
+numCitedBy: 1381
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2017
 ---
 
 # An End-to-End Trainable Neural Network for Image-Based Sequence Recognition and Its Application to Scene Text Recognition

@@ -1,10 +1,24 @@
 ---
 title: Generation and Comprehension of Unambiguous Object Descriptions
+authors:
+- Junhua Mao
+- Jonathan Huang
+- Alexander Toshev
+- Oana-Maria Camburu
+- A. Yuille
+- K. Murphy
+fieldsOfStudy:
+- Computer Science
+meta_key: generation-and-comprehension-of-unambiguous-object-descriptions
+numCitedBy: 553
 pdf_relpath: null
+ref_count: 66
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Generation and Comprehension of Unambiguous Object Descriptions

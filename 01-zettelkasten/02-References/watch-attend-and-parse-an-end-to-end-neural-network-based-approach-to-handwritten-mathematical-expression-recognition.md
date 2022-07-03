@@ -1,10 +1,26 @@
 ---
 title: Watch, attend and parse - An end-to-end neural network based approach to handwritten mathematical expression recognition
+authors:
+- Jian-shu Zhang
+- Jun Du
+- Shiliang Zhang
+- Dan Liu
+- Yulong Hu
+- Jin-Shui Hu
+- Si Wei
+- Lirong Dai
+fieldsOfStudy:
+- Computer Science
+meta_key: watch-attend-and-parse-an-end-to-end-neural-network-based-approach-to-handwritten-mathematical-expression-recognition
+numCitedBy: 111
 pdf_relpath: null
+ref_count: 62
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Pattern Recognit.
+year: 2017
 ---
 
 # Watch, attend and parse - An end-to-end neural network based approach to handwritten mathematical expression recognition

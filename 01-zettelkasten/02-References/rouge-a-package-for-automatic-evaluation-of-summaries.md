@@ -1,10 +1,19 @@
 ---
 title: ROUGE - A Package for Automatic Evaluation of Summaries
+authors:
+- Chin-Yew Lin
+fieldsOfStudy:
+- Computer Science
+meta_key: rouge-a-package-for-automatic-evaluation-of-summaries
+numCitedBy: 6943
 pdf_relpath: null
+ref_count: 16
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL 2004
+year: 2004
 ---
 
 # ROUGE - A Package for Automatic Evaluation of Summaries

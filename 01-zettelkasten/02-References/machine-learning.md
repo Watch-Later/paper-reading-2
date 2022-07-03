@@ -1,10 +1,19 @@
 ---
 title: Machine learning
+authors:
+- Thomas G. Dietterich
+fieldsOfStudy:
+- Computer Science
+meta_key: machine-learning
+numCitedBy: 15727
 pdf_relpath: null
+ref_count: 8
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: CSUR
+year: 1996
 ---
 
 # Machine learning

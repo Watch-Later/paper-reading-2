@@ -1,10 +1,21 @@
 ---
 title: Deep Sparse Rectifier Neural Networks
+authors:
+- Xavier Glorot
+- Antoine Bordes
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-sparse-rectifier-neural-networks
+numCitedBy: 5918
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: AISTATS
+year: 2011
 ---
 
 # Deep Sparse Rectifier Neural Networks

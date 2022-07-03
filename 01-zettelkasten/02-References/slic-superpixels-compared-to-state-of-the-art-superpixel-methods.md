@@ -1,10 +1,24 @@
 ---
 title: SLIC Superpixels Compared to State-of-the-Art Superpixel Methods
+authors:
+- R. Achanta
+- Appu Shaji
+- Kevin Smith
+- "Aur\xE9lien Lucchi"
+- P. Fua
+- "S. S\xFCsstrunk"
+fieldsOfStudy:
+- Computer Science
+meta_key: slic-superpixels-compared-to-state-of-the-art-superpixel-methods
+numCitedBy: 6555
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2012
 ---
 
 # SLIC Superpixels Compared to State-of-the-Art Superpixel Methods

@@ -1,10 +1,20 @@
 ---
 title: LIBSVM - A library for support vector machines
+authors:
+- Chih-Chung Chang
+- Chih-Jen Lin
+fieldsOfStudy:
+- Computer Science
+meta_key: libsvm-a-library-for-support-vector-machines
+numCitedBy: 40071
 pdf_relpath: null
+ref_count: 77
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: TIST
+year: 2011
 ---
 
 # LIBSVM - A library for support vector machines

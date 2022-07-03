@@ -1,10 +1,23 @@
 ---
 title: Regularization of Neural Networks using DropConnect
+authors:
+- Li Wan
+- Matthew D. Zeiler
+- Sixin Zhang
+- Yann LeCun
+- R. Fergus
+fieldsOfStudy:
+- Computer Science
+meta_key: regularization-of-neural-networks-using-dropconnect
+numCitedBy: 2091
 pdf_relpath: null
+ref_count: 15
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2013
 ---
 
 # Regularization of Neural Networks using DropConnect

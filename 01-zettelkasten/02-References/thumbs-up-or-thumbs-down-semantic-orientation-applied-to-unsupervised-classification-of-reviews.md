@@ -1,10 +1,19 @@
 ---
 title: Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews
+authors:
+- Peter D. Turney
+fieldsOfStudy:
+- Computer Science
+meta_key: thumbs-up-or-thumbs-down-semantic-orientation-applied-to-unsupervised-classification-of-reviews
+numCitedBy: 5418
 pdf_relpath: null
+ref_count: 18
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2002
 ---
 
 # Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews

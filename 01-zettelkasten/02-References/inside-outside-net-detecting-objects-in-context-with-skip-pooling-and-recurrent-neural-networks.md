@@ -1,10 +1,22 @@
 ---
 title: Inside-Outside Net - Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks
+authors:
+- Sean Bell
+- C. L. Zitnick
+- K. Bala
+- Ross B. Girshick
+fieldsOfStudy:
+- Computer Science
+meta_key: inside-outside-net-detecting-objects-in-context-with-skip-pooling-and-recurrent-neural-networks
+numCitedBy: 905
 pdf_relpath: null
+ref_count: 52
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Inside-Outside Net - Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks

@@ -1,10 +1,22 @@
 ---
 title: 3D Convolutional Neural Networks for Human Action Recognition
+authors:
+- Shuiwang Ji
+- W. Xu
+- Ming Yang
+- Kai Yu
+fieldsOfStudy:
+- Computer Science
+meta_key: 3d-convolutional-neural-networks-for-human-action-recognition
+numCitedBy: 4216
 pdf_relpath: null
+ref_count: 67
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2013
 ---
 
 # 3D Convolutional Neural Networks for Human Action Recognition

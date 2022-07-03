@@ -1,10 +1,23 @@
 ---
 title: In Defense of Grid Features for Visual Question Answering
+authors:
+- Huaizu Jiang
+- Ishan Misra
+- Marcus Rohrbach
+- E. Learned-Miller
+- Xinlei Chen
+fieldsOfStudy:
+- Computer Science
+meta_key: in-defense-of-grid-features-for-visual-question-answering
+numCitedBy: 112
 pdf_relpath: null
+ref_count: 64
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2020
 ---
 
 # In Defense of Grid Features for Visual Question Answering

@@ -1,10 +1,22 @@
 ---
 title: Rich Image Captioning in the Wild
+authors:
+- Kenneth Tran
+- Xiaodong He
+- Lei Zhang
+- Jian Sun
+fieldsOfStudy:
+- Computer Science
+meta_key: rich-image-captioning-in-the-wild
+numCitedBy: 105
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
+year: 2016
 ---
 
 # Rich Image Captioning in the Wild

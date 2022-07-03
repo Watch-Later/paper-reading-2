@@ -1,10 +1,21 @@
 ---
 title: Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering
+authors:
+- Mikhail Belkin
+- P. Niyogi
+fieldsOfStudy:
+- Computer Science
+- Mathematics
+meta_key: laplacian-eigenmaps-and-spectral-techniques-for-embedding-and-clustering
+numCitedBy: 4244
 pdf_relpath: null
+ref_count: 13
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2001
 ---
 
 # Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering

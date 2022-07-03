@@ -1,10 +1,20 @@
 ---
 title: Show, Ask, Attend, and Answer - A Strong Baseline For Visual Question Answering
+authors:
+- V. Kazemi
+- A. Elqursh
+fieldsOfStudy:
+- Computer Science
+meta_key: show-ask-attend-and-answer-a-strong-baseline-for-visual-question-answering
+numCitedBy: 135
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2017
 ---
 
 # Show, Ask, Attend, and Answer - A Strong Baseline For Visual Question Answering

@@ -1,10 +1,23 @@
 ---
 title: Image Captioning with Semantic Attention
+authors:
+- Quanzeng You
+- Hailin Jin
+- Zhaowen Wang
+- Chen Fang
+- Jiebo Luo
+fieldsOfStudy:
+- Computer Science
+meta_key: image-captioning-with-semantic-attention
+numCitedBy: 1217
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Image Captioning with Semantic Attention

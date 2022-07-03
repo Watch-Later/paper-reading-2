@@ -1,10 +1,22 @@
 ---
 title: Extracting and composing robust features with denoising autoencoders
+authors:
+- Pascal Vincent
+- H. Larochelle
+- Yoshua Bengio
+- Pierre-Antoine Manzagol
+fieldsOfStudy:
+- Computer Science
+meta_key: extracting-and-composing-robust-features-with-denoising-autoencoders
+numCitedBy: 5471
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML '08
+year: 2008
 ---
 
 # Extracting and composing robust features with denoising autoencoders

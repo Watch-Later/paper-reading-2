@@ -1,10 +1,23 @@
 ---
 title: OpenNMT - Open-Source Toolkit for Neural Machine Translation
+authors:
+- G. Klein
+- Yoon Kim
+- Yuntian Deng
+- Jean Senellart
+- Alexander M. Rush
+fieldsOfStudy:
+- Computer Science
+meta_key: opennmt-open-source-toolkit-for-neural-machine-translation
+numCitedBy: 1397
 pdf_relpath: null
+ref_count: 38
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2017
 ---
 
 # OpenNMT - Open-Source Toolkit for Neural Machine Translation

@@ -1,10 +1,22 @@
 ---
 title: HyperNet - Towards Accurate Region Proposal Generation and Joint Object Detection
+authors:
+- Tao Kong
+- Anbang Yao
+- Yurong Chen
+- F. Sun
+fieldsOfStudy:
+- Computer Science
+meta_key: hypernet-towards-accurate-region-proposal-generation-and-joint-object-detection
+numCitedBy: 607
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # HyperNet - Towards Accurate Region Proposal Generation and Joint Object Detection

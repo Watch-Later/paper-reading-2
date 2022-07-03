@@ -1,10 +1,130 @@
 ---
 title: Theano - A Python framework for fast computation of mathematical expressions
+authors:
+- Rami Al-Rfou
+- Guillaume Alain
+- Amjad Almahairi
+- "Christof Angerm\xFCller"
+- Dzmitry Bahdanau
+- Nicolas Ballas
+- "Fr\xE9d\xE9ric Bastien"
+- Justin Bayer
+- A. Belikov
+- A. Belopolsky
+- Yoshua Bengio
+- Arnaud Bergeron
+- J. Bergstra
+- Valentin Bisson
+- Josh Bleecher Snyder
+- Nicolas Bouchard
+- Nicolas Boulanger-Lewandowski
+- Xavier Bouthillier
+- "A. D. Br\xE9bisson"
+- Olivier Breuleux
+- P. Carrier
+- Kyunghyun Cho
+- J. Chorowski
+- P. Christiano
+- Tim Cooijmans
+- "Marc-Alexandre C\xF4t\xE9"
+- "Myriam C\xF4t\xE9"
+- Aaron C. Courville
+- Yann Dauphin
+- Olivier Delalleau
+- Julien Demouth
+- Guillaume Desjardins
+- S. Dieleman
+- Laurent Dinh
+- "M\xE9lanie Ducoffe"
+- Vincent Dumoulin
+- S. Kahou
+- D. Erhan
+- Ziye Fan
+- Orhan Firat
+- M. Germain
+- Xavier Glorot
+- Ian J. Goodfellow
+- M. Graham
+- "\xC7aglar G\xFCl\xE7ehre"
+- P. Hamel
+- Iban Harlouchet
+- J. Heng
+- "Bal\xE1zs Hidasi"
+- Sina Honari
+- Arjun Jain
+- "S\xE9bastien Jean"
+- Kai Jia
+- Mikhail Korobov
+- Vivek Kulkarni
+- Alex Lamb
+- Pascal Lamblin
+- Eric Larsen
+- "C\xE9sar Laurent"
+- S. Lee
+- "S. Lefran\xE7ois"
+- S. Lemieux
+- "Nicholas L\xE9onard"
+- Zhouhan Lin
+- J. Livezey
+- C. Lorenz
+- J. Lowin
+- Qianli Ma
+- Pierre-Antoine Manzagol
+- Olivier Mastropietro
+- R. McGibbon
+- R. Memisevic
+- Bart van Merrienboer
+- Vincent Michalski
+- Mehdi Mirza
+- A. Orlandi
+- C. Pal
+- Razvan Pascanu
+- M. Pezeshki
+- Colin Raffel
+- D. Renshaw
+- M. Rocklin
+- Adriana Romero
+- Markus Roth
+- Peter Sadowski
+- J. Salvatier
+- F. Savard
+- "Jan Schl\xFCter"
+- J. Schulman
+- Gabriel Schwartz
+- Iulian Serban
+- Dmitriy Serdyuk
+- Samira Shabanian
+- "\xC9tienne Simon"
+- Sigurd Spieckermann
+- S. Subramanyam
+- Jakub Sygnowski
+- "J\xE9r\xE9mie Tanguay"
+- Gijs van Tulder
+- Joseph P. Turian
+- S. Urban
+- Pascal Vincent
+- Francesco Visin
+- Harm de Vries
+- David Warde-Farley
+- Dustin J. Webb
+- M. Willson
+- Kelvin Xu
+- Lijun Xue
+- Li Yao
+- Saizheng Zhang
+- Ying Zhang
+fieldsOfStudy:
+- Computer Science
+meta_key: theano-a-python-framework-for-fast-computation-of-mathematical-expressions
+numCitedBy: 2076
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2016
 ---
 
 # Theano - A Python framework for fast computation of mathematical expressions

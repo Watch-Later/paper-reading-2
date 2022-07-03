@@ -1,10 +1,20 @@
 ---
 title: Graphical Models, Exponential Families, and Variational Inference
+authors:
+- M. Wainwright
+- M.I. Jordan
+fieldsOfStudy:
+- Computer Science
+meta_key: graphical-models-exponential-families-and-variational-inference
+numCitedBy: 3901
 pdf_relpath: null
+ref_count: 307
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Found. Trends Mach. Learn.
+year: 2008
 ---
 
 # Graphical Models, Exponential Families, and Variational Inference

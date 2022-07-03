@@ -1,10 +1,24 @@
 ---
 title: DeepDeSRT - Deep Learning for Detection and Structure Recognition of Tables in Document Images
+authors:
+- Sebastian Schreiber
+- S. Agne
+- I. Wolf
+- A. Dengel
+- Sheraz Ahmed
+fieldsOfStudy:
+- Computer Science
+meta_key: deepdesrt-deep-learning-for-detection-and-structure-recognition-of-tables-in-document-images
+numCitedBy: 158
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 14th IAPR International Conference on Document Analysis and Recognition
+  (ICDAR)
+year: 2017
 ---
 
 # DeepDeSRT - Deep Learning for Detection and Structure Recognition of Tables in Document Images

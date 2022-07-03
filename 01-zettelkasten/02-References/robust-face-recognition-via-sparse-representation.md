@@ -1,10 +1,23 @@
 ---
 title: Robust Face Recognition via Sparse Representation
+authors:
+- John Wright
+- A. Yang
+- Arvind Ganesh
+- S. Sastry
+- Yi Ma
+fieldsOfStudy:
+- Computer Science
+meta_key: robust-face-recognition-via-sparse-representation
+numCitedBy: 9015
 pdf_relpath: null
+ref_count: 92
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2009
 ---
 
 # Robust Face Recognition via Sparse Representation

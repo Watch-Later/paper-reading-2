@@ -1,10 +1,22 @@
 ---
 title: Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation
+authors:
+- Ross B. Girshick
+- Jeff Donahue
+- Trevor Darrell
+- J. Malik
+fieldsOfStudy:
+- Computer Science
+meta_key: rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation
+numCitedBy: 17075
 pdf_relpath: null
+ref_count: 66
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2014 IEEE Conference on Computer Vision and Pattern Recognition
+year: 2014
 ---
 
 # Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation

@@ -1,10 +1,20 @@
 ---
 title: Modeling the Shape of the Scene - A Holistic Representation of the Spatial Envelope
+authors:
+- A. Oliva
+- A. Torralba
+fieldsOfStudy:
+- Computer Science
+meta_key: modeling-the-shape-of-the-scene-a-holistic-representation-of-the-spatial-envelope
+numCitedBy: 6522
 pdf_relpath: null
+ref_count: 58
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: International Journal of Computer Vision
+year: 2004
 ---
 
 # Modeling the Shape of the Scene - A Holistic Representation of the Spatial Envelope

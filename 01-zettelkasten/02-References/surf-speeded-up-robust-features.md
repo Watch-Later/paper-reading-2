@@ -1,10 +1,19 @@
 ---
 title: SURF - Speeded-Up Robust Features
+authors:
+- Christopher Hunt
+fieldsOfStudy:
+- Computer Science
+meta_key: surf-speeded-up-robust-features
+numCitedBy: 6213
 pdf_relpath: null
+ref_count: 8
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2009
 ---
 
 # SURF - Speeded-Up Robust Features

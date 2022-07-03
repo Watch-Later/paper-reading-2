@@ -1,10 +1,24 @@
 ---
 title: LayoutLM - Pre-training of Text and Layout for Document Image Understanding
+authors:
+- Yiheng Xu
+- Minghao Li
+- Lei Cui
+- Shaohan Huang
+- Furu Wei
+- Ming Zhou
+fieldsOfStudy:
+- Computer Science
+meta_key: layoutlm-pre-training-of-text-and-layout-for-document-image-understanding
+numCitedBy: 164
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: KDD
+year: 2020
 ---
 
 # LayoutLM - Pre-training of Text and Layout for Document Image Understanding

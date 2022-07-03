@@ -1,10 +1,22 @@
 ---
 title: Mask R-CNN
+authors:
+- Kaiming He
+- Georgia Gkioxari
+- "Piotr Doll\xE1r"
+- Ross B. Girshick
+fieldsOfStudy:
+- Computer Science
+meta_key: mask-r-cnn
+numCitedBy: 9771
 pdf_relpath: null
+ref_count: 56
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2020
 ---
 
 # Mask R-CNN

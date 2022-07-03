@@ -1,10 +1,21 @@
 ---
 title: A Fast Learning Algorithm for Deep Belief Nets
+authors:
+- Geoffrey E. Hinton
+- Simon Osindero
+- Y. Teh
+fieldsOfStudy:
+- Computer Science
+meta_key: a-fast-learning-algorithm-for-deep-belief-nets
+numCitedBy: 13411
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Neural Computation
+year: 2006
 ---
 
 # A Fast Learning Algorithm for Deep Belief Nets

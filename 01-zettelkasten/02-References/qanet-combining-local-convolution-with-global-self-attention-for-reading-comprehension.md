@@ -1,10 +1,25 @@
 ---
 title: QANet - Combining Local Convolution with Global Self-Attention for Reading Comprehension
+authors:
+- Adams Wei Yu
+- David Dohan
+- Minh-Thang Luong
+- Rui Zhao
+- Kai Chen
+- Mohammad Norouzi
+- Quoc V. Le
+fieldsOfStudy:
+- Computer Science
+meta_key: qanet-combining-local-convolution-with-global-self-attention-for-reading-comprehension
+numCitedBy: 800
 pdf_relpath: null
+ref_count: 56
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2018
 ---
 
 # QANet - Combining Local Convolution with Global Self-Attention for Reading Comprehension

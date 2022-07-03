@@ -1,10 +1,24 @@
 ---
 title: The Pascal Visual Object Classes Challenge - A Retrospective
+authors:
+- M. Everingham
+- S. Eslami
+- L. Gool
+- Christopher K. I. Williams
+- J. Winn
+- Andrew Zisserman
+fieldsOfStudy:
+- Computer Science
+meta_key: the-pascal-visual-object-classes-challenge-a-retrospective
+numCitedBy: 3768
 pdf_relpath: null
+ref_count: 61
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: International Journal of Computer Vision
+year: 2014
 ---
 
 # The Pascal Visual Object Classes Challenge - A Retrospective

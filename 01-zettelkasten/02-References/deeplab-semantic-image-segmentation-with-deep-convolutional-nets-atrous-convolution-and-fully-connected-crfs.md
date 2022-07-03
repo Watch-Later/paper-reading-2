@@ -1,10 +1,23 @@
 ---
 title: DeepLab - Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
+authors:
+- Liang-Chieh Chen
+- G. Papandreou
+- Iasonas Kokkinos
+- K. Murphy
+- A. Yuille
+fieldsOfStudy:
+- Computer Science
+meta_key: deeplab-semantic-image-segmentation-with-deep-convolutional-nets-atrous-convolution-and-fully-connected-crfs
+numCitedBy: 9408
 pdf_relpath: null
+ref_count: 112
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2018
 ---
 
 # DeepLab - Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs

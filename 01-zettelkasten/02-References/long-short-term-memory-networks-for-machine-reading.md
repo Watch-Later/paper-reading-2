@@ -1,10 +1,21 @@
 ---
 title: Long Short-Term Memory-Networks for Machine Reading
+authors:
+- Jianpeng Cheng
+- Li Dong
+- Mirella Lapata
+fieldsOfStudy:
+- Computer Science
+meta_key: long-short-term-memory-networks-for-machine-reading
+numCitedBy: 765
 pdf_relpath: null
+ref_count: 94
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2016
 ---
 
 # Long Short-Term Memory-Networks for Machine Reading

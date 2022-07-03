@@ -1,10 +1,20 @@
 ---
 title: Universal Language Model Fine-tuning for Text Classification
+authors:
+- Jeremy Howard
+- Sebastian Ruder
+fieldsOfStudy:
+- Computer Science
+meta_key: universal-language-model-fine-tuning-for-text-classification
+numCitedBy: 2251
 pdf_relpath: null
+ref_count: 57
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2018
 ---
 
 # Universal Language Model Fine-tuning for Text Classification

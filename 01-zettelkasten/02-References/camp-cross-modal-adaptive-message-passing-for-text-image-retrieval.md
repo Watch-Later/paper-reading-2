@@ -1,10 +1,25 @@
 ---
 title: CAMP - Cross-Modal Adaptive Message Passing for Text-Image Retrieval
+authors:
+- Zihao Wang
+- Xihui Liu
+- Hongsheng Li
+- Lu Sheng
+- Junjie Yan
+- Xiaogang Wang
+- Jing Shao
+fieldsOfStudy:
+- Computer Science
+meta_key: camp-cross-modal-adaptive-message-passing-for-text-image-retrieval
+numCitedBy: 100
 pdf_relpath: null
+ref_count: 36
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
+year: 2019
 ---
 
 # CAMP - Cross-Modal Adaptive Message Passing for Text-Image Retrieval

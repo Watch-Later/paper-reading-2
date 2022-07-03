@@ -1,10 +1,24 @@
 ---
 title: Visual question answering - A survey of methods and datasets
+authors:
+- Qi Wu
+- Damien Teney
+- Peng Wang
+- Chunhua Shen
+- A. Dick
+- A. V. Hengel
+fieldsOfStudy:
+- Computer Science
+meta_key: visual-question-answering-a-survey-of-methods-and-datasets
+numCitedBy: 251
 pdf_relpath: null
+ref_count: 110
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Comput. Vis. Image Underst.
+year: 2017
 ---
 
 # Visual question answering - A survey of methods and datasets

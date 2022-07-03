@@ -1,10 +1,20 @@
 ---
 title: Foundations of statistical natural language processing
+authors:
+- Christopher D. Manning
+- "Hinrich Sch\xFCtze"
+fieldsOfStudy:
+- Computer Science
+meta_key: foundations-of-statistical-natural-language-processing
+numCitedBy: 7802
 pdf_relpath: null
+ref_count: 294
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: SGMD
+year: 2002
 ---
 
 # Foundations of statistical natural language processing

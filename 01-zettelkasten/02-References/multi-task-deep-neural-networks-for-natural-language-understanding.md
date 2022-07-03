@@ -1,10 +1,22 @@
 ---
 title: Multi-Task Deep Neural Networks for Natural Language Understanding
+authors:
+- Xiaodong Liu
+- Pengcheng He
+- Weizhu Chen
+- Jianfeng Gao
+fieldsOfStudy:
+- Computer Science
+meta_key: multi-task-deep-neural-networks-for-natural-language-understanding
+numCitedBy: 732
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2019
 ---
 
 # Multi-Task Deep Neural Networks for Natural Language Understanding

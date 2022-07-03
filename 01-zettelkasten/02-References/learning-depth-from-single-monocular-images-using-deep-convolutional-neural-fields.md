@@ -1,10 +1,22 @@
 ---
 title: Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields
+authors:
+- Fayao Liu
+- Chunhua Shen
+- Guosheng Lin
+- I. Reid
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-depth-from-single-monocular-images-using-deep-convolutional-neural-fields
+numCitedBy: 874
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2016
 ---
 
 # Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields

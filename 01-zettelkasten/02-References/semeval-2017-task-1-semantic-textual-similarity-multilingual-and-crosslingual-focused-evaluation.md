@@ -1,10 +1,24 @@
 ---
 title: SemEval-2017 Task 1 - Semantic Textual Similarity Multilingual and Crosslingual Focused Evaluation
+authors:
+- Daniel Matthew Cer
+- Mona T. Diab
+- Eneko Agirre
+- I. Lopez-Gazpio
+- Lucia Specia
+fieldsOfStudy:
+- Computer Science
+- Psychology
+meta_key: semeval-2017-task-1-semantic-textual-similarity-multilingual-and-crosslingual-focused-evaluation
+numCitedBy: 934
 pdf_relpath: null
+ref_count: 96
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: SemEval@ACL
+year: 2017
 ---
 
 # SemEval-2017 Task 1 - Semantic Textual Similarity Multilingual and Crosslingual Focused Evaluation

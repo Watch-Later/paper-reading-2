@@ -1,10 +1,23 @@
 ---
 title: Neural Architectures for Named Entity Recognition
+authors:
+- Guillaume Lample
+- Miguel Ballesteros
+- Sandeep Subramanian
+- Kazuya Kawakami
+- Chris Dyer
+fieldsOfStudy:
+- Biology
+meta_key: neural-architectures-for-named-entity-recognition
+numCitedBy: 2900
 pdf_relpath: null
+ref_count: 66
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NAACL
+year: 2016
 ---
 
 # Neural Architectures for Named Entity Recognition

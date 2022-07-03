@@ -1,10 +1,19 @@
 ---
 title: Xception - Deep Learning with Depthwise Separable Convolutions
+authors:
+- "Fran\xE7ois Chollet"
+fieldsOfStudy:
+- Computer Science
+meta_key: xception-deep-learning-with-depthwise-separable-convolutions
+numCitedBy: 6595
 pdf_relpath: null
+ref_count: 32
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Xception - Deep Learning with Depthwise Separable Convolutions

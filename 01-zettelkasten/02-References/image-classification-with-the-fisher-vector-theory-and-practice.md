@@ -1,10 +1,22 @@
 ---
 title: Image Classification with the Fisher Vector - Theory and Practice
+authors:
+- "Jorge S\xE1nchez"
+- F. Perronnin
+- Thomas Mensink
+- J. Verbeek
+fieldsOfStudy:
+- Computer Science
+meta_key: image-classification-with-the-fisher-vector-theory-and-practice
+numCitedBy: 1459
 pdf_relpath: null
+ref_count: 111
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: International Journal of Computer Vision
+year: 2013
 ---
 
 # Image Classification with the Fisher Vector - Theory and Practice

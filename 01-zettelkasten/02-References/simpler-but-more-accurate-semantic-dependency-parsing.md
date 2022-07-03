@@ -1,10 +1,20 @@
 ---
 title: Simpler but More Accurate Semantic Dependency Parsing
+authors:
+- Timothy Dozat
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: simpler-but-more-accurate-semantic-dependency-parsing
+numCitedBy: 114
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2018
 ---
 
 # Simpler but More Accurate Semantic Dependency Parsing

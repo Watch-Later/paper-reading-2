@@ -1,5 +1,6 @@
 ---
 title: Kali Linux Cookbook
+meta_key: Kali Linux Cookbook
 pdf_relpath: pdfs/Kali%20Linux%20Cookbook.pdf
 status: todo
 tags:

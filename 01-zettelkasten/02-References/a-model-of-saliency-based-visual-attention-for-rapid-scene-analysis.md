@@ -1,10 +1,21 @@
 ---
 title: A Model of Saliency-Based Visual Attention for Rapid Scene Analysis
+authors:
+- L. Itti
+- C. Koch
+- E. Niebur
+fieldsOfStudy:
+- Computer Science
+meta_key: a-model-of-saliency-based-visual-attention-for-rapid-scene-analysis
+numCitedBy: 9759
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Trans. Pattern Anal. Mach. Intell.
+year: 2009
 ---
 
 # A Model of Saliency-Based Visual Attention for Rapid Scene Analysis

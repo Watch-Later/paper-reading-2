@@ -1,10 +1,22 @@
 ---
 title: Learning to Refine Object Segments
+authors:
+- Pedro H. O. Pinheiro
+- Tsung-Yi Lin
+- Ronan Collobert
+- "Piotr Doll\xE1r"
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-to-refine-object-segments
+numCitedBy: 727
 pdf_relpath: null
+ref_count: 50
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # Learning to Refine Object Segments

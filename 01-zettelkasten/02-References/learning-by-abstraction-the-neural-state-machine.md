@@ -1,10 +1,20 @@
 ---
 title: Learning by Abstraction - The Neural State Machine
+authors:
+- Drew A. Hudson
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-by-abstraction-the-neural-state-machine
+numCitedBy: 142
 pdf_relpath: null
+ref_count: 90
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NeurIPS
+year: 2019
 ---
 
 # Learning by Abstraction - The Neural State Machine

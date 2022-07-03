@@ -1,10 +1,27 @@
 ---
 title: FlowNet - Learning Optical Flow with Convolutional Networks
+authors:
+- A. Dosovitskiy
+- P. Fischer
+- Eddy Ilg
+- "Philip H\xE4usser"
+- Caner Hazirbas
+- V. Golkov
+- Patrick van der Smagt
+- D. Cremers
+- T. Brox
+fieldsOfStudy:
+- Computer Science
+meta_key: flownet-learning-optical-flow-with-convolutional-networks
+numCitedBy: 2712
 pdf_relpath: null
+ref_count: 43
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE International Conference on Computer Vision (ICCV)
+year: 2015
 ---
 
 # FlowNet - Learning Optical Flow with Convolutional Networks

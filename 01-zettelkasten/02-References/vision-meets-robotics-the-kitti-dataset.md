@@ -1,10 +1,22 @@
 ---
 title: Vision meets robotics - The KITTI dataset
+authors:
+- Andreas Geiger
+- Philip Lenz
+- C. Stiller
+- R. Urtasun
+fieldsOfStudy:
+- Computer Science
+meta_key: vision-meets-robotics-the-kitti-dataset
+numCitedBy: 4619
 pdf_relpath: null
+ref_count: 16
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Int. J. Robotics Res.
+year: 2013
 ---
 
 # Vision meets robotics - The KITTI dataset

@@ -1,10 +1,23 @@
 ---
 title: Focal Loss for Dense Object Detection
+authors:
+- Tsung-Yi Lin
+- Priya Goyal
+- Ross B. Girshick
+- Kaiming He
+- "Piotr Doll\xE1r"
+fieldsOfStudy:
+- Computer Science
+meta_key: focal-loss-for-dense-object-detection
+numCitedBy: 8234
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2020
 ---
 
 # Focal Loss for Dense Object Detection

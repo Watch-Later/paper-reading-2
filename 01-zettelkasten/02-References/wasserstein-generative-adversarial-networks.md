@@ -1,10 +1,21 @@
 ---
 title: Wasserstein Generative Adversarial Networks
+authors:
+- "Mart\xEDn Arjovsky"
+- Soumith Chintala
+- L. Bottou
+fieldsOfStudy:
+- Computer Science
+meta_key: wasserstein-generative-adversarial-networks
+numCitedBy: 3929
 pdf_relpath: null
+ref_count: 27
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2017
 ---
 
 # Wasserstein Generative Adversarial Networks

@@ -1,10 +1,19 @@
 ---
 title: NLTK - The Natural Language Toolkit
+authors:
+- Steven Bird
+fieldsOfStudy:
+- Computer Science
+meta_key: nltk-the-natural-language-toolkit
+numCitedBy: 3449
 pdf_relpath: null
+ref_count: 36
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2004
 ---
 
 # NLTK - The Natural Language Toolkit

@@ -1,10 +1,22 @@
 ---
 title: WIDER FACE - A Face Detection Benchmark
+authors:
+- Shuo Yang
+- Ping Luo
+- Chen Change Loy
+- Xiaoou Tang
+fieldsOfStudy:
+- Computer Science
+meta_key: wider-face-a-face-detection-benchmark
+numCitedBy: 936
 pdf_relpath: null
+ref_count: 43
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # WIDER FACE - A Face Detection Benchmark

@@ -1,10 +1,22 @@
 ---
 title: Speeded-Up Robust Features (SURF)
+authors:
+- H. Bay
+- Andreas Ess
+- T. Tuytelaars
+- L. Gool
+fieldsOfStudy:
+- Computer Science
+meta_key: speeded-up-robust-features-surf
+numCitedBy: 11653
 pdf_relpath: null
+ref_count: 43
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Comput. Vis. Image Underst.
+year: 2008
 ---
 
 # Speeded-Up Robust Features (SURF)

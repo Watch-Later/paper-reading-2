@@ -1,10 +1,21 @@
 ---
 title: A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning
+authors:
+- "St\xE9phane Ross"
+- Geoffrey J. Gordon
+- J. Bagnell
+fieldsOfStudy:
+- Computer Science
+meta_key: a-reduction-of-imitation-learning-and-structured-prediction-to-no-regret-online-learning
+numCitedBy: 1878
 pdf_relpath: null
+ref_count: 26
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: AISTATS
+year: 2011
 ---
 
 # A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning

@@ -1,10 +1,21 @@
 ---
 title: Training Very Deep Networks
+authors:
+- R. Srivastava
+- Klaus Greff
+- J. Schmidhuber
+fieldsOfStudy:
+- Computer Science
+meta_key: training-very-deep-networks
+numCitedBy: 1312
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2015
 ---
 
 # Training Very Deep Networks

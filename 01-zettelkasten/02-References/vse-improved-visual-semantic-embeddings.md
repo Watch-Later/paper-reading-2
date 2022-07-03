@@ -1,10 +1,22 @@
 ---
 title: VSE++ - Improved Visual-Semantic Embeddings
+authors:
+- Fartash Faghri
+- David J. Fleet
+- J. Kiros
+- S. Fidler
+fieldsOfStudy:
+- Computer Science
+meta_key: vse-improved-visual-semantic-embeddings
+numCitedBy: 150
 pdf_relpath: null
+ref_count: 19
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2017
 ---
 
 # VSE++ - Improved Visual-Semantic Embeddings

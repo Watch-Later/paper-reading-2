@@ -1,10 +1,22 @@
 ---
 title: Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks
+authors:
+- Samy Bengio
+- Oriol Vinyals
+- Navdeep Jaitly
+- Noam M. Shazeer
+fieldsOfStudy:
+- Computer Science
+meta_key: scheduled-sampling-for-sequence-prediction-with-recurrent-neural-networks
+numCitedBy: 1414
 pdf_relpath: null
+ref_count: 29
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2015
 ---
 
 # Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks

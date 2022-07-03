@@ -1,10 +1,26 @@
 ---
 title: Conditional Random Fields as Recurrent Neural Networks
+authors:
+- Shuai Zheng
+- Sadeep Jayasumana
+- B. Romera-Paredes
+- Vibhav Vineet
+- Zhizhong Su
+- Dalong Du
+- Chang Huang
+- Philip H. S. Torr
+fieldsOfStudy:
+- Computer Science
+meta_key: conditional-random-fields-as-recurrent-neural-networks
+numCitedBy: 2224
 pdf_relpath: null
+ref_count: 75
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE International Conference on Computer Vision (ICCV)
+year: 2015
 ---
 
 # Conditional Random Fields as Recurrent Neural Networks

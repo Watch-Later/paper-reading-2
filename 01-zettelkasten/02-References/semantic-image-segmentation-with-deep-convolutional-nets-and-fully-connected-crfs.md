@@ -1,10 +1,23 @@
 ---
 title: Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs
+authors:
+- Liang-Chieh Chen
+- G. Papandreou
+- Iasonas Kokkinos
+- K. Murphy
+- A. Yuille
+fieldsOfStudy:
+- Computer Science
+meta_key: semantic-image-segmentation-with-deep-convolutional-nets-and-fully-connected-crfs
+numCitedBy: 3345
 pdf_relpath: null
+ref_count: 58
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2015
 ---
 
 # Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs

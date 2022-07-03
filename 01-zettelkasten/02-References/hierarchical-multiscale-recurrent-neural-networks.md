@@ -1,10 +1,21 @@
 ---
 title: Hierarchical Multiscale Recurrent Neural Networks
+authors:
+- Junyoung Chung
+- Sungjin Ahn
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: hierarchical-multiscale-recurrent-neural-networks
+numCitedBy: 441
 pdf_relpath: null
+ref_count: 88
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2017
 ---
 
 # Hierarchical Multiscale Recurrent Neural Networks

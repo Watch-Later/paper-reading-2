@@ -1,10 +1,24 @@
 ---
 title: ASTER - An Attentional Scene Text Recognizer with Flexible Rectification
+authors:
+- Baoguang Shi
+- Mingkun Yang
+- Xinggang Wang
+- Pengyuan Lyu
+- C. Yao
+- X. Bai
+fieldsOfStudy:
+- Computer Science
+meta_key: aster-an-attentional-scene-text-recognizer-with-flexible-rectification
+numCitedBy: 330
 pdf_relpath: null
+ref_count: 72
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2019
 ---
 
 # ASTER - An Attentional Scene Text Recognizer with Flexible Rectification

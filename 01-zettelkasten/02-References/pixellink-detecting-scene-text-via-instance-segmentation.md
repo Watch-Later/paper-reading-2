@@ -1,10 +1,22 @@
 ---
 title: PixelLink - Detecting Scene Text via Instance Segmentation
+authors:
+- Dan Deng
+- Haifeng Liu
+- Xuelong Li
+- Deng Cai
+fieldsOfStudy:
+- Computer Science
+meta_key: pixellink-detecting-scene-text-via-instance-segmentation
+numCitedBy: 329
 pdf_relpath: null
+ref_count: 28
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: AAAI
+year: 2018
 ---
 
 # PixelLink - Detecting Scene Text via Instance Segmentation

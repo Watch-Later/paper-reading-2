@@ -1,10 +1,21 @@
 ---
 title: Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models
+authors:
+- Ryan Kiros
+- R. Salakhutdinov
+- R. Zemel
+fieldsOfStudy:
+- Computer Science
+meta_key: unifying-visual-semantic-embeddings-with-multimodal-neural-language-models
+numCitedBy: 1055
 pdf_relpath: null
+ref_count: 54
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2014
 ---
 
 # Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models

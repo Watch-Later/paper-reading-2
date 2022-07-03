@@ -1,5 +1,6 @@
 ---
 title: Object Detection in 20 Years A Survey
+meta_key: Object Detection in 20 Years A Survey
 pdf_relpath: pdfs/Object%20Detection%20in%2020%20Years%20A%20Survey.pdf
 status: todo
 tags:

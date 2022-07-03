@@ -1,10 +1,22 @@
 ---
 title: SQuAD - 100,000+ Questions for Machine Comprehension of Text
+authors:
+- Pranav Rajpurkar
+- Jian Zhang
+- Konstantin Lopyrev
+- Percy Liang
+fieldsOfStudy:
+- Computer Science
+meta_key: squad-100-000-questions-for-machine-comprehension-of-text
+numCitedBy: 4263
 pdf_relpath: null
+ref_count: 31
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2016
 ---
 
 # SQuAD - 100,000+ Questions for Machine Comprehension of Text

@@ -1,10 +1,20 @@
 ---
 title: Rectified Linear Units Improve Restricted Boltzmann Machines
+authors:
+- Vinod Nair
+- Geoffrey E. Hinton
+fieldsOfStudy:
+- Computer Science
+meta_key: rectified-linear-units-improve-restricted-boltzmann-machines
+numCitedBy: 12810
 pdf_relpath: null
+ref_count: 21
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2010
 ---
 
 # Rectified Linear Units Improve Restricted Boltzmann Machines

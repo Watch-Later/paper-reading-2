@@ -1,10 +1,20 @@
 ---
 title: Deep Watershed Transform for Instance Segmentation
+authors:
+- Min Bai
+- R. Urtasun
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-watershed-transform-for-instance-segmentation
+numCitedBy: 396
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Deep Watershed Transform for Instance Segmentation

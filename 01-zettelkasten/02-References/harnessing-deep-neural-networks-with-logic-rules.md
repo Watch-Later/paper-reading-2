@@ -1,10 +1,23 @@
 ---
 title: Harnessing Deep Neural Networks with Logic Rules
+authors:
+- Zhiting Hu
+- Xuezhe Ma
+- Zhengzhong Liu
+- E. Hovy
+- E. Xing
+fieldsOfStudy:
+- Computer Science
+meta_key: harnessing-deep-neural-networks-with-logic-rules
+numCitedBy: 448
 pdf_relpath: null
+ref_count: 54
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2016
 ---
 
 # Harnessing Deep Neural Networks with Logic Rules

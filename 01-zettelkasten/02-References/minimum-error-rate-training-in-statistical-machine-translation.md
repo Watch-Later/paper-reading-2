@@ -1,10 +1,19 @@
 ---
 title: Minimum Error Rate Training in Statistical Machine Translation
+authors:
+- F. Och
+fieldsOfStudy:
+- Computer Science
+meta_key: minimum-error-rate-training-in-statistical-machine-translation
+numCitedBy: 3304
 pdf_relpath: null
+ref_count: 20
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2003
 ---
 
 # Minimum Error Rate Training in Statistical Machine Translation

@@ -1,10 +1,23 @@
 ---
 title: The Neuro-Symbolic Concept Learner - Interpreting Scenes Words and Sentences from Natural Supervision
+authors:
+- Jiayuan Mao
+- Chuang Gan
+- Pushmeet Kohli
+- J. Tenenbaum
+- Jiajun Wu
+fieldsOfStudy:
+- Computer Science
+meta_key: the-neuro-symbolic-concept-learner-interpreting-scenes-words-and-sentences-from-natural-supervision
+numCitedBy: 337
 pdf_relpath: null
+ref_count: 49
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2019
 ---
 
 # The Neuro-Symbolic Concept Learner - Interpreting Scenes Words and Sentences from Natural Supervision

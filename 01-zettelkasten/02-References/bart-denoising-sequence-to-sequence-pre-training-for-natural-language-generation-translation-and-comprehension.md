@@ -1,10 +1,26 @@
 ---
 title: BART - Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
+authors:
+- M. Lewis
+- Yinhan Liu
+- Naman Goyal
+- Marjan Ghazvininejad
+- Abdelrahman Mohamed
+- Omer Levy
+- Veselin Stoyanov
+- Luke Zettlemoyer
+fieldsOfStudy:
+- Computer Science
+meta_key: bart-denoising-sequence-to-sequence-pre-training-for-natural-language-generation-translation-and-comprehension
+numCitedBy: 2422
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2020
 ---
 
 # BART - Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension

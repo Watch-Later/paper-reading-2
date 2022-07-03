@@ -1,10 +1,24 @@
 ---
 title: Learning to Extract Semantic Structure from Documents Using Multimodal Fully Convolutional Neural Networks
+authors:
+- Xiao Yang
+- Ersin Yumer
+- Paul Asente
+- Mike Kraley
+- Daniel Kifer
+- C. Lee Giles
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-to-extract-semantic-structure-from-documents-using-multimodal-fully-convolutional-neural-networks
+numCitedBy: 145
 pdf_relpath: null
+ref_count: 59
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Learning to Extract Semantic Structure from Documents Using Multimodal Fully Convolutional Neural Networks

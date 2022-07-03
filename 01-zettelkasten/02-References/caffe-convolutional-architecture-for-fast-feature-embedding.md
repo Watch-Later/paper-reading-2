@@ -1,10 +1,26 @@
 ---
 title: Caffe - Convolutional Architecture for Fast Feature Embedding
+authors:
+- Yangqing Jia
+- Evan Shelhamer
+- Jeff Donahue
+- Sergey Karayev
+- Jonathan Long
+- Ross B. Girshick
+- S. Guadarrama
+- Trevor Darrell
+fieldsOfStudy:
+- Computer Science
+meta_key: caffe-convolutional-architecture-for-fast-feature-embedding
+numCitedBy: 13755
 pdf_relpath: null
+ref_count: 15
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACM Multimedia
+year: 2014
 ---
 
 # Caffe - Convolutional Architecture for Fast Feature Embedding

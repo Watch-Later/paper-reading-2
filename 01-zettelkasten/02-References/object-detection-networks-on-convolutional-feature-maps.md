@@ -1,10 +1,23 @@
 ---
 title: Object Detection Networks on Convolutional Feature Maps
+authors:
+- Shaoqing Ren
+- Kaiming He
+- Ross B. Girshick
+- X. Zhang
+- Jian Sun
+fieldsOfStudy:
+- Computer Science
+meta_key: object-detection-networks-on-convolutional-feature-maps
+numCitedBy: 314
 pdf_relpath: null
+ref_count: 62
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2017
 ---
 
 # Object Detection Networks on Convolutional Feature Maps

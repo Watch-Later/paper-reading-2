@@ -1,10 +1,22 @@
 ---
 title: A Joint Many-Task Model - Growing a Neural Network for Multiple NLP Tasks
+authors:
+- Kazuma Hashimoto
+- Caiming Xiong
+- Yoshimasa Tsuruoka
+- R. Socher
+fieldsOfStudy:
+- Computer Science
+meta_key: a-joint-many-task-model-growing-a-neural-network-for-multiple-nlp-tasks
+numCitedBy: 461
 pdf_relpath: null
+ref_count: 66
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2017
 ---
 
 # A Joint Many-Task Model - Growing a Neural Network for Multiple NLP Tasks

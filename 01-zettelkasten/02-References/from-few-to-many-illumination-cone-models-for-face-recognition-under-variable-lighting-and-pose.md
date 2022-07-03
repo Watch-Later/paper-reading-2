@@ -1,10 +1,21 @@
 ---
 title: From Few to Many - Illumination Cone Models for Face Recognition under Variable Lighting and Pose
+authors:
+- A. Georghiades
+- P. Belhumeur
+- D. Kriegman
+fieldsOfStudy:
+- Computer Science
+meta_key: from-few-to-many-illumination-cone-models-for-face-recognition-under-variable-lighting-and-pose
+numCitedBy: 4696
 pdf_relpath: null
+ref_count: 165
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Trans. Pattern Anal. Mach. Intell.
+year: 2001
 ---
 
 # From Few to Many - Illumination Cone Models for Face Recognition under Variable Lighting and Pose

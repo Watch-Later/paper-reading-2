@@ -1,10 +1,21 @@
 ---
 title: DenseCap - Fully Convolutional Localization Networks for Dense Captioning
+authors:
+- Justin Johnson
+- A. Karpathy
+- Li Fei-Fei
+fieldsOfStudy:
+- Computer Science
+meta_key: densecap-fully-convolutional-localization-networks-for-dense-captioning
+numCitedBy: 901
 pdf_relpath: null
+ref_count: 63
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # DenseCap - Fully Convolutional Localization Networks for Dense Captioning

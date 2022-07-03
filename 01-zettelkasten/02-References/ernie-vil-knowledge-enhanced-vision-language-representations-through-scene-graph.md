@@ -1,10 +1,25 @@
 ---
 title: ERNIE-ViL - Knowledge Enhanced Vision-Language Representations Through Scene Graph
+authors:
+- Fei Yu
+- Jiji Tang
+- Weichong Yin
+- Yu Sun
+- Hao Tian
+- Hua Wu
+- Haifeng Wang
+fieldsOfStudy:
+- Computer Science
+meta_key: ernie-vil-knowledge-enhanced-vision-language-representations-through-scene-graph
+numCitedBy: 125
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: AAAI
+year: 2021
 ---
 
 # ERNIE-ViL - Knowledge Enhanced Vision-Language Representations Through Scene Graph

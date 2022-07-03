@@ -1,10 +1,22 @@
 ---
 title: Joint CTC-attention based end-to-end speech recognition using multi-task learning
+authors:
+- Suyoun Kim
+- Takaaki Hori
+- Shinji Watanabe
+fieldsOfStudy:
+- Computer Science
+meta_key: joint-ctc-attention-based-end-to-end-speech-recognition-using-multi-task-learning
+numCitedBy: 545
 pdf_relpath: null
+ref_count: 29
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Acoustics, Speech and Signal Processing
+  (ICASSP)
+year: 2017
 ---
 
 # Joint CTC-attention based end-to-end speech recognition using multi-task learning

@@ -1,10 +1,22 @@
 ---
 title: End-To-End Memory Networks
+authors:
+- Sainbayar Sukhbaatar
+- Arthur D. Szlam
+- J. Weston
+- R. Fergus
+fieldsOfStudy:
+- Computer Science
+meta_key: end-to-end-memory-networks
+numCitedBy: 1990
 pdf_relpath: null
+ref_count: 27
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2015
 ---
 
 # End-To-End Memory Networks

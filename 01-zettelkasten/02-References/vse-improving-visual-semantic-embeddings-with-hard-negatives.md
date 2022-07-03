@@ -1,10 +1,22 @@
 ---
 title: VSE++ - Improving Visual-Semantic Embeddings with Hard Negatives
+authors:
+- Fartash Faghri
+- David J. Fleet
+- J. Kiros
+- S. Fidler
+fieldsOfStudy:
+- Computer Science
+meta_key: vse-improving-visual-semantic-embeddings-with-hard-negatives
+numCitedBy: 508
 pdf_relpath: null
+ref_count: 38
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: BMVC
+year: 2018
 ---
 
 # VSE++ - Improving Visual-Semantic Embeddings with Hard Negatives

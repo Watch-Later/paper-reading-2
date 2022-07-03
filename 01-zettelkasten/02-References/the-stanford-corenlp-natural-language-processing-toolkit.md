@@ -1,10 +1,24 @@
 ---
 title: The Stanford CoreNLP Natural Language Processing Toolkit
+authors:
+- Christopher D. Manning
+- M. Surdeanu
+- John Bauer
+- J. Finkel
+- Steven Bethard
+- David McClosky
+fieldsOfStudy:
+- Computer Science
+meta_key: the-stanford-corenlp-natural-language-processing-toolkit
+numCitedBy: 6057
 pdf_relpath: null
+ref_count: 20
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2014
 ---
 
 # The Stanford CoreNLP Natural Language Processing Toolkit

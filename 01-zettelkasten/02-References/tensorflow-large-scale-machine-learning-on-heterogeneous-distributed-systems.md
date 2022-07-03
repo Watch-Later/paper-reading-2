@@ -1,10 +1,58 @@
 ---
 title: TensorFlow - Large-Scale Machine Learning on Heterogeneous Distributed Systems
+authors:
+- "Mart\xEDn Abadi"
+- Ashish Agarwal
+- P. Barham
+- E. Brevdo
+- Z. Chen
+- C. Citro
+- G. Corrado
+- Andy Davis
+- J. Dean
+- Matthieu Devin
+- S. Ghemawat
+- Ian J. Goodfellow
+- A. Harp
+- Geoffrey Irving
+- M. Isard
+- Yangqing Jia
+- "R. J\xF3zefowicz"
+- Lukasz Kaiser
+- M. Kudlur
+- J. Levenberg
+- "Dandelion Man\xE9"
+- R. Monga
+- Sherry Moore
+- D. Murray
+- C. Olah
+- M. Schuster
+- Jonathon Shlens
+- Benoit Steiner
+- Ilya Sutskever
+- Kunal Talwar
+- P. Tucker
+- Vincent Vanhoucke
+- Vijay Vasudevan
+- "F. Vi\xE9gas"
+- Oriol Vinyals
+- P. Warden
+- M. Wattenberg
+- M. Wicke
+- Yuan Yu
+- Xiaoqiang Zheng
+fieldsOfStudy:
+- Computer Science
+meta_key: tensorflow-large-scale-machine-learning-on-heterogeneous-distributed-systems
+numCitedBy: 9182
 pdf_relpath: null
+ref_count: 70
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2016
 ---
 
 # TensorFlow - Large-Scale Machine Learning on Heterogeneous Distributed Systems

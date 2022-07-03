@@ -1,10 +1,23 @@
 ---
 title: Rotation-Sensitive Regression for Oriented Scene Text Detection
+authors:
+- Minghui Liao
+- Zhen Zhu
+- Baoguang Shi
+- Gui-Song Xia
+- X. Bai
+fieldsOfStudy:
+- Computer Science
+meta_key: rotation-sensitive-regression-for-oriented-scene-text-detection
+numCitedBy: 256
 pdf_relpath: null
+ref_count: 51
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # Rotation-Sensitive Regression for Oriented Scene Text Detection

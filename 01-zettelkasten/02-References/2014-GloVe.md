@@ -1,5 +1,6 @@
 ---
 title: Glove
+meta_key: 2014-GloVe
 pdf_relpath: pdfs/2014-GloVe.pdf
 status: todo
 tags:

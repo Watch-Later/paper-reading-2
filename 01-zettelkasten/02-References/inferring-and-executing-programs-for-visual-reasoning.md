@@ -1,10 +1,25 @@
 ---
 title: Inferring and Executing Programs for Visual Reasoning
+authors:
+- Justin Johnson
+- B. Hariharan
+- L. V. D. Maaten
+- Judy Hoffman
+- Li Fei-Fei
+- C. L. Zitnick
+- Ross B. Girshick
+fieldsOfStudy:
+- Computer Science
+meta_key: inferring-and-executing-programs-for-visual-reasoning
+numCitedBy: 413
 pdf_relpath: null
+ref_count: 63
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # Inferring and Executing Programs for Visual Reasoning

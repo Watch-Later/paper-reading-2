@@ -1,10 +1,20 @@
 ---
 title: Mean Shift - A Robust Approach Toward Feature Space Analysis
+authors:
+- D. Comaniciu
+- P. Meer
+fieldsOfStudy:
+- Computer Science
+meta_key: mean-shift-a-robust-approach-toward-feature-space-analysis
+numCitedBy: 11480
 pdf_relpath: null
+ref_count: 125
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Trans. Pattern Anal. Mach. Intell.
+year: 2002
 ---
 
 # Mean Shift - A Robust Approach Toward Feature Space Analysis

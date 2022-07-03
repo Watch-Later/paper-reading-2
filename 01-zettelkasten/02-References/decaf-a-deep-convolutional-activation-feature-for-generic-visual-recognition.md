@@ -1,10 +1,25 @@
 ---
 title: DeCAF - A Deep Convolutional Activation Feature for Generic Visual Recognition
+authors:
+- Jeff Donahue
+- Yangqing Jia
+- Oriol Vinyals
+- Judy Hoffman
+- Ning Zhang
+- Eric Tzeng
+- Trevor Darrell
+fieldsOfStudy:
+- Computer Science
+meta_key: decaf-a-deep-convolutional-activation-feature-for-generic-visual-recognition
+numCitedBy: 4234
 pdf_relpath: null
+ref_count: 55
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2014
 ---
 
 # DeCAF - A Deep Convolutional Activation Feature for Generic Visual Recognition

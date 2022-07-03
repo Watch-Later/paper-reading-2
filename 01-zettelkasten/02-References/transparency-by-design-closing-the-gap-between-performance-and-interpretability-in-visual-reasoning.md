@@ -1,10 +1,22 @@
 ---
 title: Transparency by Design - Closing the Gap Between Performance and Interpretability in Visual Reasoning
+authors:
+- D. Mascharka
+- Philip Tran
+- R. Soklaski
+- Arjun Majumdar
+fieldsOfStudy:
+- Computer Science
+meta_key: transparency-by-design-closing-the-gap-between-performance-and-interpretability-in-visual-reasoning
+numCitedBy: 152
 pdf_relpath: null
+ref_count: 43
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # Transparency by Design - Closing the Gap Between Performance and Interpretability in Visual Reasoning

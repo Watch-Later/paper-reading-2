@@ -1,10 +1,20 @@
 ---
 title: Learning Natural Language Inference with LSTM
+authors:
+- Shuohang Wang
+- Jing Jiang
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-natural-language-inference-with-lstm
+numCitedBy: 357
 pdf_relpath: null
+ref_count: 28
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NAACL
+year: 2016
 ---
 
 # Learning Natural Language Inference with LSTM

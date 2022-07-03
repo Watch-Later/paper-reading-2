@@ -1,10 +1,21 @@
 ---
 title: Actor-Mimic - Deep Multitask and Transfer Reinforcement Learning
+authors:
+- Emilio Parisotto
+- Jimmy Ba
+- R. Salakhutdinov
+fieldsOfStudy:
+- Computer Science
+meta_key: actor-mimic-deep-multitask-and-transfer-reinforcement-learning
+numCitedBy: 440
 pdf_relpath: null
+ref_count: 24
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # Actor-Mimic - Deep Multitask and Transfer Reinforcement Learning

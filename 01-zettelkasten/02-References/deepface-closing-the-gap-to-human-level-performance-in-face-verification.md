@@ -1,10 +1,22 @@
 ---
 title: DeepFace - Closing the Gap to Human-Level Performance in Face Verification
+authors:
+- Yaniv Taigman
+- Ming Yang
+- Marc'Aurelio Ranzato
+- Lior Wolf
+fieldsOfStudy:
+- Computer Science
+meta_key: deepface-closing-the-gap-to-human-level-performance-in-face-verification
+numCitedBy: 5013
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2014 IEEE Conference on Computer Vision and Pattern Recognition
+year: 2014
 ---
 
 # DeepFace - Closing the Gap to Human-Level Performance in Face Verification

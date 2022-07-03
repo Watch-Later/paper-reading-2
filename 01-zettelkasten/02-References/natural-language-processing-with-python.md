@@ -1,10 +1,21 @@
 ---
 title: Natural Language Processing with Python
+authors:
+- Steven Bird
+- Ewan Klein
+- E. Loper
+fieldsOfStudy:
+- Computer Science
+meta_key: natural-language-processing-with-python
+numCitedBy: 3384
 pdf_relpath: null
+ref_count: 113
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2009
 ---
 
 # Natural Language Processing with Python

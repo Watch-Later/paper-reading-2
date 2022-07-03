@@ -1,10 +1,22 @@
 ---
 title: Knowing When to Look - Adaptive Attention via a Visual Sentinel for Image Captioning
+authors:
+- Jiasen Lu
+- Caiming Xiong
+- Devi Parikh
+- R. Socher
+fieldsOfStudy:
+- Computer Science
+meta_key: knowing-when-to-look-adaptive-attention-via-a-visual-sentinel-for-image-captioning
+numCitedBy: 961
 pdf_relpath: null
+ref_count: 38
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Knowing When to Look - Adaptive Attention via a Visual Sentinel for Image Captioning

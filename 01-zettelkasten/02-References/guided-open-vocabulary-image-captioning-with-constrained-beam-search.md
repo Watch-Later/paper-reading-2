@@ -1,10 +1,22 @@
 ---
 title: Guided Open Vocabulary Image Captioning with Constrained Beam Search
+authors:
+- Peter Anderson
+- Basura Fernando
+- Mark Johnson
+- Stephen Gould
+fieldsOfStudy:
+- Computer Science
+meta_key: guided-open-vocabulary-image-captioning-with-constrained-beam-search
+numCitedBy: 136
 pdf_relpath: null
+ref_count: 54
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2017
 ---
 
 # Guided Open Vocabulary Image Captioning with Constrained Beam Search

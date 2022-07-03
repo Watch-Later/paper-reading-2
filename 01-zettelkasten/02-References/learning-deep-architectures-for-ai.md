@@ -1,10 +1,19 @@
 ---
 title: Learning Deep Architectures for AI
+authors:
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-deep-architectures-for-ai
+numCitedBy: 7558
 pdf_relpath: null
+ref_count: 345
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Found. Trends Mach. Learn.
+year: 2007
 ---
 
 # Learning Deep Architectures for AI

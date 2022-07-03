@@ -1,5 +1,6 @@
 ---
 title: ResNet
+meta_key: 2015-ResNet
 pdf_relpath: pdfs/2015-ResNet.pdf
 status: todo
 tags:

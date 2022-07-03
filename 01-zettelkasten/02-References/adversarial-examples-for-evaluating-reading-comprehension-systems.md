@@ -1,10 +1,20 @@
 ---
 title: Adversarial Examples for Evaluating Reading Comprehension Systems
+authors:
+- Robin Jia
+- Percy Liang
+fieldsOfStudy:
+- Computer Science
+meta_key: adversarial-examples-for-evaluating-reading-comprehension-systems
+numCitedBy: 1078
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2017
 ---
 
 # Adversarial Examples for Evaluating Reading Comprehension Systems

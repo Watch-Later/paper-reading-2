@@ -1,10 +1,25 @@
 ---
 title: Deformable Convolutional Networks
+authors:
+- Jifeng Dai
+- Haozhi Qi
+- Yuwen Xiong
+- Yi Li
+- Guodong Zhang
+- Han Hu
+- Yichen Wei
+fieldsOfStudy:
+- Computer Science
+meta_key: deformable-convolutional-networks
+numCitedBy: 2320
 pdf_relpath: null
+ref_count: 65
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # Deformable Convolutional Networks

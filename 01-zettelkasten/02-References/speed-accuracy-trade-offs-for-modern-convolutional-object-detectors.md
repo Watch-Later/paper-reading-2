@@ -1,10 +1,29 @@
 ---
 title: Speed/Accuracy Trade-Offs for Modern Convolutional Object Detectors
+authors:
+- Jonathan Huang
+- V. Rathod
+- Chen Sun
+- Menglong Zhu
+- A. Balan
+- A. Fathi
+- Ian S. Fischer
+- Z. Wojna
+- Yang Song
+- S. Guadarrama
+- K. Murphy
+fieldsOfStudy:
+- Computer Science
+meta_key: speed-accuracy-trade-offs-for-modern-convolutional-object-detectors
+numCitedBy: 1999
 pdf_relpath: null
+ref_count: 59
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Speed/Accuracy Trade-Offs for Modern Convolutional Object Detectors

@@ -1,10 +1,26 @@
 ---
 title: Show, Attend and Tell - Neural Image Caption Generation with Visual Attention
+authors:
+- Ke Xu
+- Jimmy Ba
+- Ryan Kiros
+- Kyunghyun Cho
+- Aaron C. Courville
+- R. Salakhutdinov
+- R. Zemel
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: show-attend-and-tell-neural-image-caption-generation-with-visual-attention
+numCitedBy: 7252
 pdf_relpath: null
+ref_count: 64
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2015
 ---
 
 # Show, Attend and Tell - Neural Image Caption Generation with Visual Attention

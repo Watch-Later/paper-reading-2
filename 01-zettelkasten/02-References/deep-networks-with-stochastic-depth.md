@@ -1,10 +1,23 @@
 ---
 title: Deep Networks with Stochastic Depth
+authors:
+- Gao Huang
+- Yu Sun
+- Zhuang Liu
+- Daniel Sedra
+- Kilian Q. Weinberger
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-networks-with-stochastic-depth
+numCitedBy: 1424
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # Deep Networks with Stochastic Depth

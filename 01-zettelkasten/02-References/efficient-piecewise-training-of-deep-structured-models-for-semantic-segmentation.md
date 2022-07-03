@@ -1,10 +1,22 @@
 ---
 title: Efficient Piecewise Training of Deep Structured Models for Semantic Segmentation
+authors:
+- Guosheng Lin
+- Chunhua Shen
+- Anton van dan Hengel
+- I. Reid
+fieldsOfStudy:
+- Computer Science
+meta_key: efficient-piecewise-training-of-deep-structured-models-for-semantic-segmentation
+numCitedBy: 797
 pdf_relpath: null
+ref_count: 55
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Efficient Piecewise Training of Deep Structured Models for Semantic Segmentation

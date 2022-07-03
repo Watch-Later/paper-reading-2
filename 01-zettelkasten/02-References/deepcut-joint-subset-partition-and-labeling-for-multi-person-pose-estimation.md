@@ -1,10 +1,25 @@
 ---
 title: DeepCut - Joint Subset Partition and Labeling for Multi Person Pose Estimation
+authors:
+- L. Pishchulin
+- Eldar Insafutdinov
+- Siyu Tang
+- Bjoern Andres
+- M. Andriluka
+- P. Gehler
+- B. Schiele
+fieldsOfStudy:
+- Computer Science
+meta_key: deepcut-joint-subset-partition-and-labeling-for-multi-person-pose-estimation
+numCitedBy: 695
 pdf_relpath: null
+ref_count: 63
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # DeepCut - Joint Subset Partition and Labeling for Multi Person Pose Estimation

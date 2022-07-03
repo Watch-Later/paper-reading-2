@@ -1,10 +1,21 @@
 ---
 title: On Spectral Clustering - Analysis and an algorithm
+authors:
+- A. Ng
+- Michael I. Jordan
+- Yair Weiss
+fieldsOfStudy:
+- Computer Science
+meta_key: on-spectral-clustering-analysis-and-an-algorithm
+numCitedBy: 8411
 pdf_relpath: null
+ref_count: 14
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2001
 ---
 
 # On Spectral Clustering - Analysis and an algorithm

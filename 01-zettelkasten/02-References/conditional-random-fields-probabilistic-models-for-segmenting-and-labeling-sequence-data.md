@@ -1,10 +1,21 @@
 ---
 title: Conditional Random Fields Probabilistic Models For Segmenting And Labeling Sequence Data
+authors:
+- J. Lafferty
+- A. McCallum
+- Fernando Pereira
+fieldsOfStudy:
+- Computer Science
+meta_key: conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data
+numCitedBy: 13413
 pdf_relpath: pdfs/conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data.pdf
+ref_count: 76
 status: todo
 tags:
 - nlp
 - paper
+venue: ICML
+year: 2001
 ---
 
 [local pdf](../../../pdfs/conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data.pdf)

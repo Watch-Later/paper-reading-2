@@ -1,10 +1,22 @@
 ---
 title: Least angle regression
+authors:
+- B. Efron
+- T. Hastie
+- I. Johnstone
+- R. Tibshirani
+fieldsOfStudy:
+- Computer Science
+meta_key: least-angle-regression
+numCitedBy: 7889
 pdf_relpath: null
+ref_count: 38
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2004
 ---
 
 # Least angle regression

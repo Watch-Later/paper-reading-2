@@ -1,10 +1,25 @@
 ---
 title: Teaching Machines to Read and Comprehend
+authors:
+- K. Hermann
+- "Tom\xE1s Kocisk\xFD"
+- Edward Grefenstette
+- Lasse Espeholt
+- Will Kay
+- Mustafa Suleyman
+- P. Blunsom
+fieldsOfStudy:
+- Computer Science
+meta_key: teaching-machines-to-read-and-comprehend
+numCitedBy: 2432
 pdf_relpath: null
+ref_count: 28
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2015
 ---
 
 # Teaching Machines to Read and Comprehend

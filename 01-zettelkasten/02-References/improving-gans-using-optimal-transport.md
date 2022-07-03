@@ -1,10 +1,22 @@
 ---
 title: Improving GANs Using Optimal Transport
+authors:
+- Tim Salimans
+- Han Zhang
+- Alec Radford
+- Dimitris N. Metaxas
+fieldsOfStudy:
+- Computer Science
+meta_key: improving-gans-using-optimal-transport
+numCitedBy: 207
 pdf_relpath: null
+ref_count: 25
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2018
 ---
 
 # Improving GANs Using Optimal Transport

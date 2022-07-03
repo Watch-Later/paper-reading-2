@@ -1,10 +1,20 @@
 ---
 title: Neural Networks for Pattern Recognition
+authors:
+- S. Kothari
+- H. Oh
+fieldsOfStudy:
+- Computer Science
+meta_key: neural-networks-for-pattern-recognition
+numCitedBy: 15338
 pdf_relpath: null
+ref_count: 66
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Adv. Comput.
+year: 1993
 ---
 
 # Neural Networks for Pattern Recognition

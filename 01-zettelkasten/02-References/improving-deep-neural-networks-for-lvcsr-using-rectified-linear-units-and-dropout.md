@@ -1,10 +1,21 @@
 ---
 title: Improving deep neural networks for LVCSR using rectified linear units and dropout
+authors:
+- George E. Dahl
+- T. Sainath
+- Geoffrey E. Hinton
+fieldsOfStudy:
+- Computer Science
+meta_key: improving-deep-neural-networks-for-lvcsr-using-rectified-linear-units-and-dropout
+numCitedBy: 1179
 pdf_relpath: null
+ref_count: 20
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2013 IEEE International Conference on Acoustics, Speech and Signal Processing
+year: 2013
 ---
 
 # Improving deep neural networks for LVCSR using rectified linear units and dropout

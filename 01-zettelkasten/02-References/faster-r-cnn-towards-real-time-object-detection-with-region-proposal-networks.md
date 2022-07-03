@@ -1,10 +1,22 @@
 ---
 title: Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks
+authors:
+- Shaoqing Ren
+- Kaiming He
+- Ross B. Girshick
+- Jian Sun
+fieldsOfStudy:
+- Computer Science
+meta_key: faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks
+numCitedBy: 32534
 pdf_relpath: null
+ref_count: 52
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2015
 ---
 
 # Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks

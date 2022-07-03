@@ -1,10 +1,22 @@
 ---
 title: Translating Videos to Natural Language Using Deep Recurrent Neural Networks
+authors:
+- U. Austin
+- Austin
+- UMass Lowell
+- Lowell
+fieldsOfStudy:
+- Computer Science
+meta_key: translating-videos-to-natural-language-using-deep-recurrent-neural-networks
+numCitedBy: 650
 pdf_relpath: null
+ref_count: 50
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2017
 ---
 
 # Translating Videos to Natural Language Using Deep Recurrent Neural Networks

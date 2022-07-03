@@ -1,10 +1,24 @@
 ---
 title: Feature Pyramid Networks for Object Detection
+authors:
+- Tsung-Yi Lin
+- "Piotr Doll\xE1r"
+- Ross B. Girshick
+- Kaiming He
+- Bharath Hariharan
+- Serge J. Belongie
+fieldsOfStudy:
+- Computer Science
+meta_key: feature-pyramid-networks-for-object-detection
+numCitedBy: 9354
 pdf_relpath: null
+ref_count: 49
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Feature Pyramid Networks for Object Detection

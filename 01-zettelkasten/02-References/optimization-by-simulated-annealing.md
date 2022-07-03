@@ -1,10 +1,21 @@
 ---
 title: Optimization by Simulated Annealing
+authors:
+- S. Kirkpatrick
+- C. D. Gelatt
+- M. Vecchi
+fieldsOfStudy:
+- Physics
+meta_key: optimization-by-simulated-annealing
+numCitedBy: 39636
 pdf_relpath: null
+ref_count: 79
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Science
+year: 1983
 ---
 
 # Optimization by Simulated Annealing

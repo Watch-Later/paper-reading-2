@@ -1,10 +1,20 @@
 ---
 title: Scale & Affine Invariant Interest Point Detectors
+authors:
+- K. Mikolajczyk
+- C. Schmid
+fieldsOfStudy:
+- Mathematics
+meta_key: scale-affine-invariant-interest-point-detectors
+numCitedBy: 4161
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: International Journal of Computer Vision
+year: 2004
 ---
 
 # Scale & Affine Invariant Interest Point Detectors

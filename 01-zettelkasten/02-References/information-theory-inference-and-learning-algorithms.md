@@ -1,10 +1,19 @@
 ---
 title: Information Theory, Inference, and Learning Algorithms
+authors:
+- D. Mackay
+fieldsOfStudy:
+- Computer Science
+meta_key: information-theory-inference-and-learning-algorithms
+numCitedBy: 8764
 pdf_relpath: null
+ref_count: 249
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Information Theory
+year: 2004
 ---
 
 # Information Theory, Inference, and Learning Algorithms

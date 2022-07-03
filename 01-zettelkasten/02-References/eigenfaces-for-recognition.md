@@ -1,10 +1,20 @@
 ---
 title: Eigenfaces for Recognition
+authors:
+- M. Turk
+- A. Pentland
+fieldsOfStudy:
+- Computer Science
+meta_key: eigenfaces-for-recognition
+numCitedBy: 14955
 pdf_relpath: null
+ref_count: 29
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Journal of Cognitive Neuroscience
+year: 1991
 ---
 
 # Eigenfaces for Recognition

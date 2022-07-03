@@ -1,10 +1,23 @@
 ---
 title: Attention-Based Models for Speech Recognition
+authors:
+- J. Chorowski
+- Dzmitry Bahdanau
+- Dmitriy Serdyuk
+- Kyunghyun Cho
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: attention-based-models-for-speech-recognition
+numCitedBy: 1874
 pdf_relpath: null
+ref_count: 43
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2015
 ---
 
 # Attention-Based Models for Speech Recognition

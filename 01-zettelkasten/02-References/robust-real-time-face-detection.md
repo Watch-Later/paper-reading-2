@@ -1,10 +1,20 @@
 ---
 title: Robust Real-Time Face Detection
+authors:
+- Paul A. Viola
+- Michael Jones
+fieldsOfStudy:
+- Computer Science
+meta_key: robust-real-time-face-detection
+numCitedBy: 11227
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Proceedings Eighth IEEE International Conference on Computer Vision. ICCV 2001
+year: 2001
 ---
 
 # Robust Real-Time Face Detection

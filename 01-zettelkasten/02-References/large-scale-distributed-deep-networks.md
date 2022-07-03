@@ -1,10 +1,30 @@
 ---
 title: Large Scale Distributed Deep Networks
+authors:
+- J. Dean
+- G. Corrado
+- R. Monga
+- Kai Chen
+- Matthieu Devin
+- Quoc V. Le
+- Mark Z. Mao
+- Marc'Aurelio Ranzato
+- A. Senior
+- P. Tucker
+- Ke Yang
+- A. Ng
+fieldsOfStudy:
+- Computer Science
+meta_key: large-scale-distributed-deep-networks
+numCitedBy: 3026
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2012
 ---
 
 # Large Scale Distributed Deep Networks

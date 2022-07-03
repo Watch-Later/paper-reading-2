@@ -1,10 +1,25 @@
 ---
 title: StructBERT - Incorporating Language Structures into Pre-training for Deep Language Understanding
+authors:
+- Wei Wang
+- Bin Bi
+- Ming Yan
+- Chen Wu
+- Zuyi Bao
+- Liwei Peng
+- Luo Si
+fieldsOfStudy:
+- Computer Science
+meta_key: structbert-incorporating-language-structures-into-pre-training-for-deep-language-understanding
+numCitedBy: 140
 pdf_relpath: null
+ref_count: 62
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2020
 ---
 
 # StructBERT - Incorporating Language Structures into Pre-training for Deep Language Understanding

@@ -1,10 +1,20 @@
 ---
 title: Improved Fusion of Visual and Language Representations by Dense Symmetric Co-attention for Visual Question Answering
+authors:
+- Duy-Kien Nguyen
+- Takayuki Okatani
+fieldsOfStudy:
+- Computer Science
+meta_key: improved-fusion-of-visual-and-language-representations-by-dense-symmetric-co-attention-for-visual-question-answering
+numCitedBy: 171
 pdf_relpath: null
+ref_count: 38
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # Improved Fusion of Visual and Language Representations by Dense Symmetric Co-attention for Visual Question Answering

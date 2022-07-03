@@ -1,10 +1,22 @@
 ---
 title: Image-to-Markup Generation with Coarse-to-Fine Attention
+authors:
+- Yuntian Deng
+- Anssi Kanervisto
+- Jeffrey Ling
+- Alexander M. Rush
+fieldsOfStudy:
+- Computer Science
+meta_key: image-to-markup-generation-with-coarse-to-fine-attention
+numCitedBy: 132
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2017
 ---
 
 # Image-to-Markup Generation with Coarse-to-Fine Attention

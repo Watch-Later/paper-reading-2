@@ -1,10 +1,26 @@
 ---
 title: SuperGLUE - A Stickier Benchmark for General-Purpose Language Understanding Systems
+authors:
+- Alex Wang
+- Yada Pruksachatkun
+- Nikita Nangia
+- Amanpreet Singh
+- Julian Michael
+- Felix Hill
+- Omer Levy
+- Samuel R. Bowman
+fieldsOfStudy:
+- Computer Science
+meta_key: superglue-a-stickier-benchmark-for-general-purpose-language-understanding-systems
+numCitedBy: 823
 pdf_relpath: null
+ref_count: 87
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NeurIPS
+year: 2019
 ---
 
 # SuperGLUE - A Stickier Benchmark for General-Purpose Language Understanding Systems

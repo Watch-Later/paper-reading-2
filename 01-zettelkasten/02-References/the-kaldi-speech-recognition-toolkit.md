@@ -1,10 +1,31 @@
 ---
 title: The Kaldi Speech Recognition Toolkit
+authors:
+- Daniel Povey
+- Arnab Ghoshal
+- Gilles Boulianne
+- L. Burget
+- O. Glembek
+- N. Goel
+- M. Hannemann
+- "P. Motl\xEDcek"
+- Y. Qian
+- Petr Schwarz
+- "J. Silovsk\xFD"
+- G. Stemmer
+- "Karel Vesel\xFD"
+fieldsOfStudy:
+- Computer Science
+meta_key: the-kaldi-speech-recognition-toolkit
+numCitedBy: 5122
 pdf_relpath: null
+ref_count: 26
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2011
 ---
 
 # The Kaldi Speech Recognition Toolkit

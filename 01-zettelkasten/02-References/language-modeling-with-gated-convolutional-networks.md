@@ -1,10 +1,22 @@
 ---
 title: Language Modeling with Gated Convolutional Networks
+authors:
+- Yann Dauphin
+- Angela Fan
+- Michael Auli
+- David Grangier
+fieldsOfStudy:
+- Computer Science
+meta_key: language-modeling-with-gated-convolutional-networks
+numCitedBy: 1284
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2017
 ---
 
 # Language Modeling with Gated Convolutional Networks

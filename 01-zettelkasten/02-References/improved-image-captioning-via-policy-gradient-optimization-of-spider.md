@@ -1,10 +1,23 @@
 ---
 title: Improved Image Captioning via Policy Gradient optimization of SPIDEr
+authors:
+- Siqi Liu
+- Zhenhai Zhu
+- Ning Ye
+- S. Guadarrama
+- K. Murphy
+fieldsOfStudy:
+- Computer Science
+meta_key: improved-image-captioning-via-policy-gradient-optimization-of-spider
+numCitedBy: 285
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # Improved Image Captioning via Policy Gradient optimization of SPIDEr

@@ -1,10 +1,22 @@
 ---
 title: Face recognition - A literature survey
+authors:
+- Wen Zhao
+- R. Chellappa
+- P. Phillips
+- A. Rosenfeld
+fieldsOfStudy:
+- Computer Science
+meta_key: face-recognition-a-literature-survey
+numCitedBy: 6984
 pdf_relpath: null
+ref_count: 419
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: CSUR
+year: 2003
 ---
 
 # Face recognition - A literature survey

@@ -1,10 +1,21 @@
 ---
 title: SciBERT - A Pretrained Language Model for Scientific Text
+authors:
+- Iz Beltagy
+- Kyle Lo
+- Arman Cohan
+fieldsOfStudy:
+- Computer Science
+meta_key: scibert-a-pretrained-language-model-for-scientific-text
+numCitedBy: 1018
 pdf_relpath: null
+ref_count: 32
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2019
 ---
 
 # SciBERT - A Pretrained Language Model for Scientific Text

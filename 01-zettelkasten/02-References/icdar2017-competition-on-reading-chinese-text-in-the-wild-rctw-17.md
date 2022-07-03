@@ -1,10 +1,28 @@
 ---
 title: ICDAR2017 Competition on Reading Chinese Text in the Wild (RCTW-17)
+authors:
+- Baoguang Shi
+- C. Yao
+- Minghui Liao
+- Mingkun Yang
+- Pei Xu
+- Linyan Cui
+- Serge J. Belongie
+- Shijian Lu
+- X. Bai
+fieldsOfStudy:
+- Computer Science
+meta_key: icdar2017-competition-on-reading-chinese-text-in-the-wild-rctw-17
+numCitedBy: 104
 pdf_relpath: null
+ref_count: 10
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 14th IAPR International Conference on Document Analysis and Recognition
+  (ICDAR)
+year: 2017
 ---
 
 # ICDAR2017 Competition on Reading Chinese Text in the Wild (RCTW-17)

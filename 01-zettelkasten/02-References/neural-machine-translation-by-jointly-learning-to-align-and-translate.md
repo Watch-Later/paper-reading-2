@@ -1,10 +1,21 @@
 ---
 title: Neural Machine Translation by Jointly Learning to Align and Translate
+authors:
+- Dzmitry Bahdanau
+- Kyunghyun Cho
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: neural-machine-translation-by-jointly-learning-to-align-and-translate
+numCitedBy: 19342
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2015
 ---
 
 # Neural Machine Translation by Jointly Learning to Align and Translate

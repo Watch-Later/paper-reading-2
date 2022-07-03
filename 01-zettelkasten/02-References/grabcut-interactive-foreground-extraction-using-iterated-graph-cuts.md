@@ -1,10 +1,21 @@
 ---
 title: GrabCut - interactive foreground extraction using iterated graph cuts
+authors:
+- C. Rother
+- V. Kolmogorov
+- A. Blake
+fieldsOfStudy:
+- Computer Science
+meta_key: grabcut-interactive-foreground-extraction-using-iterated-graph-cuts
+numCitedBy: 5202
 pdf_relpath: null
+ref_count: 21
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACM Trans. Graph.
+year: 2004
 ---
 
 # GrabCut - interactive foreground extraction using iterated graph cuts

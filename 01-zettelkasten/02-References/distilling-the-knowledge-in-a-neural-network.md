@@ -1,10 +1,21 @@
 ---
 title: Distilling the Knowledge in a Neural Network
+authors:
+- Geoffrey E. Hinton
+- Oriol Vinyals
+- J. Dean
+fieldsOfStudy:
+- Computer Science
+meta_key: distilling-the-knowledge-in-a-neural-network
+numCitedBy: 8699
 pdf_relpath: null
+ref_count: 14
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2015
 ---
 
 # Distilling the Knowledge in a Neural Network

@@ -1,10 +1,20 @@
 ---
 title: Compositional Attention Networks for Machine Reasoning
+authors:
+- Drew A. Hudson
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: compositional-attention-networks-for-machine-reasoning
+numCitedBy: 401
 pdf_relpath: null
+ref_count: 31
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2018
 ---
 
 # Compositional Attention Networks for Machine Reasoning

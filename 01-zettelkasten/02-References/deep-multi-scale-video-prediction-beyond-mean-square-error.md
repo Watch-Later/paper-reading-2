@@ -1,10 +1,21 @@
 ---
 title: Deep multi-scale video prediction beyond mean square error
+authors:
+- "Micha\xEBl Mathieu"
+- C. Couprie
+- Yann LeCun
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-multi-scale-video-prediction-beyond-mean-square-error
+numCitedBy: 1473
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # Deep multi-scale video prediction beyond mean square error

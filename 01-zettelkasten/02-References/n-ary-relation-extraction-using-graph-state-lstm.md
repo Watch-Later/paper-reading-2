@@ -1,10 +1,22 @@
 ---
 title: N-ary Relation Extraction using Graph-State LSTM
+authors:
+- Linfeng Song
+- Yue Zhang
+- Zhiguo Wang
+- D. Gildea
+fieldsOfStudy:
+- Computer Science
+meta_key: n-ary-relation-extraction-using-graph-state-lstm
+numCitedBy: 109
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2018
 ---
 
 # N-ary Relation Extraction using Graph-State LSTM

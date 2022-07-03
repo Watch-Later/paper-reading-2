@@ -1,10 +1,25 @@
 ---
 title: Outrageously Large Neural Networks - The Sparsely-Gated Mixture-of-Experts Layer
+authors:
+- Noam M. Shazeer
+- Azalia Mirhoseini
+- Krzysztof Maziarz
+- Andy Davis
+- Quoc V. Le
+- Geoffrey E. Hinton
+- J. Dean
+fieldsOfStudy:
+- Computer Science
+meta_key: outrageously-large-neural-networks-the-sparsely-gated-mixture-of-experts-layer
+numCitedBy: 862
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2017
 ---
 
 # Outrageously Large Neural Networks - The Sparsely-Gated Mixture-of-Experts Layer

@@ -1,10 +1,23 @@
 ---
 title: On Multiplicative Integration with Recurrent Neural Networks
+authors:
+- Yuhuai Wu
+- Saizheng Zhang
+- Y. Zhang
+- Yoshua Bengio
+- R. Salakhutdinov
+fieldsOfStudy:
+- Computer Science
+meta_key: on-multiplicative-integration-with-recurrent-neural-networks
+numCitedBy: 129
 pdf_relpath: null
+ref_count: 36
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2016
 ---
 
 # On Multiplicative Integration with Recurrent Neural Networks

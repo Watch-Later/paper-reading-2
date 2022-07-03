@@ -1,5 +1,6 @@
 ---
 title: Selective Search
+meta_key: selective-search-for-object-recognition
 pdf_relpath: pdfs/2013-selectiveSearch.pdf
 status: todo
 tags:

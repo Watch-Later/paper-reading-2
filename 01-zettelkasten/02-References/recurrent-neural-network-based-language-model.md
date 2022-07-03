@@ -1,10 +1,23 @@
 ---
 title: Recurrent neural network based language model
+authors:
+- Tomas Mikolov
+- "M. Karafi\xE1t"
+- L. Burget
+- "J. Cernock\xFD"
+- S. Khudanpur
+fieldsOfStudy:
+- Computer Science
+meta_key: recurrent-neural-network-based-language-model
+numCitedBy: 4902
 pdf_relpath: null
+ref_count: 19
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: INTERSPEECH
+year: 2010
 ---
 
 # Recurrent neural network based language model

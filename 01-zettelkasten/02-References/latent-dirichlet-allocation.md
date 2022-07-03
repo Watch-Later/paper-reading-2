@@ -1,10 +1,21 @@
 ---
 title: Latent Dirichlet Allocation
+authors:
+- D. Blei
+- A. Ng
+- Michael I. Jordan
+fieldsOfStudy:
+- Computer Science
+meta_key: latent-dirichlet-allocation
+numCitedBy: 30947
 pdf_relpath: null
+ref_count: 69
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: J. Mach. Learn. Res.
+year: 2003
 ---
 
 # Latent Dirichlet Allocation

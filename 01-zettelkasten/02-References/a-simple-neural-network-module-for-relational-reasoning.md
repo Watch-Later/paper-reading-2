@@ -1,10 +1,25 @@
 ---
 title: A simple neural network module for relational reasoning
+authors:
+- Adam Santoro
+- David Raposo
+- D. Barrett
+- Mateusz Malinowski
+- Razvan Pascanu
+- P. Battaglia
+- T. Lillicrap
+fieldsOfStudy:
+- Computer Science
+meta_key: a-simple-neural-network-module-for-relational-reasoning
+numCitedBy: 1197
 pdf_relpath: null
+ref_count: 49
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2017
 ---
 
 # A simple neural network module for relational reasoning

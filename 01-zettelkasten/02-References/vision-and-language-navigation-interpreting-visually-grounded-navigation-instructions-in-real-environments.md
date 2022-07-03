@@ -1,10 +1,27 @@
 ---
 title: Vision-and-Language Navigation - Interpreting Visually-Grounded Navigation Instructions in Real Environments
+authors:
+- Peter Anderson
+- Qi Wu
+- Damien Teney
+- Jake Bruce
+- Mark Johnson
+- "Niko S\xFCnderhauf"
+- I. Reid
+- Stephen Gould
+- A. V. Hengel
+fieldsOfStudy:
+- Computer Science
+meta_key: vision-and-language-navigation-interpreting-visually-grounded-navigation-instructions-in-real-environments
+numCitedBy: 564
 pdf_relpath: null
+ref_count: 66
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # Vision-and-Language Navigation - Interpreting Visually-Grounded Navigation Instructions in Real Environments

@@ -1,10 +1,28 @@
 ---
 title: The Cityscapes Dataset for Semantic Urban Scene Understanding
+authors:
+- Marius Cordts
+- Mohamed Omran
+- Sebastian Ramos
+- Timo Rehfeld
+- M. Enzweiler
+- Rodrigo Benenson
+- Uwe Franke
+- S. Roth
+- B. Schiele
+fieldsOfStudy:
+- Computer Science
+- Environmental Science
+meta_key: the-cityscapes-dataset-for-semantic-urban-scene-understanding
+numCitedBy: 6029
 pdf_relpath: null
+ref_count: 94
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # The Cityscapes Dataset for Semantic Urban Scene Understanding

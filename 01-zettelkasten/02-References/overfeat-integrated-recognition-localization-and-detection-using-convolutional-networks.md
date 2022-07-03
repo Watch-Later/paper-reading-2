@@ -1,10 +1,24 @@
 ---
 title: OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks
+authors:
+- Pierre Sermanet
+- D. Eigen
+- X. Zhang
+- "Micha\xEBl Mathieu"
+- R. Fergus
+- Yann LeCun
+fieldsOfStudy:
+- Computer Science
+meta_key: overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks
+numCitedBy: 4352
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2014
 ---
 
 # OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks

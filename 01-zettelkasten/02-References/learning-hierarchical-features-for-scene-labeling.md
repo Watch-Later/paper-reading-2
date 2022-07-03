@@ -1,10 +1,22 @@
 ---
 title: Learning Hierarchical Features for Scene Labeling
+authors:
+- C. Farabet
+- C. Couprie
+- Laurent Najman
+- Yann LeCun
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-hierarchical-features-for-scene-labeling
+numCitedBy: 2404
 pdf_relpath: null
+ref_count: 54
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2013
 ---
 
 # Learning Hierarchical Features for Scene Labeling

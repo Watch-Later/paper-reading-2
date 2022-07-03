@@ -1,10 +1,20 @@
 ---
 title: Edge Boxes - Locating Object Proposals from Edges
+authors:
+- C. L. Zitnick
+- "Piotr Doll\xE1r"
+fieldsOfStudy:
+- Computer Science
+meta_key: edge-boxes-locating-object-proposals-from-edges
+numCitedBy: 2411
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2014
 ---
 
 # Edge Boxes - Locating Object Proposals from Edges

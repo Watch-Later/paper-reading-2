@@ -1,10 +1,21 @@
 ---
 title: Unsupervised Learning of Video Representations using LSTMs
+authors:
+- Nitish Srivastava
+- Elman Mansimov
+- R. Salakhutdinov
+fieldsOfStudy:
+- Computer Science
+meta_key: unsupervised-learning-of-video-representations-using-lstms
+numCitedBy: 1975
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2015
 ---
 
 # Unsupervised Learning of Video Representations using LSTMs

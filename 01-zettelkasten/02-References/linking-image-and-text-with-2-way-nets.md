@@ -1,10 +1,20 @@
 ---
 title: Linking Image and Text with 2-Way Nets
+authors:
+- Aviv Eisenschtat
+- Lior Wolf
+fieldsOfStudy:
+- Computer Science
+meta_key: linking-image-and-text-with-2-way-nets
+numCitedBy: 135
 pdf_relpath: null
+ref_count: 60
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Linking Image and Text with 2-Way Nets

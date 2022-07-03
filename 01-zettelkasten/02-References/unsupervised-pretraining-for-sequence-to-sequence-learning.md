@@ -1,10 +1,21 @@
 ---
 title: Unsupervised Pretraining for Sequence to Sequence Learning
+authors:
+- Prajit Ramachandran
+- Peter J. Liu
+- Quoc V. Le
+fieldsOfStudy:
+- Computer Science
+meta_key: unsupervised-pretraining-for-sequence-to-sequence-learning
+numCitedBy: 249
 pdf_relpath: null
+ref_count: 66
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2017
 ---
 
 # Unsupervised Pretraining for Sequence to Sequence Learning

@@ -1,10 +1,21 @@
 ---
 title: A global geometric framework for nonlinear dimensionality reduction.
+authors:
+- J. Tenenbaum
+- V. De Silva
+- J. Langford
+fieldsOfStudy:
+- Computer Science
+meta_key: a-global-geometric-framework-for-nonlinear-dimensionality-reduction
+numCitedBy: 12181
 pdf_relpath: null
+ref_count: 61
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Science
+year: 2000
 ---
 
 # A global geometric framework for nonlinear dimensionality reduction.

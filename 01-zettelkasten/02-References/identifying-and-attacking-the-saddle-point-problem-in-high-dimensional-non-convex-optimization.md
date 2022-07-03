@@ -1,10 +1,24 @@
 ---
 title: Identifying and attacking the saddle point problem in high-dimensional non-convex optimization
+authors:
+- Yann Dauphin
+- Razvan Pascanu
+- "\xC7aglar G\xFCl\xE7ehre"
+- Kyunghyun Cho
+- S. Ganguli
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: identifying-and-attacking-the-saddle-point-problem-in-high-dimensional-non-convex-optimization
+numCitedBy: 1075
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2014
 ---
 
 # Identifying and attacking the saddle point problem in high-dimensional non-convex optimization

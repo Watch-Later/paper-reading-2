@@ -1,10 +1,29 @@
 ---
 title: Deep Neural Networks for Acoustic Modeling in Speech Recognition - The Shared Views of Four Research Groups
+authors:
+- Geoffrey E. Hinton
+- L. Deng
+- Dong Yu
+- George E. Dahl
+- Abdel-rahman Mohamed
+- Navdeep Jaitly
+- A. Senior
+- Vincent Vanhoucke
+- P. Nguyen
+- T. Sainath
+- Brian Kingsbury
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-neural-networks-for-acoustic-modeling-in-speech-recognition-the-shared-views-of-four-research-groups
+numCitedBy: 7451
 pdf_relpath: null
+ref_count: 73
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Signal Processing Magazine
+year: 2012
 ---
 
 # Deep Neural Networks for Acoustic Modeling in Speech Recognition - The Shared Views of Four Research Groups

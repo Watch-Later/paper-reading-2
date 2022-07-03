@@ -1,10 +1,23 @@
 ---
 title: Mask TextSpotter - An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes
+authors:
+- Pengyuan Lyu
+- Minghui Liao
+- C. Yao
+- Wenhao Wu
+- X. Bai
+fieldsOfStudy:
+- Computer Science
+meta_key: mask-textspotter-an-end-to-end-trainable-neural-network-for-spotting-text-with-arbitrary-shapes
+numCitedBy: 319
 pdf_relpath: null
+ref_count: 99
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2018
 ---
 
 # Mask TextSpotter - An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes

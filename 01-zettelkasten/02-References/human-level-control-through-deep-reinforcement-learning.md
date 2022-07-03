@@ -1,10 +1,37 @@
 ---
 title: Human-level control through deep reinforcement learning
+authors:
+- Volodymyr Mnih
+- K. Kavukcuoglu
+- David Silver
+- Andrei A. Rusu
+- J. Veness
+- Marc G. Bellemare
+- A. Graves
+- Martin A. Riedmiller
+- A. Fidjeland
+- Georg Ostrovski
+- Stig Petersen
+- Charlie Beattie
+- A. Sadik
+- Ioannis Antonoglou
+- Helen King
+- D. Kumaran
+- Daan Wierstra
+- S. Legg
+- D. Hassabis
+fieldsOfStudy:
+- Computer Science
+meta_key: human-level-control-through-deep-reinforcement-learning
+numCitedBy: 16188
 pdf_relpath: null
+ref_count: 36
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Nature
+year: 2015
 ---
 
 # Human-level control through deep reinforcement learning

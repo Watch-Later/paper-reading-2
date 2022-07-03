@@ -1,10 +1,20 @@
 ---
 title: Support Vector Machines
+authors:
+- Ingo Steinwart
+- A. Christmann
+fieldsOfStudy:
+- Computer Science
+meta_key: support-vector-machines
+numCitedBy: 4654
 pdf_relpath: null
+ref_count: 56
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Information science and statistics
+year: 2008
 ---
 
 # Support Vector Machines

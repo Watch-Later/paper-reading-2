@@ -1,10 +1,20 @@
 ---
 title: Pixelwise Instance Segmentation with a Dynamically Instantiated Network
+authors:
+- Anurag Arnab
+- Philip H. S. Torr
+fieldsOfStudy:
+- Computer Science
+meta_key: pixelwise-instance-segmentation-with-a-dynamically-instantiated-network
+numCitedBy: 185
 pdf_relpath: null
+ref_count: 67
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Pixelwise Instance Segmentation with a Dynamically Instantiated Network

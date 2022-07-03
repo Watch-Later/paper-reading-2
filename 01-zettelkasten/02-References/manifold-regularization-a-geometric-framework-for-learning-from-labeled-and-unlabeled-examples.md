@@ -1,10 +1,21 @@
 ---
 title: Manifold Regularization - A Geometric Framework for Learning from Labeled and Unlabeled Examples
+authors:
+- Mikhail Belkin
+- P. Niyogi
+- V. Sindhwani
+fieldsOfStudy:
+- Computer Science
+meta_key: manifold-regularization-a-geometric-framework-for-learning-from-labeled-and-unlabeled-examples
+numCitedBy: 3602
 pdf_relpath: null
+ref_count: 61
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: J. Mach. Learn. Res.
+year: 2006
 ---
 
 # Manifold Regularization - A Geometric Framework for Learning from Labeled and Unlabeled Examples

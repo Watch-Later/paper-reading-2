@@ -1,10 +1,20 @@
 ---
 title: Multimodal learning with deep Boltzmann machines
+authors:
+- Nitish Srivastava
+- R. Salakhutdinov
+fieldsOfStudy:
+- Computer Science
+meta_key: multimodal-learning-with-deep-boltzmann-machines
+numCitedBy: 1489
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: J. Mach. Learn. Res.
+year: 2012
 ---
 
 # Multimodal learning with deep Boltzmann machines

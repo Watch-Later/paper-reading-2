@@ -1,10 +1,20 @@
 ---
 title: Gated Recurrent Convolution Neural Network for OCR
+authors:
+- Jianfeng Wang
+- Xiaolin Hu
+fieldsOfStudy:
+- Computer Science
+meta_key: gated-recurrent-convolution-neural-network-for-ocr
+numCitedBy: 104
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2017
 ---
 
 # Gated Recurrent Convolution Neural Network for OCR

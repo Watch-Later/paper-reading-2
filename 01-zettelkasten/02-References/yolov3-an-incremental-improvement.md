@@ -1,10 +1,20 @@
 ---
 title: YOLOv3 - An Incremental Improvement
+authors:
+- Joseph Redmon
+- Ali Farhadi
+fieldsOfStudy:
+- Computer Science
+meta_key: yolov3-an-incremental-improvement
+numCitedBy: 8616
 pdf_relpath: null
+ref_count: 23
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2018
 ---
 
 # YOLOv3 - An Incremental Improvement

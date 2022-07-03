@@ -1,10 +1,22 @@
 ---
 title: ELECTRA - Pre-training Text Encoders as Discriminators Rather Than Generators
+authors:
+- Kevin Clark
+- Minh-Thang Luong
+- Quoc V. Le
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: electra-pre-training-text-encoders-as-discriminators-rather-than-generators
+numCitedBy: 1191
 pdf_relpath: null
+ref_count: 55
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2020
 ---
 
 # ELECTRA - Pre-training Text Encoders as Discriminators Rather Than Generators

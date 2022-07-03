@@ -1,10 +1,19 @@
 ---
 title: Visual categorization with bags of keypoints
+authors:
+- G. Csurka
+fieldsOfStudy:
+- Computer Science
+meta_key: visual-categorization-with-bags-of-keypoints
+numCitedBy: 5008
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: eccv 2004
+year: 2004
 ---
 
 # Visual categorization with bags of keypoints

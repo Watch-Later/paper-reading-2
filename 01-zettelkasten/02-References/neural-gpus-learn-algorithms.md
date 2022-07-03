@@ -1,10 +1,20 @@
 ---
 title: Neural GPUs Learn Algorithms
+authors:
+- Lukasz Kaiser
+- Ilya Sutskever
+fieldsOfStudy:
+- Computer Science
+meta_key: neural-gpus-learn-algorithms
+numCitedBy: 287
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # Neural GPUs Learn Algorithms

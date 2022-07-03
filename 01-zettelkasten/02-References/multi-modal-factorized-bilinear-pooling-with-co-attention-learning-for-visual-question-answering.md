@@ -1,10 +1,22 @@
 ---
 title: Multi-modal Factorized Bilinear Pooling with Co-attention Learning for Visual Question Answering
+authors:
+- Zhou Yu
+- Jun Yu
+- Jianping Fan
+- D. Tao
+fieldsOfStudy:
+- Computer Science
+meta_key: multi-modal-factorized-bilinear-pooling-with-co-attention-learning-for-visual-question-answering
+numCitedBy: 368
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # Multi-modal Factorized Bilinear Pooling with Co-attention Learning for Visual Question Answering

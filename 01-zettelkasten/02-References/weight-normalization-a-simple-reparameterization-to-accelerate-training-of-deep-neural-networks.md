@@ -1,10 +1,20 @@
 ---
 title: Weight Normalization - A Simple Reparameterization to Accelerate Training of Deep Neural Networks
+authors:
+- Tim Salimans
+- Diederik P. Kingma
+fieldsOfStudy:
+- Computer Science
+meta_key: weight-normalization-a-simple-reparameterization-to-accelerate-training-of-deep-neural-networks
+numCitedBy: 1290
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2016
 ---
 
 # Weight Normalization - A Simple Reparameterization to Accelerate Training of Deep Neural Networks

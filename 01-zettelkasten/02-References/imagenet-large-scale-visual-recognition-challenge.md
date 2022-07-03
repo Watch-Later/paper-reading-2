@@ -1,10 +1,30 @@
 ---
 title: ImageNet Large Scale Visual Recognition Challenge
+authors:
+- Olga Russakovsky
+- Jia Deng
+- Hao Su
+- J. Krause
+- S. Satheesh
+- S. Ma
+- Zhiheng Huang
+- A. Karpathy
+- A. Khosla
+- Michael S. Bernstein
+- A. Berg
+- Li Fei-Fei
+fieldsOfStudy:
+- Computer Science
+meta_key: imagenet-large-scale-visual-recognition-challenge
+numCitedBy: 25478
 pdf_relpath: null
+ref_count: 138
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: International Journal of Computer Vision
+year: 2015
 ---
 
 # ImageNet Large Scale Visual Recognition Challenge

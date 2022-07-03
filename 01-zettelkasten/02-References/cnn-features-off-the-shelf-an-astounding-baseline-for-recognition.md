@@ -1,10 +1,22 @@
 ---
 title: CNN Features Off-the-Shelf - An Astounding Baseline for Recognition
+authors:
+- A. Razavian
+- Hossein Azizpour
+- J. Sullivan
+- S. Carlsson
+fieldsOfStudy:
+- Computer Science
+meta_key: cnn-features-off-the-shelf-an-astounding-baseline-for-recognition
+numCitedBy: 4285
 pdf_relpath: null
+ref_count: 58
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2014 IEEE Conference on Computer Vision and Pattern Recognition Workshops
+year: 2014
 ---
 
 # CNN Features Off-the-Shelf - An Astounding Baseline for Recognition

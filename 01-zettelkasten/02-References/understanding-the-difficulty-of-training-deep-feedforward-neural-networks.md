@@ -1,10 +1,20 @@
 ---
 title: Understanding the difficulty of training deep feedforward neural networks
+authors:
+- Xavier Glorot
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: understanding-the-difficulty-of-training-deep-feedforward-neural-networks
+numCitedBy: 12433
 pdf_relpath: null
+ref_count: 26
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: AISTATS
+year: 2010
 ---
 
 # Understanding the difficulty of training deep feedforward neural networks

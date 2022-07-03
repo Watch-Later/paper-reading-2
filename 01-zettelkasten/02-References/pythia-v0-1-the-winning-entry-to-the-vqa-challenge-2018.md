@@ -1,10 +1,24 @@
 ---
 title: Pythia v0.1 - the Winning Entry to the VQA Challenge 2018
+authors:
+- Yu Jiang
+- Vivek Natarajan
+- Xinlei Chen
+- Marcus Rohrbach
+- Dhruv Batra
+- Devi Parikh
+fieldsOfStudy:
+- Computer Science
+meta_key: pythia-v0-1-the-winning-entry-to-the-vqa-challenge-2018
+numCitedBy: 140
 pdf_relpath: null
+ref_count: 17
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2018
 ---
 
 # Pythia v0.1 - the Winning Entry to the VQA Challenge 2018

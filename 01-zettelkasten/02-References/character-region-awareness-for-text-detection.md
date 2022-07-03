@@ -1,10 +1,23 @@
 ---
 title: Character Region Awareness for Text Detection
+authors:
+- Youngmin Baek
+- Bado Lee
+- Dongyoon Han
+- Sangdoo Yun
+- Hwalsuk Lee
+fieldsOfStudy:
+- Computer Science
+meta_key: character-region-awareness-for-text-detection
+numCitedBy: 290
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2019
 ---
 
 # Character Region Awareness for Text Detection

@@ -1,5 +1,6 @@
 ---
 title: Solve It With Inf
+meta_key: solve-it-with-inf
 pdf_relpath: pdfs/solve-it-with-inf.pdf
 status: todo
 tags:

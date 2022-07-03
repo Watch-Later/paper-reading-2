@@ -1,10 +1,19 @@
 ---
 title: Greedy function approximation - A gradient boosting machine.
+authors:
+- J. Friedman
+fieldsOfStudy:
+- Computer Science
+meta_key: greedy-function-approximation-a-gradient-boosting-machine
+numCitedBy: 13780
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2001
 ---
 
 # Greedy function approximation - A gradient boosting machine.

@@ -1,10 +1,22 @@
 ---
 title: Delving Deep into Rectifiers - Surpassing Human-Level Performance on ImageNet Classification
+authors:
+- Kaiming He
+- X. Zhang
+- Shaoqing Ren
+- Jian Sun
+fieldsOfStudy:
+- Computer Science
+meta_key: delving-deep-into-rectifiers-surpassing-human-level-performance-on-imagenet-classification
+numCitedBy: 12379
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE International Conference on Computer Vision (ICCV)
+year: 2015
 ---
 
 # Delving Deep into Rectifiers - Surpassing Human-Level Performance on ImageNet Classification

@@ -1,10 +1,22 @@
 ---
 title: Enriching Word Vectors with Subword Information
+authors:
+- Piotr Bojanowski
+- Edouard Grave
+- Armand Joulin
+- Tomas Mikolov
+fieldsOfStudy:
+- Computer Science
+meta_key: enriching-word-vectors-with-subword-information
+numCitedBy: 6589
 pdf_relpath: null
+ref_count: 55
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Transactions of the Association for Computational Linguistics
+year: 2017
 ---
 
 # Enriching Word Vectors with Subword Information

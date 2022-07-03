@@ -1,10 +1,22 @@
 ---
 title: Learning hierarchical invariant spatio-temporal features for action recognition with independent subspace analysis
+authors:
+- Quoc V. Le
+- Will Y. Zou
+- S. Yeung
+- A. Ng
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-hierarchical-invariant-spatio-temporal-features-for-action-recognition-with-independent-subspace-analysis
+numCitedBy: 1065
 pdf_relpath: null
+ref_count: 49
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: CVPR 2011
+year: 2011
 ---
 
 # Learning hierarchical invariant spatio-temporal features for action recognition with independent subspace analysis

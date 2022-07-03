@@ -1,10 +1,20 @@
 ---
 title: Fast R-CNN
+authors:
+- Ross B. Girshick
+fieldsOfStudy:
+- Computer Science
+- Environmental Science
+meta_key: fast-r-cnn
+numCitedBy: 14074
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE International Conference on Computer Vision (ICCV)
+year: 2015
 ---
 
 # Fast R-CNN

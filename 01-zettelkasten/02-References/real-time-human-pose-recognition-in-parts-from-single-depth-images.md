@@ -1,10 +1,26 @@
 ---
 title: Real-time human pose recognition in parts from single depth images
+authors:
+- J. Shotton
+- T. Sharp
+- A. Kipman
+- A. Fitzgibbon
+- M. Finocchio
+- A. Blake
+- Mat Cook
+- R. Moore
+fieldsOfStudy:
+- Computer Science
+meta_key: real-time-human-pose-recognition-in-parts-from-single-depth-images
+numCitedBy: 2730
 pdf_relpath: null
+ref_count: 62
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: CVPR 2011
+year: 2011
 ---
 
 # Real-time human pose recognition in parts from single depth images

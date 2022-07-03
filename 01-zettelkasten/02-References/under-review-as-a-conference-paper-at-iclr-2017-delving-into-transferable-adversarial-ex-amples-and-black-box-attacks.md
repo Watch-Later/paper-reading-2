@@ -1,10 +1,19 @@
 ---
 title: Under Review as a Conference Paper at Iclr 2017 Delving into Transferable Adversarial Ex- Amples and Black-box Attacks
+authors:
+- Xinyun Chen
+fieldsOfStudy:
+- Computer Science
+meta_key: under-review-as-a-conference-paper-at-iclr-2017-delving-into-transferable-adversarial-ex-amples-and-black-box-attacks
+numCitedBy: 488
 pdf_relpath: null
+ref_count: 16
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2016
 ---
 
 # Under Review as a Conference Paper at Iclr 2017 Delving into Transferable Adversarial Ex- Amples and Black-box Attacks

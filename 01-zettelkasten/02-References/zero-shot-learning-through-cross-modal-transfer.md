@@ -1,10 +1,22 @@
 ---
 title: Zero-Shot Learning Through Cross-Modal Transfer
+authors:
+- R. Socher
+- M. Ganjoo
+- Christopher D. Manning
+- A. Ng
+fieldsOfStudy:
+- Computer Science
+meta_key: zero-shot-learning-through-cross-modal-transfer
+numCitedBy: 1172
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2013
 ---
 
 # Zero-Shot Learning Through Cross-Modal Transfer

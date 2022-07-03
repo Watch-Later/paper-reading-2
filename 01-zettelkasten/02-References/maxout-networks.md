@@ -1,10 +1,23 @@
 ---
 title: Maxout Networks
+authors:
+- Ian J. Goodfellow
+- David Warde-Farley
+- Mehdi Mirza
+- Aaron C. Courville
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: maxout-networks
+numCitedBy: 1820
 pdf_relpath: null
+ref_count: 29
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2013
 ---
 
 # Maxout Networks

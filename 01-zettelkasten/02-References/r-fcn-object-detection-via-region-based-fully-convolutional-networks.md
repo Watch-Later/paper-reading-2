@@ -1,10 +1,22 @@
 ---
 title: R-FCN - Object Detection via Region-based Fully Convolutional Networks
+authors:
+- Jifeng Dai
+- Yi Li
+- Kaiming He
+- Jian Sun
+fieldsOfStudy:
+- Computer Science
+meta_key: r-fcn-object-detection-via-region-based-fully-convolutional-networks
+numCitedBy: 3872
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2016
 ---
 
 # R-FCN - Object Detection via Region-based Fully Convolutional Networks

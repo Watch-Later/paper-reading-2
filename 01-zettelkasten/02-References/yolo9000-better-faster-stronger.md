@@ -1,10 +1,20 @@
 ---
 title: YOLO9000 - Better, Faster, Stronger
+authors:
+- Joseph Redmon
+- Ali Farhadi
+fieldsOfStudy:
+- Computer Science
+meta_key: yolo9000-better-faster-stronger
+numCitedBy: 7933
 pdf_relpath: null
+ref_count: 25
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # YOLO9000 - Better, Faster, Stronger

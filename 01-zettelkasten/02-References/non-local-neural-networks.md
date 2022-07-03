@@ -1,10 +1,22 @@
 ---
 title: Non-local Neural Networks
+authors:
+- X. Wang
+- Ross B. Girshick
+- A. Gupta
+- Kaiming He
+fieldsOfStudy:
+- Computer Science
+meta_key: non-local-neural-networks
+numCitedBy: 4088
 pdf_relpath: null
+ref_count: 57
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # Non-local Neural Networks

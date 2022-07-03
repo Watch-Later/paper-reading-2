@@ -1,10 +1,24 @@
 ---
 title: Aggregating Local Image Descriptors into Compact Codes
+authors:
+- "H. J\xE9gou"
+- F. Perronnin
+- M. Douze
+- "Jorge S\xE1nchez"
+- "P. P\xE9rez"
+- C. Schmid
+fieldsOfStudy:
+- Computer Science
+meta_key: aggregating-local-image-descriptors-into-compact-codes
+numCitedBy: 1431
 pdf_relpath: null
+ref_count: 41
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2012
 ---
 
 # Aggregating Local Image Descriptors into Compact Codes

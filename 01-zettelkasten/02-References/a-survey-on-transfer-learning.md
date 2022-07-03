@@ -1,10 +1,20 @@
 ---
 title: A Survey on Transfer Learning
+authors:
+- Sinno Jialin Pan
+- Qiang Yang
+fieldsOfStudy:
+- Computer Science
+meta_key: a-survey-on-transfer-learning
+numCitedBy: 13492
 pdf_relpath: null
+ref_count: 96
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Knowledge and Data Engineering
+year: 2010
 ---
 
 # A Survey on Transfer Learning

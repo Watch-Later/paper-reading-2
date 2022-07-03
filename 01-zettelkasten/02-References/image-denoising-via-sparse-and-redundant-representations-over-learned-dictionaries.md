@@ -1,10 +1,20 @@
 ---
 title: Image Denoising Via Sparse and Redundant Representations Over Learned Dictionaries
+authors:
+- Michael Elad
+- M. Aharon
+fieldsOfStudy:
+- Computer Science
+meta_key: image-denoising-via-sparse-and-redundant-representations-over-learned-dictionaries
+numCitedBy: 4979
 pdf_relpath: null
+ref_count: 53
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Image Processing
+year: 2006
 ---
 
 # Image Denoising Via Sparse and Redundant Representations Over Learned Dictionaries

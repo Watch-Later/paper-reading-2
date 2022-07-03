@@ -1,10 +1,23 @@
 ---
 title: Deeply-Supervised Nets
+authors:
+- Chen-Yu Lee
+- Saining Xie
+- Patrick W. Gallagher
+- Zhengyou Zhang
+- Z. Tu
+fieldsOfStudy:
+- Computer Science
+meta_key: deeply-supervised-nets
+numCitedBy: 1438
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: AISTATS
+year: 2015
 ---
 
 # Deeply-Supervised Nets

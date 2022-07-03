@@ -1,10 +1,20 @@
 ---
 title: Action Recognition with Improved Trajectories
+authors:
+- Heng Wang
+- C. Schmid
+fieldsOfStudy:
+- Computer Science
+meta_key: action-recognition-with-improved-trajectories
+numCitedBy: 2832
 pdf_relpath: null
+ref_count: 43
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2013 IEEE International Conference on Computer Vision
+year: 2013
 ---
 
 # Action Recognition with Improved Trajectories

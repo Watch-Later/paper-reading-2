@@ -1,10 +1,26 @@
 ---
 title: R2CNN - Rotational Region CNN for Orientation Robust Scene Text Detection
+authors:
+- Yingying Jiang
+- Xiangyu Zhu
+- Xiaobing Wang
+- Shuli Yang
+- Wei Li
+- Hua Wang
+- Pei Fu
+- Zhenbo Luo
+fieldsOfStudy:
+- Computer Science
+meta_key: r2cnn-rotational-region-cnn-for-orientation-robust-scene-text-detection
+numCitedBy: 314
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2017
 ---
 
 # R2CNN - Rotational Region CNN for Orientation Robust Scene Text Detection

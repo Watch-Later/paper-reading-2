@@ -1,10 +1,21 @@
 ---
 title: Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling
+authors:
+- J. Finkel
+- Trond Grenager
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: incorporating-non-local-information-into-information-extraction-systems-by-gibbs-sampling
+numCitedBy: 3246
 pdf_relpath: null
+ref_count: 31
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2005
 ---
 
 # Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling

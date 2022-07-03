@@ -1,10 +1,21 @@
 ---
 title: Speech recognition with deep recurrent neural networks
+authors:
+- A. Graves
+- Abdel-rahman Mohamed
+- Geoffrey E. Hinton
+fieldsOfStudy:
+- Computer Science
+meta_key: speech-recognition-with-deep-recurrent-neural-networks
+numCitedBy: 6896
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2013 IEEE International Conference on Acoustics, Speech and Signal Processing
+year: 2013
 ---
 
 # Speech recognition with deep recurrent neural networks

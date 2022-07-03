@@ -1,10 +1,22 @@
 ---
 title: Learning to Compose Neural Networks for Question Answering
+authors:
+- Jacob Andreas
+- Marcus Rohrbach
+- Trevor Darrell
+- D. Klein
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-to-compose-neural-networks-for-question-answering
+numCitedBy: 476
 pdf_relpath: null
+ref_count: 43
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NAACL
+year: 2016
 ---
 
 # Learning to Compose Neural Networks for Question Answering

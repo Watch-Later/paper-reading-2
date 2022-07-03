@@ -1,10 +1,24 @@
 ---
 title: Unified Vision-Language Pre-Training for Image Captioning and VQA
+authors:
+- Luowei Zhou
+- H. Palangi
+- Lei Zhang
+- Houdong Hu
+- Jason J. Corso
+- Jianfeng Gao
+fieldsOfStudy:
+- Computer Science
+meta_key: unified-vision-language-pre-training-for-image-captioning-and-vqa
+numCitedBy: 355
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: AAAI
+year: 2020
 ---
 
 # Unified Vision-Language Pre-Training for Image Captioning and VQA

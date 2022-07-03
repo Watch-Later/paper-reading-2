@@ -1,10 +1,22 @@
 ---
 title: Identity Mappings in Deep Residual Networks
+authors:
+- Kaiming He
+- X. Zhang
+- Shaoqing Ren
+- Jian Sun
+fieldsOfStudy:
+- Computer Science
+meta_key: identity-mappings-in-deep-residual-networks
+numCitedBy: 6467
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # Identity Mappings in Deep Residual Networks

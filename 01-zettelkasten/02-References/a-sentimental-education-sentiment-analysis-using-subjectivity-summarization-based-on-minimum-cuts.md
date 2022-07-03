@@ -1,10 +1,20 @@
 ---
 title: A Sentimental Education - Sentiment Analysis Using Subjectivity Summarization Based on Minimum Cuts
+authors:
+- B. Pang
+- Lillian Lee
+fieldsOfStudy:
+- Computer Science
+meta_key: a-sentimental-education-sentiment-analysis-using-subjectivity-summarization-based-on-minimum-cuts
+numCitedBy: 3566
 pdf_relpath: null
+ref_count: 29
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2004
 ---
 
 # A Sentimental Education - Sentiment Analysis Using Subjectivity Summarization Based on Minimum Cuts

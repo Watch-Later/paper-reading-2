@@ -1,10 +1,21 @@
 ---
 title: Revisiting Visual Question Answering Baselines
+authors:
+- A. Jabri
+- Armand Joulin
+- L. V. D. Maaten
+fieldsOfStudy:
+- Computer Science
+meta_key: revisiting-visual-question-answering-baselines
+numCitedBy: 244
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # Revisiting Visual Question Answering Baselines

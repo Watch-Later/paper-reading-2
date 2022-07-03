@@ -1,10 +1,20 @@
 ---
 title: Random Search for Hyper-Parameter Optimization
+authors:
+- J. Bergstra
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: random-search-for-hyper-parameter-optimization
+numCitedBy: 5672
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: J. Mach. Learn. Res.
+year: 2012
 ---
 
 # Random Search for Hyper-Parameter Optimization

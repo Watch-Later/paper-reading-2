@@ -1,10 +1,21 @@
 ---
 title: Deep Inside Convolutional Networks - Visualising Image Classification Models and Saliency Maps
+authors:
+- K. Simonyan
+- A. Vedaldi
+- Andrew Zisserman
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-inside-convolutional-networks-visualising-image-classification-models-and-saliency-maps
+numCitedBy: 4497
 pdf_relpath: null
+ref_count: 17
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2014
 ---
 
 # Deep Inside Convolutional Networks - Visualising Image Classification Models and Saliency Maps

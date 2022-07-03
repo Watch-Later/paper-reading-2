@@ -1,10 +1,21 @@
 ---
 title: A note on the evaluation of generative models
+authors:
+- Lucas Theis
+- "A\xE4ron van den Oord"
+- M. Bethge
+fieldsOfStudy:
+- Computer Science
+meta_key: a-note-on-the-evaluation-of-generative-models
+numCitedBy: 827
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # A note on the evaluation of generative models

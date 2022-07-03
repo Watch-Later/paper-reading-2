@@ -1,10 +1,25 @@
 ---
 title: Long-term recurrent convolutional networks for visual recognition and description
+authors:
+- Jeff Donahue
+- Lisa Anne Hendricks
+- Marcus Rohrbach
+- Subhashini Venugopalan
+- S. Guadarrama
+- Kate Saenko
+- Trevor Darrell
+fieldsOfStudy:
+- Computer Science
+meta_key: long-term-recurrent-convolutional-networks-for-visual-recognition-and-description
+numCitedBy: 4085
 pdf_relpath: null
+ref_count: 87
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2015
 ---
 
 # Long-term recurrent convolutional networks for visual recognition and description

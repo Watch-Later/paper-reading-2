@@ -1,10 +1,21 @@
 ---
 title: Self-Attention with Relative Position Representations
+authors:
+- Peter Shaw
+- Jakob Uszkoreit
+- Ashish Vaswani
+fieldsOfStudy:
+- Computer Science
+meta_key: self-attention-with-relative-position-representations
+numCitedBy: 923
 pdf_relpath: null
+ref_count: 17
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NAACL
+year: 2018
 ---
 
 # Self-Attention with Relative Position Representations

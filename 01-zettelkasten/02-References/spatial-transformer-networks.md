@@ -1,10 +1,22 @@
 ---
 title: Spatial Transformer Networks
+authors:
+- Max Jaderberg
+- K. Simonyan
+- Andrew Zisserman
+- K. Kavukcuoglu
+fieldsOfStudy:
+- Computer Science
+meta_key: spatial-transformer-networks
+numCitedBy: 4579
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2015
 ---
 
 # Spatial Transformer Networks

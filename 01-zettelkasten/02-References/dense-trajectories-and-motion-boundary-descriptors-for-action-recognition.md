@@ -1,10 +1,22 @@
 ---
 title: Dense Trajectories and Motion Boundary Descriptors for Action Recognition
+authors:
+- Heng Wang
+- "Alexander Kl\xE4ser"
+- C. Schmid
+- Cheng-Lin Liu
+fieldsOfStudy:
+- Computer Science
+meta_key: dense-trajectories-and-motion-boundary-descriptors-for-action-recognition
+numCitedBy: 1551
 pdf_relpath: null
+ref_count: 69
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: International Journal of Computer Vision
+year: 2012
 ---
 
 # Dense Trajectories and Motion Boundary Descriptors for Action Recognition

@@ -1,10 +1,20 @@
 ---
 title: Machine Comprehension Using Match-LSTM and Answer Pointer
+authors:
+- Shuohang Wang
+- Jing Jiang
+fieldsOfStudy:
+- Computer Science
+meta_key: machine-comprehension-using-match-lstm-and-answer-pointer
+numCitedBy: 541
 pdf_relpath: null
+ref_count: 23
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2017
 ---
 
 # Machine Comprehension Using Match-LSTM and Answer Pointer

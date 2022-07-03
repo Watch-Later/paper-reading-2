@@ -1,10 +1,22 @@
 ---
 title: Bidirectional Attention Flow for Machine Comprehension
+authors:
+- Minjoon Seo
+- Aniruddha Kembhavi
+- Ali Farhadi
+- Hannaneh Hajishirzi
+fieldsOfStudy:
+- Computer Science
+meta_key: bidirectional-attention-flow-for-machine-comprehension
+numCitedBy: 1722
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2017
 ---
 
 # Bidirectional Attention Flow for Machine Comprehension

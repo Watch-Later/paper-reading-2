@@ -1,10 +1,20 @@
 ---
 title: Elements of Information Theory
+authors:
+- T. Cover
+- Joy A. Thomas
+fieldsOfStudy:
+- Computer Science
+meta_key: elements-of-information-theory
+numCitedBy: 42793
 pdf_relpath: null
+ref_count: 12
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 1991
 ---
 
 # Elements of Information Theory

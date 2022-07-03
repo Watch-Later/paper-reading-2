@@ -1,10 +1,21 @@
 ---
 title: Dynamic Memory Networks for Visual and Textual Question Answering
+authors:
+- Caiming Xiong
+- Stephen Merity
+- R. Socher
+fieldsOfStudy:
+- Computer Science
+meta_key: dynamic-memory-networks-for-visual-and-textual-question-answering
+numCitedBy: 659
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2016
 ---
 
 # Dynamic Memory Networks for Visual and Textual Question Answering

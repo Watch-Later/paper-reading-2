@@ -1,10 +1,20 @@
 ---
 title: Deep Matching Prior Network - Toward Tighter Multi-oriented Text Detection
+authors:
+- Yuliang Liu
+- Lianwen Jin
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-matching-prior-network-toward-tighter-multi-oriented-text-detection
+numCitedBy: 228
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Deep Matching Prior Network - Toward Tighter Multi-oriented Text Detection

@@ -1,10 +1,21 @@
 ---
 title: Shape matching and object recognition using shape contexts
+authors:
+- Serge J. Belongie
+- Jitendra Malik
+- J. Puzicha
+fieldsOfStudy:
+- Computer Science
+meta_key: shape-matching-and-object-recognition-using-shape-contexts
+numCitedBy: 5812
 pdf_relpath: null
+ref_count: 95
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2010 3rd International Conference on Computer Science and Information Technology
+year: 2010
 ---
 
 # Shape matching and object recognition using shape contexts

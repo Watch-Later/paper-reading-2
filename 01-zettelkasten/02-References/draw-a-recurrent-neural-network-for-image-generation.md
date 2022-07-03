@@ -1,10 +1,23 @@
 ---
 title: DRAW - A Recurrent Neural Network For Image Generation
+authors:
+- Karol Gregor
+- Ivo Danihelka
+- A. Graves
+- Danilo Jimenez Rezende
+- Daan Wierstra
+fieldsOfStudy:
+- Computer Science
+meta_key: draw-a-recurrent-neural-network-for-image-generation
+numCitedBy: 1628
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2015
 ---
 
 # DRAW - A Recurrent Neural Network For Image Generation

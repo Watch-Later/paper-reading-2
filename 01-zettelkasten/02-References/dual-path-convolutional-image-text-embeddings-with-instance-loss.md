@@ -1,10 +1,24 @@
 ---
 title: Dual-path Convolutional Image-Text Embeddings with Instance Loss
+authors:
+- Zhedong Zheng
+- Liang Zheng
+- Michael Garrett
+- Yi Yang
+- Mingliang Xu
+- Yi-Dong Shen
+fieldsOfStudy:
+- Computer Science
+meta_key: dual-path-convolutional-image-text-embeddings-with-instance-loss
+numCitedBy: 147
 pdf_relpath: null
+ref_count: 92
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACM Trans. Multim. Comput. Commun. Appl.
+year: 2020
 ---
 
 # Dual-path Convolutional Image-Text Embeddings with Instance Loss

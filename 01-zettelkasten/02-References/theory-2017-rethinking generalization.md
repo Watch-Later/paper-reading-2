@@ -1,5 +1,6 @@
 ---
 title: theory-2017-rethinking generalization
+meta_key: theory-2017-rethinking generalization
 pdf_relpath: pdfs/theory-2017-rethinking%20generalization.pdf
 status: todo
 tags:

@@ -1,10 +1,28 @@
 ---
 title: Automatic differentiation in PyTorch
+authors:
+- Adam Paszke
+- S. Gross
+- Soumith Chintala
+- Gregory Chanan
+- E. Yang
+- Zach DeVito
+- Zeming Lin
+- Alban Desmaison
+- L. Antiga
+- Adam Lerer
+fieldsOfStudy:
+- Computer Science
+meta_key: automatic-differentiation-in-pytorch
+numCitedBy: 10324
 pdf_relpath: null
+ref_count: 7
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2017
 ---
 
 # Automatic differentiation in PyTorch

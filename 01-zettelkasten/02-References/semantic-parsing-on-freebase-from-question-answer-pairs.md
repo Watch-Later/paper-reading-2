@@ -1,10 +1,22 @@
 ---
 title: Semantic Parsing on Freebase from Question-Answer Pairs
+authors:
+- Jonathan Berant
+- A. Chou
+- Roy Frostig
+- Percy Liang
+fieldsOfStudy:
+- Computer Science
+meta_key: semantic-parsing-on-freebase-from-question-answer-pairs
+numCitedBy: 1337
 pdf_relpath: null
+ref_count: 46
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2013
 ---
 
 # Semantic Parsing on Freebase from Question-Answer Pairs

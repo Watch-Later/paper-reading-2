@@ -1,10 +1,22 @@
 ---
 title: On the Properties of Neural Machine Translation - Encoder-Decoder Approaches
+authors:
+- Kyunghyun Cho
+- Bart van Merrienboer
+- Dzmitry Bahdanau
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: on-the-properties-of-neural-machine-translation-encoder-decoder-approaches
+numCitedBy: 4115
 pdf_relpath: null
+ref_count: 15
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: SSST@EMNLP
+year: 2014
 ---
 
 # On the Properties of Neural Machine Translation - Encoder-Decoder Approaches

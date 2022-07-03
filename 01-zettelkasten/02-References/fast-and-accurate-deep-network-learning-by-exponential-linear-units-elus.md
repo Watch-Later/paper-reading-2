@@ -1,10 +1,21 @@
 ---
 title: Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)
+authors:
+- "Djork-Arn\xE9 Clevert"
+- Thomas Unterthiner
+- S. Hochreiter
+fieldsOfStudy:
+- Computer Science
+meta_key: fast-and-accurate-deep-network-learning-by-exponential-linear-units-elus
+numCitedBy: 3669
 pdf_relpath: null
+ref_count: 74
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)

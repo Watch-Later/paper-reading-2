@@ -1,10 +1,22 @@
 ---
 title: Hierarchical Question-Image Co-Attention for Visual Question Answering
+authors:
+- Jiasen Lu
+- Jianwei Yang
+- Dhruv Batra
+- Devi Parikh
+fieldsOfStudy:
+- Computer Science
+meta_key: hierarchical-question-image-co-attention-for-visual-question-answering
+numCitedBy: 1121
 pdf_relpath: null
+ref_count: 32
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2016
 ---
 
 # Hierarchical Question-Image Co-Attention for Visual Question Answering

@@ -1,10 +1,22 @@
 ---
 title: DistilBERT, a distilled version of BERT - smaller, faster, cheaper and lighter
+authors:
+- Victor Sanh
+- Lysandre Debut
+- Julien Chaumond
+- Thomas Wolf
+fieldsOfStudy:
+- Computer Science
+meta_key: distilbert-a-distilled-version-of-bert-smaller-faster-cheaper-and-lighter
+numCitedBy: 2086
 pdf_relpath: null
+ref_count: 23
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2019
 ---
 
 # DistilBERT, a distilled version of BERT - smaller, faster, cheaper and lighter

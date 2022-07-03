@@ -1,10 +1,24 @@
 ---
 title: Weisfeiler-Lehman Graph Kernels
+authors:
+- N. Shervashidze
+- Pascal Schweitzer
+- E. J. V. Leeuwen
+- K. Mehlhorn
+- K. Borgwardt
+fieldsOfStudy:
+- Computer Science
+- Mathematics
+meta_key: weisfeiler-lehman-graph-kernels
+numCitedBy: 1217
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: J. Mach. Learn. Res.
+year: 2011
 ---
 
 # Weisfeiler-Lehman Graph Kernels

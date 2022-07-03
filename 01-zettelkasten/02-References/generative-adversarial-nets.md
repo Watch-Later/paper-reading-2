@@ -1,10 +1,26 @@
 ---
 title: Generative Adversarial Nets
+authors:
+- Ian J. Goodfellow
+- Jean Pouget-Abadie
+- Mehdi Mirza
+- Bing Xu
+- David Warde-Farley
+- Sherjil Ozair
+- Aaron C. Courville
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: generative-adversarial-nets
+numCitedBy: 29654
 pdf_relpath: null
+ref_count: 41
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2014
 ---
 
 # Generative Adversarial Nets

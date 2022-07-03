@@ -1,10 +1,21 @@
 ---
 title: Towards End-to-End Text Spotting with Convolutional Recurrent Neural Networks
+authors:
+- Hui Li
+- Peng Wang
+- Chunhua Shen
+fieldsOfStudy:
+- Computer Science
+meta_key: towards-end-to-end-text-spotting-with-convolutional-recurrent-neural-networks
+numCitedBy: 127
 pdf_relpath: null
+ref_count: 41
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # Towards End-to-End Text Spotting with Convolutional Recurrent Neural Networks

@@ -1,10 +1,22 @@
 ---
 title: How transferable are features in deep neural networks?
+authors:
+- J. Yosinski
+- J. Clune
+- Yoshua Bengio
+- Hod Lipson
+fieldsOfStudy:
+- Computer Science
+meta_key: how-transferable-are-features-in-deep-neural-networks
+numCitedBy: 5776
 pdf_relpath: null
+ref_count: 16
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2014
 ---
 
 # How transferable are features in deep neural networks?

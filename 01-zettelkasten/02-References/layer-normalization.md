@@ -1,10 +1,21 @@
 ---
 title: Layer Normalization
+authors:
+- Jimmy Ba
+- J. Kiros
+- Geoffrey E. Hinton
+fieldsOfStudy:
+- Computer Science
+meta_key: layer-normalization
+numCitedBy: 3050
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2016
 ---
 
 # Layer Normalization

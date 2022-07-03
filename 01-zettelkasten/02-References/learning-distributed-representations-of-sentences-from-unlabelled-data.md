@@ -1,10 +1,21 @@
 ---
 title: Learning Distributed Representations of Sentences from Unlabelled Data
+authors:
+- Felix Hill
+- Kyunghyun Cho
+- A. Korhonen
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-distributed-representations-of-sentences-from-unlabelled-data
+numCitedBy: 458
 pdf_relpath: null
+ref_count: 52
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NAACL
+year: 2016
 ---
 
 # Learning Distributed Representations of Sentences from Unlabelled Data

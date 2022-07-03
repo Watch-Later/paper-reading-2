@@ -1,10 +1,22 @@
 ---
 title: SGN - Sequential Grouping Networks for Instance Segmentation
+authors:
+- Shu Liu
+- Jiaya Jia
+- S. Fidler
+- R. Urtasun
+fieldsOfStudy:
+- Computer Science
+meta_key: sgn-sequential-grouping-networks-for-instance-segmentation
+numCitedBy: 186
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # SGN - Sequential Grouping Networks for Instance Segmentation

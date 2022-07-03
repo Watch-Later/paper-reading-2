@@ -1,10 +1,20 @@
 ---
 title: A Systematic Comparison of Various Statistical Alignment Models
+authors:
+- F. Och
+- H. Ney
+fieldsOfStudy:
+- Computer Science
+meta_key: a-systematic-comparison-of-various-statistical-alignment-models
+numCitedBy: 4471
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: CL
+year: 2003
 ---
 
 # A Systematic Comparison of Various Statistical Alignment Models

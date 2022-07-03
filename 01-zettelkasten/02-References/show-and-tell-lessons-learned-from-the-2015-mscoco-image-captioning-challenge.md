@@ -1,10 +1,22 @@
 ---
 title: Show and Tell - Lessons Learned from the 2015 MSCOCO Image Captioning Challenge
+authors:
+- Oriol Vinyals
+- Alexander Toshev
+- Samy Bengio
+- D. Erhan
+fieldsOfStudy:
+- Computer Science
+meta_key: show-and-tell-lessons-learned-from-the-2015-mscoco-image-captioning-challenge
+numCitedBy: 621
 pdf_relpath: null
+ref_count: 58
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2017
 ---
 
 # Show and Tell - Lessons Learned from the 2015 MSCOCO Image Captioning Challenge

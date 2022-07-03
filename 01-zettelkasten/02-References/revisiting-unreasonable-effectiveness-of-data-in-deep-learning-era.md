@@ -1,10 +1,22 @@
 ---
 title: Revisiting Unreasonable Effectiveness of Data in Deep Learning Era
+authors:
+- Chen Sun
+- Abhinav Shrivastava
+- Saurabh Singh
+- A. Gupta
+fieldsOfStudy:
+- Computer Science
+meta_key: revisiting-unreasonable-effectiveness-of-data-in-deep-learning-era
+numCitedBy: 1226
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # Revisiting Unreasonable Effectiveness of Data in Deep Learning Era

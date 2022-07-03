@@ -1,10 +1,28 @@
 ---
 title: RoBERTa - A Robustly Optimized BERT Pretraining Approach
+authors:
+- Yinhan Liu
+- Myle Ott
+- Naman Goyal
+- Jingfei Du
+- Mandar Joshi
+- Danqi Chen
+- Omer Levy
+- M. Lewis
+- Luke Zettlemoyer
+- Veselin Stoyanov
+fieldsOfStudy:
+- Computer Science
+meta_key: roberta-a-robustly-optimized-bert-pretraining-approach
+numCitedBy: 7267
 pdf_relpath: null
+ref_count: 58
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2019
 ---
 
 # RoBERTa - A Robustly Optimized BERT Pretraining Approach

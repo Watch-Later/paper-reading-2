@@ -1,10 +1,21 @@
 ---
 title: Analyzing the Behavior of Visual Question Answering Models
+authors:
+- Aishwarya Agrawal
+- Dhruv Batra
+- Devi Parikh
+fieldsOfStudy:
+- Computer Science
+meta_key: analyzing-the-behavior-of-visual-question-answering-models
+numCitedBy: 222
 pdf_relpath: null
+ref_count: 31
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2016
 ---
 
 # Analyzing the Behavior of Visual Question Answering Models

@@ -1,10 +1,23 @@
 ---
 title: UnitBox - An Advanced Object Detection Network
+authors:
+- Jiahui Yu
+- Yuning Jiang
+- Zhangyang Wang
+- Zhimin Cao
+- Thomas S. Huang
+fieldsOfStudy:
+- Computer Science
+meta_key: unitbox-an-advanced-object-detection-network
+numCitedBy: 484
 pdf_relpath: null
+ref_count: 16
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACM Multimedia
+year: 2016
 ---
 
 # UnitBox - An Advanced Object Detection Network

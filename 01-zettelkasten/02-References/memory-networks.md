@@ -1,10 +1,21 @@
 ---
 title: Memory Networks
+authors:
+- J. Weston
+- S. Chopra
+- Antoine Bordes
+fieldsOfStudy:
+- Computer Science
+meta_key: memory-networks
+numCitedBy: 1146
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2015
 ---
 
 # Memory Networks

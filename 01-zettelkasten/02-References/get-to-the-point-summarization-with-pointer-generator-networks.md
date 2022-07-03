@@ -1,10 +1,21 @@
 ---
 title: Get To The Point - Summarization with Pointer-Generator Networks
+authors:
+- A. See
+- Peter J. Liu
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: get-to-the-point-summarization-with-pointer-generator-networks
+numCitedBy: 2464
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2017
 ---
 
 # Get To The Point - Summarization with Pointer-Generator Networks

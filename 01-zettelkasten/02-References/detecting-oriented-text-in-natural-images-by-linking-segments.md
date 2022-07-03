@@ -1,10 +1,21 @@
 ---
 title: Detecting Oriented Text in Natural Images by Linking Segments
+authors:
+- Baoguang Shi
+- X. Bai
+- Serge J. Belongie
+fieldsOfStudy:
+- Computer Science
+meta_key: detecting-oriented-text-in-natural-images-by-linking-segments
+numCitedBy: 458
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Detecting Oriented Text in Natural Images by Linking Segments

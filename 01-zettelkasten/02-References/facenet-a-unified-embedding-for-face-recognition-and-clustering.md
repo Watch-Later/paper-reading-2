@@ -1,10 +1,21 @@
 ---
 title: FaceNet - A unified embedding for face recognition and clustering
+authors:
+- Florian Schroff
+- Dmitry Kalenichenko
+- James Philbin
+fieldsOfStudy:
+- Computer Science
+meta_key: facenet-a-unified-embedding-for-face-recognition-and-clustering
+numCitedBy: 8165
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2015
 ---
 
 # FaceNet - A unified embedding for face recognition and clustering

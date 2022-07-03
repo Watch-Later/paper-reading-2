@@ -1,10 +1,23 @@
 ---
 title: Learning with Local and Global Consistency
+authors:
+- Dengyong Zhou
+- O. Bousquet
+- T. N. Lal
+- J. Weston
+- "B. Sch\xF6lkopf"
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-with-local-and-global-consistency
+numCitedBy: 3894
 pdf_relpath: null
+ref_count: 26
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2003
 ---
 
 # Learning with Local and Global Consistency

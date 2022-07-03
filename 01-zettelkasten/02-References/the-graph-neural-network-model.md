@@ -1,10 +1,23 @@
 ---
 title: The Graph Neural Network Model
+authors:
+- F. Scarselli
+- M. Gori
+- A. Tsoi
+- M. Hagenbuchner
+- G. Monfardini
+fieldsOfStudy:
+- Computer Science
+meta_key: the-graph-neural-network-model
+numCitedBy: 3206
 pdf_relpath: null
+ref_count: 122
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Neural Networks
+year: 2009
 ---
 
 # The Graph Neural Network Model

@@ -1,5 +1,6 @@
 ---
 title: Rapid Object Detection Boosted Cascade
+meta_key: 2001-Rapid-Object-Detection-Boosted-Cascade
 pdf_relpath: pdfs/2001-Rapid-Object-Detection-Boosted-Cascade.pdf
 status: todo
 tags:

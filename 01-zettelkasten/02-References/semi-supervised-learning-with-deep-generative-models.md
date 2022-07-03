@@ -1,10 +1,22 @@
 ---
 title: Semi-supervised Learning with Deep Generative Models
+authors:
+- Diederik P. Kingma
+- S. Mohamed
+- Danilo Jimenez Rezende
+- M. Welling
+fieldsOfStudy:
+- Computer Science
+meta_key: semi-supervised-learning-with-deep-generative-models
+numCitedBy: 1990
 pdf_relpath: null
+ref_count: 27
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2014
 ---
 
 # Semi-supervised Learning with Deep Generative Models

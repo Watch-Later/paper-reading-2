@@ -1,10 +1,27 @@
 ---
 title: Unified Language Model Pre-training for Natural Language Understanding and Generation
+authors:
+- Li Dong
+- Nan Yang
+- Wenhui Wang
+- Furu Wei
+- Xiaodong Liu
+- Yu Wang
+- Jianfeng Gao
+- M. Zhou
+- H. Hon
+fieldsOfStudy:
+- Computer Science
+meta_key: unified-language-model-pre-training-for-natural-language-understanding-and-generation
+numCitedBy: 732
 pdf_relpath: null
+ref_count: 61
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NeurIPS
+year: 2019
 ---
 
 # Unified Language Model Pre-training for Natural Language Understanding and Generation

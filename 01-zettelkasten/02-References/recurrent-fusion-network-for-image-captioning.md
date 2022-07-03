@@ -1,10 +1,23 @@
 ---
 title: Recurrent Fusion Network for Image Captioning
+authors:
+- Wenhao Jiang
+- Lin Ma
+- Yu-Gang Jiang
+- W. Liu
+- T. Zhang
+fieldsOfStudy:
+- Computer Science
+meta_key: recurrent-fusion-network-for-image-captioning
+numCitedBy: 135
 pdf_relpath: null
+ref_count: 60
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2018
 ---
 
 # Recurrent Fusion Network for Image Captioning

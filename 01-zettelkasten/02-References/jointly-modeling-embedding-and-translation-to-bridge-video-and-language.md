@@ -1,10 +1,23 @@
 ---
 title: Jointly Modeling Embedding and Translation to Bridge Video and Language
+authors:
+- Yingwei Pan
+- Tao Mei
+- Ting Yao
+- Houqiang Li
+- Y. Rui
+fieldsOfStudy:
+- Computer Science
+meta_key: jointly-modeling-embedding-and-translation-to-bridge-video-and-language
+numCitedBy: 459
 pdf_relpath: null
+ref_count: 57
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Jointly Modeling Embedding and Translation to Bridge Video and Language

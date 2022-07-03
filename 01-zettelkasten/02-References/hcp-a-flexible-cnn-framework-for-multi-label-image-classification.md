@@ -1,10 +1,26 @@
 ---
 title: HCP - A Flexible CNN Framework for Multi-Label Image Classification
+authors:
+- Yunchao Wei
+- W. Xia
+- Min Lin
+- Junshi Huang
+- Bingbing Ni
+- Jian Dong
+- Yao Zhao
+- Shuicheng Yan
+fieldsOfStudy:
+- Computer Science
+meta_key: hcp-a-flexible-cnn-framework-for-multi-label-image-classification
+numCitedBy: 471
 pdf_relpath: null
+ref_count: 67
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2016
 ---
 
 # HCP - A Flexible CNN Framework for Multi-Label Image Classification

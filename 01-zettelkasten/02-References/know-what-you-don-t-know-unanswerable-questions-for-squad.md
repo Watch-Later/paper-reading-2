@@ -1,10 +1,21 @@
 ---
 title: Know What You Don't Know - Unanswerable Questions for SQuAD
+authors:
+- Pranav Rajpurkar
+- Robin Jia
+- Percy Liang
+fieldsOfStudy:
+- Computer Science
+meta_key: know-what-you-don-t-know-unanswerable-questions-for-squad
+numCitedBy: 1398
 pdf_relpath: null
+ref_count: 24
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2018
 ---
 
 # Know What You Don't Know - Unanswerable Questions for SQuAD

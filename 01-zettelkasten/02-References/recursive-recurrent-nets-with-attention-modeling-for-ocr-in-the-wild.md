@@ -1,10 +1,20 @@
 ---
 title: Recursive Recurrent Nets with Attention Modeling for OCR in the Wild
+authors:
+- Chen-Yu Lee
+- Simon Osindero
+fieldsOfStudy:
+- Computer Science
+meta_key: recursive-recurrent-nets-with-attention-modeling-for-ocr-in-the-wild
+numCitedBy: 321
 pdf_relpath: null
+ref_count: 63
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Recursive Recurrent Nets with Attention Modeling for OCR in the Wild

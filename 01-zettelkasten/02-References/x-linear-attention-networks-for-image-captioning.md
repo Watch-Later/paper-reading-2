@@ -1,10 +1,22 @@
 ---
 title: X-Linear Attention Networks for Image Captioning
+authors:
+- Yingwei Pan
+- Ting Yao
+- Yehao Li
+- Tao Mei
+fieldsOfStudy:
+- Computer Science
+meta_key: x-linear-attention-networks-for-image-captioning
+numCitedBy: 153
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2020
 ---
 
 # X-Linear Attention Networks for Image Captioning

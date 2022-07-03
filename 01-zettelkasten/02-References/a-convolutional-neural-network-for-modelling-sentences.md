@@ -1,10 +1,21 @@
 ---
 title: A Convolutional Neural Network for Modelling Sentences
+authors:
+- Nal Kalchbrenner
+- Edward Grefenstette
+- P. Blunsom
+fieldsOfStudy:
+- Computer Science
+meta_key: a-convolutional-neural-network-for-modelling-sentences
+numCitedBy: 2988
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2014
 ---
 
 # A Convolutional Neural Network for Modelling Sentences

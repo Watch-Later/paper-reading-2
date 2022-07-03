@@ -1,10 +1,20 @@
 ---
 title: Robust Real-time Object Detection
+authors:
+- Paul A. Viola
+- Michael Jones
+fieldsOfStudy:
+- Computer Science
+meta_key: robust-real-time-object-detection
+numCitedBy: 4016
 pdf_relpath: null
+ref_count: 22
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2001
 ---
 
 # Robust Real-time Object Detection

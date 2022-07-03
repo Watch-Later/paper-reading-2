@@ -1,10 +1,25 @@
 ---
 title: Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation
+authors:
+- Kyunghyun Cho
+- Bart van Merrienboer
+- "\xC7aglar G\xFCl\xE7ehre"
+- Dzmitry Bahdanau
+- Fethi Bougares
+- Holger Schwenk
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation
+numCitedBy: 15051
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2014
 ---
 
 # Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation

@@ -1,10 +1,22 @@
 ---
 title: Recurrent Batch Normalization
+authors:
+- Tim Cooijmans
+- Nicolas Ballas
+- "C\xE9sar Laurent"
+- Aaron C. Courville
+fieldsOfStudy:
+- Computer Science
+meta_key: recurrent-batch-normalization
+numCitedBy: 341
 pdf_relpath: null
+ref_count: 36
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2017
 ---
 
 # Recurrent Batch Normalization

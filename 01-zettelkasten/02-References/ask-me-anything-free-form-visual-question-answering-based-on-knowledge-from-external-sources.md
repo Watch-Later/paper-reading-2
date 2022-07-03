@@ -1,10 +1,23 @@
 ---
 title: Ask Me Anything - Free-Form Visual Question Answering Based on Knowledge from External Sources
+authors:
+- Qi Wu
+- Peng Wang
+- Chunhua Shen
+- A. Dick
+- A. V. Hengel
+fieldsOfStudy:
+- Computer Science
+meta_key: ask-me-anything-free-form-visual-question-answering-based-on-knowledge-from-external-sources
+numCitedBy: 304
 pdf_relpath: null
+ref_count: 41
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Ask Me Anything - Free-Form Visual Question Answering Based on Knowledge from External Sources

@@ -1,10 +1,22 @@
 ---
 title: Curriculum learning
+authors:
+- Yoshua Bengio
+- J. Louradour
+- Ronan Collobert
+- J. Weston
+fieldsOfStudy:
+- Education
+meta_key: curriculum-learning
+numCitedBy: 3190
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML '09
+year: 2009
 ---
 
 # Curriculum learning

@@ -1,10 +1,20 @@
 ---
 title: Meteor Universal - Language Specific Translation Evaluation for Any Target Language
+authors:
+- Michael J. Denkowski
+- A. Lavie
+fieldsOfStudy:
+- Computer Science
+meta_key: meteor-universal-language-specific-translation-evaluation-for-any-target-language
+numCitedBy: 1350
 pdf_relpath: null
+ref_count: 19
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: WMT@ACL
+year: 2014
 ---
 
 # Meteor Universal - Language Specific Translation Evaluation for Any Target Language

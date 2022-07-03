@@ -1,10 +1,22 @@
 ---
 title: Bleu - a Method for Automatic Evaluation of Machine Translation
+authors:
+- Kishore Papineni
+- S. Roukos
+- T. Ward
+- Wei-Jing Zhu
+fieldsOfStudy:
+- Computer Science
+meta_key: bleu-a-method-for-automatic-evaluation-of-machine-translation
+numCitedBy: 16632
 pdf_relpath: null
+ref_count: 6
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2002
 ---
 
 # Bleu - a Method for Automatic Evaluation of Machine Translation

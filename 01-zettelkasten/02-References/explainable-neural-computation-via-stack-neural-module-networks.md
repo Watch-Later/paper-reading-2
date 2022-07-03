@@ -1,10 +1,22 @@
 ---
 title: Explainable Neural Computation via Stack Neural Module Networks
+authors:
+- Ronghang Hu
+- Jacob Andreas
+- Trevor Darrell
+- Kate Saenko
+fieldsOfStudy:
+- Computer Science
+meta_key: explainable-neural-computation-via-stack-neural-module-networks
+numCitedBy: 131
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2018
 ---
 
 # Explainable Neural Computation via Stack Neural Module Networks

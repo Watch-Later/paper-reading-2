@@ -1,10 +1,21 @@
 ---
 title: Image Generation from Scene Graphs
+authors:
+- Justin Johnson
+- Agrim Gupta
+- Li Fei-Fei
+fieldsOfStudy:
+- Computer Science
+meta_key: image-generation-from-scene-graphs
+numCitedBy: 469
 pdf_relpath: null
+ref_count: 65
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # Image Generation from Scene Graphs

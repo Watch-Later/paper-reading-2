@@ -1,10 +1,23 @@
 ---
 title: Context Encoders - Feature Learning by Inpainting
+authors:
+- Deepak Pathak
+- "Philipp Kr\xE4henb\xFChl"
+- Jeff Donahue
+- Trevor Darrell
+- Alexei A. Efros
+fieldsOfStudy:
+- Computer Science
+meta_key: context-encoders-feature-learning-by-inpainting
+numCitedBy: 3342
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Context Encoders - Feature Learning by Inpainting

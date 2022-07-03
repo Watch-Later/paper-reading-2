@@ -1,10 +1,21 @@
 ---
 title: The Earth Mover's Distance as a Metric for Image Retrieval
+authors:
+- Y. Rubner
+- Carlo Tomasi
+- L. Guibas
+fieldsOfStudy:
+- Computer Science
+meta_key: the-earth-mover-s-distance-as-a-metric-for-image-retrieval
+numCitedBy: 4139
 pdf_relpath: null
+ref_count: 58
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: International Journal of Computer Vision
+year: 2004
 ---
 
 # The Earth Mover's Distance as a Metric for Image Retrieval

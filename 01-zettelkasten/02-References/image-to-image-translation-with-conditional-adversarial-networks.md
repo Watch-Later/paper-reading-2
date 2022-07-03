@@ -1,10 +1,22 @@
 ---
 title: Image-to-Image Translation with Conditional Adversarial Networks
+authors:
+- Phillip Isola
+- Jun-Yan Zhu
+- Tinghui Zhou
+- Alexei A. Efros
+fieldsOfStudy:
+- Computer Science
+meta_key: image-to-image-translation-with-conditional-adversarial-networks
+numCitedBy: 11196
 pdf_relpath: null
+ref_count: 77
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Image-to-Image Translation with Conditional Adversarial Networks

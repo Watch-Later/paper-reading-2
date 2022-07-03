@@ -1,10 +1,22 @@
 ---
 title: Incorporating Copying Mechanism in Sequence-to-Sequence Learning
+authors:
+- Jiatao Gu
+- Zhengdong Lu
+- Hang Li
+- V. Li
+fieldsOfStudy:
+- Computer Science
+meta_key: incorporating-copying-mechanism-in-sequence-to-sequence-learning
+numCitedBy: 1194
 pdf_relpath: null
+ref_count: 22
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2016
 ---
 
 # Incorporating Copying Mechanism in Sequence-to-Sequence Learning

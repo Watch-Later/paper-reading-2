@@ -1,10 +1,58 @@
 ---
 title: Deep Speech 2 - End-to-End Speech Recognition in English and Mandarin
+authors:
+- Dario Amodei
+- S. Ananthanarayanan
+- Rishita Anubhai
+- Jin Bai
+- Eric Battenberg
+- Carl Case
+- J. Casper
+- Bryan Catanzaro
+- Jingdong Chen
+- Mike Chrzanowski
+- Adam Coates
+- G. Diamos
+- Erich Elsen
+- Jesse Engel
+- Linxi (Jim) Fan
+- Christopher Fougner
+- Awni Y. Hannun
+- Billy Jun
+- Tony Han
+- P. LeGresley
+- Xiangang Li
+- Libby Lin
+- Sharan Narang
+- A. Ng
+- Sherjil Ozair
+- R. Prenger
+- Sheng Qian
+- Jonathan Raiman
+- S. Satheesh
+- David Seetapun
+- Shubho Sengupta
+- Anuroop Sriram
+- Chong-Jun Wang
+- Yi Wang
+- Zhiqian Wang
+- Bo Xiao
+- Yan Xie
+- Dani Yogatama
+- J. Zhan
+- Zhenyao Zhu
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-speech-2-end-to-end-speech-recognition-in-english-and-mandarin
+numCitedBy: 2218
 pdf_relpath: null
+ref_count: 85
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2016
 ---
 
 # Deep Speech 2 - End-to-End Speech Recognition in English and Mandarin

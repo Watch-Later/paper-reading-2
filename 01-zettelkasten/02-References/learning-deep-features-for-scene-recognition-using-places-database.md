@@ -1,10 +1,23 @@
 ---
 title: Learning Deep Features for Scene Recognition using Places Database
+authors:
+- Bolei Zhou
+- "\xC0. Lapedriza"
+- Jianxiong Xiao
+- A. Torralba
+- A. Oliva
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-deep-features-for-scene-recognition-using-places-database
+numCitedBy: 2610
 pdf_relpath: null
+ref_count: 29
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2014
 ---
 
 # Learning Deep Features for Scene Recognition using Places Database

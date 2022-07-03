@@ -1,10 +1,23 @@
 ---
 title: Yin and Yang - Balancing and Answering Binary Visual Questions
+authors:
+- Peng Zhang
+- Yash Goyal
+- Douglas Summers-Stay
+- Dhruv Batra
+- Devi Parikh
+fieldsOfStudy:
+- Computer Science
+meta_key: yin-and-yang-balancing-and-answering-binary-visual-questions
+numCitedBy: 243
 pdf_relpath: null
+ref_count: 51
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Yin and Yang - Balancing and Answering Binary Visual Questions

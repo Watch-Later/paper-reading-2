@@ -1,10 +1,23 @@
 ---
 title: Beyond Bilinear - Generalized Multimodal Factorized High-Order Pooling for Visual Question Answering
+authors:
+- Zhou Yu
+- Jun Yu
+- Chenchao Xiang
+- Jianping Fan
+- D. Tao
+fieldsOfStudy:
+- Computer Science
+meta_key: beyond-bilinear-generalized-multimodal-factorized-high-order-pooling-for-visual-question-answering
+numCitedBy: 266
 pdf_relpath: null
+ref_count: 53
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Neural Networks and Learning Systems
+year: 2018
 ---
 
 # Beyond Bilinear - Generalized Multimodal Factorized High-Order Pooling for Visual Question Answering

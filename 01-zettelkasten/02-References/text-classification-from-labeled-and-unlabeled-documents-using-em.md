@@ -1,10 +1,22 @@
 ---
 title: Text Classification from Labeled and Unlabeled Documents using EM
+authors:
+- K. Nigam
+- A. McCallum
+- S. Thrun
+- Tom Michael Mitchell
+fieldsOfStudy:
+- Computer Science
+meta_key: text-classification-from-labeled-and-unlabeled-documents-using-em
+numCitedBy: 3072
 pdf_relpath: null
+ref_count: 79
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Machine Learning
+year: 2004
 ---
 
 # Text Classification from Labeled and Unlabeled Documents using EM

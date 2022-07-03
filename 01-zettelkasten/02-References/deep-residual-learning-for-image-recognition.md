@@ -1,10 +1,22 @@
 ---
 title: Deep Residual Learning for Image Recognition
+authors:
+- Kaiming He
+- X. Zhang
+- Shaoqing Ren
+- Jian Sun
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-residual-learning-for-image-recognition
+numCitedBy: 95314
 pdf_relpath: null
+ref_count: 61
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Deep Residual Learning for Image Recognition

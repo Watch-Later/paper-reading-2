@@ -1,10 +1,20 @@
 ---
 title: Mining and summarizing customer reviews
+authors:
+- Minqing Hu
+- Bing Liu
+fieldsOfStudy:
+- Business
+meta_key: mining-and-summarizing-customer-reviews
+numCitedBy: 7043
 pdf_relpath: null
+ref_count: 50
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: KDD
+year: 2004
 ---
 
 # Mining and summarizing customer reviews

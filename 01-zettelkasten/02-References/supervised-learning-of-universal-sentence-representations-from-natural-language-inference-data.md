@@ -1,10 +1,23 @@
 ---
 title: Supervised Learning of Universal Sentence Representations from Natural Language Inference Data
+authors:
+- A. Conneau
+- Douwe Kiela
+- Holger Schwenk
+- "Lo\xEFc Barrault"
+- Antoine Bordes
+fieldsOfStudy:
+- Computer Science
+meta_key: supervised-learning-of-universal-sentence-representations-from-natural-language-inference-data
+numCitedBy: 1515
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2017
 ---
 
 # Supervised Learning of Universal Sentence Representations from Natural Language Inference Data

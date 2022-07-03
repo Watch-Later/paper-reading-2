@@ -1,10 +1,38 @@
 ---
 title: Hybrid computing using a neural network with dynamic external memory
+authors:
+- A. Graves
+- Greg Wayne
+- Malcolm Reynolds
+- Tim Harley
+- Ivo Danihelka
+- Agnieszka Grabska-Barwinska
+- Sergio Gomez Colmenarejo
+- Edward Grefenstette
+- Tiago Ramalho
+- J. Agapiou
+- "Adri\xE0 Puigdom\xE8nech Badia"
+- K. Hermann
+- Yori Zwols
+- Georg Ostrovski
+- Adam Cain
+- Helen King
+- C. Summerfield
+- P. Blunsom
+- K. Kavukcuoglu
+- D. Hassabis
+fieldsOfStudy:
+- Computer Science
+meta_key: hybrid-computing-using-a-neural-network-with-dynamic-external-memory
+numCitedBy: 1209
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Nature
+year: 2016
 ---
 
 # Hybrid computing using a neural network with dynamic external memory

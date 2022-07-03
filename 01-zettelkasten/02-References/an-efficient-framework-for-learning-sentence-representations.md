@@ -1,10 +1,20 @@
 ---
 title: An efficient framework for learning sentence representations
+authors:
+- L. Logeswaran
+- Honglak Lee
+fieldsOfStudy:
+- Computer Science
+meta_key: an-efficient-framework-for-learning-sentence-representations
+numCitedBy: 347
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2018
 ---
 
 # An efficient framework for learning sentence representations

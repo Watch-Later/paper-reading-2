@@ -1,10 +1,21 @@
 ---
 title: Statistical Phrase-Based Translation
+authors:
+- Philipp Koehn
+- F. Och
+- D. Marcu
+fieldsOfStudy:
+- Computer Science
+meta_key: statistical-phrase-based-translation
+numCitedBy: 3754
 pdf_relpath: null
+ref_count: 21
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NAACL
+year: 2003
 ---
 
 # Statistical Phrase-Based Translation

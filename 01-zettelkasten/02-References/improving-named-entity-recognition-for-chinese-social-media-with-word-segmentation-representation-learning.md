@@ -1,10 +1,20 @@
 ---
 title: Improving Named Entity Recognition for Chinese Social Media with Word Segmentation Representation Learning
+authors:
+- Nanyun Peng
+- Mark Dredze
+fieldsOfStudy:
+- Computer Science
+meta_key: improving-named-entity-recognition-for-chinese-social-media-with-word-segmentation-representation-learning
+numCitedBy: 128
 pdf_relpath: null
+ref_count: 41
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2016
 ---
 
 # Improving Named Entity Recognition for Chinese Social Media with Word Segmentation Representation Learning

@@ -1,10 +1,22 @@
 ---
 title: Visual Translation Embedding Network for Visual Relation Detection
+authors:
+- Hanwang Zhang
+- Z. Kyaw
+- Shih-Fu Chang
+- Tat-Seng Chua
+fieldsOfStudy:
+- Computer Science
+meta_key: visual-translation-embedding-network-for-visual-relation-detection
+numCitedBy: 389
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Visual Translation Embedding Network for Visual Relation Detection

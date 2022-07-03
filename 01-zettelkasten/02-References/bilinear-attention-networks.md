@@ -1,10 +1,21 @@
 ---
 title: Bilinear Attention Networks
+authors:
+- Jin-Hwa Kim
+- Jaehyun Jun
+- Byoung-Tak Zhang
+fieldsOfStudy:
+- Computer Science
+meta_key: bilinear-attention-networks
+numCitedBy: 408
 pdf_relpath: null
+ref_count: 52
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NeurIPS
+year: 2018
 ---
 
 # Bilinear Attention Networks

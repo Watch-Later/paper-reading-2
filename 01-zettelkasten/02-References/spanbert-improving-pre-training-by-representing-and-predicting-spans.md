@@ -1,10 +1,24 @@
 ---
 title: SpanBERT - Improving Pre-training by Representing and Predicting Spans
+authors:
+- Mandar Joshi
+- Danqi Chen
+- Yinhan Liu
+- Daniel S. Weld
+- Luke Zettlemoyer
+- Omer Levy
+fieldsOfStudy:
+- Computer Science
+meta_key: spanbert-improving-pre-training-by-representing-and-predicting-spans
+numCitedBy: 879
 pdf_relpath: null
+ref_count: 68
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: TACL
+year: 2020
 ---
 
 # SpanBERT - Improving Pre-training by Representing and Predicting Spans

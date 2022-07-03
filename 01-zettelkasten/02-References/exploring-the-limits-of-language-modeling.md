@@ -1,10 +1,23 @@
 ---
 title: Exploring the Limits of Language Modeling
+authors:
+- "R. J\xF3zefowicz"
+- Oriol Vinyals
+- M. Schuster
+- Noam M. Shazeer
+- Yonghui Wu
+fieldsOfStudy:
+- Computer Science
+meta_key: exploring-the-limits-of-language-modeling
+numCitedBy: 951
 pdf_relpath: null
+ref_count: 59
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2016
 ---
 
 # Exploring the Limits of Language Modeling

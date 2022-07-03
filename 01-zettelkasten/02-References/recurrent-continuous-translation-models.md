@@ -1,10 +1,20 @@
 ---
 title: Recurrent Continuous Translation Models
+authors:
+- Nal Kalchbrenner
+- P. Blunsom
+fieldsOfStudy:
+- Computer Science
+meta_key: recurrent-continuous-translation-models
+numCitedBy: 1235
 pdf_relpath: null
+ref_count: 18
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2013
 ---
 
 # Recurrent Continuous Translation Models

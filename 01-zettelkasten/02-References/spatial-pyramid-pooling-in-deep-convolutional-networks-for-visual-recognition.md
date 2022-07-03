@@ -1,10 +1,22 @@
 ---
 title: Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+authors:
+- Kaiming He
+- X. Zhang
+- Shaoqing Ren
+- Jian Sun
+fieldsOfStudy:
+- Computer Science
+meta_key: spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition
+numCitedBy: 4774
 pdf_relpath: null
+ref_count: 49
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2015
 ---
 
 # Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition

@@ -1,10 +1,24 @@
 ---
 title: Locality-constrained Linear Coding for image classification
+authors:
+- Jinjun Wang
+- Jianchao Yang
+- Kai Yu
+- Fengjun Lv
+- Thomas S. Huang
+- Yihong Gong
+fieldsOfStudy:
+- Computer Science
+meta_key: locality-constrained-linear-coding-for-image-classification
+numCitedBy: 3240
 pdf_relpath: null
+ref_count: 29
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition
+year: 2010
 ---
 
 # Locality-constrained Linear Coding for image classification

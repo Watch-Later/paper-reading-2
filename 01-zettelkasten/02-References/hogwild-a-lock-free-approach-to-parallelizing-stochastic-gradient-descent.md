@@ -1,10 +1,22 @@
 ---
 title: Hogwild - A Lock-Free Approach to Parallelizing Stochastic Gradient Descent
+authors:
+- B. Recht
+- "Christopher R\xE9"
+- Stephen J. Wright
+- Feng Niu
+fieldsOfStudy:
+- Computer Science
+meta_key: hogwild-a-lock-free-approach-to-parallelizing-stochastic-gradient-descent
+numCitedBy: 2018
 pdf_relpath: null
+ref_count: 32
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2011
 ---
 
 # Hogwild - A Lock-Free Approach to Parallelizing Stochastic Gradient Descent

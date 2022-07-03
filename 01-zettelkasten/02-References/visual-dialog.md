@@ -1,10 +1,26 @@
 ---
 title: Visual Dialog
+authors:
+- Abhishek Das
+- Satwik Kottur
+- Khushi Gupta
+- Avi Singh
+- Deshraj Yadav
+- "Jos\xE9 M. F. Moura"
+- Devi Parikh
+- Dhruv Batra
+fieldsOfStudy:
+- Computer Science
+meta_key: visual-dialog
+numCitedBy: 529
 pdf_relpath: null
+ref_count: 98
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Visual Dialog

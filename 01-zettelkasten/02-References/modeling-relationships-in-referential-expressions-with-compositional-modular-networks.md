@@ -1,10 +1,23 @@
 ---
 title: Modeling Relationships in Referential Expressions with Compositional Modular Networks
+authors:
+- Ronghang Hu
+- Marcus Rohrbach
+- Jacob Andreas
+- Trevor Darrell
+- Kate Saenko
+fieldsOfStudy:
+- Computer Science
+meta_key: modeling-relationships-in-referential-expressions-with-compositional-modular-networks
+numCitedBy: 267
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Modeling Relationships in Referential Expressions with Compositional Modular Networks

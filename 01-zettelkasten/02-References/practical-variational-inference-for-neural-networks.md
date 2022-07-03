@@ -1,10 +1,19 @@
 ---
 title: Practical Variational Inference for Neural Networks
+authors:
+- A. Graves
+fieldsOfStudy:
+- Computer Science
+meta_key: practical-variational-inference-for-neural-networks
+numCitedBy: 1073
 pdf_relpath: null
+ref_count: 29
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2011
 ---
 
 # Practical Variational Inference for Neural Networks

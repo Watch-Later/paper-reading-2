@@ -1,10 +1,21 @@
 ---
 title: Generating Text with Recurrent Neural Networks
+authors:
+- Ilya Sutskever
+- James Martens
+- Geoffrey E. Hinton
+fieldsOfStudy:
+- Computer Science
+meta_key: generating-text-with-recurrent-neural-networks
+numCitedBy: 1254
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2011
 ---
 
 # Generating Text with Recurrent Neural Networks

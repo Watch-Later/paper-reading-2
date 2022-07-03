@@ -1,10 +1,21 @@
 ---
 title: SegNet - A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
+authors:
+- Vijay Badrinarayanan
+- Alex Kendall
+- R. Cipolla
+fieldsOfStudy:
+- Computer Science
+meta_key: segnet-a-deep-convolutional-encoder-decoder-architecture-for-image-segmentation
+numCitedBy: 8375
 pdf_relpath: null
+ref_count: 76
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2017
 ---
 
 # SegNet - A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation

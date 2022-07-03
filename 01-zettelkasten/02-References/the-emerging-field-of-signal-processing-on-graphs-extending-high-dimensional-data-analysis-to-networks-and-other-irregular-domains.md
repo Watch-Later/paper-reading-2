@@ -1,10 +1,23 @@
 ---
 title: The emerging field of signal processing on graphs - Extending high-dimensional data analysis to networks and other irregular domains
+authors:
+- D. Shuman
+- S. K. Narang
+- P. Frossard
+- Antonio Ortega
+- P. Vandergheynst
+fieldsOfStudy:
+- Computer Science
+meta_key: the-emerging-field-of-signal-processing-on-graphs-extending-high-dimensional-data-analysis-to-networks-and-other-irregular-domains
+numCitedBy: 2723
 pdf_relpath: null
+ref_count: 73
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Signal Processing Magazine
+year: 2013
 ---
 
 # The emerging field of signal processing on graphs - Extending high-dimensional data analysis to networks and other irregular domains

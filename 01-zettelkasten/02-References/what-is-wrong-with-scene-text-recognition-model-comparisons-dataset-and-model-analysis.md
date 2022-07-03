@@ -1,10 +1,25 @@
 ---
 title: What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis
-pdf_relpath: null
+authors:
+- Jeonghun Baek
+- Geewook Kim
+- Junyeop Lee
+- Sungrae Park
+- Dongyoon Han
+- Sangdoo Yun
+- Seong Joon Oh
+- Hwalsuk Lee
+fieldsOfStudy:
+- Computer Science
+meta_key: what-is-wrong-with-scene-text-recognition-model-comparisons-dataset-and-model-analysis
+numCitedBy: 201
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
+year: 2019
 ---
 
 # What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis

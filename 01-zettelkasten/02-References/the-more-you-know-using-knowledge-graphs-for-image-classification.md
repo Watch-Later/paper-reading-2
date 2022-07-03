@@ -1,10 +1,21 @@
 ---
 title: The More You Know - Using Knowledge Graphs for Image Classification
+authors:
+- Kenneth Marino
+- R. Salakhutdinov
+- A. Gupta
+fieldsOfStudy:
+- Computer Science
+meta_key: the-more-you-know-using-knowledge-graphs-for-image-classification
+numCitedBy: 237
 pdf_relpath: null
+ref_count: 54
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # The More You Know - Using Knowledge Graphs for Image Classification

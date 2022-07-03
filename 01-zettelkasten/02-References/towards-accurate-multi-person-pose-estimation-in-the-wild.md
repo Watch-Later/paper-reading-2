@@ -1,10 +1,25 @@
 ---
 title: Towards Accurate Multi-person Pose Estimation in the Wild
+authors:
+- G. Papandreou
+- Tyler Lixuan Zhu
+- Nori Kanazawa
+- Alexander Toshev
+- Jonathan Tompson
+- C. Bregler
+- K. Murphy
+fieldsOfStudy:
+- Computer Science
+meta_key: towards-accurate-multi-person-pose-estimation-in-the-wild
+numCitedBy: 533
 pdf_relpath: null
+ref_count: 56
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Towards Accurate Multi-person Pose Estimation in the Wild

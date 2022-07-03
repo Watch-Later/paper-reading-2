@@ -1,10 +1,22 @@
 ---
 title: Selective Search for Object Recognition
+authors:
+- J. Uijlings
+- K. V. D. Sande
+- T. Gevers
+- A. Smeulders
+fieldsOfStudy:
+- Computer Science
+meta_key: selective-search-for-object-recognition
+numCitedBy: 4752
 pdf_relpath: null
+ref_count: 55
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: International Journal of Computer Vision
+year: 2013
 ---
 
 # Selective Search for Object Recognition

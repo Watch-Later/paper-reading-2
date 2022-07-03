@@ -1,10 +1,22 @@
 ---
 title: Fusion of Detected Objects in Text for Visual Question Answering
+authors:
+- Chris Alberti
+- Jeffrey Ling
+- Michael Collins
+- D. Reitter
+fieldsOfStudy:
+- Computer Science
+meta_key: fusion-of-detected-objects-in-text-for-visual-question-answering
+numCitedBy: 111
 pdf_relpath: null
+ref_count: 32
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2019
 ---
 
 # Fusion of Detected Objects in Text for Visual Question Answering

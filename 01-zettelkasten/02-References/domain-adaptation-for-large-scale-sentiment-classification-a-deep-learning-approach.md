@@ -1,10 +1,21 @@
 ---
 title: Domain Adaptation for Large-Scale Sentiment Classification - A Deep Learning Approach
+authors:
+- Xavier Glorot
+- Antoine Bordes
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: domain-adaptation-for-large-scale-sentiment-classification-a-deep-learning-approach
+numCitedBy: 1605
 pdf_relpath: null
+ref_count: 29
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2011
 ---
 
 # Domain Adaptation for Large-Scale Sentiment Classification - A Deep Learning Approach

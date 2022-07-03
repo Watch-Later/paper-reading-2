@@ -1,10 +1,20 @@
 ---
 title: SentEval - An Evaluation Toolkit for Universal Sentence Representations
+authors:
+- A. Conneau
+- Douwe Kiela
+fieldsOfStudy:
+- Computer Science
+meta_key: senteval-an-evaluation-toolkit-for-universal-sentence-representations
+numCitedBy: 324
 pdf_relpath: null
+ref_count: 41
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: LREC
+year: 2018
 ---
 
 # SentEval - An Evaluation Toolkit for Universal Sentence Representations

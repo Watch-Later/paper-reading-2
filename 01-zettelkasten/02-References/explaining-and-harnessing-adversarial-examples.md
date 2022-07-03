@@ -1,10 +1,21 @@
 ---
 title: Explaining and Harnessing Adversarial Examples
+authors:
+- Ian J. Goodfellow
+- Jonathon Shlens
+- Christian Szegedy
+fieldsOfStudy:
+- Computer Science
+meta_key: explaining-and-harnessing-adversarial-examples
+numCitedBy: 10104
 pdf_relpath: null
+ref_count: 22
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2015
 ---
 
 # Explaining and Harnessing Adversarial Examples

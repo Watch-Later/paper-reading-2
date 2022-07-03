@@ -1,10 +1,24 @@
 ---
 title: Reading Digits in Natural Images with Unsupervised Feature Learning
+authors:
+- Yuval Netzer
+- Tao Wang
+- Adam Coates
+- A. Bissacco
+- Bo Wu
+- A. Ng
+fieldsOfStudy:
+- Computer Science
+meta_key: reading-digits-in-natural-images-with-unsupervised-feature-learning
+numCitedBy: 3895
 pdf_relpath: null
+ref_count: 28
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2011
 ---
 
 # Reading Digits in Natural Images with Unsupervised Feature Learning

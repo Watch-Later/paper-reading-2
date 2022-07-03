@@ -1,10 +1,20 @@
 ---
 title: Color indexing
+authors:
+- M. Swain
+- D. Ballard
+fieldsOfStudy:
+- Computer Science
+meta_key: color-indexing
+numCitedBy: 5039
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: International Journal of Computer Vision
+year: 2004
 ---
 
 # Color indexing

@@ -1,10 +1,22 @@
 ---
 title: Learning a Deep Convolutional Network for Image Super-Resolution
+authors:
+- Chao Dong
+- Chen Change Loy
+- Kaiming He
+- Xiaoou Tang
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-a-deep-convolutional-network-for-image-super-resolution
+numCitedBy: 3278
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2014
 ---
 
 # Learning a Deep Convolutional Network for Image Super-Resolution

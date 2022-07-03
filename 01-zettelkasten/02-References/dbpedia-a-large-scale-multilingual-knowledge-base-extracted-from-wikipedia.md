@@ -1,10 +1,29 @@
 ---
 title: DBpedia - A large-scale, multilingual knowledge base extracted from Wikipedia
+authors:
+- Jens Lehmann
+- Robert Isele
+- Max Jakob
+- Anja Jentzsch
+- D. Kontokostas
+- Pablo N. Mendes
+- Sebastian Hellmann
+- M. Morsey
+- Patrick van Kleef
+- S. Auer
+- C. Bizer
+fieldsOfStudy:
+- Computer Science
+meta_key: dbpedia-a-large-scale-multilingual-knowledge-base-extracted-from-wikipedia
+numCitedBy: 2344
 pdf_relpath: null
+ref_count: 62
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Semantic Web
+year: 2015
 ---
 
 # DBpedia - A large-scale, multilingual knowledge base extracted from Wikipedia

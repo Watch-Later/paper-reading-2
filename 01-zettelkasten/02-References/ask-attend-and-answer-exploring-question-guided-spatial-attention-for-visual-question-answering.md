@@ -1,10 +1,20 @@
 ---
 title: Ask, Attend and Answer - Exploring Question-Guided Spatial Attention for Visual Question Answering
+authors:
+- Huijuan Xu
+- Kate Saenko
+fieldsOfStudy:
+- Computer Science
+meta_key: ask-attend-and-answer-exploring-question-guided-spatial-attention-for-visual-question-answering
+numCitedBy: 652
 pdf_relpath: null
+ref_count: 50
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # Ask, Attend and Answer - Exploring Question-Guided Spatial Attention for Visual Question Answering

@@ -1,10 +1,22 @@
 ---
 title: Gradient-based learning applied to document recognition
+authors:
+- Yann LeCun
+- L. Bottou
+- Yoshua Bengio
+- P. Haffner
+fieldsOfStudy:
+- Computer Science
+meta_key: gradient-based-learning-applied-to-document-recognition
+numCitedBy: 35262
 pdf_relpath: null
+ref_count: 250
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Proc. IEEE
+year: 1998
 ---
 
 # Gradient-based learning applied to document recognition

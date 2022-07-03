@@ -1,10 +1,23 @@
 ---
 title: RACE - Large-scale ReAding Comprehension Dataset From Examinations
+authors:
+- Guokun Lai
+- Qizhe Xie
+- Hanxiao Liu
+- Yiming Yang
+- E. Hovy
+fieldsOfStudy:
+- Computer Science
+meta_key: race-large-scale-reading-comprehension-dataset-from-examinations
+numCitedBy: 698
 pdf_relpath: null
+ref_count: 19
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2017
 ---
 
 # RACE - Large-scale ReAding Comprehension Dataset From Examinations

@@ -1,10 +1,29 @@
 ---
 title: UniLMv2 - Pseudo-Masked Language Models for Unified Language Model Pre-Training
+authors:
+- Hangbo Bao
+- Li Dong
+- Furu Wei
+- Wenhui Wang
+- Nan Yang
+- Xiaodong Liu
+- Yu Wang
+- Songhao Piao
+- Jianfeng Gao
+- Ming Zhou
+- H. Hon
+fieldsOfStudy:
+- Computer Science
+meta_key: unilmv2-pseudo-masked-language-models-for-unified-language-model-pre-training
+numCitedBy: 171
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2020
 ---
 
 # UniLMv2 - Pseudo-Masked Language Models for Unified Language Model Pre-Training

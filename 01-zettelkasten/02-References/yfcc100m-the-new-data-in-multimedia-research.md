@@ -1,10 +1,26 @@
 ---
 title: YFCC100M - the new data in multimedia research
+authors:
+- B. Thomee
+- David A. Shamma
+- G. Friedland
+- Benjamin Elizalde
+- Karl S. Ni
+- Douglas N. Poland
+- Damian Borth
+- Li-Jia Li
+fieldsOfStudy:
+- Computer Science
+meta_key: yfcc100m-the-new-data-in-multimedia-research
+numCitedBy: 914
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Commun. ACM
+year: 2016
 ---
 
 # YFCC100M - the new data in multimedia research

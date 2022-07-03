@@ -1,10 +1,20 @@
 ---
 title: Distributed Representations of Sentences and Documents
+authors:
+- Quoc V. Le
+- Tomas Mikolov
+fieldsOfStudy:
+- Computer Science
+meta_key: distributed-representations-of-sentences-and-documents
+numCitedBy: 7044
 pdf_relpath: null
+ref_count: 50
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2014
 ---
 
 # Distributed Representations of Sentences and Documents

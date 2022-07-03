@@ -1,10 +1,22 @@
 ---
 title: Character-Aware Neural Language Models
+authors:
+- Yoon Kim
+- Yacine Jernite
+- D. Sontag
+- Alexander M. Rush
+fieldsOfStudy:
+- Computer Science
+meta_key: character-aware-neural-language-models
+numCitedBy: 1428
 pdf_relpath: null
+ref_count: 83
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: AAAI
+year: 2016
 ---
 
 # Character-Aware Neural Language Models

@@ -1,10 +1,25 @@
 ---
 title: Microsoft COCO Captions - Data Collection and Evaluation Server
+authors:
+- Xinlei Chen
+- Hao Fang
+- Tsung-Yi Lin
+- Ramakrishna Vedantam
+- Saurabh Gupta
+- "Piotr Doll\xE1r"
+- C. L. Zitnick
+fieldsOfStudy:
+- Computer Science
+meta_key: microsoft-coco-captions-data-collection-and-evaluation-server
+numCitedBy: 1178
 pdf_relpath: null
+ref_count: 46
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2015
 ---
 
 # Microsoft COCO Captions - Data Collection and Evaluation Server

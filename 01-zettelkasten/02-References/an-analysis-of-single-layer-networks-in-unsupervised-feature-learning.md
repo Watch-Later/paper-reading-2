@@ -1,10 +1,21 @@
 ---
 title: An Analysis of Single-Layer Networks in Unsupervised Feature Learning
+authors:
+- Adam Coates
+- A. Ng
+- Honglak Lee
+fieldsOfStudy:
+- Computer Science
+meta_key: an-analysis-of-single-layer-networks-in-unsupervised-feature-learning
+numCitedBy: 2600
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: AISTATS
+year: 2011
 ---
 
 # An Analysis of Single-Layer Networks in Unsupervised Feature Learning

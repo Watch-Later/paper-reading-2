@@ -1,10 +1,19 @@
 ---
 title: Optimizing search engines using clickthrough data
+authors:
+- T. Joachims
+fieldsOfStudy:
+- Computer Science
+meta_key: optimizing-search-engines-using-clickthrough-data
+numCitedBy: 4304
 pdf_relpath: null
+ref_count: 38
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: KDD
+year: 2002
 ---
 
 # Optimizing search engines using clickthrough data

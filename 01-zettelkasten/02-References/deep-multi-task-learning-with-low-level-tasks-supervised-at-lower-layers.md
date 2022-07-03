@@ -1,10 +1,20 @@
 ---
 title: Deep multi-task learning with low level tasks supervised at lower layers
+authors:
+- "Anders S\xF8gaard"
+- Yoav Goldberg
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-multi-task-learning-with-low-level-tasks-supervised-at-lower-layers
+numCitedBy: 392
 pdf_relpath: null
+ref_count: 19
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2016
 ---
 
 # Deep multi-task learning with low level tasks supervised at lower layers

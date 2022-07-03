@@ -1,5 +1,6 @@
 ---
 title: Asm2
+meta_key: asm2
 pdf_relpath: pdfs/asm2.pdf
 status: todo
 tags:

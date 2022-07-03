@@ -1,10 +1,22 @@
 ---
 title: From Recognition to Cognition - Visual Commonsense Reasoning
+authors:
+- Rowan Zellers
+- Yonatan Bisk
+- Ali Farhadi
+- Yejin Choi
+fieldsOfStudy:
+- Computer Science
+meta_key: from-recognition-to-cognition-visual-commonsense-reasoning
+numCitedBy: 372
 pdf_relpath: null
+ref_count: 98
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2019
 ---
 
 # From Recognition to Cognition - Visual Commonsense Reasoning

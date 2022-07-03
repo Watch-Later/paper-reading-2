@@ -1,10 +1,22 @@
 ---
 title: Data-dependent Initializations of Convolutional Neural Networks
+authors:
+- "Philipp Kr\xE4henb\xFChl"
+- Carl Doersch
+- Jeff Donahue
+- Trevor Darrell
+fieldsOfStudy:
+- Computer Science
+meta_key: data-dependent-initializations-of-convolutional-neural-networks
+numCitedBy: 174
 pdf_relpath: null
+ref_count: 26
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # Data-dependent Initializations of Convolutional Neural Networks

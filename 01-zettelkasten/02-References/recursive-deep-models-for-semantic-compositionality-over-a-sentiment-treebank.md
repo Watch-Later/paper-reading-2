@@ -1,10 +1,25 @@
 ---
 title: Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank
+authors:
+- R. Socher
+- Alex Perelygin
+- Jean Wu
+- Jason Chuang
+- Christopher D. Manning
+- A. Ng
+- Christopher Potts
+fieldsOfStudy:
+- Computer Science
+meta_key: recursive-deep-models-for-semantic-compositionality-over-a-sentiment-treebank
+numCitedBy: 5366
 pdf_relpath: null
+ref_count: 55
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2013
 ---
 
 # Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank

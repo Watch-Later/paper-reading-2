@@ -1,10 +1,20 @@
 ---
 title: A Taxonomy and Evaluation of Dense Two-Frame Stereo Correspondence Algorithms
+authors:
+- Daniel Scharstein
+- R. Szeliski
+fieldsOfStudy:
+- Computer Science
+meta_key: a-taxonomy-and-evaluation-of-dense-two-frame-stereo-correspondence-algorithms
+numCitedBy: 3002
 pdf_relpath: null
+ref_count: 66
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Proceedings IEEE Workshop on Stereo and Multi-Baseline Vision (SMBV 2001)
+year: 2001
 ---
 
 # A Taxonomy and Evaluation of Dense Two-Frame Stereo Correspondence Algorithms

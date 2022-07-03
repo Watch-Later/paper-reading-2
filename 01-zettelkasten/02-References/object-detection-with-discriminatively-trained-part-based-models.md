@@ -1,10 +1,22 @@
 ---
 title: Object Detection with Discriminatively Trained Part Based Models
+authors:
+- Pedro F. Felzenszwalb
+- Ross B. Girshick
+- David A. McAllester
+- D. Ramanan
+fieldsOfStudy:
+- Computer Science
+meta_key: object-detection-with-discriminatively-trained-part-based-models
+numCitedBy: 9374
 pdf_relpath: null
+ref_count: 54
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2009
 ---
 
 # Object Detection with Discriminatively Trained Part Based Models

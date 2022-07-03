@@ -1,10 +1,21 @@
 ---
 title: Dual Attention Networks for Multimodal Reasoning and Matching
+authors:
+- Hyeonseob Nam
+- Jung-Woo Ha
+- Jeonghee Kim
+fieldsOfStudy:
+- Computer Science
+meta_key: dual-attention-networks-for-multimodal-reasoning-and-matching
+numCitedBy: 469
 pdf_relpath: null
+ref_count: 38
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Dual Attention Networks for Multimodal Reasoning and Matching

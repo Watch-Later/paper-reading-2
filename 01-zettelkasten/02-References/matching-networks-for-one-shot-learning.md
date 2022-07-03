@@ -1,10 +1,23 @@
 ---
 title: Matching Networks for One Shot Learning
+authors:
+- Oriol Vinyals
+- C. Blundell
+- T. Lillicrap
+- K. Kavukcuoglu
+- Daan Wierstra
+fieldsOfStudy:
+- Computer Science
+meta_key: matching-networks-for-one-shot-learning
+numCitedBy: 3736
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2016
 ---
 
 # Matching Networks for One Shot Learning

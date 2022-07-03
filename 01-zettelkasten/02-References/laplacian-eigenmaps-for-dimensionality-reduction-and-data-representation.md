@@ -1,10 +1,20 @@
 ---
 title: Laplacian Eigenmaps for Dimensionality Reduction and Data Representation
+authors:
+- Mikhail Belkin
+- P. Niyogi
+fieldsOfStudy:
+- Computer Science
+meta_key: laplacian-eigenmaps-for-dimensionality-reduction-and-data-representation
+numCitedBy: 7047
 pdf_relpath: null
+ref_count: 80
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Neural Computation
+year: 2003
 ---
 
 # Laplacian Eigenmaps for Dimensionality Reduction and Data Representation

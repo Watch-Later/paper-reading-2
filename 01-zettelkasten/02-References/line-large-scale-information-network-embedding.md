@@ -1,10 +1,24 @@
 ---
 title: LINE - Large-scale Information Network Embedding
+authors:
+- Jian Tang
+- Meng Qu
+- Mingzhe Wang
+- Ming Zhang
+- Jun Yan
+- Q. Mei
+fieldsOfStudy:
+- Computer Science
+meta_key: line-large-scale-information-network-embedding
+numCitedBy: 3688
 pdf_relpath: null
+ref_count: 26
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: WWW
+year: 2015
 ---
 
 # LINE - Large-scale Information Network Embedding

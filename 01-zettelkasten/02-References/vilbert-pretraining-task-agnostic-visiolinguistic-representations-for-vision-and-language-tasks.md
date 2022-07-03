@@ -1,10 +1,22 @@
 ---
 title: ViLBERT - Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks
+authors:
+- Jiasen Lu
+- Dhruv Batra
+- Devi Parikh
+- Stefan Lee
+fieldsOfStudy:
+- Computer Science
+meta_key: vilbert-pretraining-task-agnostic-visiolinguistic-representations-for-vision-and-language-tasks
+numCitedBy: 1266
 pdf_relpath: null
+ref_count: 53
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NeurIPS
+year: 2019
 ---
 
 # ViLBERT - Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks

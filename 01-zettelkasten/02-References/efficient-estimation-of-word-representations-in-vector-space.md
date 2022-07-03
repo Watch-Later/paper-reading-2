@@ -1,10 +1,22 @@
 ---
 title: Efficient Estimation of Word Representations in Vector Space
+authors:
+- Tomas Mikolov
+- Kai Chen
+- G. Corrado
+- J. Dean
+fieldsOfStudy:
+- Computer Science
+meta_key: efficient-estimation-of-word-representations-in-vector-space
+numCitedBy: 21887
 pdf_relpath: null
+ref_count: 43
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2013
 ---
 
 # Efficient Estimation of Word Representations in Vector Space

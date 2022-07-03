@@ -1,10 +1,21 @@
 ---
 title: Contextual String Embeddings for Sequence Labeling
+authors:
+- A. Akbik
+- Duncan A. J. Blythe
+- Roland Vollgraf
+fieldsOfStudy:
+- Computer Science
+meta_key: contextual-string-embeddings-for-sequence-labeling
+numCitedBy: 862
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: COLING
+year: 2018
 ---
 
 # Contextual String Embeddings for Sequence Labeling

@@ -1,10 +1,22 @@
 ---
 title: You Only Look Once - Unified, Real-Time Object Detection
+authors:
+- Joseph Redmon
+- S. Divvala
+- Ross B. Girshick
+- Ali Farhadi
+fieldsOfStudy:
+- Computer Science
+meta_key: you-only-look-once-unified-real-time-object-detection
+numCitedBy: 16504
 pdf_relpath: null
+ref_count: 50
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # You Only Look Once - Unified, Real-Time Object Detection

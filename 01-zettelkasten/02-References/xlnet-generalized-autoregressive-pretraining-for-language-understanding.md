@@ -1,10 +1,24 @@
 ---
 title: XLNet - Generalized Autoregressive Pretraining for Language Understanding
+authors:
+- Zhilin Yang
+- Zihang Dai
+- Yiming Yang
+- J. Carbonell
+- R. Salakhutdinov
+- Quoc V. Le
+fieldsOfStudy:
+- Computer Science
+meta_key: xlnet-generalized-autoregressive-pretraining-for-language-understanding
+numCitedBy: 4227
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NeurIPS
+year: 2019
 ---
 
 # XLNet - Generalized Autoregressive Pretraining for Language Understanding

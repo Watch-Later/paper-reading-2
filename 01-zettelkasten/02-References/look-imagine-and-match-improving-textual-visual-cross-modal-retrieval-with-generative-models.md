@@ -1,10 +1,23 @@
 ---
 title: Look, Imagine and Match - Improving Textual-Visual Cross-Modal Retrieval with Generative Models
+authors:
+- Jiuxiang Gu
+- Jianfei Cai
+- Shafiq R. Joty
+- Li Niu
+- G. Wang
+fieldsOfStudy:
+- Computer Science
+meta_key: look-imagine-and-match-improving-textual-visual-cross-modal-retrieval-with-generative-models
+numCitedBy: 220
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # Look, Imagine and Match - Improving Textual-Visual Cross-Modal Retrieval with Generative Models

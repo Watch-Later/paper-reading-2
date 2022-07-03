@@ -1,10 +1,20 @@
 ---
 title: Cross-lingual Language Model Pretraining
+authors:
+- Guillaume Lample
+- A. Conneau
+fieldsOfStudy:
+- Computer Science
+meta_key: cross-lingual-language-model-pretraining
+numCitedBy: 1509
 pdf_relpath: null
+ref_count: 52
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NeurIPS
+year: 2019
 ---
 
 # Cross-lingual Language Model Pretraining

@@ -1,10 +1,22 @@
 ---
 title: RNN Fisher Vectors for Action Recognition and Image Annotation
+authors:
+- Guy Lev
+- Gil Sadeh
+- Benjamin Klein
+- Lior Wolf
+fieldsOfStudy:
+- Computer Science
+meta_key: rnn-fisher-vectors-for-action-recognition-and-image-annotation
+numCitedBy: 120
 pdf_relpath: null
+ref_count: 71
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # RNN Fisher Vectors for Action Recognition and Image Annotation

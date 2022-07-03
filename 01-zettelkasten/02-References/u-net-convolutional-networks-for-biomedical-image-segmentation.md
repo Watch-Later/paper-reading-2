@@ -1,10 +1,21 @@
 ---
 title: U-Net - Convolutional Networks for Biomedical Image Segmentation
+authors:
+- O. Ronneberger
+- P. Fischer
+- T. Brox
+fieldsOfStudy:
+- Computer Science
+meta_key: u-net-convolutional-networks-for-biomedical-image-segmentation
+numCitedBy: 33560
 pdf_relpath: null
+ref_count: 16
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: MICCAI
+year: 2015
 ---
 
 # U-Net - Convolutional Networks for Biomedical Image Segmentation

@@ -1,10 +1,23 @@
 ---
 title: Learning Spatiotemporal Features with 3D Convolutional Networks
+authors:
+- Du Tran
+- Lubomir D. Bourdev
+- R. Fergus
+- L. Torresani
+- Manohar Paluri
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-spatiotemporal-features-with-3d-convolutional-networks
+numCitedBy: 5272
 pdf_relpath: null
+ref_count: 66
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE International Conference on Computer Vision (ICCV)
+year: 2015
 ---
 
 # Learning Spatiotemporal Features with 3D Convolutional Networks

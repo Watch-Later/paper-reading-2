@@ -1,10 +1,24 @@
 ---
 title: Proposal-Free Network for Instance-Level Object Segmentation
+authors:
+- Xiaodan Liang
+- Liang Lin
+- Yunchao Wei
+- Xiaohui Shen
+- Jianchao Yang
+- Shuicheng Yan
+fieldsOfStudy:
+- Computer Science
+meta_key: proposal-free-network-for-instance-level-object-segmentation
+numCitedBy: 209
 pdf_relpath: null
+ref_count: 49
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2018
 ---
 
 # Proposal-Free Network for Instance-Level Object Segmentation

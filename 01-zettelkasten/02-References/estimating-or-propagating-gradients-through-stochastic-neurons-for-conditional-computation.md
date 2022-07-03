@@ -1,10 +1,21 @@
 ---
 title: Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation
+authors:
+- Yoshua Bengio
+- "Nicholas L\xE9onard"
+- Aaron C. Courville
+fieldsOfStudy:
+- Computer Science
+meta_key: estimating-or-propagating-gradients-through-stochastic-neurons-for-conditional-computation
+numCitedBy: 1505
 pdf_relpath: null
+ref_count: 22
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2013
 ---
 
 # Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation

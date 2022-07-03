@@ -1,10 +1,21 @@
 ---
 title: Colorful Image Colorization
+authors:
+- Richard Zhang
+- Phillip Isola
+- Alexei A. Efros
+fieldsOfStudy:
+- Computer Science
+meta_key: colorful-image-colorization
+numCitedBy: 2297
 pdf_relpath: null
+ref_count: 58
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # Colorful Image Colorization

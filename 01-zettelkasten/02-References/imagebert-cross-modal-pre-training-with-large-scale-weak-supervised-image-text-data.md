@@ -1,10 +1,24 @@
 ---
 title: ImageBERT - Cross-modal Pre-training with Large-scale Weak-supervised Image-Text Data
+authors:
+- Di Qi
+- Lin Su
+- Jianwei Song
+- Edward Cui
+- Taroon Bharti
+- Arun Sacheti
+fieldsOfStudy:
+- Computer Science
+meta_key: imagebert-cross-modal-pre-training-with-large-scale-weak-supervised-image-text-data
+numCitedBy: 101
 pdf_relpath: null
+ref_count: 32
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2020
 ---
 
 # ImageBERT - Cross-modal Pre-training with Large-scale Weak-supervised Image-Text Data

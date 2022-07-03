@@ -1,10 +1,19 @@
 ---
 title: Distinctive Image Features from Scale-Invariant Keypoints
+authors:
+- G. LoweDavid
+fieldsOfStudy:
+- Computer Science
+meta_key: distinctive-image-features-from-scale-invariant-keypoints
+numCitedBy: 25504
 pdf_relpath: null
+ref_count: 75
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2004
 ---
 
 # Distinctive Image Features from Scale-Invariant Keypoints

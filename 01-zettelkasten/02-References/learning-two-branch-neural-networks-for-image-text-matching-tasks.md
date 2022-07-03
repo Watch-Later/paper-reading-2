@@ -1,10 +1,22 @@
 ---
 title: Learning Two-Branch Neural Networks for Image-Text Matching Tasks
+authors:
+- Liwei Wang
+- Yin Li
+- Jing Huang
+- S. Lazebnik
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-two-branch-neural-networks-for-image-text-matching-tasks
+numCitedBy: 283
 pdf_relpath: null
+ref_count: 71
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2019
 ---
 
 # Learning Two-Branch Neural Networks for Image-Text Matching Tasks

@@ -1,10 +1,21 @@
 ---
 title: Adversarial Training Methods for Semi-Supervised Text Classification
+authors:
+- Takeru Miyato
+- Andrew M. Dai
+- Ian J. Goodfellow
+fieldsOfStudy:
+- Computer Science
+meta_key: adversarial-training-methods-for-semi-supervised-text-classification
+numCitedBy: 580
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2017
 ---
 
 # Adversarial Training Methods for Semi-Supervised Text Classification

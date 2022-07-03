@@ -1,10 +1,19 @@
 ---
 title: Induction of Decision Trees
+authors:
+- J. R. Quinlan
+fieldsOfStudy:
+- Computer Science
+meta_key: induction-of-decision-trees
+numCitedBy: 13488
 pdf_relpath: null
+ref_count: 52
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Machine Learning
+year: 2004
 ---
 
 # Induction of Decision Trees

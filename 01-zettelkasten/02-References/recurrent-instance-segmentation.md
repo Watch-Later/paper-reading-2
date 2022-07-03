@@ -1,10 +1,20 @@
 ---
 title: Recurrent Instance Segmentation
+authors:
+- B. Romera-Paredes
+- Philip H. S. Torr
+fieldsOfStudy:
+- Computer Science
+meta_key: recurrent-instance-segmentation
+numCitedBy: 293
 pdf_relpath: null
+ref_count: 57
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # Recurrent Instance Segmentation

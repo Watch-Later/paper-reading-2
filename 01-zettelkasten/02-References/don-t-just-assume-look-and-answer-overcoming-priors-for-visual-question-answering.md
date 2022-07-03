@@ -1,10 +1,22 @@
 ---
 title: Don't Just Assume; Look and Answer - Overcoming Priors for Visual Question Answering
+authors:
+- Aishwarya Agrawal
+- Dhruv Batra
+- Devi Parikh
+- Aniruddha Kembhavi
+fieldsOfStudy:
+- Computer Science
+meta_key: don-t-just-assume-look-and-answer-overcoming-priors-for-visual-question-answering
+numCitedBy: 335
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # Don't Just Assume; Look and Answer - Overcoming Priors for Visual Question Answering

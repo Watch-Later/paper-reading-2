@@ -1,10 +1,20 @@
 ---
 title: Visual question answering - Datasets, algorithms, and future challenges
+authors:
+- Kushal Kafle
+- Christopher Kanan
+fieldsOfStudy:
+- Computer Science
+meta_key: visual-question-answering-datasets-algorithms-and-future-challenges
+numCitedBy: 150
 pdf_relpath: null
+ref_count: 92
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Comput. Vis. Image Underst.
+year: 2017
 ---
 
 # Visual question answering - Datasets, algorithms, and future challenges

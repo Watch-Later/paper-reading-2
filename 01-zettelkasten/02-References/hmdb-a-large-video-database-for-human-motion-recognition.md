@@ -1,10 +1,23 @@
 ---
 title: HMDB - A large video database for human motion recognition
+authors:
+- Hilde Kuehne
+- Hueihan Jhuang
+- "Est\xEDbaliz Garrote"
+- T. Poggio
+- Thomas Serre
+fieldsOfStudy:
+- Computer Science
+meta_key: hmdb-a-large-video-database-for-human-motion-recognition
+numCitedBy: 2546
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2011 International Conference on Computer Vision
+year: 2011
 ---
 
 # HMDB - A large video database for human motion recognition

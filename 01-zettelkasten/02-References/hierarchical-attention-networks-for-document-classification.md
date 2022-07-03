@@ -1,10 +1,24 @@
 ---
 title: Hierarchical Attention Networks for Document Classification
+authors:
+- Zichao Yang
+- Diyi Yang
+- Chris Dyer
+- Xiaodong He
+- Alex Smola
+- E. Hovy
+fieldsOfStudy:
+- Computer Science
+meta_key: hierarchical-attention-networks-for-document-classification
+numCitedBy: 3226
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NAACL
+year: 2016
 ---
 
 # Hierarchical Attention Networks for Document Classification

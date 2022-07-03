@@ -1,10 +1,24 @@
 ---
 title: Neural-Symbolic VQA - Disentangling Reasoning from Vision and Language Understanding
+authors:
+- Kexin Yi
+- Jiajun Wu
+- Chuang Gan
+- A. Torralba
+- Pushmeet Kohli
+- J. Tenenbaum
+fieldsOfStudy:
+- Computer Science
+meta_key: neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding
+numCitedBy: 301
 pdf_relpath: null
+ref_count: 50
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NeurIPS
+year: 2018
 ---
 
 # Neural-Symbolic VQA - Disentangling Reasoning from Vision and Language Understanding

@@ -1,10 +1,22 @@
 ---
 title: Efficient BackProp
+authors:
+- Yann LeCun
+- L. Bottou
+- G. Orr
+- "K. M\xFCller"
+fieldsOfStudy:
+- Computer Science
+meta_key: efficient-backprop
+numCitedBy: 2630
 pdf_relpath: null
+ref_count: 36
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 'Neural Networks: Tricks of the Trade'
+year: 2012
 ---
 
 # Efficient BackProp

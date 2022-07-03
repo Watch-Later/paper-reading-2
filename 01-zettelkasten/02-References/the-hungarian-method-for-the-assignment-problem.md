@@ -1,10 +1,19 @@
 ---
 title: The Hungarian Method for the Assignment Problem
+authors:
+- H. Kuhn
+fieldsOfStudy:
+- Economics
+meta_key: the-hungarian-method-for-the-assignment-problem
+numCitedBy: 4506
 pdf_relpath: null
+ref_count: 20
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 50 Years of Integer Programming
+year: 2010
 ---
 
 # The Hungarian Method for the Assignment Problem

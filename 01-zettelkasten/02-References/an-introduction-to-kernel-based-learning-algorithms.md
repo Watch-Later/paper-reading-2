@@ -1,10 +1,23 @@
 ---
 title: An introduction to kernel-based learning algorithms
+authors:
+- "K. M\xFCller"
+- S. Mika
+- "Gunnar R\xE4tsch"
+- K. Tsuda
+- "B. Sch\xF6lkopf"
+fieldsOfStudy:
+- Computer Science
+meta_key: an-introduction-to-kernel-based-learning-algorithms
+numCitedBy: 3519
 pdf_relpath: null
+ref_count: 212
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Trans. Neural Networks
+year: 2001
 ---
 
 # An introduction to kernel-based learning algorithms

@@ -1,10 +1,21 @@
 ---
 title: Learning to Generate Reviews and Discovering Sentiment
+authors:
+- Alec Radford
+- "R. J\xF3zefowicz"
+- Ilya Sutskever
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-to-generate-reviews-and-discovering-sentiment
+numCitedBy: 368
 pdf_relpath: null
+ref_count: 64
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2017
 ---
 
 # Learning to Generate Reviews and Discovering Sentiment

@@ -1,10 +1,21 @@
 ---
 title: Control of goal-directed and stimulus-driven attention in the brain
+authors:
+- M. Corbetta
+- G. Shulman
+fieldsOfStudy:
+- Psychology
+- Biology
+meta_key: control-of-goal-directed-and-stimulus-driven-attention-in-the-brain
+numCitedBy: 10186
 pdf_relpath: null
+ref_count: 149
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Nature Reviews Neuroscience
+year: 2002
 ---
 
 # Control of goal-directed and stimulus-driven attention in the brain

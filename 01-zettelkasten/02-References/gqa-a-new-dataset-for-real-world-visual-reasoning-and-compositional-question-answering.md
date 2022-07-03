@@ -1,10 +1,20 @@
 ---
 title: GQA - A New Dataset for Real-World Visual Reasoning and Compositional Question Answering
+authors:
+- Drew A. Hudson
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: gqa-a-new-dataset-for-real-world-visual-reasoning-and-compositional-question-answering
+numCitedBy: 448
 pdf_relpath: null
+ref_count: 49
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2019
 ---
 
 # GQA - A New Dataset for Real-World Visual Reasoning and Compositional Question Answering

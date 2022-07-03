@@ -1,10 +1,22 @@
 ---
 title: Deep Canonical Correlation Analysis
+authors:
+- Galen Andrew
+- R. Arora
+- J. Bilmes
+- Karen Livescu
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-canonical-correlation-analysis
+numCitedBy: 1211
 pdf_relpath: null
+ref_count: 43
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2013
 ---
 
 # Deep Canonical Correlation Analysis

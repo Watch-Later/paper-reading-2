@@ -1,10 +1,20 @@
 ---
 title: Learning the parts of objects by non-negative matrix factorization
+authors:
+- Daniel D. Lee
+- H. Seung
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-the-parts-of-objects-by-non-negative-matrix-factorization
+numCitedBy: 11309
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Nature
+year: 1999
 ---
 
 # Learning the parts of objects by non-negative matrix factorization

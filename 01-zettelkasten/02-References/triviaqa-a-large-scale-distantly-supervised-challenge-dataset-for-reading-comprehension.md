@@ -1,10 +1,22 @@
 ---
 title: TriviaQA - A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension
+authors:
+- Mandar Joshi
+- Eunsol Choi
+- Daniel S. Weld
+- Luke Zettlemoyer
+fieldsOfStudy:
+- Computer Science
+meta_key: triviaqa-a-large-scale-distantly-supervised-challenge-dataset-for-reading-comprehension
+numCitedBy: 883
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2017
 ---
 
 # TriviaQA - A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension

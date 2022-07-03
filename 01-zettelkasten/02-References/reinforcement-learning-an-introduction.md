@@ -1,10 +1,20 @@
 ---
 title: Reinforcement Learning - An Introduction
+authors:
+- R. Sutton
+- A. Barto
+fieldsOfStudy:
+- Computer Science
+meta_key: reinforcement-learning-an-introduction
+numCitedBy: 32850
 pdf_relpath: null
+ref_count: 637
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Neural Networks
+year: 2005
 ---
 
 # Reinforcement Learning - An Introduction

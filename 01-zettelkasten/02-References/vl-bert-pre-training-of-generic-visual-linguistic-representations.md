@@ -1,10 +1,25 @@
 ---
 title: VL-BERT - Pre-training of Generic Visual-Linguistic Representations
+authors:
+- Weijie Su
+- Xizhou Zhu
+- Yue Cao
+- B. Li
+- Lewei Lu
+- Furu Wei
+- Jifeng Dai
+fieldsOfStudy:
+- Computer Science
+meta_key: vl-bert-pre-training-of-generic-visual-linguistic-representations
+numCitedBy: 707
 pdf_relpath: null
+ref_count: 56
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2020
 ---
 
 # VL-BERT - Pre-training of Generic Visual-Linguistic Representations

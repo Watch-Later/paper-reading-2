@@ -1,10 +1,21 @@
 ---
 title: A Neural Attention Model for Abstractive Sentence Summarization
+authors:
+- Alexander M. Rush
+- S. Chopra
+- J. Weston
+fieldsOfStudy:
+- Computer Science
+meta_key: a-neural-attention-model-for-abstractive-sentence-summarization
+numCitedBy: 2108
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2015
 ---
 
 # A Neural Attention Model for Abstractive Sentence Summarization

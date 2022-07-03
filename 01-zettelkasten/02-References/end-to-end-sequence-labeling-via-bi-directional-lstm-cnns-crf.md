@@ -1,10 +1,20 @@
 ---
 title: End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF
+authors:
+- Xuezhe Ma
+- E. Hovy
+fieldsOfStudy:
+- Computer Science
+meta_key: end-to-end-sequence-labeling-via-bi-directional-lstm-cnns-crf
+numCitedBy: 1994
 pdf_relpath: null
+ref_count: 75
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2016
 ---
 
 # End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF

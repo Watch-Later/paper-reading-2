@@ -1,10 +1,23 @@
 ---
 title: Grounding of Textual Phrases in Images by Reconstruction
+authors:
+- Anna Rohrbach
+- Marcus Rohrbach
+- Ronghang Hu
+- Trevor Darrell
+- B. Schiele
+fieldsOfStudy:
+- Computer Science
+meta_key: grounding-of-textual-phrases-in-images-by-reconstruction
+numCitedBy: 377
 pdf_relpath: null
+ref_count: 63
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # Grounding of Textual Phrases in Images by Reconstruction

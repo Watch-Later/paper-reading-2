@@ -1,10 +1,23 @@
 ---
 title: Learning to Reason - End-to-End Module Networks for Visual Question Answering
+authors:
+- Ronghang Hu
+- Jacob Andreas
+- Marcus Rohrbach
+- Trevor Darrell
+- Kate Saenko
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-to-reason-end-to-end-module-networks-for-visual-question-answering
+numCitedBy: 430
 pdf_relpath: null
+ref_count: 32
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # Learning to Reason - End-to-End Module Networks for Visual Question Answering

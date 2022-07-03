@@ -1,10 +1,27 @@
 ---
 title: Theano - new features and speed improvements
+authors:
+- "Fr\xE9d\xE9ric Bastien"
+- Pascal Lamblin
+- Razvan Pascanu
+- J. Bergstra
+- Ian J. Goodfellow
+- Arnaud Bergeron
+- Nicolas Bouchard
+- David Warde-Farley
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: theano-new-features-and-speed-improvements
+numCitedBy: 1374
 pdf_relpath: null
+ref_count: 14
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2012
 ---
 
 # Theano - new features and speed improvements

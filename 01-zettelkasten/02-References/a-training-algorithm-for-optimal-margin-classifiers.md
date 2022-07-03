@@ -1,10 +1,21 @@
 ---
 title: A training algorithm for optimal margin classifiers
+authors:
+- B. Boser
+- I. Guyon
+- V. Vapnik
+fieldsOfStudy:
+- Computer Science
+meta_key: a-training-algorithm-for-optimal-margin-classifiers
+numCitedBy: 10833
 pdf_relpath: null
+ref_count: 41
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: COLT '92
+year: 1992
 ---
 
 # A training algorithm for optimal margin classifiers

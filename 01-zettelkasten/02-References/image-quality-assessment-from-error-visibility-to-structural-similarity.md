@@ -1,10 +1,22 @@
 ---
 title: Image quality assessment - from error visibility to structural similarity
+authors:
+- Zhou Wang
+- A. Bovik
+- H. Sheikh
+- Eero P. Simoncelli
+fieldsOfStudy:
+- Computer Science
+meta_key: image-quality-assessment-from-error-visibility-to-structural-similarity
+numCitedBy: 30885
 pdf_relpath: null
+ref_count: 70
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Image Processing
+year: 2004
 ---
 
 # Image quality assessment - from error visibility to structural similarity

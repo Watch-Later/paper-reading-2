@@ -1,10 +1,21 @@
 ---
 title: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+authors:
+- Alec Radford
+- Luke Metz
+- Soumith Chintala
+fieldsOfStudy:
+- Computer Science
+meta_key: unsupervised-representation-learning-with-deep-convolutional-generative-adversarial-networks
+numCitedBy: 9853
 pdf_relpath: null
+ref_count: 59
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks

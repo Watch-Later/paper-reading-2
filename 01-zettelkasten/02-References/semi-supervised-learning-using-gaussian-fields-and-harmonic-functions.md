@@ -1,10 +1,21 @@
 ---
 title: Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions
+authors:
+- Xiaojin Zhu
+- Zoubin Ghahramani
+- J. Lafferty
+fieldsOfStudy:
+- Computer Science
+meta_key: semi-supervised-learning-using-gaussian-fields-and-harmonic-functions
+numCitedBy: 3710
 pdf_relpath: null
+ref_count: 41
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2003
 ---
 
 # Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions

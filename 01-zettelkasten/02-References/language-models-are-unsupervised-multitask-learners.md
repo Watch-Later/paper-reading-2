@@ -1,10 +1,24 @@
 ---
 title: Language Models are Unsupervised Multitask Learners
+authors:
+- Alec Radford
+- Jeff Wu
+- Rewon Child
+- D. Luan
+- Dario Amodei
+- Ilya Sutskever
+fieldsOfStudy:
+- Computer Science
+meta_key: language-models-are-unsupervised-multitask-learners
+numCitedBy: 6284
 pdf_relpath: null
+ref_count: 75
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2019
 ---
 
 # Language Models are Unsupervised Multitask Learners

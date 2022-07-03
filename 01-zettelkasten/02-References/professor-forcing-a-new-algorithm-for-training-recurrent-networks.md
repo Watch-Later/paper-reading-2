@@ -1,10 +1,24 @@
 ---
 title: Professor Forcing - A New Algorithm for Training Recurrent Networks
+authors:
+- Anirudh Goyal
+- Alex Lamb
+- Ying Zhang
+- Saizheng Zhang
+- Aaron C. Courville
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: professor-forcing-a-new-algorithm-for-training-recurrent-networks
+numCitedBy: 394
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2016
 ---
 
 # Professor Forcing - A New Algorithm for Training Recurrent Networks

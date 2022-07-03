@@ -1,5 +1,6 @@
 ---
 title: Csapp Talk 3E
+meta_key: csapp-talk-3e
 pdf_relpath: pdfs/csapp-talk-3e.pdf
 status: todo
 tags:

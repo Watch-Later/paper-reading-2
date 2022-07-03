@@ -1,5 +1,6 @@
 ---
 title: Cgroups Intro
+meta_key: cgroups-intro
 pdf_relpath: pdfs/cgroups-intro.pdf
 status: todo
 tags:

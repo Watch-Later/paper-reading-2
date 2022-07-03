@@ -1,10 +1,20 @@
 ---
 title: Real-Time Lexicon-Free Scene Text Localization and Recognition
+authors:
+- "Luk\xE1s Neumann"
+- Jiri Matas
+fieldsOfStudy:
+- Computer Science
+meta_key: real-time-lexicon-free-scene-text-localization-and-recognition
+numCitedBy: 128
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2016
 ---
 
 # Real-Time Lexicon-Free Scene Text Localization and Recognition

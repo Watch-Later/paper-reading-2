@@ -1,10 +1,22 @@
 ---
 title: Contour Detection and Hierarchical Image Segmentation
+authors:
+- "P. Arbel\xE1ez"
+- M. Maire
+- C. Fowlkes
+- J. Malik
+fieldsOfStudy:
+- Computer Science
+meta_key: contour-detection-and-hierarchical-image-segmentation
+numCitedBy: 4197
 pdf_relpath: null
+ref_count: 89
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2011
 ---
 
 # Contour Detection and Hierarchical Image Segmentation

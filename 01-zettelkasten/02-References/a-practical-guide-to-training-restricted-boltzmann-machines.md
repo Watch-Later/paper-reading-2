@@ -1,10 +1,19 @@
 ---
 title: A Practical Guide to Training Restricted Boltzmann Machines
+authors:
+- Geoffrey E. Hinton
+fieldsOfStudy:
+- Computer Science
+meta_key: a-practical-guide-to-training-restricted-boltzmann-machines
+numCitedBy: 2744
 pdf_relpath: null
+ref_count: 28
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 'Neural Networks: Tricks of the Trade'
+year: 2012
 ---
 
 # A Practical Guide to Training Restricted Boltzmann Machines

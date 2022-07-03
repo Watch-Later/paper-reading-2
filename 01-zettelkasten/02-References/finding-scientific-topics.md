@@ -1,10 +1,20 @@
 ---
 title: Finding scientific topics
+authors:
+- T. Griffiths
+- M. Steyvers
+fieldsOfStudy:
+- Computer Science
+meta_key: finding-scientific-topics
+numCitedBy: 5574
 pdf_relpath: null
+ref_count: 22
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Proceedings of the National Academy of Sciences of the United States of America
+year: 2004
 ---
 
 # Finding scientific topics

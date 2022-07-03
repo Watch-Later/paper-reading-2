@@ -1,10 +1,22 @@
 ---
 title: Deformable ConvNets V2 - More Deformable, Better Results
+authors:
+- Xizhou Zhu
+- Han Hu
+- Stephen Lin
+- Jifeng Dai
+fieldsOfStudy:
+- Computer Science
+meta_key: deformable-convnets-v2-more-deformable-better-results
+numCitedBy: 683
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2019
 ---
 
 # Deformable ConvNets V2 - More Deformable, Better Results

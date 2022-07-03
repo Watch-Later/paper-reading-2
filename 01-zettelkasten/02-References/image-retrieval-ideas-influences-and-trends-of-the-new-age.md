@@ -1,10 +1,22 @@
 ---
 title: Image retrieval - Ideas, influences, and trends of the new age
+authors:
+- R. Datta
+- D. Joshi
+- Jia Li
+- James Ze Wang
+fieldsOfStudy:
+- Computer Science
+meta_key: image-retrieval-ideas-influences-and-trends-of-the-new-age
+numCitedBy: 3617
 pdf_relpath: null
+ref_count: 325
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: CSUR
+year: 2008
 ---
 
 # Image retrieval - Ideas, influences, and trends of the new age

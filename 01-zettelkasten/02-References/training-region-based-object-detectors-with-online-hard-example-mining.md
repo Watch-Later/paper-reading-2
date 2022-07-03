@@ -1,10 +1,21 @@
 ---
 title: Training Region-Based Object Detectors with Online Hard Example Mining
+authors:
+- Abhinav Shrivastava
+- A. Gupta
+- Ross B. Girshick
+fieldsOfStudy:
+- Computer Science
+meta_key: training-region-based-object-detectors-with-online-hard-example-mining
+numCitedBy: 1571
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Training Region-Based Object Detectors with Online Hard Example Mining

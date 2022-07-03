@@ -1,10 +1,20 @@
 ---
 title: Unbiased look at dataset bias
+authors:
+- A. Torralba
+- Alexei A. Efros
+fieldsOfStudy:
+- Computer Science
+meta_key: unbiased-look-at-dataset-bias
+numCitedBy: 1756
 pdf_relpath: null
+ref_count: 18
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: CVPR 2011
+year: 2011
 ---
 
 # Unbiased look at dataset bias

@@ -1,10 +1,21 @@
 ---
 title: Representation Learning - A Review and New Perspectives
+authors:
+- Yoshua Bengio
+- Aaron C. Courville
+- Pascal Vincent
+fieldsOfStudy:
+- Computer Science
+meta_key: representation-learning-a-review-and-new-perspectives
+numCitedBy: 8748
 pdf_relpath: null
+ref_count: 286
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2013
 ---
 
 # Representation Learning - A Review and New Perspectives

@@ -1,10 +1,21 @@
 ---
 title: On the difficulty of training recurrent neural networks
+authors:
+- Razvan Pascanu
+- Tomas Mikolov
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: on-the-difficulty-of-training-recurrent-neural-networks
+numCitedBy: 3801
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2013
 ---
 
 # On the difficulty of training recurrent neural networks

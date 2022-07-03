@@ -1,10 +1,24 @@
 ---
 title: Single Shot Text Detector with Regional Attention
+authors:
+- Pan He
+- Weilin Huang
+- Tong He
+- Qile Zhu
+- Y. Qiao
+- Xiaolin Li
+fieldsOfStudy:
+- Computer Science
+meta_key: single-shot-text-detector-with-regional-attention
+numCitedBy: 234
 pdf_relpath: null
+ref_count: 52
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # Single Shot Text Detector with Regional Attention

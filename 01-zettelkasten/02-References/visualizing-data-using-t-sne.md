@@ -1,10 +1,20 @@
 ---
 title: Visualizing Data using t-SNE
+authors:
+- L. V. D. Maaten
+- Geoffrey E. Hinton
+fieldsOfStudy:
+- Computer Science
+meta_key: visualizing-data-using-t-sne
+numCitedBy: 22352
 pdf_relpath: null
+ref_count: 41
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2008
 ---
 
 # Visualizing Data using t-SNE

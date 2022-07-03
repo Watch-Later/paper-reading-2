@@ -1,10 +1,23 @@
 ---
 title: Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation
+authors:
+- J. Pont-Tuset
+- "Pablo Arbel\xE1ez"
+- Jonathan T. Barron
+- "F. Marqu\xE9s"
+- J. Malik
+fieldsOfStudy:
+- Computer Science
+meta_key: multiscale-combinatorial-grouping-for-image-segmentation-and-object-proposal-generation
+numCitedBy: 434
 pdf_relpath: null
+ref_count: 63
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2017
 ---
 
 # Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation

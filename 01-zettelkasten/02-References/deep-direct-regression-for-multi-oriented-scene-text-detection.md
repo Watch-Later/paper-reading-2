@@ -1,10 +1,22 @@
 ---
 title: Deep Direct Regression for Multi-oriented Scene Text Detection
+authors:
+- Wenhao He
+- Xu-Yao Zhang
+- Fei Yin
+- Cheng-Lin Liu
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-direct-regression-for-multi-oriented-scene-text-detection
+numCitedBy: 281
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # Deep Direct Regression for Multi-oriented Scene Text Detection

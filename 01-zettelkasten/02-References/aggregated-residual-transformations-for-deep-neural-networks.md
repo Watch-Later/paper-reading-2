@@ -1,10 +1,23 @@
 ---
 title: Aggregated Residual Transformations for Deep Neural Networks
+authors:
+- Saining Xie
+- Ross B. Girshick
+- "Piotr Doll\xE1r"
+- Z. Tu
+- Kaiming He
+fieldsOfStudy:
+- Computer Science
+meta_key: aggregated-residual-transformations-for-deep-neural-networks
+numCitedBy: 5483
 pdf_relpath: null
+ref_count: 56
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Aggregated Residual Transformations for Deep Neural Networks

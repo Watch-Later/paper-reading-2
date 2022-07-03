@@ -1,10 +1,24 @@
 ---
 title: Geometric Deep Learning on Graphs and Manifolds Using Mixture Model CNNs
+authors:
+- Federico Monti
+- D. Boscaini
+- Jonathan Masci
+- "E. Rodol\xE0"
+- Jan Svoboda
+- M. Bronstein
+fieldsOfStudy:
+- Computer Science
+meta_key: geometric-deep-learning-on-graphs-and-manifolds-using-mixture-model-cnns
+numCitedBy: 1185
 pdf_relpath: null
+ref_count: 71
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Geometric Deep Learning on Graphs and Manifolds Using Mixture Model CNNs

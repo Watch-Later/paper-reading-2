@@ -1,10 +1,19 @@
 ---
 title: Simple statistical gradient-following algorithms for connectionist reinforcement learning
+authors:
+- Ronald J. Williams
+fieldsOfStudy:
+- Computer Science
+meta_key: simple-statistical-gradient-following-algorithms-for-connectionist-reinforcement-learning
+numCitedBy: 5180
 pdf_relpath: null
+ref_count: 62
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Machine Learning
+year: 2004
 ---
 
 # Simple statistical gradient-following algorithms for connectionist reinforcement learning

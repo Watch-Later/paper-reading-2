@@ -1,10 +1,23 @@
 ---
 title: Review Networks for Caption Generation
+authors:
+- Zhilin Yang
+- Ye Yuan
+- Yuexin Wu
+- William W. Cohen
+- R. Salakhutdinov
+fieldsOfStudy:
+- Computer Science
+meta_key: review-networks-for-caption-generation
+numCitedBy: 210
 pdf_relpath: null
+ref_count: 23
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2016
 ---
 
 # Review Networks for Caption Generation

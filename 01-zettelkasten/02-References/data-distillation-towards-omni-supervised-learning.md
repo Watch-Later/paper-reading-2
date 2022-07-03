@@ -1,10 +1,23 @@
 ---
 title: Data Distillation - Towards Omni-Supervised Learning
+authors:
+- Ilija Radosavovic
+- "Piotr Doll\xE1r"
+- Ross B. Girshick
+- Georgia Gkioxari
+- Kaiming He
+fieldsOfStudy:
+- Computer Science
+meta_key: data-distillation-towards-omni-supervised-learning
+numCitedBy: 287
 pdf_relpath: null
+ref_count: 58
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # Data Distillation - Towards Omni-Supervised Learning

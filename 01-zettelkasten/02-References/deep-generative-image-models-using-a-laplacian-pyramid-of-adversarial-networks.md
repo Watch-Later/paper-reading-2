@@ -1,10 +1,22 @@
 ---
 title: Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks
+authors:
+- Emily L. Denton
+- Soumith Chintala
+- Arthur D. Szlam
+- R. Fergus
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks
+numCitedBy: 1855
 pdf_relpath: null
+ref_count: 41
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2015
 ---
 
 # Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks

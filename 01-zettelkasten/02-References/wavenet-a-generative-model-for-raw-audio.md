@@ -1,10 +1,27 @@
 ---
 title: WaveNet - A Generative Model for Raw Audio
+authors:
+- "A\xE4ron van den Oord"
+- S. Dieleman
+- H. Zen
+- K. Simonyan
+- Oriol Vinyals
+- A. Graves
+- Nal Kalchbrenner
+- A. Senior
+- K. Kavukcuoglu
+fieldsOfStudy:
+- Computer Science
+meta_key: wavenet-a-generative-model-for-raw-audio
+numCitedBy: 4643
 pdf_relpath: null
+ref_count: 68
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: SSW
+year: 2016
 ---
 
 # WaveNet - A Generative Model for Raw Audio

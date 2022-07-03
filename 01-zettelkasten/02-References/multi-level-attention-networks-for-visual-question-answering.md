@@ -1,10 +1,22 @@
 ---
 title: Multi-level Attention Networks for Visual Question Answering
+authors:
+- D. Yu
+- Jianlong Fu
+- Tao Mei
+- Y. Rui
+fieldsOfStudy:
+- Computer Science
+meta_key: multi-level-attention-networks-for-visual-question-answering
+numCitedBy: 174
 pdf_relpath: null
+ref_count: 41
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Multi-level Attention Networks for Visual Question Answering

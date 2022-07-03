@@ -1,10 +1,20 @@
 ---
 title: Using the Output Embedding to Improve Language Models
+authors:
+- Ofir Press
+- Lior Wolf
+fieldsOfStudy:
+- Computer Science
+meta_key: using-the-output-embedding-to-improve-language-models
+numCitedBy: 568
 pdf_relpath: null
+ref_count: 49
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EACL
+year: 2017
 ---
 
 # Using the Output Embedding to Improve Language Models

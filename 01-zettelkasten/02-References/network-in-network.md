@@ -1,10 +1,21 @@
 ---
 title: Network In Network
+authors:
+- Min Lin
+- Qiang Chen
+- Shuicheng Yan
+fieldsOfStudy:
+- Computer Science
+meta_key: network-in-network
+numCitedBy: 4208
 pdf_relpath: null
+ref_count: 20
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2014
 ---
 
 # Network In Network

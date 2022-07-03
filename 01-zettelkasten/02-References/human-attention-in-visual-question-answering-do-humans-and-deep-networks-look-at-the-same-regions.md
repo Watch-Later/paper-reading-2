@@ -1,10 +1,23 @@
 ---
 title: Human Attention in Visual Question Answering - Do Humans and Deep Networks look at the same regions?
+authors:
+- Abhishek Das
+- Harsh Agrawal
+- C. L. Zitnick
+- Devi Parikh
+- Dhruv Batra
+fieldsOfStudy:
+- Computer Science
+meta_key: human-attention-in-visual-question-answering-do-humans-and-deep-networks-look-at-the-same-regions
+numCitedBy: 338
 pdf_relpath: null
+ref_count: 0
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2016
 ---
 
 # Human Attention in Visual Question Answering - Do Humans and Deep Networks look at the same regions?

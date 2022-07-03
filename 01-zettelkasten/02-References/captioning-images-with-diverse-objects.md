@@ -1,10 +1,24 @@
 ---
 title: Captioning Images with Diverse Objects
+authors:
+- Subhashini Venugopalan
+- Lisa Anne Hendricks
+- Marcus Rohrbach
+- R. Mooney
+- Trevor Darrell
+- Kate Saenko
+fieldsOfStudy:
+- Computer Science
+meta_key: captioning-images-with-diverse-objects
+numCitedBy: 138
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Captioning Images with Diverse Objects

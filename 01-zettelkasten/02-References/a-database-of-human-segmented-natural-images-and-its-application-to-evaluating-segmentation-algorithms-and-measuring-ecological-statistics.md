@@ -1,10 +1,22 @@
 ---
 title: A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics
+authors:
+- David R. Martin
+- Charless C. Fowlkes
+- D. Tal
+- Jitendra Malik
+fieldsOfStudy:
+- Computer Science
+meta_key: a-database-of-human-segmented-natural-images-and-its-application-to-evaluating-segmentation-algorithms-and-measuring-ecological-statistics
+numCitedBy: 6038
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Proceedings Eighth IEEE International Conference on Computer Vision. ICCV 2001
+year: 2001
 ---
 
 # A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics

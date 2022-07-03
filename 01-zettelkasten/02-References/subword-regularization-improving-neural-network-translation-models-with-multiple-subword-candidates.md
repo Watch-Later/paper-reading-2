@@ -1,10 +1,19 @@
 ---
 title: Subword Regularization - Improving Neural Network Translation Models with Multiple Subword Candidates
+authors:
+- Taku Kudo
+fieldsOfStudy:
+- Computer Science
+meta_key: subword-regularization-improving-neural-network-translation-models-with-multiple-subword-candidates
+numCitedBy: 541
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2018
 ---
 
 # Subword Regularization - Improving Neural Network Translation Models with Multiple Subword Candidates

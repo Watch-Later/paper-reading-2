@@ -1,10 +1,20 @@
 ---
 title: Visualizing and Understanding Convolutional Networks
+authors:
+- Matthew D. Zeiler
+- R. Fergus
+fieldsOfStudy:
+- Computer Science
+meta_key: visualizing-and-understanding-convolutional-networks
+numCitedBy: 11803
 pdf_relpath: null
+ref_count: 36
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2014
 ---
 
 # Visualizing and Understanding Convolutional Networks

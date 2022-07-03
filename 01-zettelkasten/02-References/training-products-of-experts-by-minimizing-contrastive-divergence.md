@@ -1,10 +1,19 @@
 ---
 title: Training Products of Experts by Minimizing Contrastive Divergence
+authors:
+- Geoffrey E. Hinton
+fieldsOfStudy:
+- Computer Science
+meta_key: training-products-of-experts-by-minimizing-contrastive-divergence
+numCitedBy: 4571
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Neural Computation
+year: 2002
 ---
 
 # Training Products of Experts by Minimizing Contrastive Divergence

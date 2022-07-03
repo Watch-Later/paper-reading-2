@@ -1,10 +1,23 @@
 ---
 title: PVANET - Deep but Lightweight Neural Networks for Real-time Object Detection
+authors:
+- Kye-Hyeon Kim
+- Yeongjae Cheon
+- Sanghoon Hong
+- Byung-Seok Roh
+- Minje Park
+fieldsOfStudy:
+- Computer Science
+meta_key: pvanet-deep-but-lightweight-neural-networks-for-real-time-object-detection
+numCitedBy: 163
 pdf_relpath: null
+ref_count: 17
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2016
 ---
 
 # PVANET - Deep but Lightweight Neural Networks for Real-time Object Detection

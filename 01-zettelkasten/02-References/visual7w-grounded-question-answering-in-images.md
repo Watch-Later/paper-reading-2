@@ -1,10 +1,22 @@
 ---
 title: Visual7W - Grounded Question Answering in Images
+authors:
+- Yuke Zhu
+- O. Groth
+- Michael S. Bernstein
+- Li Fei-Fei
+fieldsOfStudy:
+- Computer Science
+meta_key: visual7w-grounded-question-answering-in-images
+numCitedBy: 591
 pdf_relpath: null
+ref_count: 56
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Visual7W - Grounded Question Answering in Images

@@ -1,10 +1,23 @@
 ---
 title: MASS - Masked Sequence to Sequence Pre-training for Language Generation
+authors:
+- Kaitao Song
+- Xu Tan
+- Tao Qin
+- Jianfeng Lu
+- Tie-Yan Liu
+fieldsOfStudy:
+- Computer Science
+meta_key: mass-masked-sequence-to-sequence-pre-training-for-language-generation
+numCitedBy: 599
 pdf_relpath: null
+ref_count: 59
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2019
 ---
 
 # MASS - Masked Sequence to Sequence Pre-training for Language Generation

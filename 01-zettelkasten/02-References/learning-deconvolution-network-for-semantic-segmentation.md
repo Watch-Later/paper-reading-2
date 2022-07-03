@@ -1,10 +1,21 @@
 ---
 title: Learning Deconvolution Network for Semantic Segmentation
+authors:
+- Hyeonwoo Noh
+- Seunghoon Hong
+- Bohyung Han
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-deconvolution-network-for-semantic-segmentation
+numCitedBy: 2495
 pdf_relpath: null
+ref_count: 32
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE International Conference on Computer Vision (ICCV)
+year: 2015
 ---
 
 # Learning Deconvolution Network for Semantic Segmentation

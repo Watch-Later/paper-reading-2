@@ -1,10 +1,22 @@
 ---
 title: Charagram - Embedding Words and Sentences via Character n-grams
+authors:
+- J. Wieting
+- Mohit Bansal
+- Kevin Gimpel
+- Karen Livescu
+fieldsOfStudy:
+- Computer Science
+meta_key: charagram-embedding-words-and-sentences-via-character-n-grams
+numCitedBy: 172
 pdf_relpath: null
+ref_count: 70
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2016
 ---
 
 # Charagram - Embedding Words and Sentences via Character n-grams

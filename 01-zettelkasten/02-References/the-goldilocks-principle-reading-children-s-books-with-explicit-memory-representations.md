@@ -1,10 +1,22 @@
 ---
 title: The Goldilocks Principle - Reading Children's Books with Explicit Memory Representations
+authors:
+- Felix Hill
+- Antoine Bordes
+- S. Chopra
+- J. Weston
+fieldsOfStudy:
+- Computer Science
+meta_key: the-goldilocks-principle-reading-children-s-books-with-explicit-memory-representations
+numCitedBy: 531
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # The Goldilocks Principle - Reading Children's Books with Explicit Memory Representations

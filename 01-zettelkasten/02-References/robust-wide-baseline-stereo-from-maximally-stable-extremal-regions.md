@@ -1,10 +1,22 @@
 ---
 title: Robust Wide Baseline Stereo from Maximally Stable Extremal Regions
+authors:
+- Jiri Matas
+- O. Chum
+- Martin Urban
+- T. Pajdla
+fieldsOfStudy:
+- Mathematics
+meta_key: robust-wide-baseline-stereo-from-maximally-stable-extremal-regions
+numCitedBy: 3922
 pdf_relpath: null
+ref_count: 26
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: BMVC
+year: 2002
 ---
 
 # Robust Wide Baseline Stereo from Maximally Stable Extremal Regions

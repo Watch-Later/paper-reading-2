@@ -1,10 +1,23 @@
 ---
 title: STAR-Net - A SpaTial Attention Residue Network for Scene Text Recognition
+authors:
+- W. Liu
+- Chaofeng Chen
+- K. K. Wong
+- Zhizhong Su
+- Junyu Han
+fieldsOfStudy:
+- Computer Science
+meta_key: star-net-a-spatial-attention-residue-network-for-scene-text-recognition
+numCitedBy: 138
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: BMVC
+year: 2016
 ---
 
 # STAR-Net - A SpaTial Attention Residue Network for Scene Text Recognition

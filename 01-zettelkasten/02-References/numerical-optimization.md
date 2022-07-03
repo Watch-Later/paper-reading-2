@@ -1,10 +1,20 @@
 ---
 title: Numerical Optimization
+authors:
+- J. Nocedal
+- Stephen J. Wright
+fieldsOfStudy:
+- Computer Science
+meta_key: numerical-optimization
+numCitedBy: 10652
 pdf_relpath: null
+ref_count: 270
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 1999
 ---
 
 # Numerical Optimization

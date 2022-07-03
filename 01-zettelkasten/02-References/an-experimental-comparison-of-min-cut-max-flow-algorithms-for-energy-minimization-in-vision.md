@@ -1,10 +1,20 @@
 ---
 title: An experimental comparison of min-cut/max- flow algorithms for energy minimization in vision
+authors:
+- Yuri Boykov
+- V. Kolmogorov
+fieldsOfStudy:
+- Computer Science
+meta_key: an-experimental-comparison-of-min-cut-max-flow-algorithms-for-energy-minimization-in-vision
+numCitedBy: 3563
 pdf_relpath: null
+ref_count: 59
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2004
 ---
 
 # An experimental comparison of min-cut/max- flow algorithms for energy minimization in vision

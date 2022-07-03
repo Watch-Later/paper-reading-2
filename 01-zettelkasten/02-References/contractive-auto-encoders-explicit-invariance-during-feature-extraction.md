@@ -1,10 +1,23 @@
 ---
 title: Contractive Auto-Encoders - Explicit Invariance During Feature Extraction
+authors:
+- S. Rifai
+- Pascal Vincent
+- X. Muller
+- Xavier Glorot
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: contractive-auto-encoders-explicit-invariance-during-feature-extraction
+numCitedBy: 1248
 pdf_relpath: null
+ref_count: 25
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2011
 ---
 
 # Contractive Auto-Encoders - Explicit Invariance During Feature Extraction

@@ -1,5 +1,6 @@
 ---
 title: Faster RCNN
+meta_key: 2015-faster-rcnn
 pdf_relpath: pdfs/2015-faster-rcnn.pdf
 status: todo
 tags:

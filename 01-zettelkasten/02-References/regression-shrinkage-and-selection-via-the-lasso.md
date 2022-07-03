@@ -1,10 +1,19 @@
 ---
 title: Regression Shrinkage and Selection via the Lasso
+authors:
+- R. Tibshirani
+fieldsOfStudy:
+- Computer Science
+meta_key: regression-shrinkage-and-selection-via-the-lasso
+numCitedBy: 36493
 pdf_relpath: null
+ref_count: 27
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 1996
 ---
 
 # Regression Shrinkage and Selection via the Lasso

@@ -1,10 +1,22 @@
 ---
 title: Gated Graph Sequence Neural Networks
+authors:
+- Yujia Li
+- Daniel Tarlow
+- Marc Brockschmidt
+- R. Zemel
+fieldsOfStudy:
+- Computer Science
+meta_key: gated-graph-sequence-neural-networks
+numCitedBy: 1968
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # Gated Graph Sequence Neural Networks

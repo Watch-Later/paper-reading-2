@@ -1,10 +1,23 @@
 ---
 title: Multi-oriented Scene Text Detection via Corner Localization and Region Segmentation
+authors:
+- Pengyuan Lyu
+- C. Yao
+- Wenhao Wu
+- Shuicheng Yan
+- X. Bai
+fieldsOfStudy:
+- Computer Science
+meta_key: multi-oriented-scene-text-detection-via-corner-localization-and-region-segmentation
+numCitedBy: 234
 pdf_relpath: null
+ref_count: 58
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # Multi-oriented Scene Text Detection via Corner Localization and Region Segmentation

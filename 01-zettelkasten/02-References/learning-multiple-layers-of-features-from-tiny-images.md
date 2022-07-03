@@ -1,10 +1,19 @@
 ---
 title: Learning Multiple Layers of Features from Tiny Images
+authors:
+- A. Krizhevsky
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-multiple-layers-of-features-from-tiny-images
+numCitedBy: 17114
 pdf_relpath: null
+ref_count: 15
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2009
 ---
 
 # Learning Multiple Layers of Features from Tiny Images

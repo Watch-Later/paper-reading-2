@@ -1,10 +1,21 @@
 ---
 title: PubLayNet - Largest Dataset Ever for Document Layout Analysis
+authors:
+- Xu Zhong
+- Jianbin Tang
+- Antonio Jimeno-Yepes
+fieldsOfStudy:
+- Computer Science
+meta_key: publaynet-largest-dataset-ever-for-document-layout-analysis
+numCitedBy: 129
 pdf_relpath: null
+ref_count: 21
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 International Conference on Document Analysis and Recognition (ICDAR)
+year: 2019
 ---
 
 # PubLayNet - Largest Dataset Ever for Document Layout Analysis

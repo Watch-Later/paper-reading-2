@@ -1,10 +1,25 @@
 ---
 title: Convolutional Networks on Graphs for Learning Molecular Fingerprints
+authors:
+- D. Duvenaud
+- D. Maclaurin
+- J. Aguilera-Iparraguirre
+- "Rafael G\xF3mez-Bombarelli"
+- Timothy D. Hirzel
+- "Al\xE1n Aspuru-Guzik"
+- Ryan P. Adams
+fieldsOfStudy:
+- Computer Science
+meta_key: convolutional-networks-on-graphs-for-learning-molecular-fingerprints
+numCitedBy: 2232
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2015
 ---
 
 # Convolutional Networks on Graphs for Learning Molecular Fingerprints

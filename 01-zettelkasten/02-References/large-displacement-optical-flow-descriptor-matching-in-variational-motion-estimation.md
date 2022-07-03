@@ -1,10 +1,20 @@
 ---
 title: Large Displacement Optical Flow - Descriptor Matching in Variational Motion Estimation
+authors:
+- T. Brox
+- Jitendra Malik
+fieldsOfStudy:
+- Computer Science
+meta_key: large-displacement-optical-flow-descriptor-matching-in-variational-motion-estimation
+numCitedBy: 1304
 pdf_relpath: null
+ref_count: 46
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2011
 ---
 
 # Large Displacement Optical Flow - Descriptor Matching in Variational Motion Estimation

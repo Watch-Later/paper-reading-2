@@ -1,10 +1,23 @@
 ---
 title: VisualBERT - A Simple and Performant Baseline for Vision and Language
+authors:
+- Liunian Harold Li
+- Mark Yatskar
+- Da Yin
+- Cho-Jui Hsieh
+- Kai-Wei Chang
+fieldsOfStudy:
+- Computer Science
+meta_key: visualbert-a-simple-and-performant-baseline-for-vision-and-language
+numCitedBy: 630
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2019
 ---
 
 # VisualBERT - A Simple and Performant Baseline for Vision and Language

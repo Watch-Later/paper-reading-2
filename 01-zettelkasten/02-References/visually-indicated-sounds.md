@@ -1,10 +1,24 @@
 ---
 title: Visually Indicated Sounds
+authors:
+- Andrew Owens
+- Phillip Isola
+- Josh H. McDermott
+- A. Torralba
+- E. Adelson
+- W. Freeman
+fieldsOfStudy:
+- Computer Science
+meta_key: visually-indicated-sounds
+numCitedBy: 260
 pdf_relpath: null
+ref_count: 62
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Visually Indicated Sounds

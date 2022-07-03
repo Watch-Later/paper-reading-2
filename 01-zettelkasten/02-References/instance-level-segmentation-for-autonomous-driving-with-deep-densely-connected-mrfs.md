@@ -1,10 +1,21 @@
 ---
 title: Instance-Level Segmentation for Autonomous Driving with Deep Densely Connected MRFs
+authors:
+- Ziyu Zhang
+- S. Fidler
+- R. Urtasun
+fieldsOfStudy:
+- Computer Science
+meta_key: instance-level-segmentation-for-autonomous-driving-with-deep-densely-connected-mrfs
+numCitedBy: 152
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Instance-Level Segmentation for Autonomous Driving with Deep Densely Connected MRFs

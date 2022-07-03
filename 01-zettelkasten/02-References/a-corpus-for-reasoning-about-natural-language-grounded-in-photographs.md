@@ -1,10 +1,23 @@
 ---
 title: A Corpus for Reasoning about Natural Language Grounded in Photographs
+authors:
+- Alane Suhr
+- Stephanie Zhou
+- Iris Zhang
+- Huajun Bai
+- Yoav Artzi
+fieldsOfStudy:
+- Computer Science
+meta_key: a-corpus-for-reasoning-about-natural-language-grounded-in-photographs
+numCitedBy: 211
 pdf_relpath: null
+ref_count: 78
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2019
 ---
 
 # A Corpus for Reasoning about Natural Language Grounded in Photographs

@@ -1,10 +1,22 @@
 ---
 title: A Decomposable Attention Model for Natural Language Inference
+authors:
+- Ankur P. Parikh
+- "Oscar T\xE4ckstr\xF6m"
+- Dipanjan Das
+- Jakob Uszkoreit
+fieldsOfStudy:
+- Computer Science
+meta_key: a-decomposable-attention-model-for-natural-language-inference
+numCitedBy: 1061
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2016
 ---
 
 # A Decomposable Attention Model for Natural Language Inference

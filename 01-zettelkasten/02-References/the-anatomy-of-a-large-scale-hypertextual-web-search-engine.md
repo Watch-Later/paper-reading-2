@@ -1,10 +1,20 @@
 ---
 title: The Anatomy of a Large-Scale Hypertextual Web Search Engine
+authors:
+- S. Brin
+- Lawrence Page
+fieldsOfStudy:
+- Computer Science
+meta_key: the-anatomy-of-a-large-scale-hypertextual-web-search-engine
+numCitedBy: 15466
 pdf_relpath: null
+ref_count: 18
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Comput. Networks
+year: 1998
 ---
 
 # The Anatomy of a Large-Scale Hypertextual Web Search Engine

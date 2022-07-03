@@ -1,10 +1,23 @@
 ---
 title: Feature Denoising for Improving Adversarial Robustness
+authors:
+- Cihang Xie
+- Yuxin Wu
+- L. V. D. Maaten
+- A. Yuille
+- Kaiming He
+fieldsOfStudy:
+- Computer Science
+meta_key: feature-denoising-for-improving-adversarial-robustness
+numCitedBy: 534
 pdf_relpath: null
+ref_count: 32
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2019
 ---
 
 # Feature Denoising for Improving Adversarial Robustness

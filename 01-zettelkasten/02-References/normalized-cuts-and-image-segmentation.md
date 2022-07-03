@@ -1,10 +1,21 @@
 ---
 title: Normalized cuts and image segmentation
+authors:
+- Jianbo Shi
+- J. Malik
+fieldsOfStudy:
+- Computer Science
+meta_key: normalized-cuts-and-image-segmentation
+numCitedBy: 12815
 pdf_relpath: null
+ref_count: 56
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Proceedings of IEEE Computer Society Conference on Computer Vision and Pattern
+  Recognition
+year: 1997
 ---
 
 # Normalized cuts and image segmentation

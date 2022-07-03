@@ -1,10 +1,21 @@
 ---
 title: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
+authors:
+- Chelsea Finn
+- P. Abbeel
+- S. Levine
+fieldsOfStudy:
+- Computer Science
+meta_key: model-agnostic-meta-learning-for-fast-adaptation-of-deep-networks
+numCitedBy: 5345
 pdf_relpath: null
+ref_count: 59
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2017
 ---
 
 # Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks

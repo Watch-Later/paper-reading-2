@@ -1,10 +1,20 @@
 ---
 title: Convex Optimization
+authors:
+- Stephen P. Boyd
+- L. Vandenberghe
+fieldsOfStudy:
+- Computer Science
+meta_key: convex-optimization
+numCitedBy: 38725
 pdf_relpath: null
+ref_count: 275
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Automatic Control
+year: 2006
 ---
 
 # Convex Optimization

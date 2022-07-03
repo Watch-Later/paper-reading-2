@@ -1,10 +1,22 @@
 ---
 title: Recognizing human actions - a local SVM approach
+authors:
+- "C. Sch\xFCldt"
+- I. Laptev
+- B. Caputo
+fieldsOfStudy:
+- Computer Science
+meta_key: recognizing-human-actions-a-local-svm-approach
+numCitedBy: 3080
 pdf_relpath: null
+ref_count: 18
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Proceedings of the 17th International Conference on Pattern Recognition, 2004.
+  ICPR 2004.
+year: 2004
 ---
 
 # Recognizing human actions - a local SVM approach

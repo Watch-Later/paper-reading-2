@@ -1,10 +1,21 @@
 ---
 title: Stochastic Backpropagation and Approximate Inference in Deep Generative Models
+authors:
+- Danilo Jimenez Rezende
+- S. Mohamed
+- Daan Wierstra
+fieldsOfStudy:
+- Computer Science
+meta_key: stochastic-backpropagation-and-approximate-inference-in-deep-generative-models
+numCitedBy: 3903
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2014
 ---
 
 # Stochastic Backpropagation and Approximate Inference in Deep Generative Models

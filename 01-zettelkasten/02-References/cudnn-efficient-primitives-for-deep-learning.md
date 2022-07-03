@@ -1,10 +1,25 @@
 ---
 title: cuDNN - Efficient Primitives for Deep Learning
+authors:
+- Sharan Chetlur
+- Cliff Woolley
+- Philippe Vandermersch
+- Jonathan M. Cohen
+- J. Tran
+- Bryan Catanzaro
+- Evan Shelhamer
+fieldsOfStudy:
+- Computer Science
+meta_key: cudnn-efficient-primitives-for-deep-learning
+numCitedBy: 1404
 pdf_relpath: null
+ref_count: 25
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2014
 ---
 
 # cuDNN - Efficient Primitives for Deep Learning

@@ -1,10 +1,22 @@
 ---
 title: Learned in Translation - Contextualized Word Vectors
+authors:
+- Bryan McCann
+- James Bradbury
+- Caiming Xiong
+- R. Socher
+fieldsOfStudy:
+- Computer Science
+meta_key: learned-in-translation-contextualized-word-vectors
+numCitedBy: 710
 pdf_relpath: null
+ref_count: 74
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2017
 ---
 
 # Learned in Translation - Contextualized Word Vectors

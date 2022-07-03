@@ -1,10 +1,24 @@
 ---
 title: Neural Machine Translation in Linear Time
+authors:
+- Nal Kalchbrenner
+- Lasse Espeholt
+- K. Simonyan
+- "A\xE4ron van den Oord"
+- A. Graves
+- K. Kavukcuoglu
+fieldsOfStudy:
+- Computer Science
+meta_key: neural-machine-translation-in-linear-time
+numCitedBy: 454
 pdf_relpath: null
+ref_count: 50
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2016
 ---
 
 # Neural Machine Translation in Linear Time

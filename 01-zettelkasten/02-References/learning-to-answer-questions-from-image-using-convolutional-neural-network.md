@@ -1,10 +1,21 @@
 ---
 title: Learning to Answer Questions from Image Using Convolutional Neural Network
+authors:
+- Lin Ma
+- Zhengdong Lu
+- Hang Li
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-to-answer-questions-from-image-using-convolutional-neural-network
+numCitedBy: 224
 pdf_relpath: null
+ref_count: 60
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: AAAI
+year: 2016
 ---
 
 # Learning to Answer Questions from Image Using Convolutional Neural Network

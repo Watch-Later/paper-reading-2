@@ -1,10 +1,22 @@
 ---
 title: Region-Based Convolutional Networks for Accurate Object Detection and Segmentation
+authors:
+- Ross B. Girshick
+- Jeff Donahue
+- Trevor Darrell
+- Jitendra Malik
+fieldsOfStudy:
+- Computer Science
+meta_key: region-based-convolutional-networks-for-accurate-object-detection-and-segmentation
+numCitedBy: 1544
 pdf_relpath: null
+ref_count: 85
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2016
 ---
 
 # Region-Based Convolutional Networks for Accurate Object Detection and Segmentation

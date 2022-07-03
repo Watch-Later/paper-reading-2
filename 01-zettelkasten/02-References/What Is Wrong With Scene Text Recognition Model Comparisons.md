@@ -1,5 +1,6 @@
 ---
 title: What Is Wrong With Scene Text Recognition Model Comparisons
+meta_key: what-is-wrong-with-scene-text-recognition-model-comparisons-dataset-and-model-analysis
 pdf_relpath: pdfs/What%20Is%20Wrong%20With%20Scene%20Text%20Recognition%20Model%20Comparisons.pdf
 status: todo
 tags:

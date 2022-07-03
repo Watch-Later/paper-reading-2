@@ -1,10 +1,21 @@
 ---
 title: Iterative Instance Segmentation
+authors:
+- Ke Li
+- Bharath Hariharan
+- Jitendra Malik
+fieldsOfStudy:
+- Computer Science
+meta_key: iterative-instance-segmentation
+numCitedBy: 126
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Iterative Instance Segmentation

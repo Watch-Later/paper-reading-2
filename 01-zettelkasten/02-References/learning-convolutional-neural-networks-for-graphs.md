@@ -1,10 +1,21 @@
 ---
 title: Learning Convolutional Neural Networks for Graphs
+authors:
+- Mathias Niepert
+- Mohamed Ahmed
+- Konstantin Kutzkov
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-convolutional-neural-networks-for-graphs
+numCitedBy: 1516
 pdf_relpath: null
+ref_count: 54
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2016
 ---
 
 # Learning Convolutional Neural Networks for Graphs

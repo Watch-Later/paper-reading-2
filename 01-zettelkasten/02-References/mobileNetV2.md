@@ -1,5 +1,6 @@
 ---
 title: Mobilenetv2
+meta_key: mobileNetV2
 pdf_relpath: pdfs/mobileNetV2.pdf
 status: todo
 tags:

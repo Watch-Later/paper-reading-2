@@ -1,10 +1,25 @@
 ---
 title: Aligning Books and Movies - Towards Story-Like Visual Explanations by Watching Movies and Reading Books
+authors:
+- Yukun Zhu
+- Ryan Kiros
+- R. Zemel
+- R. Salakhutdinov
+- R. Urtasun
+- A. Torralba
+- S. Fidler
+fieldsOfStudy:
+- Computer Science
+meta_key: aligning-books-and-movies-towards-story-like-visual-explanations-by-watching-movies-and-reading-books
+numCitedBy: 1418
 pdf_relpath: null
+ref_count: 52
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE International Conference on Computer Vision (ICCV)
+year: 2015
 ---
 
 # Aligning Books and Movies - Towards Story-Like Visual Explanations by Watching Movies and Reading Books

@@ -1,10 +1,23 @@
 ---
 title: VideoBERT - A Joint Model for Video and Language Representation Learning
+authors:
+- Chen Sun
+- Austin Myers
+- Carl Vondrick
+- K. Murphy
+- C. Schmid
+fieldsOfStudy:
+- Computer Science
+meta_key: videobert-a-joint-model-for-video-and-language-representation-learning
+numCitedBy: 569
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
+year: 2019
 ---
 
 # VideoBERT - A Joint Model for Video and Language Representation Learning

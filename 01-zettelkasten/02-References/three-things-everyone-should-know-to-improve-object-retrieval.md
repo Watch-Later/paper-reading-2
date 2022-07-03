@@ -1,10 +1,20 @@
 ---
 title: Three things everyone should know to improve object retrieval
+authors:
+- "R. Arandjelovi\u0107"
+- Andrew Zisserman
+fieldsOfStudy:
+- Computer Science
+meta_key: three-things-everyone-should-know-to-improve-object-retrieval
+numCitedBy: 1285
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2012 IEEE Conference on Computer Vision and Pattern Recognition
+year: 2012
 ---
 
 # Three things everyone should know to improve object retrieval

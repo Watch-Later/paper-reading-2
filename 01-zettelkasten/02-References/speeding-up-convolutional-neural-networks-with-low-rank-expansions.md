@@ -1,10 +1,21 @@
 ---
 title: Speeding up Convolutional Neural Networks with Low Rank Expansions
+authors:
+- Max Jaderberg
+- A. Vedaldi
+- Andrew Zisserman
+fieldsOfStudy:
+- Computer Science
+meta_key: speeding-up-convolutional-neural-networks-with-low-rank-expansions
+numCitedBy: 1146
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: BMVC
+year: 2014
 ---
 
 # Speeding up Convolutional Neural Networks with Low Rank Expansions

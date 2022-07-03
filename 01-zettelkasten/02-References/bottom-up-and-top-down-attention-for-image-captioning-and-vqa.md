@@ -1,10 +1,25 @@
 ---
 title: Bottom-Up and Top-Down Attention for Image Captioning and VQA
+authors:
+- Peter Anderson
+- Xiaodong He
+- Chris Buehler
+- Damien Teney
+- Mark Johnson
+- Stephen Gould
+- Lei Zhang
+fieldsOfStudy:
+- Computer Science
+meta_key: bottom-up-and-top-down-attention-for-image-captioning-and-vqa
+numCitedBy: 292
 pdf_relpath: null
+ref_count: 58
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2017
 ---
 
 # Bottom-Up and Top-Down Attention for Image Captioning and VQA

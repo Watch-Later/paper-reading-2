@@ -1,10 +1,22 @@
 ---
 title: Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling
+authors:
+- Junyoung Chung
+- "\xC7aglar G\xFCl\xE7ehre"
+- Kyunghyun Cho
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: empirical-evaluation-of-gated-recurrent-neural-networks-on-sequence-modeling
+numCitedBy: 7376
 pdf_relpath: null
+ref_count: 23
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2014
 ---
 
 # Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling

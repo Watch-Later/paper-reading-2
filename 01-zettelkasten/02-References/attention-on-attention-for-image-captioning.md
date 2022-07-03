@@ -1,10 +1,22 @@
 ---
 title: Attention on Attention for Image Captioning
+authors:
+- Lun Huang
+- Wenmin Wang
+- Jie Chen
+- Xiao-Yong Wei
+fieldsOfStudy:
+- Computer Science
+meta_key: attention-on-attention-for-image-captioning
+numCitedBy: 307
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
+year: 2019
 ---
 
 # Attention on Attention for Image Captioning

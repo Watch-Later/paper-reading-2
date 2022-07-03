@@ -1,5 +1,6 @@
 ---
 title: OSX Mavericks Core Technology Overview
+meta_key: OSX_Mavericks_Core_Technology_Overview
 pdf_relpath: pdfs/OSX_Mavericks_Core_Technology_Overview.pdf
 status: todo
 tags:

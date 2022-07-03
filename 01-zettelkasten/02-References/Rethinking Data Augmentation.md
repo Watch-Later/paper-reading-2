@@ -1,5 +1,6 @@
 ---
 title: Rethinking Data Augmentation
+meta_key: Rethinking Data Augmentation
 pdf_relpath: pdfs/Rethinking%20Data%20Augmentation.pdf
 status: todo
 tags:

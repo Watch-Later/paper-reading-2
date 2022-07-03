@@ -1,10 +1,21 @@
 ---
 title: Thumbs up? Sentiment Classification using Machine Learning Techniques
+authors:
+- B. Pang
+- Lillian Lee
+- Shivakumar Vaithyanathan
+fieldsOfStudy:
+- Computer Science
+meta_key: thumbs-up-sentiment-classification-using-machine-learning-techniques
+numCitedBy: 8511
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2002
 ---
 
 # Thumbs up? Sentiment Classification using Machine Learning Techniques

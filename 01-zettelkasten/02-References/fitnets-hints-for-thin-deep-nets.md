@@ -1,10 +1,24 @@
 ---
 title: FitNets - Hints for Thin Deep Nets
+authors:
+- Adriana Romero
+- Nicolas Ballas
+- S. Kahou
+- Antoine Chassang
+- C. Gatta
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: fitnets-hints-for-thin-deep-nets
+numCitedBy: 1998
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2015
 ---
 
 # FitNets - Hints for Thin Deep Nets

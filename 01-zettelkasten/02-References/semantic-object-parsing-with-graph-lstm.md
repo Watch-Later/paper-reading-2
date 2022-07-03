@@ -1,10 +1,23 @@
 ---
 title: Semantic Object Parsing with Graph LSTM
+authors:
+- Xiaodan Liang
+- Xiaohui Shen
+- Jiashi Feng
+- Liang Lin
+- Shuicheng Yan
+fieldsOfStudy:
+- Computer Science
+meta_key: semantic-object-parsing-with-graph-lstm
+numCitedBy: 280
 pdf_relpath: null
+ref_count: 58
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # Semantic Object Parsing with Graph LSTM

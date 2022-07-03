@@ -1,10 +1,19 @@
 ---
 title: Multiple View Geometry in Computer Vision
+authors:
+- B. Wrobel
+fieldsOfStudy:
+- Computer Science
+meta_key: multiple-view-geometry-in-computer-vision
+numCitedBy: 16324
 pdf_relpath: null
+ref_count: 222
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: "K\xFCnstliche Intell."
+year: 2001
 ---
 
 # Multiple View Geometry in Computer Vision

@@ -1,10 +1,40 @@
 ---
 title: TensorFlow - A system for large-scale machine learning
+authors:
+- "Mart\xEDn Abadi"
+- P. Barham
+- Jianmin Chen
+- Z. Chen
+- Andy Davis
+- J. Dean
+- Matthieu Devin
+- S. Ghemawat
+- Geoffrey Irving
+- M. Isard
+- M. Kudlur
+- J. Levenberg
+- R. Monga
+- Sherry Moore
+- D. Murray
+- Benoit Steiner
+- P. Tucker
+- Vijay Vasudevan
+- P. Warden
+- M. Wicke
+- Yuan Yu
+- Xiaoqiang Zhang
+fieldsOfStudy:
+- Computer Science
+meta_key: tensorflow-a-system-for-large-scale-machine-learning
+numCitedBy: 12624
 pdf_relpath: null
+ref_count: 111
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: OSDI
+year: 2016
 ---
 
 # TensorFlow - A system for large-scale machine learning

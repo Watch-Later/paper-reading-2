@@ -1,10 +1,22 @@
 ---
 title: Semantic Compositionality through Recursive Matrix-Vector Spaces
+authors:
+- R. Socher
+- Brody Huval
+- Christopher D. Manning
+- A. Ng
+fieldsOfStudy:
+- Computer Science
+meta_key: semantic-compositionality-through-recursive-matrix-vector-spaces
+numCitedBy: 1265
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2012
 ---
 
 # Semantic Compositionality through Recursive Matrix-Vector Spaces

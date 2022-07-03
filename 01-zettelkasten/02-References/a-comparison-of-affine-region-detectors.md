@@ -1,10 +1,26 @@
 ---
 title: A Comparison of Affine Region Detectors
+authors:
+- K. Mikolajczyk
+- T. Tuytelaars
+- C. Schmid
+- Andrew Zisserman
+- Jiri Matas
+- Frederik Schaffalitzky
+- T. Kadir
+- L. Gool
+fieldsOfStudy:
+- Computer Science
+meta_key: a-comparison-of-affine-region-detectors
+numCitedBy: 3358
 pdf_relpath: null
+ref_count: 58
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: International Journal of Computer Vision
+year: 2005
 ---
 
 # A Comparison of Affine Region Detectors

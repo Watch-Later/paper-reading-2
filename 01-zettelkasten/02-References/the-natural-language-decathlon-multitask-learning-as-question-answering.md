@@ -1,10 +1,22 @@
 ---
 title: The Natural Language Decathlon - Multitask Learning as Question Answering
+authors:
+- Bryan McCann
+- N. Keskar
+- Caiming Xiong
+- R. Socher
+fieldsOfStudy:
+- Education
+meta_key: the-natural-language-decathlon-multitask-learning-as-question-answering
+numCitedBy: 410
 pdf_relpath: null
+ref_count: 138
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2018
 ---
 
 # The Natural Language Decathlon - Multitask Learning as Question Answering

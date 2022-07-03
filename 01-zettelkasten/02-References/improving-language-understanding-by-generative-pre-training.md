@@ -1,10 +1,20 @@
 ---
 title: Improving Language Understanding by Generative Pre-Training
+authors:
+- Alec Radford
+- Karthik Narasimhan
+fieldsOfStudy:
+- Computer Science
+meta_key: improving-language-understanding-by-generative-pre-training
+numCitedBy: 3533
 pdf_relpath: null
+ref_count: 76
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2018
 ---
 
 # Improving Language Understanding by Generative Pre-Training

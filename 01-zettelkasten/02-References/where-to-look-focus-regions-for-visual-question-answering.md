@@ -1,10 +1,21 @@
 ---
 title: Where to Look - Focus Regions for Visual Question Answering
+authors:
+- Kevin J. Shih
+- Saurabh Singh
+- Derek Hoiem
+fieldsOfStudy:
+- Computer Science
+meta_key: where-to-look-focus-regions-for-visual-question-answering
+numCitedBy: 360
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Where to Look - Focus Regions for Visual Question Answering

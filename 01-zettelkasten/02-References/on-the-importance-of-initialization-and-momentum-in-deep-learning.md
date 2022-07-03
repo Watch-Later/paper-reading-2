@@ -1,10 +1,22 @@
 ---
 title: On the importance of initialization and momentum in deep learning
+authors:
+- Ilya Sutskever
+- James Martens
+- George E. Dahl
+- Geoffrey E. Hinton
+fieldsOfStudy:
+- Computer Science
+meta_key: on-the-importance-of-initialization-and-momentum-in-deep-learning
+numCitedBy: 3556
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2013
 ---
 
 # On the importance of initialization and momentum in deep learning

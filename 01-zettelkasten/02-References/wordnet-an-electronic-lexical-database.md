@@ -1,10 +1,19 @@
 ---
 title: WordNet - an electronic lexical database
+authors:
+- C. Fellbaum
+fieldsOfStudy:
+- Computer Science
+meta_key: wordnet-an-electronic-lexical-database
+numCitedBy: 13574
 pdf_relpath: null
+ref_count: 8
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2000
 ---
 
 # WordNet - an electronic lexical database

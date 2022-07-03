@@ -1,10 +1,28 @@
 ---
 title: MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems
+authors:
+- Tianqi Chen
+- Mu Li
+- Yutian Li
+- Min Lin
+- Naiyan Wang
+- Minjie Wang
+- Tianjun Xiao
+- Bing Xu
+- Chiyuan Zhang
+- Zheng Zhang
+fieldsOfStudy:
+- Computer Science
+meta_key: mxnet-a-flexible-and-efficient-machine-learning-library-for-heterogeneous-distributed-systems
+numCitedBy: 1877
 pdf_relpath: null
+ref_count: 15
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2015
 ---
 
 # MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems

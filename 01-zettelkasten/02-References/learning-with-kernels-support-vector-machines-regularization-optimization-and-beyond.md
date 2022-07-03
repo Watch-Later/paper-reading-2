@@ -1,10 +1,19 @@
 ---
 title: Learning with Kernels - Support Vector Machines, Regularization, Optimization, and Beyond
+authors:
+- A. Atiya
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-with-kernels-support-vector-machines-regularization-optimization-and-beyond
+numCitedBy: 5533
 pdf_relpath: null
+ref_count: 10
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Neural Networks
+year: 2003
 ---
 
 # Learning with Kernels - Support Vector Machines, Regularization, Optimization, and Beyond

@@ -1,10 +1,23 @@
 ---
 title: What Value Do Explicit High Level Concepts Have in Vision to Language Problems?
+authors:
+- Qi Wu
+- Chunhua Shen
+- Lingqiao Liu
+- A. Dick
+- A. V. Hengel
+fieldsOfStudy:
+- Computer Science
+meta_key: what-value-do-explicit-high-level-concepts-have-in-vision-to-language-problems
+numCitedBy: 369
 pdf_relpath: null
+ref_count: 77
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # What Value Do Explicit High Level Concepts Have in Vision to Language Problems?

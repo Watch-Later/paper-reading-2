@@ -1,10 +1,23 @@
 ---
 title: COCO-Text - Dataset and Benchmark for Text Detection and Recognition in Natural Images
+authors:
+- Andreas Veit
+- T. Matera
+- "Luk\xE1s Neumann"
+- Jiri Matas
+- Serge J. Belongie
+fieldsOfStudy:
+- Computer Science
+meta_key: coco-text-dataset-and-benchmark-for-text-detection-and-recognition-in-natural-images
+numCitedBy: 253
 pdf_relpath: null
+ref_count: 24
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2016
 ---
 
 # COCO-Text - Dataset and Benchmark for Text Detection and Recognition in Natural Images

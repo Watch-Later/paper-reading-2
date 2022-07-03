@@ -1,10 +1,20 @@
 ---
 title: Predicting Depth, Surface Normals and Semantic Labels with a Common Multi-scale Convolutional Architecture
+authors:
+- D. Eigen
+- R. Fergus
+fieldsOfStudy:
+- Computer Science
+meta_key: predicting-depth-surface-normals-and-semantic-labels-with-a-common-multi-scale-convolutional-architecture
+numCitedBy: 1972
 pdf_relpath: null
+ref_count: 54
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE International Conference on Computer Vision (ICCV)
+year: 2015
 ---
 
 # Predicting Depth, Surface Normals and Semantic Labels with a Common Multi-scale Convolutional Architecture

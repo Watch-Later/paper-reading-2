@@ -1,5 +1,6 @@
 ---
 title: Paxos Simple
+meta_key: paxos-simple
 pdf_relpath: pdfs/paxos-simple.pdf
 status: todo
 tags:

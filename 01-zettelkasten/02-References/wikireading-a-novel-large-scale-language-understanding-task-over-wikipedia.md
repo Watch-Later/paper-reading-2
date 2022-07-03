@@ -1,10 +1,26 @@
 ---
 title: WikiReading - A Novel Large-scale Language Understanding Task over Wikipedia
+authors:
+- D. Hewlett
+- Alexandre Lacoste
+- Llion Jones
+- Illia Polosukhin
+- Andrew Fandrianto
+- Jay Han
+- Matthew Kelcey
+- David Berthelot
+fieldsOfStudy:
+- Computer Science
+meta_key: wikireading-a-novel-large-scale-language-understanding-task-over-wikipedia
+numCitedBy: 120
 pdf_relpath: null
+ref_count: 38
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2016
 ---
 
 # WikiReading - A Novel Large-scale Language Understanding Task over Wikipedia

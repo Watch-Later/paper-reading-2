@@ -1,10 +1,20 @@
 ---
 title: Bridging Nonlinearities and Stochastic Regularizers with Gaussian Error Linear Units
+authors:
+- Dan Hendrycks
+- Kevin Gimpel
+fieldsOfStudy:
+- Computer Science
+meta_key: bridging-nonlinearities-and-stochastic-regularizers-with-gaussian-error-linear-units
+numCitedBy: 289
 pdf_relpath: null
+ref_count: 24
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2016
 ---
 
 # Bridging Nonlinearities and Stochastic Regularizers with Gaussian Error Linear Units

@@ -1,10 +1,27 @@
 ---
 title: MS MARCO - A Human Generated MAchine Reading COmprehension Dataset
+authors:
+- Daniel Fernando Campos
+- Tri Nguyen
+- M. Rosenberg
+- Xia Song
+- Jianfeng Gao
+- Saurabh Tiwary
+- Rangan Majumder
+- L. Deng
+- Bhaskar Mitra
+fieldsOfStudy:
+- Computer Science
+meta_key: ms-marco-a-human-generated-machine-reading-comprehension-dataset
+numCitedBy: 1054
 pdf_relpath: null
+ref_count: 53
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: CoCo@NIPS
+year: 2016
 ---
 
 # MS MARCO - A Human Generated MAchine Reading COmprehension Dataset

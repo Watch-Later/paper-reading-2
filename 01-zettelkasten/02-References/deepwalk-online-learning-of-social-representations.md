@@ -1,10 +1,21 @@
 ---
 title: DeepWalk - online learning of social representations
+authors:
+- Bryan Perozzi
+- Rami Al-Rfou
+- S. Skiena
+fieldsOfStudy:
+- Computer Science
+meta_key: deepwalk-online-learning-of-social-representations
+numCitedBy: 5970
 pdf_relpath: null
+ref_count: 55
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: KDD
+year: 2014
 ---
 
 # DeepWalk - online learning of social representations

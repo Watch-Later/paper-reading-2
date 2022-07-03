@@ -1,10 +1,23 @@
 ---
 title: Flexible, High Performance Convolutional Neural Networks for Image Classification
+authors:
+- D. Ciresan
+- U. Meier
+- Jonathan Masci
+- L. Gambardella
+- J. Schmidhuber
+fieldsOfStudy:
+- Computer Science
+meta_key: flexible-high-performance-convolutional-neural-networks-for-image-classification
+numCitedBy: 1169
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IJCAI
+year: 2011
 ---
 
 # Flexible, High Performance Convolutional Neural Networks for Image Classification

@@ -1,10 +1,22 @@
 ---
 title: LabelMe - A Database and Web-Based Tool for Image Annotation
+authors:
+- Bryan C. Russell
+- A. Torralba
+- K. Murphy
+- W. Freeman
+fieldsOfStudy:
+- Computer Science
+meta_key: labelme-a-database-and-web-based-tool-for-image-annotation
+numCitedBy: 3076
 pdf_relpath: null
+ref_count: 82
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: International Journal of Computer Vision
+year: 2007
 ---
 
 # LabelMe - A Database and Web-Based Tool for Image Annotation

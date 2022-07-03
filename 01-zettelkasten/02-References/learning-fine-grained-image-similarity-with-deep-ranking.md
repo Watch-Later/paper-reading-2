@@ -1,10 +1,26 @@
 ---
 title: Learning Fine-Grained Image Similarity with Deep Ranking
+authors:
+- Jiang Wang
+- Yang Song
+- Thomas Leung
+- C. Rosenberg
+- Jingbin Wang
+- James Philbin
+- Bo Chen
+- Ying Wu
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-fine-grained-image-similarity-with-deep-ranking
+numCitedBy: 1066
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2014 IEEE Conference on Computer Vision and Pattern Recognition
+year: 2014
 ---
 
 # Learning Fine-Grained Image Similarity with Deep Ranking

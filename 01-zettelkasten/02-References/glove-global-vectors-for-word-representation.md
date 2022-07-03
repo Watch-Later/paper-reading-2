@@ -1,10 +1,21 @@
 ---
 title: GloVe - Global Vectors for Word Representation
+authors:
+- Jeffrey Pennington
+- R. Socher
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: glove-global-vectors-for-word-representation
+numCitedBy: 22536
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2014
 ---
 
 # GloVe - Global Vectors for Word Representation

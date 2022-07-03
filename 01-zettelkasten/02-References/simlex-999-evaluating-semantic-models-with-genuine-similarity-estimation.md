@@ -1,10 +1,21 @@
 ---
 title: SimLex-999 - Evaluating Semantic Models With (Genuine) Similarity Estimation
+authors:
+- Felix Hill
+- Roi Reichart
+- A. Korhonen
+fieldsOfStudy:
+- Computer Science
+meta_key: simlex-999-evaluating-semantic-models-with-genuine-similarity-estimation
+numCitedBy: 1092
 pdf_relpath: null
+ref_count: 94
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: CL
+year: 2015
 ---
 
 # SimLex-999 - Evaluating Semantic Models With (Genuine) Similarity Estimation

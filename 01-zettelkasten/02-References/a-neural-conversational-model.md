@@ -1,10 +1,20 @@
 ---
 title: A Neural Conversational Model
+authors:
+- Oriol Vinyals
+- Quoc V. Le
+fieldsOfStudy:
+- Computer Science
+meta_key: a-neural-conversational-model
+numCitedBy: 1518
 pdf_relpath: null
+ref_count: 24
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2015
 ---
 
 # A Neural Conversational Model

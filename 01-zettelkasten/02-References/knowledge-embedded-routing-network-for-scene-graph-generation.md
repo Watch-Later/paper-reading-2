@@ -1,10 +1,22 @@
 ---
 title: Knowledge-Embedded Routing Network for Scene Graph Generation
+authors:
+- Tianshui Chen
+- Weihao Yu
+- Riquan Chen
+- Liang Lin
+fieldsOfStudy:
+- Computer Science
+meta_key: knowledge-embedded-routing-network-for-scene-graph-generation
+numCitedBy: 157
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2019
 ---
 
 # Knowledge-Embedded Routing Network for Scene Graph Generation

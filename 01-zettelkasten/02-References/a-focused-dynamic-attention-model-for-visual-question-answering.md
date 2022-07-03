@@ -1,10 +1,21 @@
 ---
 title: A Focused Dynamic Attention Model for Visual Question Answering
+authors:
+- Ilija Ilievski
+- Shuicheng Yan
+- Jiashi Feng
+fieldsOfStudy:
+- Computer Science
+meta_key: a-focused-dynamic-attention-model-for-visual-question-answering
+numCitedBy: 105
 pdf_relpath: null
+ref_count: 28
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2016
 ---
 
 # A Focused Dynamic Attention Model for Visual Question Answering

@@ -1,10 +1,22 @@
 ---
 title: Scaling Neural Machine Translation
+authors:
+- Myle Ott
+- Sergey Edunov
+- David Grangier
+- Michael Auli
+fieldsOfStudy:
+- Computer Science
+meta_key: scaling-neural-machine-translation
+numCitedBy: 474
 pdf_relpath: null
+ref_count: 41
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: WMT
+year: 2018
 ---
 
 # Scaling Neural Machine Translation

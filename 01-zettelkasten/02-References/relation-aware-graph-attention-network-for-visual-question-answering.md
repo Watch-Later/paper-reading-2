@@ -1,10 +1,22 @@
 ---
 title: Relation-Aware Graph Attention Network for Visual Question Answering
+authors:
+- Linjie Li
+- Zhe Gan
+- Yu Cheng
+- Jingjing Liu
+fieldsOfStudy:
+- Computer Science
+meta_key: relation-aware-graph-attention-network-for-visual-question-answering
+numCitedBy: 146
 pdf_relpath: null
+ref_count: 73
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
+year: 2019
 ---
 
 # Relation-Aware Graph Attention Network for Visual Question Answering

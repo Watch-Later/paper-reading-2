@@ -1,10 +1,24 @@
 ---
 title: Extensions of recurrent neural network language model
+authors:
+- Tomas Mikolov
+- Stefan Kombrink
+- L. Burget
+- "J. Cernock\xFD"
+- S. Khudanpur
+fieldsOfStudy:
+- Computer Science
+meta_key: extensions-of-recurrent-neural-network-language-model
+numCitedBy: 1423
 pdf_relpath: null
+ref_count: 23
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2011 IEEE International Conference on Acoustics, Speech and Signal Processing
+  (ICASSP)
+year: 2011
 ---
 
 # Extensions of recurrent neural network language model

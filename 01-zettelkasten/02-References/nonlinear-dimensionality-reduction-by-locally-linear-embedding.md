@@ -1,10 +1,20 @@
 ---
 title: Nonlinear dimensionality reduction by locally linear embedding.
+authors:
+- S. Roweis
+- L. Saul
+fieldsOfStudy:
+- Computer Science
+meta_key: nonlinear-dimensionality-reduction-by-locally-linear-embedding
+numCitedBy: 13979
 pdf_relpath: null
+ref_count: 27
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Science
+year: 2000
 ---
 
 # Nonlinear dimensionality reduction by locally linear embedding.

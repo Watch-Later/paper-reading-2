@@ -1,10 +1,24 @@
 ---
 title: ALBERT - A Lite BERT for Self-supervised Learning of Language Representations
+authors:
+- Zhenzhong Lan
+- Mingda Chen
+- Sebastian Goodman
+- Kevin Gimpel
+- Piyush Sharma
+- Radu Soricut
+fieldsOfStudy:
+- Computer Science
+meta_key: albert-a-lite-bert-for-self-supervised-learning-of-language-representations
+numCitedBy: 2708
 pdf_relpath: null
+ref_count: 83
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2020
 ---
 
 # ALBERT - A Lite BERT for Self-supervised Learning of Language Representations

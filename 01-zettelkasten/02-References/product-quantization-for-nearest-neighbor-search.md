@@ -1,10 +1,21 @@
 ---
 title: Product Quantization for Nearest Neighbor Search
+authors:
+- "H. J\xE9gou"
+- M. Douze
+- C. Schmid
+fieldsOfStudy:
+- Computer Science
+meta_key: product-quantization-for-nearest-neighbor-search
+numCitedBy: 2049
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2011
 ---
 
 # Product Quantization for Nearest Neighbor Search

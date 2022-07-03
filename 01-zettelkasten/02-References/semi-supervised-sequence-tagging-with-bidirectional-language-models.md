@@ -1,10 +1,22 @@
 ---
 title: Semi-supervised sequence tagging with bidirectional language models
+authors:
+- Matthew E. Peters
+- Waleed Ammar
+- Chandra Bhagavatula
+- Russell Power
+fieldsOfStudy:
+- Computer Science
+meta_key: semi-supervised-sequence-tagging-with-bidirectional-language-models
+numCitedBy: 480
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2017
 ---
 
 # Semi-supervised sequence tagging with bidirectional language models

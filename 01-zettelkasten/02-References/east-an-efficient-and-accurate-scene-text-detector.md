@@ -1,10 +1,25 @@
 ---
 title: EAST - An Efficient and Accurate Scene Text Detector
+authors:
+- Xinyu Zhou
+- C. Yao
+- He Wen
+- Yuzhi Wang
+- Shuchang Zhou
+- Weiran He
+- Jiajun Liang
+fieldsOfStudy:
+- Computer Science
+meta_key: east-an-efficient-and-accurate-scene-text-detector
+numCitedBy: 904
 pdf_relpath: null
+ref_count: 55
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # EAST - An Efficient and Accurate Scene Text Detector

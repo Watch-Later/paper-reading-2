@@ -1,10 +1,20 @@
 ---
 title: Reducing the Dimensionality of Data with Neural Networks
+authors:
+- Geoffrey E. Hinton
+- R. Salakhutdinov
+fieldsOfStudy:
+- Computer Science
+meta_key: reducing-the-dimensionality-of-data-with-neural-networks
+numCitedBy: 14638
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Science
+year: 2006
 ---
 
 # Reducing the Dimensionality of Data with Neural Networks

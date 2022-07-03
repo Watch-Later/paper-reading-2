@@ -1,10 +1,19 @@
 ---
 title: Object recognition from local scale-invariant features
+authors:
+- D. Lowe
+fieldsOfStudy:
+- Computer Science
+meta_key: object-recognition-from-local-scale-invariant-features
+numCitedBy: 16255
 pdf_relpath: null
+ref_count: 27
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Proceedings of the Seventh IEEE International Conference on Computer Vision
+year: 1999
 ---
 
 # Object recognition from local scale-invariant features

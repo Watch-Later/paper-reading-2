@@ -1,10 +1,25 @@
 ---
 title: NewsQA - A Machine Comprehension Dataset
+authors:
+- Adam Trischler
+- Tong Wang
+- Xingdi Yuan
+- Justin Harris
+- Alessandro Sordoni
+- Philip Bachman
+- Kaheer Suleman
+fieldsOfStudy:
+- Computer Science
+meta_key: newsqa-a-machine-comprehension-dataset
+numCitedBy: 585
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Rep4NLP@ACL
+year: 2017
 ---
 
 # NewsQA - A Machine Comprehension Dataset

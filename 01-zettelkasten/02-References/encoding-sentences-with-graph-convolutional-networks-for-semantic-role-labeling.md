@@ -1,10 +1,20 @@
 ---
 title: Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling
+authors:
+- Diego Marcheggiani
+- Ivan Titov
+fieldsOfStudy:
+- Computer Science
+meta_key: encoding-sentences-with-graph-convolutional-networks-for-semantic-role-labeling
+numCitedBy: 608
 pdf_relpath: null
+ref_count: 58
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2017
 ---
 
 # Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling

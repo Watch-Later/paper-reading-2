@@ -1,10 +1,21 @@
 ---
 title: Order Matters - Sequence to sequence for sets
+authors:
+- Oriol Vinyals
+- Samy Bengio
+- M. Kudlur
+fieldsOfStudy:
+- Computer Science
+meta_key: order-matters-sequence-to-sequence-for-sets
+numCitedBy: 656
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # Order Matters - Sequence to sequence for sets

@@ -1,10 +1,24 @@
 ---
 title: Large-Scale Video Classification with Convolutional Neural Networks
+authors:
+- A. Karpathy
+- G. Toderici
+- Sanketh Shetty
+- Thomas Leung
+- R. Sukthankar
+- Li Fei-Fei
+fieldsOfStudy:
+- Computer Science
+meta_key: large-scale-video-classification-with-convolutional-neural-networks
+numCitedBy: 5148
 pdf_relpath: null
+ref_count: 32
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2014 IEEE Conference on Computer Vision and Pattern Recognition
+year: 2014
 ---
 
 # Large-Scale Video Classification with Convolutional Neural Networks

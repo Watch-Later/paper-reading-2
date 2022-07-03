@@ -1,10 +1,25 @@
 ---
 title: A Structured Self-attentive Sentence Embedding
+authors:
+- Zhouhan Lin
+- Minwei Feng
+- C. D. Santos
+- Mo Yu
+- Bing Xiang
+- Bowen Zhou
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: a-structured-self-attentive-sentence-embedding
+numCitedBy: 1501
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2017
 ---
 
 # A Structured Self-attentive Sentence Embedding

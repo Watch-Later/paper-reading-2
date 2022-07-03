@@ -1,10 +1,22 @@
 ---
 title: Multilingual Language Processing From Bytes
+authors:
+- D. Gillick
+- Clifford Brunk
+- Oriol Vinyals
+- A. Subramanya
+fieldsOfStudy:
+- Computer Science
+meta_key: multilingual-language-processing-from-bytes
+numCitedBy: 189
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NAACL
+year: 2016
 ---
 
 # Multilingual Language Processing From Bytes

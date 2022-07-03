@@ -1,10 +1,26 @@
 ---
 title: Building high-level features using large scale unsupervised learning
+authors:
+- Quoc V. Le
+- Marc'Aurelio Ranzato
+- R. Monga
+- Matthieu Devin
+- G. Corrado
+- Kai Chen
+- J. Dean
+- A. Ng
+fieldsOfStudy:
+- Computer Science
+meta_key: building-high-level-features-using-large-scale-unsupervised-learning
+numCitedBy: 2100
 pdf_relpath: null
+ref_count: 63
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2013 IEEE International Conference on Acoustics, Speech and Signal Processing
+year: 2013
 ---
 
 # Building high-level features using large scale unsupervised learning

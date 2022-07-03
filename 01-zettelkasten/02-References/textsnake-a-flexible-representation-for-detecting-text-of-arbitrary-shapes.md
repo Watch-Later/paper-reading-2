@@ -1,10 +1,24 @@
 ---
 title: TextSnake - A Flexible Representation for Detecting Text of Arbitrary Shapes
+authors:
+- Shangbang Long
+- Jiaqiang Ruan
+- W. Zhang
+- Xin He
+- Wenhao Wu
+- C. Yao
+fieldsOfStudy:
+- Computer Science
+meta_key: textsnake-a-flexible-representation-for-detecting-text-of-arbitrary-shapes
+numCitedBy: 294
 pdf_relpath: null
+ref_count: 52
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2018
 ---
 
 # TextSnake - A Flexible Representation for Detecting Text of Arbitrary Shapes

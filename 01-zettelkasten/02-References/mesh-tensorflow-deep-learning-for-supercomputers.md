@@ -1,10 +1,30 @@
 ---
 title: Mesh-TensorFlow - Deep Learning for Supercomputers
+authors:
+- Noam M. Shazeer
+- Youlong Cheng
+- Niki Parmar
+- Dustin Tran
+- Ashish Vaswani
+- Penporn Koanantakool
+- Peter Hawkins
+- HyoukJoong Lee
+- Mingsheng Hong
+- C. Young
+- Ryan Sepassi
+- Blake A. Hechtman
+fieldsOfStudy:
+- Computer Science
+meta_key: mesh-tensorflow-deep-learning-for-supercomputers
+numCitedBy: 209
 pdf_relpath: null
+ref_count: 53
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NeurIPS
+year: 2018
 ---
 
 # Mesh-TensorFlow - Deep Learning for Supercomputers

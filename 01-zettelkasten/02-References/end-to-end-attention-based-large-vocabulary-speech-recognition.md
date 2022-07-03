@@ -1,10 +1,24 @@
 ---
 title: End-to-end attention-based large vocabulary speech recognition
+authors:
+- Dzmitry Bahdanau
+- J. Chorowski
+- Dmitriy Serdyuk
+- Philemon Brakel
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: end-to-end-attention-based-large-vocabulary-speech-recognition
+numCitedBy: 900
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE International Conference on Acoustics, Speech and Signal Processing
+  (ICASSP)
+year: 2016
 ---
 
 # End-to-end attention-based large vocabulary speech recognition

@@ -1,5 +1,6 @@
 ---
 title: Deep Machine Learning Applied to Speech & Language Processing
+meta_key: 20160319-Dengli-Interspeech-tutorial
 pdf_relpath: pdfs/20160319-Dengli-Interspeech-tutorial.pdf
 status: todo
 tags:

@@ -1,10 +1,27 @@
 ---
 title: Ask Me Anything - Dynamic Memory Networks for Natural Language Processing
+authors:
+- A. Kumar
+- Ozan Irsoy
+- Peter Ondruska
+- Mohit Iyyer
+- James Bradbury
+- Ishaan Gulrajani
+- Victor Zhong
+- Romain Paulus
+- R. Socher
+fieldsOfStudy:
+- Computer Science
+meta_key: ask-me-anything-dynamic-memory-networks-for-natural-language-processing
+numCitedBy: 998
 pdf_relpath: null
+ref_count: 55
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2016
 ---
 
 # Ask Me Anything - Dynamic Memory Networks for Natural Language Processing

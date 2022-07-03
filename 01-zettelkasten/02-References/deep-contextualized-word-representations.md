@@ -1,10 +1,25 @@
 ---
 title: Deep Contextualized Word Representations
+authors:
+- Matthew E. Peters
+- Mark Neumann
+- Mohit Iyyer
+- Matt Gardner
+- Christopher Clark
+- Kenton Lee
+- Luke Zettlemoyer
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-contextualized-word-representations
+numCitedBy: 7987
 pdf_relpath: null
+ref_count: 65
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NAACL
+year: 2018
 ---
 
 # Deep Contextualized Word Representations

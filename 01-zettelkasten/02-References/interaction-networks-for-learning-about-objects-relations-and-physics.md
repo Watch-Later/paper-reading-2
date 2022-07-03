@@ -1,10 +1,24 @@
 ---
 title: Interaction Networks for Learning about Objects, Relations and Physics
+authors:
+- P. Battaglia
+- Razvan Pascanu
+- Matthew Lai
+- Danilo Jimenez Rezende
+- K. Kavukcuoglu
+fieldsOfStudy:
+- Computer Science
+- Physics
+meta_key: interaction-networks-for-learning-about-objects-relations-and-physics
+numCitedBy: 904
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2016
 ---
 
 # Interaction Networks for Learning about Objects, Relations and Physics

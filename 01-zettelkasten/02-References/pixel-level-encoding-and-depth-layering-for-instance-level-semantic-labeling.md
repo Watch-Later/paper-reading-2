@@ -1,10 +1,22 @@
 ---
 title: Pixel-Level Encoding and Depth Layering for Instance-Level Semantic Labeling
+authors:
+- J. Uhrig
+- Marius Cordts
+- Uwe Franke
+- T. Brox
+fieldsOfStudy:
+- Computer Science
+meta_key: pixel-level-encoding-and-depth-layering-for-instance-level-semantic-labeling
+numCitedBy: 152
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: GCPR
+year: 2016
 ---
 
 # Pixel-Level Encoding and Depth Layering for Instance-Level Semantic Labeling

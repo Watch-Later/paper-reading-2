@@ -1,10 +1,34 @@
 ---
 title: ICDAR2017 Robust Reading Challenge on Multi-Lingual Scene Text Detection and Script Identification - RRC-MLT
+authors:
+- Nibal Nayef
+- Fei Yin
+- Imen Bizid
+- Hyunsoo Choi
+- Yuan Feng
+- Dimosthenis Karatzas
+- Zhenbo Luo
+- U. Pal
+- Christophe Rigaud
+- Joseph Chazalon
+- Wafa Khlif
+- M. Luqman
+- J. Burie
+- Cheng-Lin Liu
+- J. Ogier
+fieldsOfStudy:
+- Computer Science
+meta_key: icdar2017-robust-reading-challenge-on-multi-lingual-scene-text-detection-and-script-identification-rrc-mlt
+numCitedBy: 196
 pdf_relpath: null
+ref_count: 10
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 14th IAPR International Conference on Document Analysis and Recognition
+  (ICDAR)
+year: 2017
 ---
 
 # ICDAR2017 Robust Reading Challenge on Multi-Lingual Scene Text Detection and Script Identification - RRC-MLT

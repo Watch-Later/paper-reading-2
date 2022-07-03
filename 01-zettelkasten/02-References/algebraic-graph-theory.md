@@ -1,10 +1,20 @@
 ---
 title: Algebraic Graph Theory
+authors:
+- C. Godsil
+- G. Royle
+fieldsOfStudy:
+- Mathematics
+meta_key: algebraic-graph-theory
+numCitedBy: 8071
 pdf_relpath: null
+ref_count: 7
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Graduate texts in mathematics
+year: 2001
 ---
 
 # Algebraic Graph Theory

@@ -1,10 +1,20 @@
 ---
 title: A Simple Method for Commonsense Reasoning
+authors:
+- Trieu H. Trinh
+- Quoc V. Le
+fieldsOfStudy:
+- Computer Science
+meta_key: a-simple-method-for-commonsense-reasoning
+numCitedBy: 238
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2018
 ---
 
 # A Simple Method for Commonsense Reasoning

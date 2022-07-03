@@ -1,10 +1,20 @@
 ---
 title: A Fast and Accurate Dependency Parser using Neural Networks
+authors:
+- Danqi Chen
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: a-fast-and-accurate-dependency-parser-using-neural-networks
+numCitedBy: 1640
 pdf_relpath: null
+ref_count: 31
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2014
 ---
 
 # A Fast and Accurate Dependency Parser using Neural Networks

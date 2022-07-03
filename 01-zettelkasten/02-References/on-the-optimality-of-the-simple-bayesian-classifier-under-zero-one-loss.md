@@ -1,10 +1,20 @@
 ---
 title: On the Optimality of the Simple Bayesian Classifier under Zero-One Loss
+authors:
+- Pedro M. Domingos
+- M. Pazzani
+fieldsOfStudy:
+- Computer Science
+meta_key: on-the-optimality-of-the-simple-bayesian-classifier-under-zero-one-loss
+numCitedBy: 3124
 pdf_relpath: null
+ref_count: 59
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Machine Learning
+year: 2004
 ---
 
 # On the Optimality of the Simple Bayesian Classifier under Zero-One Loss

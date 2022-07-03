@@ -1,10 +1,27 @@
 ---
 title: Automatic Description Generation from Images - A Survey of Models, Datasets, and Evaluation Measures
+authors:
+- R. Bernardi
+- Ruken Cakici
+- Desmond Elliott
+- Aykut Erdem
+- Erkut Erdem
+- Nazli Ikizler-Cinbis
+- Frank Keller
+- A. Muscat
+- Barbara Plank
+fieldsOfStudy:
+- Computer Science
+meta_key: automatic-description-generation-from-images-a-survey-of-models-datasets-and-evaluation-measures
+numCitedBy: 276
 pdf_relpath: null
+ref_count: 127
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: J. Artif. Intell. Res.
+year: 2016
 ---
 
 # Automatic Description Generation from Images - A Survey of Models, Datasets, and Evaluation Measures

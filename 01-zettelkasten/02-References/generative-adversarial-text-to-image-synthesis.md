@@ -1,10 +1,24 @@
 ---
 title: Generative Adversarial Text to Image Synthesis
+authors:
+- Scott E. Reed
+- Zeynep Akata
+- Xinchen Yan
+- L. Logeswaran
+- B. Schiele
+- Honglak Lee
+fieldsOfStudy:
+- Computer Science
+meta_key: generative-adversarial-text-to-image-synthesis
+numCitedBy: 2116
 pdf_relpath: null
+ref_count: 46
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2016
 ---
 
 # Generative Adversarial Text to Image Synthesis

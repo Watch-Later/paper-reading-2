@@ -1,10 +1,20 @@
 ---
 title: A performance evaluation of local descriptors
+authors:
+- K. Mikolajczyk
+- C. Schmid
+fieldsOfStudy:
+- Computer Science
+meta_key: a-performance-evaluation-of-local-descriptors
+numCitedBy: 3663
 pdf_relpath: null
+ref_count: 54
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2005
 ---
 
 # A performance evaluation of local descriptors

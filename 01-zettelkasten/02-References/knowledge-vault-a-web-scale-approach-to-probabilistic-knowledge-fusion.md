@@ -1,10 +1,27 @@
 ---
 title: Knowledge vault - a web-scale approach to probabilistic knowledge fusion
+authors:
+- Xin Dong
+- E. Gabrilovich
+- G. Heitz
+- Wilko Horn
+- N. Lao
+- K. Murphy
+- Thomas Strohmann
+- Shaohua Sun
+- Wei Zhang
+fieldsOfStudy:
+- Computer Science
+meta_key: knowledge-vault-a-web-scale-approach-to-probabilistic-knowledge-fusion
+numCitedBy: 1393
 pdf_relpath: null
+ref_count: 49
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: KDD
+year: 2014
 ---
 
 # Knowledge vault - a web-scale approach to probabilistic knowledge fusion

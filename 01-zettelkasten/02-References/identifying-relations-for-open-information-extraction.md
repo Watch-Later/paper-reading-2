@@ -1,10 +1,21 @@
 ---
 title: Identifying Relations for Open Information Extraction
+authors:
+- Anthony Fader
+- S. Soderland
+- Oren Etzioni
+fieldsOfStudy:
+- Computer Science
+meta_key: identifying-relations-for-open-information-extraction
+numCitedBy: 1249
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2011
 ---
 
 # Identifying Relations for Open Information Extraction

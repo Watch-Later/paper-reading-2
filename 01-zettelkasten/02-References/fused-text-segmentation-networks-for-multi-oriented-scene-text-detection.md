@@ -1,10 +1,22 @@
 ---
 title: Fused Text Segmentation Networks for Multi-oriented Scene Text Detection
+authors:
+- Yuchen Dai
+- Zheng Huang
+- Yuting Gao
+- Kai Chen
+fieldsOfStudy:
+- Computer Science
+meta_key: fused-text-segmentation-networks-for-multi-oriented-scene-text-detection
+numCitedBy: 113
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 24th International Conference on Pattern Recognition (ICPR)
+year: 2018
 ---
 
 # Fused Text Segmentation Networks for Multi-oriented Scene Text Detection

@@ -1,10 +1,19 @@
 ---
 title: Bagging predictors
+authors:
+- L. Breiman
+fieldsOfStudy:
+- Computer Science
+meta_key: bagging-predictors
+numCitedBy: 15184
 pdf_relpath: null
+ref_count: 16
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Machine Learning
+year: 2004
 ---
 
 # Bagging predictors

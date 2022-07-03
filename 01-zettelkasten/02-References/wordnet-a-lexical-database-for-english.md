@@ -1,10 +1,19 @@
 ---
 title: WordNet - A Lexical Database for English
+authors:
+- G. Miller
+fieldsOfStudy:
+- Linguistics
+meta_key: wordnet-a-lexical-database-for-english
+numCitedBy: 13888
 pdf_relpath: null
+ref_count: 10
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: HLT
+year: 1992
 ---
 
 # WordNet - A Lexical Database for English

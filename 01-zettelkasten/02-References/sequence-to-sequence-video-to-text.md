@@ -1,10 +1,24 @@
 ---
 title: Sequence to Sequence -- Video to Text
+authors:
+- Subhashini Venugopalan
+- Marcus Rohrbach
+- Jeff Donahue
+- R. Mooney
+- Trevor Darrell
+- Kate Saenko
+fieldsOfStudy:
+- Computer Science
+meta_key: sequence-to-sequence-video-to-text
+numCitedBy: 1100
 pdf_relpath: null
+ref_count: 58
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE International Conference on Computer Vision (ICCV)
+year: 2015
 ---
 
 # Sequence to Sequence -- Video to Text

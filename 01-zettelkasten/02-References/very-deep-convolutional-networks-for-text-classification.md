@@ -1,10 +1,22 @@
 ---
 title: Very Deep Convolutional Networks for Text Classification
+authors:
+- Holger Schwenk
+- "Lo\xEFc Barrault"
+- A. Conneau
+- Yann LeCun
+fieldsOfStudy:
+- Computer Science
+meta_key: very-deep-convolutional-networks-for-text-classification
+numCitedBy: 729
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EACL
+year: 2017
 ---
 
 # Very Deep Convolutional Networks for Text Classification

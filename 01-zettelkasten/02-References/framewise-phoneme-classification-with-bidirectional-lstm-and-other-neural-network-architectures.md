@@ -1,10 +1,20 @@
 ---
 title: Framewise phoneme classification with bidirectional LSTM and other neural network architectures
+authors:
+- A. Graves
+- J. Schmidhuber
+fieldsOfStudy:
+- Computer Science
+meta_key: framewise-phoneme-classification-with-bidirectional-lstm-and-other-neural-network-architectures
+numCitedBy: 3295
 pdf_relpath: null
+ref_count: 32
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Neural Networks
+year: 2005
 ---
 
 # Framewise phoneme classification with bidirectional LSTM and other neural network architectures

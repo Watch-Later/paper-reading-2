@@ -1,10 +1,23 @@
 ---
 title: Robust Scene Text Recognition with Automatic Rectification
+authors:
+- Baoguang Shi
+- Xinggang Wang
+- Pengyuan Lyu
+- C. Yao
+- X. Bai
+fieldsOfStudy:
+- Computer Science
+meta_key: robust-scene-text-recognition-with-automatic-rectification
+numCitedBy: 384
 pdf_relpath: null
+ref_count: 53
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Robust Scene Text Recognition with Automatic Rectification

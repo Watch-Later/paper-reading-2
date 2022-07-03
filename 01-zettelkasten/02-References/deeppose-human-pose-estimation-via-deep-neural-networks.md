@@ -1,10 +1,20 @@
 ---
 title: DeepPose - Human Pose Estimation via Deep Neural Networks
+authors:
+- Alexander Toshev
+- Christian Szegedy
+fieldsOfStudy:
+- Computer Science
+meta_key: deeppose-human-pose-estimation-via-deep-neural-networks
+numCitedBy: 1910
 pdf_relpath: null
+ref_count: 29
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2014 IEEE Conference on Computer Vision and Pattern Recognition
+year: 2014
 ---
 
 # DeepPose - Human Pose Estimation via Deep Neural Networks

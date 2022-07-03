@@ -1,10 +1,23 @@
 ---
 title: FiLM - Visual Reasoning with a General Conditioning Layer
+authors:
+- Ethan Perez
+- Florian Strub
+- Harm de Vries
+- Vincent Dumoulin
+- Aaron C. Courville
+fieldsOfStudy:
+- Computer Science
+meta_key: film-visual-reasoning-with-a-general-conditioning-layer
+numCitedBy: 831
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: AAAI
+year: 2018
 ---
 
 # FiLM - Visual Reasoning with a General Conditioning Layer

@@ -1,10 +1,21 @@
 ---
 title: An Empirical Exploration of Recurrent Network Architectures
+authors:
+- "R. J\xF3zefowicz"
+- Wojciech Zaremba
+- Ilya Sutskever
+fieldsOfStudy:
+- Computer Science
+meta_key: an-empirical-exploration-of-recurrent-network-architectures
+numCitedBy: 1383
 pdf_relpath: null
+ref_count: 32
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2015
 ---
 
 # An Empirical Exploration of Recurrent Network Architectures

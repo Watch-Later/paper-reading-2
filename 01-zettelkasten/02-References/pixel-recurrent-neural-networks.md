@@ -1,10 +1,21 @@
 ---
 title: Pixel Recurrent Neural Networks
+authors:
+- "A\xE4ron van den Oord"
+- Nal Kalchbrenner
+- K. Kavukcuoglu
+fieldsOfStudy:
+- Computer Science
+meta_key: pixel-recurrent-neural-networks
+numCitedBy: 1748
 pdf_relpath: null
+ref_count: 38
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2016
 ---
 
 # Pixel Recurrent Neural Networks

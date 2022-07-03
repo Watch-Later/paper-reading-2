@@ -1,10 +1,23 @@
 ---
 title: Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation
+authors:
+- Jie Zhou
+- Ying Cao
+- Xuguang Wang
+- Peng Li
+- W. Xu
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-recurrent-models-with-fast-forward-connections-for-neural-machine-translation
+numCitedBy: 174
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: TACL
+year: 2016
 ---
 
 # Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation

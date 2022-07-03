@@ -1,10 +1,22 @@
 ---
 title: Learning realistic human actions from movies
+authors:
+- I. Laptev
+- Marcin Marszalek
+- C. Schmid
+- Benjamin Rozenfeld
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-realistic-human-actions-from-movies
+numCitedBy: 3595
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2008 IEEE Conference on Computer Vision and Pattern Recognition
+year: 2008
 ---
 
 # Learning realistic human actions from movies

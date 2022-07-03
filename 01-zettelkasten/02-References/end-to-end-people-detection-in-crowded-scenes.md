@@ -1,10 +1,21 @@
 ---
 title: End-to-End People Detection in Crowded Scenes
+authors:
+- Russell Stewart
+- M. Andriluka
+- A. Ng
+fieldsOfStudy:
+- Computer Science
+meta_key: end-to-end-people-detection-in-crowded-scenes
+numCitedBy: 364
 pdf_relpath: null
+ref_count: 36
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # End-to-End People Detection in Crowded Scenes

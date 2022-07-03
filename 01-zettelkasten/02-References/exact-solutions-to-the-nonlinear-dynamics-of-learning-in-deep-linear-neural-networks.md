@@ -1,10 +1,21 @@
 ---
 title: Exact solutions to the nonlinear dynamics of learning in deep linear neural networks
+authors:
+- Andrew M. Saxe
+- James L. McClelland
+- S. Ganguli
+fieldsOfStudy:
+- Computer Science
+meta_key: exact-solutions-to-the-nonlinear-dynamics-of-learning-in-deep-linear-neural-networks
+numCitedBy: 1265
 pdf_relpath: null
+ref_count: 27
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2014
 ---
 
 # Exact solutions to the nonlinear dynamics of learning in deep linear neural networks

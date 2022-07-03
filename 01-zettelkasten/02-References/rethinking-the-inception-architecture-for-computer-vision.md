@@ -1,10 +1,23 @@
 ---
 title: Rethinking the Inception Architecture for Computer Vision
+authors:
+- Christian Szegedy
+- Vincent Vanhoucke
+- S. Ioffe
+- Jonathon Shlens
+- Z. Wojna
+fieldsOfStudy:
+- Computer Science
+meta_key: rethinking-the-inception-architecture-for-computer-vision
+numCitedBy: 15542
 pdf_relpath: null
+ref_count: 26
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Rethinking the Inception Architecture for Computer Vision

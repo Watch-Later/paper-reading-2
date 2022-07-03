@@ -1,10 +1,35 @@
 ---
 title: Scikit-learn - Machine Learning in Python
+authors:
+- Fabian Pedregosa
+- G. Varoquaux
+- Alexandre Gramfort
+- V. Michel
+- B. Thirion
+- O. Grisel
+- Mathieu Blondel
+- Gilles Louppe
+- P. Prettenhofer
+- Ron Weiss
+- Ron J. Weiss
+- J. Vanderplas
+- Alexandre Passos
+- D. Cournapeau
+- M. Brucher
+- M. Perrot
+- E. Duchesnay
+fieldsOfStudy:
+- Computer Science
+meta_key: scikit-learn-machine-learning-in-python
+numCitedBy: 43298
 pdf_relpath: null
+ref_count: 25
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: J. Mach. Learn. Res.
+year: 2011
 ---
 
 # Scikit-learn - Machine Learning in Python

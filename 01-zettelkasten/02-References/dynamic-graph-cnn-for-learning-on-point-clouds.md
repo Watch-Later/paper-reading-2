@@ -1,10 +1,25 @@
 ---
 title: Dynamic Graph CNN for Learning on Point Clouds
+authors:
+- Yue Wang
+- Yongbin Sun
+- Ziwei Liu
+- S. Sarma
+- M. Bronstein
+- J. Solomon
+fieldsOfStudy:
+- Computer Science
+- Environmental Science
+meta_key: dynamic-graph-cnn-for-learning-on-point-clouds
+numCitedBy: 2183
 pdf_relpath: null
+ref_count: 104
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACM Trans. Graph.
+year: 2019
 ---
 
 # Dynamic Graph CNN for Learning on Point Clouds

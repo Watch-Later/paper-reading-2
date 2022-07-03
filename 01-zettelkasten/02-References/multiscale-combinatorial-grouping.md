@@ -1,10 +1,23 @@
 ---
 title: Multiscale Combinatorial Grouping
+authors:
+- "Pablo Arbel\xE1ez"
+- J. Pont-Tuset
+- Jonathan T. Barron
+- "F. Marqu\xE9s"
+- J. Malik
+fieldsOfStudy:
+- Computer Science
+meta_key: multiscale-combinatorial-grouping
+numCitedBy: 1039
 pdf_relpath: null
+ref_count: 27
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2014 IEEE Conference on Computer Vision and Pattern Recognition
+year: 2014
 ---
 
 # Multiscale Combinatorial Grouping

@@ -1,10 +1,19 @@
 ---
 title: Convolutional Neural Networks for Sentence Classification
+authors:
+- Yoon Kim
+fieldsOfStudy:
+- Computer Science
+meta_key: convolutional-neural-networks-for-sentence-classification
+numCitedBy: 10065
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2014
 ---
 
 # Convolutional Neural Networks for Sentence Classification

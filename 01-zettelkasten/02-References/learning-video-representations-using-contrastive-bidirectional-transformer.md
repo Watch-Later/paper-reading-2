@@ -1,10 +1,22 @@
 ---
 title: Learning Video Representations using Contrastive Bidirectional Transformer
+authors:
+- Chen Sun
+- Fabien Baradel
+- K. Murphy
+- C. Schmid
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-video-representations-using-contrastive-bidirectional-transformer
+numCitedBy: 170
 pdf_relpath: null
+ref_count: 65
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 2019
 ---
 
 # Learning Video Representations using Contrastive Bidirectional Transformer

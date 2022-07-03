@@ -1,10 +1,23 @@
 ---
 title: Stacked Cross Attention for Image-Text Matching
+authors:
+- Kuang-Huei Lee
+- Xi Chen
+- G. Hua
+- Houdong Hu
+- Xiaodong He
+fieldsOfStudy:
+- Computer Science
+meta_key: stacked-cross-attention-for-image-text-matching
+numCitedBy: 481
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2018
 ---
 
 # Stacked Cross Attention for Image-Text Matching

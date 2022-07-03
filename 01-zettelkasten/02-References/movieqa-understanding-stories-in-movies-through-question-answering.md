@@ -1,10 +1,24 @@
 ---
 title: MovieQA - Understanding Stories in Movies through Question-Answering
+authors:
+- Makarand Tapaswi
+- Yukun Zhu
+- R. Stiefelhagen
+- A. Torralba
+- R. Urtasun
+- S. Fidler
+fieldsOfStudy:
+- Computer Science
+meta_key: movieqa-understanding-stories-in-movies-through-question-answering
+numCitedBy: 478
 pdf_relpath: null
+ref_count: 59
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # MovieQA - Understanding Stories in Movies through Question-Answering

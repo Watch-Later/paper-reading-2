@@ -1,10 +1,22 @@
 ---
 title: Beyond Bags of Features - Spatial Pyramid Matching for Recognizing Natural Scene Categories
+authors:
+- S. Lazebnik
+- C. Schmid
+- J. Ponce
+fieldsOfStudy:
+- Computer Science
+meta_key: beyond-bags-of-features-spatial-pyramid-matching-for-recognizing-natural-scene-categories
+numCitedBy: 8328
 pdf_relpath: null
+ref_count: 38
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition
+  (CVPR'06)
+year: 2006
 ---
 
 # Beyond Bags of Features - Spatial Pyramid Matching for Recognizing Natural Scene Categories

@@ -1,10 +1,20 @@
 ---
 title: Distance Metric Learning for Large Margin Nearest Neighbor Classification
+authors:
+- Kilian Q. Weinberger
+- L. Saul
+fieldsOfStudy:
+- Computer Science
+meta_key: distance-metric-learning-for-large-margin-nearest-neighbor-classification
+numCitedBy: 5018
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2005
 ---
 
 # Distance Metric Learning for Large Margin Nearest Neighbor Classification

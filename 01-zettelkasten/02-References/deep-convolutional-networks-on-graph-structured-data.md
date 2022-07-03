@@ -1,10 +1,21 @@
 ---
 title: Deep Convolutional Networks on Graph-Structured Data
+authors:
+- Mikael Henaff
+- Joan Bruna
+- Yann LeCun
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-convolutional-networks-on-graph-structured-data
+numCitedBy: 1159
 pdf_relpath: null
+ref_count: 26
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2015
 ---
 
 # Deep Convolutional Networks on Graph-Structured Data

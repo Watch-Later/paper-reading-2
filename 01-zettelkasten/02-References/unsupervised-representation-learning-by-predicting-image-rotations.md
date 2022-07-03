@@ -1,10 +1,21 @@
 ---
 title: Unsupervised Representation Learning by Predicting Image Rotations
+authors:
+- Spyros Gidaris
+- Praveer Singh
+- N. Komodakis
+fieldsOfStudy:
+- Computer Science
+meta_key: unsupervised-representation-learning-by-predicting-image-rotations
+numCitedBy: 1664
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2018
 ---
 
 # Unsupervised Representation Learning by Predicting Image Rotations

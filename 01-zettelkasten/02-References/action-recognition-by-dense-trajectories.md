@@ -1,10 +1,22 @@
 ---
 title: Action recognition by dense trajectories
+authors:
+- Heng Wang
+- "Alexander Kl\xE4ser"
+- C. Schmid
+- Cheng-Lin Liu
+fieldsOfStudy:
+- Computer Science
+meta_key: action-recognition-by-dense-trajectories
+numCitedBy: 2229
 pdf_relpath: null
+ref_count: 36
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: CVPR 2011
+year: 2011
 ---
 
 # Action recognition by dense trajectories

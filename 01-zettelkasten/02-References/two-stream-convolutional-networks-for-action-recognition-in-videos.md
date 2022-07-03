@@ -1,10 +1,20 @@
 ---
 title: Two-Stream Convolutional Networks for Action Recognition in Videos
+authors:
+- K. Simonyan
+- Andrew Zisserman
+fieldsOfStudy:
+- Computer Science
+meta_key: two-stream-convolutional-networks-for-action-recognition-in-videos
+numCitedBy: 5478
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2014
 ---
 
 # Two-Stream Convolutional Networks for Action Recognition in Videos

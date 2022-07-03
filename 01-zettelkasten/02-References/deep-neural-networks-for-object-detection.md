@@ -1,10 +1,21 @@
 ---
+Alias: AlexNet
 title: Deep Neural Networks for Object Detection
-pdf_relpath: null
+authors:
+- Christian Szegedy
+- Alexander Toshev
+- D. Erhan
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-neural-networks-for-object-detection
+numCitedBy: 1182
+ref_count: 21
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2012
 ---
 
 # Deep Neural Networks for Object Detection

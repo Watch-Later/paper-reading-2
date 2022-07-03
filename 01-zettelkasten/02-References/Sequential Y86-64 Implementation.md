@@ -1,5 +1,6 @@
 ---
 title: Sequential Y86-64 Implementation
+meta_key: Sequential Y86-64 Implementation
 pdf_relpath: pdfs/Sequential%20Y86-64%20Implementation.pdf
 status: todo
 tags:

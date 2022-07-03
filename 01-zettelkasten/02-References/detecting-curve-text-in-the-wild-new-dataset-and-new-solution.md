@@ -1,10 +1,22 @@
 ---
 title: Detecting Curve Text in the Wild - New Dataset and New Solution
+authors:
+- Yuliang Liu
+- Lianwen Jin
+- Shuaitao Zhang
+- Sheng Zhang
+fieldsOfStudy:
+- Computer Science
+meta_key: detecting-curve-text-in-the-wild-new-dataset-and-new-solution
+numCitedBy: 128
 pdf_relpath: null
+ref_count: 36
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2017
 ---
 
 # Detecting Curve Text in the Wild - New Dataset and New Solution

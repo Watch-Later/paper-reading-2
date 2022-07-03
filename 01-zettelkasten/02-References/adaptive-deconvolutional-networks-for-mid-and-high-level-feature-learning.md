@@ -1,10 +1,21 @@
 ---
 title: Adaptive deconvolutional networks for mid and high level feature learning
+authors:
+- Matthew D. Zeiler
+- Graham W. Taylor
+- R. Fergus
+fieldsOfStudy:
+- Computer Science
+meta_key: adaptive-deconvolutional-networks-for-mid-and-high-level-feature-learning
+numCitedBy: 1028
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2011 International Conference on Computer Vision
+year: 2011
 ---
 
 # Adaptive deconvolutional networks for mid and high level feature learning

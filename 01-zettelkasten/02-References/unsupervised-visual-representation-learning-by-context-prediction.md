@@ -1,10 +1,21 @@
 ---
 title: Unsupervised Visual Representation Learning by Context Prediction
+authors:
+- Carl Doersch
+- A. Gupta
+- Alexei A. Efros
+fieldsOfStudy:
+- Computer Science
+meta_key: unsupervised-visual-representation-learning-by-context-prediction
+numCitedBy: 1765
 pdf_relpath: null
+ref_count: 70
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE International Conference on Computer Vision (ICCV)
+year: 2015
 ---
 
 # Unsupervised Visual Representation Learning by Context Prediction

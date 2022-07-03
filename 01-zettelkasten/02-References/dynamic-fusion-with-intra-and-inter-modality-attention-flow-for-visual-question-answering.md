@@ -1,10 +1,25 @@
 ---
 title: Dynamic Fusion With Intra- and Inter-Modality Attention Flow for Visual Question Answering
+authors:
+- Peng Gao
+- Hongsheng Li
+- Haoxuan You
+- Zhengkai Jiang
+- Pan Lu
+- S. Hoi
+- Xiaogang Wang
+fieldsOfStudy:
+- Computer Science
+meta_key: dynamic-fusion-with-intra-and-inter-modality-attention-flow-for-visual-question-answering
+numCitedBy: 192
 pdf_relpath: null
+ref_count: 50
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2019
 ---
 
 # Dynamic Fusion With Intra- and Inter-Modality Attention Flow for Visual Question Answering

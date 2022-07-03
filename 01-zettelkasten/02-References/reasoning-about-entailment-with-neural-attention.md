@@ -1,10 +1,23 @@
 ---
 title: Reasoning about Entailment with Neural Attention
+authors:
+- "Tim Rockt\xE4schel"
+- Edward Grefenstette
+- K. Hermann
+- "Tom\xE1s Kocisk\xFD"
+- P. Blunsom
+fieldsOfStudy:
+- Computer Science
+meta_key: reasoning-about-entailment-with-neural-attention
+numCitedBy: 669
 pdf_relpath: null
+ref_count: 36
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # Reasoning about Entailment with Neural Attention

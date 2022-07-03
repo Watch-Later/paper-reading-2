@@ -1,10 +1,20 @@
 ---
 title: A wavelet tour of signal processing
+authors:
+- S. Mallat
+fieldsOfStudy:
+- Geology
+- Computer Science
+meta_key: a-wavelet-tour-of-signal-processing
+numCitedBy: 17948
 pdf_relpath: null
+ref_count: 381
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 1998
 ---
 
 # A wavelet tour of signal processing

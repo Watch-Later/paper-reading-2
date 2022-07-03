@@ -1,10 +1,19 @@
 ---
 title: An Overview of Multi-Task Learning in Deep Neural Networks
+authors:
+- Sebastian Ruder
+fieldsOfStudy:
+- Computer Science
+meta_key: an-overview-of-multi-task-learning-in-deep-neural-networks
+numCitedBy: 1533
 pdf_relpath: null
+ref_count: 62
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2017
 ---
 
 # An Overview of Multi-Task Learning in Deep Neural Networks

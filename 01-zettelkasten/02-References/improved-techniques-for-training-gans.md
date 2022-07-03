@@ -1,10 +1,24 @@
 ---
 title: Improved Techniques for Training GANs
+authors:
+- Tim Salimans
+- Ian J. Goodfellow
+- Wojciech Zaremba
+- Vicki Cheung
+- Alec Radford
+- Xi Chen
+fieldsOfStudy:
+- Computer Science
+meta_key: improved-techniques-for-training-gans
+numCitedBy: 5549
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2016
 ---
 
 # Improved Techniques for Training GANs

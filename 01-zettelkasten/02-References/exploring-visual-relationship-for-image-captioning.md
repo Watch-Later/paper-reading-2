@@ -1,10 +1,22 @@
 ---
 title: Exploring Visual Relationship for Image Captioning
+authors:
+- Ting Yao
+- Yingwei Pan
+- Yehao Li
+- Tao Mei
+fieldsOfStudy:
+- Computer Science
+meta_key: exploring-visual-relationship-for-image-captioning
+numCitedBy: 468
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2018
 ---
 
 # Exploring Visual Relationship for Image Captioning

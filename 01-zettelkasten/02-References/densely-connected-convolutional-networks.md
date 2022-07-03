@@ -1,10 +1,21 @@
 ---
 title: Densely Connected Convolutional Networks
+authors:
+- Gao Huang
+- Zhuang Liu
+- Kilian Q. Weinberger
+fieldsOfStudy:
+- Computer Science
+meta_key: densely-connected-convolutional-networks
+numCitedBy: 18795
 pdf_relpath: null
+ref_count: 59
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Densely Connected Convolutional Networks

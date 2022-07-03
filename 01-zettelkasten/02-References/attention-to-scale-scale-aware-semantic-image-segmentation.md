@@ -1,10 +1,23 @@
 ---
 title: Attention to Scale - Scale-Aware Semantic Image Segmentation
+authors:
+- Liang-Chieh Chen
+- Yi Yang
+- Jiang Wang
+- Wei Xu
+- A. Yuille
+fieldsOfStudy:
+- Computer Science
+meta_key: attention-to-scale-scale-aware-semantic-image-segmentation
+numCitedBy: 969
 pdf_relpath: null
+ref_count: 66
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Attention to Scale - Scale-Aware Semantic Image Segmentation

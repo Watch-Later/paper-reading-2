@@ -1,10 +1,21 @@
 ---
 title: SIFT Flow - Dense Correspondence across Scenes and Its Applications
+authors:
+- Ce Liu
+- Jenny Yuen
+- A. Torralba
+fieldsOfStudy:
+- Computer Science
+meta_key: sift-flow-dense-correspondence-across-scenes-and-its-applications
+numCitedBy: 1515
 pdf_relpath: null
+ref_count: 95
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2011
 ---
 
 # SIFT Flow - Dense Correspondence across Scenes and Its Applications

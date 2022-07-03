@@ -1,10 +1,19 @@
 ---
 title: Random Forests
+authors:
+- L. Breiman
+fieldsOfStudy:
+- Computer Science
+meta_key: random-forests
+numCitedBy: 65189
 pdf_relpath: null
+ref_count: 22
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Machine Learning
+year: 2004
 ---
 
 # Random Forests

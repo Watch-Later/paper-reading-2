@@ -1,10 +1,22 @@
 ---
 title: Realtime Multi-person 2D Pose Estimation Using Part Affinity Fields
+authors:
+- Zhe Cao
+- T. Simon
+- Shih-En Wei
+- Yaser Sheikh
+fieldsOfStudy:
+- Computer Science
+meta_key: realtime-multi-person-2d-pose-estimation-using-part-affinity-fields
+numCitedBy: 3820
 pdf_relpath: null
+ref_count: 83
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Realtime Multi-person 2D Pose Estimation Using Part Affinity Fields

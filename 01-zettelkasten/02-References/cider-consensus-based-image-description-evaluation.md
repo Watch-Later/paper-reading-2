@@ -1,10 +1,21 @@
 ---
 title: CIDEr - Consensus-based image description evaluation
+authors:
+- Ramakrishna Vedantam
+- C. L. Zitnick
+- Devi Parikh
+fieldsOfStudy:
+- Computer Science
+meta_key: cider-consensus-based-image-description-evaluation
+numCitedBy: 2153
 pdf_relpath: null
+ref_count: 54
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2015
 ---
 
 # CIDEr - Consensus-based image description evaluation

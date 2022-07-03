@@ -1,5 +1,6 @@
 ---
 title: Visual Object Recognition
+meta_key: Visual Object Recognition
 pdf_relpath: pdfs/Visual%20Object%20Recognition.pdf
 status: todo
 tags:

@@ -1,10 +1,20 @@
 ---
 title: Decoupled Weight Decay Regularization
+authors:
+- I. Loshchilov
+- F. Hutter
+fieldsOfStudy:
+- Computer Science
+meta_key: decoupled-weight-decay-regularization
+numCitedBy: 3475
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2019
 ---
 
 # Decoupled Weight Decay Regularization

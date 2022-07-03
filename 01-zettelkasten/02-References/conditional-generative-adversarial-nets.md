@@ -1,10 +1,20 @@
 ---
 title: Conditional Generative Adversarial Nets
+authors:
+- Mehdi Mirza
+- Simon Osindero
+fieldsOfStudy:
+- Computer Science
+meta_key: conditional-generative-adversarial-nets
+numCitedBy: 6052
 pdf_relpath: null
+ref_count: 21
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2014
 ---
 
 # Conditional Generative Adversarial Nets

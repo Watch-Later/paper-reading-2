@@ -1,10 +1,24 @@
 ---
 title: Graph Attention Networks
+authors:
+- Petar Velickovic
+- Guillem Cucurull
+- Arantxa Casanova
+- Adriana Romero
+- "P. Lio\u2019"
+- Yoshua Bengio
+fieldsOfStudy:
+- Computer Science
+meta_key: graph-attention-networks
+numCitedBy: 5524
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2018
 ---
 
 # Graph Attention Networks

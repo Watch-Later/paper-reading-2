@@ -1,10 +1,22 @@
 ---
 title: Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation
+authors:
+- Jonathan Tompson
+- Arjun Jain
+- Yann LeCun
+- C. Bregler
+fieldsOfStudy:
+- Computer Science
+meta_key: joint-training-of-a-convolutional-network-and-a-graphical-model-for-human-pose-estimation
+numCitedBy: 1203
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2014
 ---
 
 # Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation

@@ -1,10 +1,20 @@
 ---
 title: Deep Biaffine Attention for Neural Dependency Parsing
+authors:
+- Timothy Dozat
+- Christopher D. Manning
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-biaffine-attention-for-neural-dependency-parsing
+numCitedBy: 795
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2017
 ---
 
 # Deep Biaffine Attention for Neural Dependency Parsing

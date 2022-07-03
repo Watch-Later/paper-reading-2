@@ -1,10 +1,21 @@
 ---
 title: Learning Generative Models with Sinkhorn Divergences
+authors:
+- Aude Genevay
+- "G. Peyr\xE9"
+- Marco Cuturi
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-generative-models-with-sinkhorn-divergences
+numCitedBy: 393
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: AISTATS
+year: 2018
 ---
 
 # Learning Generative Models with Sinkhorn Divergences

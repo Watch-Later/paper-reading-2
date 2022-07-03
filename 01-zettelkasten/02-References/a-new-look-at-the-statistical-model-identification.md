@@ -1,10 +1,19 @@
 ---
 title: A new look at the statistical model identification
+authors:
+- H. Akaike
+fieldsOfStudy:
+- Mathematics
+meta_key: a-new-look-at-the-statistical-model-identification
+numCitedBy: 42029
 pdf_relpath: null
+ref_count: 56
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 1974
 ---
 
 # A new look at the statistical model identification

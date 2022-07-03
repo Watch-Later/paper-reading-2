@@ -1,10 +1,20 @@
 ---
 title: Simple and Effective Multi-Paragraph Reading Comprehension
+authors:
+- Christopher Clark
+- Matt Gardner
+fieldsOfStudy:
+- Computer Science
+meta_key: simple-and-effective-multi-paragraph-reading-comprehension
+numCitedBy: 341
 pdf_relpath: null
+ref_count: 36
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2018
 ---
 
 # Simple and Effective Multi-Paragraph Reading Comprehension

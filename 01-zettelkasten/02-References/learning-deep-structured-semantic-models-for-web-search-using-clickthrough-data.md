@@ -1,10 +1,24 @@
 ---
 title: Learning deep structured semantic models for web search using clickthrough data
+authors:
+- Po-Sen Huang
+- Xiaodong He
+- Jianfeng Gao
+- L. Deng
+- A. Acero
+- Larry Heck
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-deep-structured-semantic-models-for-web-search-using-clickthrough-data
+numCitedBy: 1451
 pdf_relpath: null
+ref_count: 32
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: CIKM
+year: 2013
 ---
 
 # Learning deep structured semantic models for web search using clickthrough data

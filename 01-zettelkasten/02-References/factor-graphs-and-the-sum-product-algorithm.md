@@ -1,10 +1,21 @@
 ---
 title: Factor graphs and the sum-product algorithm
+authors:
+- F. Kschischang
+- B. Frey
+- H. Loeliger
+fieldsOfStudy:
+- Computer Science
+meta_key: factor-graphs-and-the-sum-product-algorithm
+numCitedBy: 4132
 pdf_relpath: null
+ref_count: 65
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Trans. Inf. Theory
+year: 2001
 ---
 
 # Factor graphs and the sum-product algorithm

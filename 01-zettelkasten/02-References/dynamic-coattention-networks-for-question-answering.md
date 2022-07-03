@@ -1,10 +1,21 @@
 ---
 title: Dynamic Coattention Networks For Question Answering
+authors:
+- Caiming Xiong
+- Victor Zhong
+- R. Socher
+fieldsOfStudy:
+- Computer Science
+meta_key: dynamic-coattention-networks-for-question-answering
+numCitedBy: 614
 pdf_relpath: null
+ref_count: 33
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2017
 ---
 
 # Dynamic Coattention Networks For Question Answering

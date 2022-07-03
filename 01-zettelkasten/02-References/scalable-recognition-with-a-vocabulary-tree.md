@@ -1,10 +1,21 @@
 ---
 title: Scalable Recognition with a Vocabulary Tree
+authors:
+- "D. Nist\xE9r"
+- "Henrik Stew\xE9nius"
+fieldsOfStudy:
+- Computer Science
+meta_key: scalable-recognition-with-a-vocabulary-tree
+numCitedBy: 3890
 pdf_relpath: null
+ref_count: 22
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition
+  (CVPR'06)
+year: 2006
 ---
 
 # Scalable Recognition with a Vocabulary Tree

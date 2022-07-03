@@ -1,10 +1,23 @@
 ---
 title: 12-in-1 - Multi-Task Vision and Language Representation Learning
+authors:
+- Jiasen Lu
+- Vedanuj Goswami
+- Marcus Rohrbach
+- Devi Parikh
+- Stefan Lee
+fieldsOfStudy:
+- Computer Science
+meta_key: 12-in-1-multi-task-vision-and-language-representation-learning
+numCitedBy: 227
 pdf_relpath: null
+ref_count: 69
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2020
 ---
 
 # 12-in-1 - Multi-Task Vision and Language Representation Learning

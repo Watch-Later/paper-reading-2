@@ -1,10 +1,20 @@
 ---
 title: Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation
+authors:
+- Golnaz Ghiasi
+- Charless C. Fowlkes
+fieldsOfStudy:
+- Computer Science
+meta_key: laplacian-pyramid-reconstruction-and-refinement-for-semantic-segmentation
+numCitedBy: 359
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation

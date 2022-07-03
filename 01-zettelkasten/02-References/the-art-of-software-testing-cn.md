@@ -1,5 +1,6 @@
 ---
 title: The Art Of Software Testing(Cn)
+meta_key: the-art-of-software-testing-cn
 pdf_relpath: pdfs/the-art-of-software-testing-cn.pdf
 status: todo
 tags:

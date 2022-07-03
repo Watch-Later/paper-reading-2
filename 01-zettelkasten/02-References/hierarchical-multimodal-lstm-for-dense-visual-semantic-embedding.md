@@ -1,10 +1,23 @@
 ---
 title: Hierarchical Multimodal LSTM for Dense Visual-Semantic Embedding
+authors:
+- Zhenxing Niu
+- Mo Zhou
+- Le Wang
+- Xinbo Gao
+- G. Hua
+fieldsOfStudy:
+- Computer Science
+meta_key: hierarchical-multimodal-lstm-for-dense-visual-semantic-embedding
+numCitedBy: 113
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # Hierarchical Multimodal LSTM for Dense Visual-Semantic Embedding

@@ -1,10 +1,21 @@
 ---
 title: Detecting Faces in Images - A Survey
+authors:
+- Ming-Hsuan Yang
+- D. Kriegman
+- N. Ahuja
+fieldsOfStudy:
+- Computer Science
+meta_key: detecting-faces-in-images-a-survey
+numCitedBy: 3968
 pdf_relpath: null
+ref_count: 251
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Trans. Pattern Anal. Mach. Intell.
+year: 2002
 ---
 
 # Detecting Faces in Images - A Survey

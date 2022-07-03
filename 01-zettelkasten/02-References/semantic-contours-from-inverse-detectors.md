@@ -1,10 +1,23 @@
 ---
 title: Semantic contours from inverse detectors
+authors:
+- Bharath Hariharan
+- "Pablo Arbel\xE1ez"
+- Lubomir D. Bourdev
+- Subhransu Maji
+- Jitendra Malik
+fieldsOfStudy:
+- Computer Science
+meta_key: semantic-contours-from-inverse-detectors
+numCitedBy: 1058
 pdf_relpath: null
+ref_count: 24
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2011 International Conference on Computer Vision
+year: 2011
 ---
 
 # Semantic contours from inverse detectors

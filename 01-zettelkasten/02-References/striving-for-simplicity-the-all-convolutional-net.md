@@ -1,10 +1,22 @@
 ---
 title: Striving for Simplicity - The All Convolutional Net
+authors:
+- Jost Tobias Springenberg
+- A. Dosovitskiy
+- T. Brox
+- Martin A. Riedmiller
+fieldsOfStudy:
+- Computer Science
+meta_key: striving-for-simplicity-the-all-convolutional-net
+numCitedBy: 3272
 pdf_relpath: null
+ref_count: 31
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2015
 ---
 
 # Striving for Simplicity - The All Convolutional Net

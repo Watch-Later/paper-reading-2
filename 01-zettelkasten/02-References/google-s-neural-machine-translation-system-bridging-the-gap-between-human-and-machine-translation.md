@@ -1,10 +1,49 @@
 ---
 title: Google's Neural Machine Translation System - Bridging the Gap between Human and Machine Translation
+authors:
+- Yonghui Wu
+- M. Schuster
+- Z. Chen
+- Quoc V. Le
+- Mohammad Norouzi
+- Wolfgang Macherey
+- M. Krikun
+- Yuan Cao
+- Qin Gao
+- Klaus Macherey
+- J. Klingner
+- Apurva Shah
+- Melvin Johnson
+- Xiaobing Liu
+- Lukasz Kaiser
+- Stephan Gouws
+- Y. Kato
+- Taku Kudo
+- H. Kazawa
+- K. Stevens
+- George Kurian
+- Nishant Patil
+- Wei Wang
+- C. Young
+- Jason R. Smith
+- Jason Riesa
+- Alex Rudnick
+- Oriol Vinyals
+- G. Corrado
+- Macduff Hughes
+- J. Dean
+fieldsOfStudy:
+- Computer Science
+meta_key: google-s-neural-machine-translation-system-bridging-the-gap-between-human-and-machine-translation
+numCitedBy: 4645
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2016
 ---
 
 # Google's Neural Machine Translation System - Bridging the Gap between Human and Machine Translation

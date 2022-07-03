@@ -1,10 +1,19 @@
 ---
 title: A Tutorial on Support Vector Machines for Pattern Recognition
+authors:
+- J. C. BurgesChristopher
+fieldsOfStudy:
+- Computer Science
+meta_key: a-tutorial-on-support-vector-machines-for-pattern-recognition
+numCitedBy: 13527
 pdf_relpath: null
+ref_count: 44
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ''
+year: 1998
 ---
 
 # A Tutorial on Support Vector Machines for Pattern Recognition

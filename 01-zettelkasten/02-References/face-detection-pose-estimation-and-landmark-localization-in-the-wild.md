@@ -1,10 +1,20 @@
 ---
 title: Face detection, pose estimation, and landmark localization in the wild
+authors:
+- Xiangxin Zhu
+- D. Ramanan
+fieldsOfStudy:
+- Computer Science
+meta_key: face-detection-pose-estimation-and-landmark-localization-in-the-wild
+numCitedBy: 2146
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2012 IEEE Conference on Computer Vision and Pattern Recognition
+year: 2012
 ---
 
 # Face detection, pose estimation, and landmark localization in the wild

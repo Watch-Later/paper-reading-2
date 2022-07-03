@@ -1,10 +1,21 @@
 ---
 title: Total-Text - A Comprehensive Dataset for Scene Text Detection and Recognition
+authors:
+- Chee-Kheng Chng
+- Chee Seng Chan
+fieldsOfStudy:
+- Computer Science
+meta_key: total-text-a-comprehensive-dataset-for-scene-text-detection-and-recognition
+numCitedBy: 222
 pdf_relpath: null
+ref_count: 25
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 14th IAPR International Conference on Document Analysis and Recognition
+  (ICDAR)
+year: 2017
 ---
 
 # Total-Text - A Comprehensive Dataset for Scene Text Detection and Recognition

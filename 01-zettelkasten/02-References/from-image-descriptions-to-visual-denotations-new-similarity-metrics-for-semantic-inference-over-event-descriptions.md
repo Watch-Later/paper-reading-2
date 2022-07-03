@@ -1,10 +1,22 @@
 ---
 title: From image descriptions to visual denotations - New similarity metrics for semantic inference over event descriptions
+authors:
+- Peter Young
+- Alice Lai
+- M. Hodosh
+- J. Hockenmaier
+fieldsOfStudy:
+- Computer Science
+meta_key: from-image-descriptions-to-visual-denotations-new-similarity-metrics-for-semantic-inference-over-event-descriptions
+numCitedBy: 1323
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: TACL
+year: 2014
 ---
 
 # From image descriptions to visual denotations - New similarity metrics for semantic inference over event descriptions

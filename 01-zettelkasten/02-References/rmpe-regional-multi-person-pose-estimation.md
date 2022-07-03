@@ -1,10 +1,22 @@
 ---
 title: RMPE - Regional Multi-person Pose Estimation
+authors:
+- Haoshu Fang
+- S. Xie
+- Yu-Wing Tai
+- Cewu Lu
+fieldsOfStudy:
+- Computer Science
+meta_key: rmpe-regional-multi-person-pose-estimation
+numCitedBy: 779
 pdf_relpath: null
+ref_count: 70
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # RMPE - Regional Multi-person Pose Estimation

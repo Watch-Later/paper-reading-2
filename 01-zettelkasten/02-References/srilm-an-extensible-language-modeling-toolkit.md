@@ -1,10 +1,19 @@
 ---
 title: SRILM - an extensible language modeling toolkit
+authors:
+- A. Stolcke
+fieldsOfStudy:
+- Computer Science
+meta_key: srilm-an-extensible-language-modeling-toolkit
+numCitedBy: 4996
 pdf_relpath: null
+ref_count: 38
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: INTERSPEECH
+year: 2002
 ---
 
 # SRILM - an extensible language modeling toolkit

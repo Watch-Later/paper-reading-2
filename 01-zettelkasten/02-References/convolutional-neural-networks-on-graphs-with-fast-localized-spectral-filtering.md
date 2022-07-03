@@ -1,10 +1,21 @@
 ---
 title: Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering
+authors:
+- M. Defferrard
+- X. Bresson
+- P. Vandergheynst
+fieldsOfStudy:
+- Computer Science
+meta_key: convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering
+numCitedBy: 4145
 pdf_relpath: null
+ref_count: 46
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2016
 ---
 
 # Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering

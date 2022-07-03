@@ -1,10 +1,20 @@
 ---
 title: Pattern Classification
+authors:
+- Shigeo Abe DrEng
+fieldsOfStudy:
+- Mathematics
+- Environmental Science
+meta_key: pattern-classification
+numCitedBy: 13095
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Springer London
+year: 2001
 ---
 
 # Pattern Classification

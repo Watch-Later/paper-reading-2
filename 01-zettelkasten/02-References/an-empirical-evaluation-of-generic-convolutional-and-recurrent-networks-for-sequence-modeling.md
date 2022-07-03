@@ -1,10 +1,21 @@
 ---
 title: An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
+authors:
+- Shaojie Bai
+- J. Z. Kolter
+- V. Koltun
+fieldsOfStudy:
+- Computer Science
+meta_key: an-empirical-evaluation-of-generic-convolutional-and-recurrent-networks-for-sequence-modeling
+numCitedBy: 1756
 pdf_relpath: null
+ref_count: 86
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2018
 ---
 
 # An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling

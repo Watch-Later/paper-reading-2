@@ -1,10 +1,23 @@
 ---
 title: TextBoxes - A Fast Text Detector with a Single Deep Neural Network
+authors:
+- Minghui Liao
+- Baoguang Shi
+- X. Bai
+- Xinggang Wang
+- Wenyu Liu
+fieldsOfStudy:
+- Computer Science
+meta_key: textboxes-a-fast-text-detector-with-a-single-deep-neural-network
+numCitedBy: 540
 pdf_relpath: null
+ref_count: 37
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: AAAI
+year: 2017
 ---
 
 # TextBoxes - A Fast Text Detector with a Single Deep Neural Network

@@ -1,10 +1,23 @@
 ---
 title: Object Detectors Emerge in Deep Scene CNNs
+authors:
+- Bolei Zhou
+- A. Khosla
+- "\xC0. Lapedriza"
+- A. Oliva
+- A. Torralba
+fieldsOfStudy:
+- Computer Science
+meta_key: object-detectors-emerge-in-deep-scene-cnns
+numCitedBy: 1030
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2015
 ---
 
 # Object Detectors Emerge in Deep Scene CNNs

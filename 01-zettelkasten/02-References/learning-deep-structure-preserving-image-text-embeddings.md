@@ -1,10 +1,21 @@
 ---
 title: Learning Deep Structure-Preserving Image-Text Embeddings
+authors:
+- Liwei Wang
+- Yin Li
+- S. Lazebnik
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-deep-structure-preserving-image-text-embeddings
+numCitedBy: 582
 pdf_relpath: null
+ref_count: 56
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Learning Deep Structure-Preserving Image-Text Embeddings

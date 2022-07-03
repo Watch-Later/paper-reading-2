@@ -1,10 +1,22 @@
 ---
 title: Text-Attentional Convolutional Neural Network for Scene Text Detection
+authors:
+- Tong He
+- Weilin Huang
+- Y. Qiao
+- Jian Yao
+fieldsOfStudy:
+- Computer Science
+meta_key: text-attentional-convolutional-neural-network-for-scene-text-detection
+numCitedBy: 213
 pdf_relpath: null
+ref_count: 66
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Image Processing
+year: 2016
 ---
 
 # Text-Attentional Convolutional Neural Network for Scene Text Detection

@@ -1,10 +1,29 @@
 ---
 title: Deep Speech - Scaling up end-to-end speech recognition
+authors:
+- Awni Y. Hannun
+- Carl Case
+- J. Casper
+- Bryan Catanzaro
+- G. Diamos
+- Erich Elsen
+- R. Prenger
+- S. Satheesh
+- Shubho Sengupta
+- Adam Coates
+- A. Ng
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-speech-scaling-up-end-to-end-speech-recognition
+numCitedBy: 1529
 pdf_relpath: null
+ref_count: 49
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2014
 ---
 
 # Deep Speech - Scaling up end-to-end speech recognition

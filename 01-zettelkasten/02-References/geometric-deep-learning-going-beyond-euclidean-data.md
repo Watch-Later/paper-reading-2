@@ -1,10 +1,23 @@
 ---
 title: Geometric Deep Learning - Going beyond Euclidean data
+authors:
+- M. Bronstein
+- Joan Bruna
+- Yann LeCun
+- Arthur D. Szlam
+- P. Vandergheynst
+fieldsOfStudy:
+- Computer Science
+meta_key: geometric-deep-learning-going-beyond-euclidean-data
+numCitedBy: 1982
 pdf_relpath: null
+ref_count: 129
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Signal Processing Magazine
+year: 2017
 ---
 
 # Geometric Deep Learning - Going beyond Euclidean data

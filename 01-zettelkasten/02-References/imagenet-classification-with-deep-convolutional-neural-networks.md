@@ -1,10 +1,21 @@
 ---
 title: ImageNet classification with deep convolutional neural networks
+authors:
+- A. Krizhevsky
+- Ilya Sutskever
+- Geoffrey E. Hinton
+fieldsOfStudy:
+- Computer Science
+meta_key: imagenet-classification-with-deep-convolutional-neural-networks
+numCitedBy: 80944
 pdf_relpath: null
+ref_count: 50
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Commun. ACM
+year: 2012
 ---
 
 # ImageNet classification with deep convolutional neural networks

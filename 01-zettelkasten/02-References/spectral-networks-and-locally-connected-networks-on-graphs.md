@@ -1,10 +1,22 @@
 ---
 title: Spectral Networks and Locally Connected Networks on Graphs
+authors:
+- Joan Bruna
+- Wojciech Zaremba
+- Arthur D. Szlam
+- Yann LeCun
+fieldsOfStudy:
+- Computer Science
+meta_key: spectral-networks-and-locally-connected-networks-on-graphs
+numCitedBy: 2788
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2014
 ---
 
 # Spectral Networks and Locally Connected Networks on Graphs

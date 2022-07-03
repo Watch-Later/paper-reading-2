@@ -1,10 +1,30 @@
 ---
 title: The Open Images Dataset V4
+authors:
+- A. Kuznetsova
+- H. Rom
+- N. Alldrin
+- J. Uijlings
+- Ivan Krasin
+- J. Pont-Tuset
+- S. Kamali
+- S. Popov
+- M. Malloci
+- Alexander Kolesnikov
+- Tom Duerig
+- V. Ferrari
+fieldsOfStudy:
+- Computer Science
+meta_key: the-open-images-dataset-v4
+numCitedBy: 521
 pdf_relpath: null
+ref_count: 73
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: International Journal of Computer Vision
+year: 2020
 ---
 
 # The Open Images Dataset V4

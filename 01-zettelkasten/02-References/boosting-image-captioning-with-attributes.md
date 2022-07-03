@@ -1,10 +1,23 @@
 ---
 title: Boosting Image Captioning with Attributes
+authors:
+- Ting Yao
+- Yingwei Pan
+- Yehao Li
+- Zhaofan Qiu
+- Tao Mei
+fieldsOfStudy:
+- Computer Science
+meta_key: boosting-image-captioning-with-attributes
+numCitedBy: 463
 pdf_relpath: null
+ref_count: 51
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # Boosting Image Captioning with Attributes

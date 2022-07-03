@@ -1,10 +1,26 @@
 ---
 title: Objects365 - A Large-Scale, High-Quality Dataset for Object Detection
+authors:
+- Shuai Shao
+- Zeming Li
+- Tianyuan Zhang
+- Chao Peng
+- Gang Yu
+- X. Zhang
+- Jing Li
+- Jian Sun
+fieldsOfStudy:
+- Computer Science
+meta_key: objects365-a-large-scale-high-quality-dataset-for-object-detection
+numCitedBy: 137
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
+year: 2019
 ---
 
 # Objects365 - A Large-Scale, High-Quality Dataset for Object Detection

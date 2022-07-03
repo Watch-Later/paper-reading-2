@@ -1,10 +1,20 @@
 ---
 title: Few-Shot Learning with Graph Neural Networks
+authors:
+- Victor Garcia Satorras
+- Joan Bruna
+fieldsOfStudy:
+- Computer Science
+meta_key: few-shot-learning-with-graph-neural-networks
+numCitedBy: 702
 pdf_relpath: null
+ref_count: 32
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2018
 ---
 
 # Few-Shot Learning with Graph Neural Networks

@@ -1,10 +1,20 @@
 ---
 title: Video Google - a text retrieval approach to object matching in videos
+authors:
+- Josef Sivic
+- Andrew Zisserman
+fieldsOfStudy:
+- Computer Science
+meta_key: video-google-a-text-retrieval-approach-to-object-matching-in-videos
+numCitedBy: 6760
 pdf_relpath: null
+ref_count: 21
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Proceedings Ninth IEEE International Conference on Computer Vision
+year: 2003
 ---
 
 # Video Google - a text retrieval approach to object matching in videos

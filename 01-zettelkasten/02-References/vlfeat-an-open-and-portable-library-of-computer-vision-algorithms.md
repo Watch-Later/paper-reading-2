@@ -1,10 +1,20 @@
 ---
 title: Vlfeat - an open and portable library of computer vision algorithms
+authors:
+- A. Vedaldi
+- B. Fulkerson
+fieldsOfStudy:
+- Computer Science
+meta_key: vlfeat-an-open-and-portable-library-of-computer-vision-algorithms
+numCitedBy: 3386
 pdf_relpath: null
+ref_count: 16
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACM Multimedia
+year: 2010
 ---
 
 # Vlfeat - an open and portable library of computer vision algorithms

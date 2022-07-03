@@ -1,10 +1,23 @@
 ---
 title: Neural Message Passing for Quantum Chemistry
+authors:
+- J. Gilmer
+- S. Schoenholz
+- Patrick F. Riley
+- Oriol Vinyals
+- George E. Dahl
+fieldsOfStudy:
+- Computer Science
+meta_key: neural-message-passing-for-quantum-chemistry
+numCitedBy: 3235
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2017
 ---
 
 # Neural Message Passing for Quantum Chemistry

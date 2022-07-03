@@ -1,5 +1,6 @@
 ---
 title: Toward A Comfortable Driving Experience For A Self Driving Shuttle Bus
+meta_key: toward-a-comfortable-driving-experience-for-a-self-driving-shuttle-bus
 pdf_relpath: pdfs/toward-a-comfortable-driving-experience-for-a-self-driving-shuttle-bus.pdf
 status: todo
 tags:

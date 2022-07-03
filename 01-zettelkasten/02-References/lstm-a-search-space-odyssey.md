@@ -1,10 +1,23 @@
 ---
 title: LSTM - A Search Space Odyssey
+authors:
+- Klaus Greff
+- R. Srivastava
+- "J. Koutn\xEDk"
+- Bas R. Steunebrink
+- J. Schmidhuber
+fieldsOfStudy:
+- Computer Science
+meta_key: lstm-a-search-space-odyssey
+numCitedBy: 3295
 pdf_relpath: null
+ref_count: 64
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Neural Networks and Learning Systems
+year: 2017
 ---
 
 # LSTM - A Search Space Odyssey

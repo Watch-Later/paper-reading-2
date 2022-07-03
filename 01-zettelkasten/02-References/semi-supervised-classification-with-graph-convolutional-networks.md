@@ -1,10 +1,20 @@
 ---
 title: Semi-Supervised Classification with Graph Convolutional Networks
+authors:
+- Thomas Kipf
+- M. Welling
+fieldsOfStudy:
+- Computer Science
+meta_key: semi-supervised-classification-with-graph-convolutional-networks
+numCitedBy: 11719
 pdf_relpath: null
+ref_count: 43
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2017
 ---
 
 # Semi-Supervised Classification with Graph Convolutional Networks

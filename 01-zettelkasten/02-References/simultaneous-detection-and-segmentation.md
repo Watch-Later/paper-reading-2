@@ -1,10 +1,22 @@
 ---
 title: Simultaneous Detection and Segmentation
+authors:
+- Bharath Hariharan
+- "Pablo Arbel\xE1ez"
+- Ross B. Girshick
+- Jitendra Malik
+fieldsOfStudy:
+- Computer Science
+meta_key: simultaneous-detection-and-segmentation
+numCitedBy: 1062
 pdf_relpath: null
+ref_count: 38
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2014
 ---
 
 # Simultaneous Detection and Segmentation

@@ -1,10 +1,22 @@
 ---
 title: Revealing the Dark Secrets of BERT
+authors:
+- Olga Kovaleva
+- Alexey Romanov
+- Anna Rogers
+- Anna Rumshisky
+fieldsOfStudy:
+- Computer Science
+meta_key: revealing-the-dark-secrets-of-bert
+numCitedBy: 290
 pdf_relpath: null
+ref_count: 28
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2019
 ---
 
 # Revealing the Dark Secrets of BERT

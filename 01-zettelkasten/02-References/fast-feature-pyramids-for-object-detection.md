@@ -1,10 +1,22 @@
 ---
 title: Fast Feature Pyramids for Object Detection
+authors:
+- "P. Doll\xE1r"
+- Ron Appel
+- Serge J. Belongie
+- P. Perona
+fieldsOfStudy:
+- Computer Science
+meta_key: fast-feature-pyramids-for-object-detection
+numCitedBy: 1707
 pdf_relpath: null
+ref_count: 80
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2014
 ---
 
 # Fast Feature Pyramids for Object Detection

@@ -1,10 +1,26 @@
 ---
 title: Attention-Based Extraction of Structured Information from Street View Imagery
+authors:
+- Z. Wojna
+- Alexander N. Gorban
+- Dar-Shyang Lee
+- K. Murphy
+- Qian Yu
+- Yeqing Li
+- Julian Ibarz
+fieldsOfStudy:
+- Computer Science
+meta_key: attention-based-extraction-of-structured-information-from-street-view-imagery
+numCitedBy: 105
 pdf_relpath: null
+ref_count: 32
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 14th IAPR International Conference on Document Analysis and Recognition
+  (ICDAR)
+year: 2017
 ---
 
 # Attention-Based Extraction of Structured Information from Street View Imagery

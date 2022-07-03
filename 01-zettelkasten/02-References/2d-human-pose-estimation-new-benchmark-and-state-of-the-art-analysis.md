@@ -1,10 +1,22 @@
 ---
 title: 2D Human Pose Estimation - New Benchmark and State of the Art Analysis
+authors:
+- M. Andriluka
+- L. Pishchulin
+- P. Gehler
+- B. Schiele
+fieldsOfStudy:
+- Computer Science
+meta_key: 2d-human-pose-estimation-new-benchmark-and-state-of-the-art-analysis
+numCitedBy: 1526
 pdf_relpath: null
+ref_count: 29
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2014 IEEE Conference on Computer Vision and Pattern Recognition
+year: 2014
 ---
 
 # 2D Human Pose Estimation - New Benchmark and State of the Art Analysis

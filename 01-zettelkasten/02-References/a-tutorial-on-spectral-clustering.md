@@ -1,10 +1,19 @@
 ---
 title: A tutorial on spectral clustering
+authors:
+- U. V. Luxburg
+fieldsOfStudy:
+- Computer Science
+meta_key: a-tutorial-on-spectral-clustering
+numCitedBy: 8306
 pdf_relpath: null
+ref_count: 96
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Stat. Comput.
+year: 2007
 ---
 
 # A tutorial on spectral clustering

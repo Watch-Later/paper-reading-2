@@ -1,10 +1,21 @@
 ---
 title: Acoustic Modeling Using Deep Belief Networks
+authors:
+- Abdel-rahman Mohamed
+- George E. Dahl
+- Geoffrey E. Hinton
+fieldsOfStudy:
+- Computer Science
+meta_key: acoustic-modeling-using-deep-belief-networks
+numCitedBy: 1641
 pdf_relpath: null
+ref_count: 64
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Audio, Speech, and Language Processing
+year: 2012
 ---
 
 # Acoustic Modeling Using Deep Belief Networks

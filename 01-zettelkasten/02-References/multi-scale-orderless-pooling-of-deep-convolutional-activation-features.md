@@ -1,10 +1,23 @@
 ---
 title: Multi-scale Orderless Pooling of Deep Convolutional Activation Features
+authors:
+- Yunchao Gong
+- Liwei Wang
+- Ruiqi Guo
+- S. Lazebnik
+fieldsOfStudy:
+- Computer Science
+- Environmental Science
+meta_key: multi-scale-orderless-pooling-of-deep-convolutional-activation-features
+numCitedBy: 1000
 pdf_relpath: null
+ref_count: 49
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2014
 ---
 
 # Multi-scale Orderless Pooling of Deep Convolutional Activation Features

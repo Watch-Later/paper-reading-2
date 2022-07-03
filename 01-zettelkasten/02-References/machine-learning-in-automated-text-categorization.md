@@ -1,10 +1,19 @@
 ---
 title: Machine learning in automated text categorization
+authors:
+- F. Sebastiani
+fieldsOfStudy:
+- Computer Science
+meta_key: machine-learning-in-automated-text-categorization
+numCitedBy: 8449
 pdf_relpath: null
+ref_count: 224
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: CSUR
+year: 2002
 ---
 
 # Machine learning in automated text categorization

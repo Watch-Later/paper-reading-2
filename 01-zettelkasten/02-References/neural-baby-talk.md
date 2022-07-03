@@ -1,10 +1,22 @@
 ---
 title: Neural Baby Talk
+authors:
+- Jiasen Lu
+- Jianwei Yang
+- Dhruv Batra
+- Devi Parikh
+fieldsOfStudy:
+- Computer Science
+meta_key: neural-baby-talk
+numCitedBy: 306
 pdf_relpath: null
+ref_count: 52
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # Neural Baby Talk

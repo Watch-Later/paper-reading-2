@@ -1,10 +1,24 @@
 ---
 title: Multi-oriented Text Detection with Fully Convolutional Networks
+authors:
+- Zheng Zhang
+- Chengquan Zhang
+- Wei Shen
+- C. Yao
+- Wenyu Liu
+- X. Bai
+fieldsOfStudy:
+- Computer Science
+meta_key: multi-oriented-text-detection-with-fully-convolutional-networks
+numCitedBy: 394
 pdf_relpath: null
+ref_count: 41
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Multi-oriented Text Detection with Fully Convolutional Networks

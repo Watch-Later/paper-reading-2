@@ -1,10 +1,21 @@
 ---
 title: Rapid object detection using a boosted cascade of simple features
+authors:
+- Paul A. Viola
+- Michael J. Jones
+fieldsOfStudy:
+- Computer Science
+meta_key: rapid-object-detection-using-a-boosted-cascade-of-simple-features
+numCitedBy: 17886
 pdf_relpath: null
+ref_count: 25
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision
+  and Pattern Recognition. CVPR 2001
+year: 2001
 ---
 
 # Rapid object detection using a boosted cascade of simple features

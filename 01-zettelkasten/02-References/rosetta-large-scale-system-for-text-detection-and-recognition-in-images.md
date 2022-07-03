@@ -1,10 +1,21 @@
 ---
 title: Rosetta - Large Scale System for Text Detection and Recognition in Images
+authors:
+- Fedor Borisyuk
+- Albert Gordo
+- V. Sivakumar
+fieldsOfStudy:
+- Computer Science
+meta_key: rosetta-large-scale-system-for-text-detection-and-recognition-in-images
+numCitedBy: 137
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: KDD
+year: 2018
 ---
 
 # Rosetta - Large Scale System for Text Detection and Recognition in Images

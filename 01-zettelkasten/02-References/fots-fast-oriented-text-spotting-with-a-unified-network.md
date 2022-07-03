@@ -1,10 +1,24 @@
 ---
 title: FOTS - Fast Oriented Text Spotting with a Unified Network
+authors:
+- Xuebo Liu
+- Ding Liang
+- Shipeng Yan
+- Dagui Chen
+- Y. Qiao
+- Junjie Yan
+fieldsOfStudy:
+- Computer Science
+meta_key: fots-fast-oriented-text-spotting-with-a-unified-network
+numCitedBy: 321
 pdf_relpath: null
+ref_count: 54
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # FOTS - Fast Oriented Text Spotting with a Unified Network

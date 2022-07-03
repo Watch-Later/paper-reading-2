@@ -1,10 +1,22 @@
 ---
 title: Visual Relationship Detection with Language Priors
+authors:
+- Cewu Lu
+- Ranjay Krishna
+- Michael S. Bernstein
+- Li Fei-Fei
+fieldsOfStudy:
+- Computer Science
+meta_key: visual-relationship-detection-with-language-priors
+numCitedBy: 709
 pdf_relpath: null
+ref_count: 49
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # Visual Relationship Detection with Language Priors

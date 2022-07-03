@@ -1,10 +1,21 @@
 ---
 title: Rethinking ImageNet Pre-Training
+authors:
+- Kaiming He
+- Ross B. Girshick
+- "Piotr Doll\xE1r"
+fieldsOfStudy:
+- Computer Science
+meta_key: rethinking-imagenet-pre-training
+numCitedBy: 579
 pdf_relpath: null
+ref_count: 57
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
+year: 2019
 ---
 
 # Rethinking ImageNet Pre-Training

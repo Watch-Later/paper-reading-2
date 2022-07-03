@@ -1,10 +1,22 @@
 ---
 title: Neural Motifs - Scene Graph Parsing with Global Context
+authors:
+- Rowan Zellers
+- Mark Yatskar
+- Sam Thomson
+- Yejin Choi
+fieldsOfStudy:
+- Computer Science
+meta_key: neural-motifs-scene-graph-parsing-with-global-context
+numCitedBy: 457
 pdf_relpath: null
+ref_count: 60
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # Neural Motifs - Scene Graph Parsing with Global Context

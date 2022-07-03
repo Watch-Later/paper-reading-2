@@ -1,10 +1,21 @@
 ---
 title: Eigenfaces vs. Fisherfaces - Recognition Using Class Specific Linear Projection
+authors:
+- P. Belhumeur
+- J. Hespanha
+- D. Kriegman
+fieldsOfStudy:
+- Computer Science
+meta_key: eigenfaces-vs-fisherfaces-recognition-using-class-specific-linear-projection
+numCitedBy: 11723
 pdf_relpath: null
+ref_count: 46
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Trans. Pattern Anal. Mach. Intell.
+year: 1997
 ---
 
 # Eigenfaces vs. Fisherfaces - Recognition Using Class Specific Linear Projection

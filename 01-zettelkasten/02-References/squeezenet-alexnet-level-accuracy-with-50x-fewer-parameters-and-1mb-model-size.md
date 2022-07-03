@@ -1,10 +1,24 @@
 ---
 title: SqueezeNet - AlexNet-level accuracy with 50x fewer parameters and <1MB model size
+authors:
+- Forrest N. Iandola
+- M. Moskewicz
+- Khalid Ashraf
+- Song Han
+- W. Dally
+- K. Keutzer
+fieldsOfStudy:
+- Computer Science
+meta_key: squeezenet-alexnet-level-accuracy-with-50x-fewer-parameters-and-1mb-model-size
+numCitedBy: 4035
 pdf_relpath: null
+ref_count: 62
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2016
 ---
 
 # SqueezeNet - AlexNet-level accuracy with 50x fewer parameters and <1MB model size

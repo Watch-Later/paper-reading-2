@@ -1,10 +1,19 @@
 ---
 title: ADADELTA - An Adaptive Learning Rate Method
+authors:
+- Matthew D. Zeiler
+fieldsOfStudy:
+- Computer Science
+meta_key: adadelta-an-adaptive-learning-rate-method
+numCitedBy: 5463
 pdf_relpath: null
+ref_count: 8
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2012
 ---
 
 # ADADELTA - An Adaptive Learning Rate Method

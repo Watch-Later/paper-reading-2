@@ -1,10 +1,21 @@
 ---
 title: Depth Map Prediction from a Single Image using a Multi-Scale Deep Network
+authors:
+- D. Eigen
+- Christian Puhrsch
+- R. Fergus
+fieldsOfStudy:
+- Computer Science
+meta_key: depth-map-prediction-from-a-single-image-using-a-multi-scale-deep-network
+numCitedBy: 2394
 pdf_relpath: null
+ref_count: 22
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2014
 ---
 
 # Depth Map Prediction from a Single Image using a Multi-Scale Deep Network

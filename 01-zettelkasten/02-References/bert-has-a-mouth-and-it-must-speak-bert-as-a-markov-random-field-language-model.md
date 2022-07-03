@@ -1,10 +1,21 @@
 ---
 title: BERT has a Mouth, and It Must Speak - BERT as a Markov Random Field Language Model
+authors:
+- Alex Wang
+- Kyunghyun Cho
+fieldsOfStudy:
+- Computer Science
+meta_key: bert-has-a-mouth-and-it-must-speak-bert-as-a-markov-random-field-language-model
+numCitedBy: 194
 pdf_relpath: null
+ref_count: 24
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Proceedings of the Workshop on Methods for Optimizing and Evaluating Neural
+  Language Generation
+year: 2019
 ---
 
 # BERT has a Mouth, and It Must Speak - BERT as a Markov Random Field Language Model

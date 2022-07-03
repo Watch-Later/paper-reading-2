@@ -1,10 +1,19 @@
 ---
 title: Deep learning in neural networks - An overview
+authors:
+- J. Schmidhuber
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-learning-in-neural-networks-an-overview
+numCitedBy: 11779
 pdf_relpath: null
+ref_count: 1175
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Neural Networks
+year: 2015
 ---
 
 # Deep learning in neural networks - An overview

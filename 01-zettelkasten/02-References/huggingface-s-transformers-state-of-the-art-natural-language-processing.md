@@ -1,10 +1,29 @@
 ---
 title: HuggingFace's Transformers - State-of-the-art Natural Language Processing
+authors:
+- Thomas Wolf
+- Lysandre Debut
+- Victor Sanh
+- Julien Chaumond
+- Clement Delangue
+- Anthony Moi
+- Pierric Cistac
+- T. Rault
+- "R\xE9mi Louf"
+- Morgan Funtowicz
+- Jamie Brew
+fieldsOfStudy:
+- Computer Science
+meta_key: huggingface-s-transformers-state-of-the-art-natural-language-processing
+numCitedBy: 2730
 pdf_relpath: null
+ref_count: 80
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2019
 ---
 
 # HuggingFace's Transformers - State-of-the-art Natural Language Processing

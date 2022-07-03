@@ -1,10 +1,25 @@
 ---
 title: A MultiPath Network for Object Detection
+authors:
+- Sergey Zagoruyko
+- Adam Lerer
+- Tsung-Yi Lin
+- Pedro H. O. Pinheiro
+- S. Gross
+- Soumith Chintala
+- "Piotr Doll\xE1r"
+fieldsOfStudy:
+- Computer Science
+meta_key: a-multipath-network-for-object-detection
+numCitedBy: 182
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: BMVC
+year: 2016
 ---
 
 # A MultiPath Network for Object Detection

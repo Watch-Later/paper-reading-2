@@ -1,10 +1,22 @@
 ---
 title: Deep Neural Networks Segment Neuronal Membranes in Electron Microscopy Images
+authors:
+- D. Ciresan
+- A. Giusti
+- L. Gambardella
+- J. Schmidhuber
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-neural-networks-segment-neuronal-membranes-in-electron-microscopy-images
+numCitedBy: 1223
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2012
 ---
 
 # Deep Neural Networks Segment Neuronal Membranes in Electron Microscopy Images

@@ -1,10 +1,22 @@
 ---
 title: Convolutional Pose Machines
+authors:
+- Shih-En Wei
+- V. Ramakrishna
+- T. Kanade
+- Yaser Sheikh
+fieldsOfStudy:
+- Computer Science
+meta_key: convolutional-pose-machines
+numCitedBy: 2019
 pdf_relpath: null
+ref_count: 50
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
 ---
 
 # Convolutional Pose Machines

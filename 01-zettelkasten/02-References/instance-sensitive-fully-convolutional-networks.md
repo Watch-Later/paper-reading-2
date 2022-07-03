@@ -1,10 +1,23 @@
 ---
 title: Instance-Sensitive Fully Convolutional Networks
+authors:
+- Jifeng Dai
+- Kaiming He
+- Yi Li
+- Shaoqing Ren
+- Jian Sun
+fieldsOfStudy:
+- Computer Science
+meta_key: instance-sensitive-fully-convolutional-networks
+numCitedBy: 307
 pdf_relpath: null
+ref_count: 31
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # Instance-Sensitive Fully Convolutional Networks

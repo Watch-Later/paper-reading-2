@@ -1,10 +1,24 @@
 ---
 title: Transformer-XL - Attentive Language Models beyond a Fixed-Length Context
+authors:
+- Zihang Dai
+- Zhilin Yang
+- Yiming Yang
+- J. Carbonell
+- Quoc V. Le
+- R. Salakhutdinov
+fieldsOfStudy:
+- Computer Science
+meta_key: transformer-xl-attentive-language-models-beyond-a-fixed-length-context
+numCitedBy: 1771
 pdf_relpath: null
+ref_count: 68
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2019
 ---
 
 # Transformer-XL - Attentive Language Models beyond a Fixed-Length Context

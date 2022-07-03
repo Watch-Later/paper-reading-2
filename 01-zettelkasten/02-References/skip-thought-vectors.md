@@ -1,10 +1,25 @@
 ---
 title: Skip-Thought Vectors
+authors:
+- Ryan Kiros
+- Yukun Zhu
+- R. Salakhutdinov
+- R. Zemel
+- R. Urtasun
+- A. Torralba
+- S. Fidler
+fieldsOfStudy:
+- Computer Science
+meta_key: skip-thought-vectors
+numCitedBy: 1928
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2015
 ---
 
 # Skip-Thought Vectors

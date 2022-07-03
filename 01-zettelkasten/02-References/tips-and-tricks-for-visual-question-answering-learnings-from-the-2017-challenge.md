@@ -1,10 +1,22 @@
 ---
 title: Tips and Tricks for Visual Question Answering - Learnings from the 2017 Challenge
+authors:
+- Damien Teney
+- Peter Anderson
+- Xiaodong He
+- A. V. Hengel
+fieldsOfStudy:
+- Computer Science
+meta_key: tips-and-tricks-for-visual-question-answering-learnings-from-the-2017-challenge
+numCitedBy: 286
 pdf_relpath: null
+ref_count: 49
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # Tips and Tricks for Visual Question Answering - Learnings from the 2017 Challenge

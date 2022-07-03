@@ -1,10 +1,21 @@
 ---
 title: Instance-Aware Image and Sentence Matching with Selective Multimodal LSTM
+authors:
+- Yan Huang
+- Wei Wang
+- Liang Wang
+fieldsOfStudy:
+- Computer Science
+meta_key: instance-aware-image-and-sentence-matching-with-selective-multimodal-lstm
+numCitedBy: 159
 pdf_relpath: null
+ref_count: 41
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # Instance-Aware Image and Sentence Matching with Selective Multimodal LSTM

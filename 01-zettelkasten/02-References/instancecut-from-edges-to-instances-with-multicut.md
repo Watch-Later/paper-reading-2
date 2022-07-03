@@ -1,10 +1,23 @@
 ---
 title: InstanceCut - From Edges to Instances with MultiCut
+authors:
+- Alexander Kirillov
+- Evgeny Levinkov
+- Bjoern Andres
+- Bogdan Savchynskyy
+- C. Rother
+fieldsOfStudy:
+- Computer Science
+meta_key: instancecut-from-edges-to-instances-with-multicut
+numCitedBy: 185
 pdf_relpath: null
+ref_count: 68
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2017
 ---
 
 # InstanceCut - From Edges to Instances with MultiCut

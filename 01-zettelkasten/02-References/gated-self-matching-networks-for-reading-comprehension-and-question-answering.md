@@ -1,10 +1,23 @@
 ---
 title: Gated Self-Matching Networks for Reading Comprehension and Question Answering
+authors:
+- Wenhui Wang
+- Nan Yang
+- Furu Wei
+- Baobao Chang
+- M. Zhou
+fieldsOfStudy:
+- Computer Science
+meta_key: gated-self-matching-networks-for-reading-comprehension-and-question-answering
+numCitedBy: 573
 pdf_relpath: null
+ref_count: 38
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2017
 ---
 
 # Gated Self-Matching Networks for Reading Comprehension and Question Answering

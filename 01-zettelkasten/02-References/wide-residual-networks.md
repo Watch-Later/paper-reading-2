@@ -1,10 +1,20 @@
 ---
 title: Wide Residual Networks
+authors:
+- Sergey Zagoruyko
+- N. Komodakis
+fieldsOfStudy:
+- Computer Science
+meta_key: wide-residual-networks
+numCitedBy: 4264
 pdf_relpath: null
+ref_count: 41
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: BMVC
+year: 2016
 ---
 
 # Wide Residual Networks

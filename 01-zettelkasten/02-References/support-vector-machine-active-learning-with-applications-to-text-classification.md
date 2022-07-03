@@ -1,10 +1,20 @@
 ---
 title: Support Vector Machine Active Learning with Applications to Text Classification
+authors:
+- Simon Tong
+- D. Koller
+fieldsOfStudy:
+- Computer Science
+meta_key: support-vector-machine-active-learning-with-applications-to-text-classification
+numCitedBy: 3138
 pdf_relpath: null
+ref_count: 57
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: J. Mach. Learn. Res.
+year: 2001
 ---
 
 # Support Vector Machine Active Learning with Applications to Text Classification

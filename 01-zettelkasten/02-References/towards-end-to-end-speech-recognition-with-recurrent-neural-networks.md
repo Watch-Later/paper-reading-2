@@ -1,10 +1,20 @@
 ---
 title: Towards End-To-End Speech Recognition with Recurrent Neural Networks
+authors:
+- A. Graves
+- Navdeep Jaitly
+fieldsOfStudy:
+- Computer Science
+meta_key: towards-end-to-end-speech-recognition-with-recurrent-neural-networks
+numCitedBy: 1758
 pdf_relpath: null
+ref_count: 23
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICML
+year: 2014
 ---
 
 # Towards End-To-End Speech Recognition with Recurrent Neural Networks

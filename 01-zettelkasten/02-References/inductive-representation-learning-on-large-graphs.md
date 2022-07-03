@@ -1,10 +1,21 @@
 ---
 title: Inductive Representation Learning on Large Graphs
+authors:
+- William L. Hamilton
+- Z. Ying
+- J. Leskovec
+fieldsOfStudy:
+- Computer Science
+meta_key: inductive-representation-learning-on-large-graphs
+numCitedBy: 5439
 pdf_relpath: null
+ref_count: 45
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2017
 ---
 
 # Inductive Representation Learning on Large Graphs

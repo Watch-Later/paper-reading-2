@@ -1,10 +1,25 @@
 ---
 title: DeViSE - A Deep Visual-Semantic Embedding Model
+authors:
+- Andrea Frome
+- G. Corrado
+- Jonathon Shlens
+- Samy Bengio
+- J. Dean
+- Marc'Aurelio Ranzato
+- Tomas Mikolov
+fieldsOfStudy:
+- Computer Science
+meta_key: devise-a-deep-visual-semantic-embedding-model
+numCitedBy: 1950
 pdf_relpath: null
+ref_count: 27
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2013
 ---
 
 # DeViSE - A Deep Visual-Semantic Embedding Model

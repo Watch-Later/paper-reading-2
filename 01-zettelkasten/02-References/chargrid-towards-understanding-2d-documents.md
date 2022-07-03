@@ -1,10 +1,25 @@
 ---
 title: Chargrid - Towards Understanding 2D Documents
+authors:
+- Anoop R. Katti
+- C. Reisswig
+- Cordula Guder
+- Sebastian Brarda
+- S. Bickel
+- "J. H\xF6hne"
+- J. Faddoul
+fieldsOfStudy:
+- Computer Science
+meta_key: chargrid-towards-understanding-2d-documents
+numCitedBy: 100
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2018
 ---
 
 # Chargrid - Towards Understanding 2D Documents

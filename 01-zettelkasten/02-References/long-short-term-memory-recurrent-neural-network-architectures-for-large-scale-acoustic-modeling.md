@@ -1,10 +1,21 @@
 ---
 title: Long short-term memory recurrent neural network architectures for large scale acoustic modeling
+authors:
+- H. Sak
+- A. Senior
+- F. Beaufays
+fieldsOfStudy:
+- Computer Science
+meta_key: long-short-term-memory-recurrent-neural-network-architectures-for-large-scale-acoustic-modeling
+numCitedBy: 1952
 pdf_relpath: null
+ref_count: 25
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: INTERSPEECH
+year: 2014
 ---
 
 # Long short-term memory recurrent neural network architectures for large scale acoustic modeling

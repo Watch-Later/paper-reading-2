@@ -1,10 +1,23 @@
 ---
 title: Cross-Sentence N-ary Relation Extraction with Graph LSTMs
+authors:
+- Nanyun Peng
+- Hoifung Poon
+- Chris Quirk
+- Kristina Toutanova
+- Wen-tau Yih
+fieldsOfStudy:
+- Computer Science
+meta_key: cross-sentence-n-ary-relation-extraction-with-graph-lstms
+numCitedBy: 346
 pdf_relpath: null
+ref_count: 61
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: TACL
+year: 2017
 ---
 
 # Cross-Sentence N-ary Relation Extraction with Graph LSTMs

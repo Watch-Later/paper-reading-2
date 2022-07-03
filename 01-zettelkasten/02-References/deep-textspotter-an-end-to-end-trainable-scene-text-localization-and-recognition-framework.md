@@ -1,10 +1,21 @@
 ---
 title: Deep TextSpotter - An End-to-End Trainable Scene Text Localization and Recognition Framework
+authors:
+- M. Busta
+- "Luk\xE1s Neumann"
+- Jiri Matas
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-textspotter-an-end-to-end-trainable-scene-text-localization-and-recognition-framework
+numCitedBy: 172
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2017 IEEE International Conference on Computer Vision (ICCV)
+year: 2017
 ---
 
 # Deep TextSpotter - An End-to-End Trainable Scene Text Localization and Recognition Framework

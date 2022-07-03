@@ -1,10 +1,24 @@
 ---
 title: Large-Scale Adversarial Training for Vision-and-Language Representation Learning
+authors:
+- Zhe Gan
+- Yen-Chun Chen
+- Linjie Li
+- Chen Zhu
+- Yu Cheng
+- Jingjing Liu
+fieldsOfStudy:
+- Computer Science
+meta_key: large-scale-adversarial-training-for-vision-and-language-representation-learning
+numCitedBy: 169
 pdf_relpath: null
+ref_count: 94
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NeurIPS
+year: 2020
 ---
 
 # Large-Scale Adversarial Training for Vision-and-Language Representation Learning

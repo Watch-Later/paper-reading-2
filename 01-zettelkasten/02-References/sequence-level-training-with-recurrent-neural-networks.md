@@ -1,10 +1,22 @@
 ---
 title: Sequence Level Training with Recurrent Neural Networks
+authors:
+- Marc'Aurelio Ranzato
+- S. Chopra
+- Michael Auli
+- Wojciech Zaremba
+fieldsOfStudy:
+- Computer Science
+meta_key: sequence-level-training-with-recurrent-neural-networks
+numCitedBy: 1223
 pdf_relpath: null
+ref_count: 35
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # Sequence Level Training with Recurrent Neural Networks

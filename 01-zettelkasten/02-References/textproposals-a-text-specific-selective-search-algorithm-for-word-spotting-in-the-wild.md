@@ -1,10 +1,20 @@
 ---
 title: TextProposals - A text-specific selective search algorithm for word spotting in the wild
+authors:
+- L. G. I. Bigorda
+- Dimosthenis Karatzas
+fieldsOfStudy:
+- Computer Science
+meta_key: textproposals-a-text-specific-selective-search-algorithm-for-word-spotting-in-the-wild
+numCitedBy: 101
 pdf_relpath: null
+ref_count: 93
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Pattern Recognit.
+year: 2017
 ---
 
 # TextProposals - A text-specific selective search algorithm for word spotting in the wild

@@ -1,10 +1,21 @@
 ---
 title: Segmentation from Natural Language Expressions
+authors:
+- Ronghang Hu
+- Marcus Rohrbach
+- Trevor Darrell
+fieldsOfStudy:
+- Computer Science
+meta_key: segmentation-from-natural-language-expressions
+numCitedBy: 183
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2016
 ---
 
 # Segmentation from Natural Language Expressions

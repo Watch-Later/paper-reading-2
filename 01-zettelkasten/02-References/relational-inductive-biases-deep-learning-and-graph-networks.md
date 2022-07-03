@@ -1,10 +1,45 @@
 ---
 title: Relational inductive biases, deep learning, and graph networks
+authors:
+- P. Battaglia
+- Jessica B. Hamrick
+- V. Bapst
+- Alvaro Sanchez-Gonzalez
+- V. Zambaldi
+- Mateusz Malinowski
+- A. Tacchetti
+- David Raposo
+- Adam Santoro
+- R. Faulkner
+- "\xC7aglar G\xFCl\xE7ehre"
+- H. F. Song
+- A. J. Ballard
+- J. Gilmer
+- George E. Dahl
+- Ashish Vaswani
+- Kelsey R. Allen
+- Charlie Nash
+- Victoria Langston
+- Chris Dyer
+- N. Heess
+- Daan Wierstra
+- Pushmeet Kohli
+- M. Botvinick
+- Oriol Vinyals
+- Yujia Li
+- Razvan Pascanu
+fieldsOfStudy:
+- Computer Science
+meta_key: relational-inductive-biases-deep-learning-and-graph-networks
+numCitedBy: 1548
 pdf_relpath: null
+ref_count: 196
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2018
 ---
 
 # Relational inductive biases, deep learning, and graph networks

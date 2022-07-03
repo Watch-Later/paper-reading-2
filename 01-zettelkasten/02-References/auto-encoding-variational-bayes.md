@@ -1,10 +1,20 @@
 ---
 title: Auto-Encoding Variational Bayes
+authors:
+- Diederik P. Kingma
+- M. Welling
+fieldsOfStudy:
+- Computer Science
+meta_key: auto-encoding-variational-bayes
+numCitedBy: 16774
 pdf_relpath: null
+ref_count: 25
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2014
 ---
 
 # Auto-Encoding Variational Bayes

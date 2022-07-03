@@ -1,10 +1,23 @@
 ---
 title: Pixel-BERT - Aligning Image Pixels with Text by Deep Multi-Modal Transformers
+authors:
+- Zhicheng Huang
+- Zhaoyang Zeng
+- Bei Liu
+- Dongmei Fu
+- Jianlong Fu
+fieldsOfStudy:
+- Computer Science
+meta_key: pixel-bert-aligning-image-pixels-with-text-by-deep-multi-modal-transformers
+numCitedBy: 148
 pdf_relpath: null
+ref_count: 40
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2020
 ---
 
 # Pixel-BERT - Aligning Image Pixels with Text by Deep Multi-Modal Transformers

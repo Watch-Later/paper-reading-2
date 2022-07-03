@@ -1,10 +1,21 @@
 ---
 title: Bidirectional LSTM-CRF Models for Sequence Tagging
+authors:
+- Zhiheng Huang
+- W. Xu
+- Kai Yu
+fieldsOfStudy:
+- Computer Science
+meta_key: bidirectional-lstm-crf-models-for-sequence-tagging
+numCitedBy: 2424
 pdf_relpath: null
+ref_count: 39
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2015
 ---
 
 # Bidirectional LSTM-CRF Models for Sequence Tagging

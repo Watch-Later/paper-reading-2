@@ -1,10 +1,21 @@
 ---
 title: Yago - a core of semantic knowledge
+authors:
+- Fabian M. Suchanek
+- Gjergji Kasneci
+- G. Weikum
+fieldsOfStudy:
+- Computer Science
+meta_key: yago-a-core-of-semantic-knowledge
+numCitedBy: 3480
 pdf_relpath: null
+ref_count: 52
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: WWW '07
+year: 2007
 ---
 
 # Yago - a core of semantic knowledge

@@ -1,10 +1,24 @@
 ---
 title: Learning Word Vectors for Sentiment Analysis
+authors:
+- Andrew L. Maas
+- Raymond E. Daly
+- Peter T. Pham
+- Dan Huang
+- A. Ng
+- Christopher Potts
+fieldsOfStudy:
+- Computer Science
+meta_key: learning-word-vectors-for-sentiment-analysis
+numCitedBy: 3009
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2011
 ---
 
 # Learning Word Vectors for Sentiment Analysis

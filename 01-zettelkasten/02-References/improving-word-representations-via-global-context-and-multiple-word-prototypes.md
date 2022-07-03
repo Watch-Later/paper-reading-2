@@ -1,10 +1,22 @@
 ---
 title: Improving Word Representations via Global Context and Multiple Word Prototypes
+authors:
+- E. Huang
+- R. Socher
+- Christopher D. Manning
+- A. Ng
+fieldsOfStudy:
+- Computer Science
+meta_key: improving-word-representations-via-global-context-and-multiple-word-prototypes
+numCitedBy: 1183
 pdf_relpath: null
+ref_count: 42
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2012
 ---
 
 # Improving Word Representations via Global Context and Multiple Word Prototypes

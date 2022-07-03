@@ -1,10 +1,21 @@
 ---
 title: Are we ready for autonomous driving? The KITTI vision benchmark suite
+authors:
+- Andreas Geiger
+- Philip Lenz
+- R. Urtasun
+fieldsOfStudy:
+- Computer Science
+meta_key: are-we-ready-for-autonomous-driving-the-kitti-vision-benchmark-suite
+numCitedBy: 7186
 pdf_relpath: null
+ref_count: 53
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2012 IEEE Conference on Computer Vision and Pattern Recognition
+year: 2012
 ---
 
 # Are we ready for autonomous driving? The KITTI vision benchmark suite

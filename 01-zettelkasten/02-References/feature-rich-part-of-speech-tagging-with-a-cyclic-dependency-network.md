@@ -1,10 +1,22 @@
 ---
 title: Feature-Rich Part-of-Speech Tagging with a Cyclic Dependency Network
+authors:
+- Kristina Toutanova
+- D. Klein
+- Christopher D. Manning
+- Y. Singer
+fieldsOfStudy:
+- Computer Science
+meta_key: feature-rich-part-of-speech-tagging-with-a-cyclic-dependency-network
+numCitedBy: 3438
 pdf_relpath: null
+ref_count: 43
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NAACL
+year: 2003
 ---
 
 # Feature-Rich Part-of-Speech Tagging with a Cyclic Dependency Network

@@ -1,10 +1,21 @@
 ---
 title: Histograms of oriented gradients for human detection
+authors:
+- N. Dalal
+- B. Triggs
+fieldsOfStudy:
+- Computer Science
+meta_key: histograms-of-oriented-gradients-for-human-detection
+numCitedBy: 29263
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition
+  (CVPR'05)
+year: 2005
 ---
 
 # Histograms of oriented gradients for human detection

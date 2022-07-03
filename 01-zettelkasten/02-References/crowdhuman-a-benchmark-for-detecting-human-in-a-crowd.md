@@ -1,10 +1,25 @@
 ---
 title: CrowdHuman - A Benchmark for Detecting Human in a Crowd
+authors:
+- Shuai Shao
+- Zijian Zhao
+- Boxun Li
+- Tete Xiao
+- Gang Yu
+- X. Zhang
+- Jian Sun
+fieldsOfStudy:
+- Computer Science
+meta_key: crowdhuman-a-benchmark-for-detecting-human-in-a-crowd
+numCitedBy: 222
 pdf_relpath: null
+ref_count: 31
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2018
 ---
 
 # CrowdHuman - A Benchmark for Detecting Human in a Crowd

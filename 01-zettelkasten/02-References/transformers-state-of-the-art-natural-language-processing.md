@@ -1,10 +1,29 @@
 ---
 title: Transformers - State-of-the-Art Natural Language Processing
+authors:
+- Thomas Wolf
+- Lysandre Debut
+- Victor Sanh
+- Julien Chaumond
+- Clement Delangue
+- Anthony Moi
+- Pierric Cistac
+- T. Rault
+- "R\xE9mi Louf"
+- Morgan Funtowicz
+- Jamie Brew
+fieldsOfStudy:
+- Computer Science
+meta_key: transformers-state-of-the-art-natural-language-processing
+numCitedBy: 2300
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: EMNLP
+year: 2020
 ---
 
 # Transformers - State-of-the-Art Natural Language Processing

@@ -1,10 +1,24 @@
 ---
 title: A Fast Unified Model for Parsing and Sentence Understanding
+authors:
+- Samuel R. Bowman
+- Jon Gauthier
+- Abhinav Rastogi
+- Raghav Gupta
+- Christopher D. Manning
+- Christopher Potts
+fieldsOfStudy:
+- Computer Science
+meta_key: a-fast-unified-model-for-parsing-and-sentence-understanding
+numCitedBy: 280
 pdf_relpath: null
+ref_count: 57
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2016
 ---
 
 # A Fast Unified Model for Parsing and Sentence Understanding

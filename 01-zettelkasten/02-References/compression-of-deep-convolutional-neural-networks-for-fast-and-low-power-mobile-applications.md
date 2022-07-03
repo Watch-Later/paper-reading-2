@@ -1,10 +1,24 @@
 ---
 title: Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications
+authors:
+- Yong-Deok Kim
+- Eunhyeok Park
+- S. Yoo
+- Taelim Choi
+- Lu Yang
+- Dongjun Shin
+fieldsOfStudy:
+- Computer Science
+meta_key: compression-of-deep-convolutional-neural-networks-for-fast-and-low-power-mobile-applications
+numCitedBy: 667
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications

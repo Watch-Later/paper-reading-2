@@ -1,10 +1,23 @@
 ---
 title: Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)
+authors:
+- Junhua Mao
+- W. Xu
+- Yi Yang
+- Jiang Wang
+- A. Yuille
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-captioning-with-multimodal-recurrent-neural-networks-m-rnn
+numCitedBy: 1008
 pdf_relpath: null
+ref_count: 55
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2015
 ---
 
 # Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)

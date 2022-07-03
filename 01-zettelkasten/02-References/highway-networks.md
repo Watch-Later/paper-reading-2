@@ -1,10 +1,21 @@
 ---
 title: Highway Networks
+authors:
+- R. Srivastava
+- Klaus Greff
+- J. Schmidhuber
+fieldsOfStudy:
+- Computer Science
+meta_key: highway-networks
+numCitedBy: 1152
 pdf_relpath: null
+ref_count: 22
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2015
 ---
 
 # Highway Networks

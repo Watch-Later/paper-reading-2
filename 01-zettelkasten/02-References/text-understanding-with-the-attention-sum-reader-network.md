@@ -1,10 +1,22 @@
 ---
 title: Text Understanding with the Attention Sum Reader Network
+authors:
+- Rudolf Kadlec
+- Martin Schmid
+- Ondrej Bajgar
+- Jan Kleindienst
+fieldsOfStudy:
+- Computer Science
+meta_key: text-understanding-with-the-attention-sum-reader-network
+numCitedBy: 288
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACL
+year: 2016
 ---
 
 # Text Understanding with the Attention Sum Reader Network

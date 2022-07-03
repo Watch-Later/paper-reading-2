@@ -1,10 +1,21 @@
 ---
 title: Sentence Encoders on STILTs - Supplementary Training on Intermediate Labeled-data Tasks
+authors:
+- Jason Phang
+- "Thibault F\xE9vry"
+- Samuel R. Bowman
+fieldsOfStudy:
+- Computer Science
+meta_key: sentence-encoders-on-stilts-supplementary-training-on-intermediate-labeled-data-tasks
+numCitedBy: 264
 pdf_relpath: null
+ref_count: 34
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ArXiv
+year: 2018
 ---
 
 # Sentence Encoders on STILTs - Supplementary Training on Intermediate Labeled-data Tasks

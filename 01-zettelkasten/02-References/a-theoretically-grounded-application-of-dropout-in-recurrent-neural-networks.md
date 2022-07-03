@@ -1,10 +1,20 @@
 ---
 title: A Theoretically Grounded Application of Dropout in Recurrent Neural Networks
+authors:
+- Y. Gal
+- Zoubin Ghahramani
+fieldsOfStudy:
+- Computer Science
+meta_key: a-theoretically-grounded-application-of-dropout-in-recurrent-neural-networks
+numCitedBy: 1315
 pdf_relpath: null
+ref_count: 36
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2016
 ---
 
 # A Theoretically Grounded Application of Dropout in Recurrent Neural Networks

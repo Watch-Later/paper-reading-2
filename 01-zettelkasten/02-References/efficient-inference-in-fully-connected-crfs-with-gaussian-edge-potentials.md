@@ -1,10 +1,20 @@
 ---
 title: Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
+authors:
+- "Philipp Kr\xE4henb\xFChl"
+- V. Koltun
+fieldsOfStudy:
+- Computer Science
+meta_key: efficient-inference-in-fully-connected-crfs-with-gaussian-edge-potentials
+numCitedBy: 2641
 pdf_relpath: null
+ref_count: 30
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2011
 ---
 
 # Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials

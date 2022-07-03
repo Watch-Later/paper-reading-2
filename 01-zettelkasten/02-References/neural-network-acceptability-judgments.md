@@ -1,10 +1,22 @@
 ---
 title: Neural Network Acceptability Judgments
+authors:
+- Alex Warstadt
+- Amanpreet Singh
+- Samuel R. Bowman
+fieldsOfStudy:
+- Computer Science
+- Linguistics
+meta_key: neural-network-acceptability-judgments
+numCitedBy: 545
 pdf_relpath: null
+ref_count: 78
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: Transactions of the Association for Computational Linguistics
+year: 2019
 ---
 
 # Neural Network Acceptability Judgments

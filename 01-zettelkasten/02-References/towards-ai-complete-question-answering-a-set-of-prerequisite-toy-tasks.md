@@ -1,10 +1,22 @@
 ---
 title: Towards AI-Complete Question Answering - A Set of Prerequisite Toy Tasks
+authors:
+- J. Weston
+- Antoine Bordes
+- S. Chopra
+- Tomas Mikolov
+fieldsOfStudy:
+- Computer Science
+meta_key: towards-ai-complete-question-answering-a-set-of-prerequisite-toy-tasks
+numCitedBy: 911
 pdf_relpath: null
+ref_count: 50
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # Towards AI-Complete Question Answering - A Set of Prerequisite Toy Tasks

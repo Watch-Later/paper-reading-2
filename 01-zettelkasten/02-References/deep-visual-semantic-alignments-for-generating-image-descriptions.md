@@ -1,10 +1,20 @@
 ---
 title: Deep Visual-Semantic Alignments for Generating Image Descriptions
+authors:
+- A. Karpathy
+- Li Fei-Fei
+fieldsOfStudy:
+- Computer Science
+meta_key: deep-visual-semantic-alignments-for-generating-image-descriptions
+numCitedBy: 2575
 pdf_relpath: null
+ref_count: 102
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+year: 2017
 ---
 
 # Deep Visual-Semantic Alignments for Generating Image Descriptions

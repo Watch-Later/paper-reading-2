@@ -1,10 +1,30 @@
 ---
 title: Visual Genome - Connecting Language and Vision Using Crowdsourced Dense Image Annotations
+authors:
+- Ranjay Krishna
+- Yuke Zhu
+- O. Groth
+- Justin Johnson
+- K. Hata
+- J. Kravitz
+- Stephanie Chen
+- Yannis Kalantidis
+- Li-Jia Li
+- David A. Shamma
+- Michael S. Bernstein
+- Li Fei-Fei
+fieldsOfStudy:
+- Computer Science
+meta_key: visual-genome-connecting-language-and-vision-using-crowdsourced-dense-image-annotations
+numCitedBy: 2772
 pdf_relpath: null
+ref_count: 142
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: International Journal of Computer Vision
+year: 2016
 ---
 
 # Visual Genome - Connecting Language and Vision Using Crowdsourced Dense Image Annotations

@@ -1,10 +1,24 @@
 ---
 title: An End-to-End TextSpotter with Explicit Alignment and Attention
+authors:
+- Tong He
+- Zhi Tian
+- Weilin Huang
+- Chunhua Shen
+- Y. Qiao
+- Changming Sun
+fieldsOfStudy:
+- Computer Science
+meta_key: an-end-to-end-textspotter-with-explicit-alignment-and-attention
+numCitedBy: 143
 pdf_relpath: null
+ref_count: 47
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
 ---
 
 # An End-to-End TextSpotter with Explicit Alignment and Attention

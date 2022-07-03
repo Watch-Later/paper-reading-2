@@ -1,10 +1,25 @@
 ---
 title: Arbitrary-Oriented Scene Text Detection via Rotation Proposals
+authors:
+- Jianqi Ma
+- Weiyuan Shao
+- Hao Ye
+- Li Wang
+- Hong Wang
+- Yingbin Zheng
+- X. Xue
+fieldsOfStudy:
+- Computer Science
+meta_key: arbitrary-oriented-scene-text-detection-via-rotation-proposals
+numCitedBy: 624
 pdf_relpath: null
+ref_count: 63
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: IEEE Transactions on Multimedia
+year: 2018
 ---
 
 # Arbitrary-Oriented Scene Text Detection via Rotation Proposals

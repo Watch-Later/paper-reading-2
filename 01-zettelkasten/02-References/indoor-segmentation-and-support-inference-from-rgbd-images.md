@@ -1,10 +1,22 @@
 ---
 title: Indoor Segmentation and Support Inference from RGBD Images
+authors:
+- N. Silberman
+- Derek Hoiem
+- Pushmeet Kohli
+- R. Fergus
+fieldsOfStudy:
+- Computer Science
+meta_key: indoor-segmentation-and-support-inference-from-rgbd-images
+numCitedBy: 3519
 pdf_relpath: null
+ref_count: 22
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ECCV
+year: 2012
 ---
 
 # Indoor Segmentation and Support Inference from RGBD Images

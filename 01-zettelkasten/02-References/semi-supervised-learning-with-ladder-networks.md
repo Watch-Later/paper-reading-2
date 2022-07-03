@@ -1,10 +1,23 @@
 ---
 title: Semi-supervised Learning with Ladder Networks
+authors:
+- Antti Rasmus
+- Mathias Berglund
+- M. Honkala
+- H. Valpola
+- T. Raiko
+fieldsOfStudy:
+- Computer Science
+meta_key: semi-supervised-learning-with-ladder-networks
+numCitedBy: 1001
 pdf_relpath: null
+ref_count: 48
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: NIPS
+year: 2015
 ---
 
 # Semi-supervised Learning with Ladder Networks

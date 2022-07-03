@@ -1,10 +1,20 @@
 ---
 title: MatConvNet - Convolutional Neural Networks for MATLAB
+authors:
+- A. Vedaldi
+- Karel Lenc
+fieldsOfStudy:
+- Computer Science
+meta_key: matconvnet-convolutional-neural-networks-for-matlab
+numCitedBy: 2774
 pdf_relpath: null
+ref_count: 18
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ACM Multimedia
+year: 2015
 ---
 
 # MatConvNet - Convolutional Neural Networks for MATLAB

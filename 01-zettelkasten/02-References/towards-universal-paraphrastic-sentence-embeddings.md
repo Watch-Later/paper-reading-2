@@ -1,10 +1,22 @@
 ---
 title: Towards Universal Paraphrastic Sentence Embeddings
+authors:
+- J. Wieting
+- Mohit Bansal
+- Kevin Gimpel
+- Karen Livescu
+fieldsOfStudy:
+- Computer Science
+meta_key: towards-universal-paraphrastic-sentence-embeddings
+numCitedBy: 480
 pdf_relpath: null
+ref_count: 98
 status: todo
 tags:
 - gen-from-ref
 - paper
+venue: ICLR
+year: 2016
 ---
 
 # Towards Universal Paraphrastic Sentence Embeddings
