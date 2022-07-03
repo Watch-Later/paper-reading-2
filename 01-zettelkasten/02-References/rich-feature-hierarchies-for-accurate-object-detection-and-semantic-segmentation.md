@@ -1,4 +1,5 @@
 ---
+Alias: R-CNN, RCNN
 title: Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation
 authors:
 - Ross B. Girshick
@@ -9,15 +10,19 @@ fieldsOfStudy:
 - Computer Science
 meta_key: rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation
 numCitedBy: 17075
-pdf_relpath: null
+pdf_relpath: pdfs/2013-rcnn.pdf
 ref_count: 66
 status: todo
 tags:
-- gen-from-ref
+- detection
 - paper
+- gen-from-ref
+- ocr
 venue: 2014 IEEE Conference on Computer Vision and Pattern Recognition
 year: 2014
 ---
+
+[local pdf](../../../pdfs/2013-rcnn.pdf)
 
 # Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation
 

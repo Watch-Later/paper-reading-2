@@ -13,16 +13,32 @@ fieldsOfStudy:
 - Computer Science
 meta_key: what-is-wrong-with-scene-text-recognition-model-comparisons-dataset-and-model-analysis
 numCitedBy: 201
+pdf_relpath: pdfs/What%20Is%20Wrong%20With%20Scene%20Text%20Recognition%20Model%20Comparisons.pdf
 ref_count: 34
 status: todo
 tags:
-- gen-from-ref
 - paper
+- gen-from-ref
+- ocr
+url: https://arxiv.org/abs/1904.01906
 venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2019
 ---
 
+[local pdf](../../../pdfs/What%20Is%20Wrong%20With%20Scene%20Text%20Recognition%20Model%20Comparisons.pdf)
+
 # What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis
+
+## 论文信息
+
+code: https://github.com/clovaai/deep-text-recognition-benchmark
+
+ICCV 2019 oral
+
+
+related paper:
+
+[ctc-loss](Connectionist%20Temporal%20Classification%20-%20Labelling%20Unsegmented%20Sequence%20Data%20with%20Recurrent%20Neural%20Networks.md)
 
 ## References
 

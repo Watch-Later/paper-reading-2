@@ -9,14 +9,18 @@ fieldsOfStudy:
 - Computer Science
 meta_key: deep-neural-networks-for-object-detection
 numCitedBy: 1182
+pdf_relpath: pdfs/2012-AlexNet.pdf
 ref_count: 21
 status: todo
 tags:
 - gen-from-ref
 - paper
+- cnn-model
 venue: NIPS
 year: 2012
 ---
+
+[local pdf](../../../pdfs/2012-AlexNet.pdf)
 
 # Deep Neural Networks for Object Detection
 

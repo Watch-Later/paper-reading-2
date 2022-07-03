@@ -9,15 +9,18 @@ fieldsOfStudy:
 - Computer Science
 meta_key: selective-search-for-object-recognition
 numCitedBy: 4752
-pdf_relpath: null
+pdf_relpath: pdfs/2013-selectiveSearch.pdf
 ref_count: 55
 status: todo
 tags:
-- gen-from-ref
 - paper
+- gen-from-ref
+- detection
 venue: International Journal of Computer Vision
 year: 2013
 ---
+
+[local pdf](../../../pdfs/2013-selectiveSearch.pdf)
 
 # Selective Search for Object Recognition
 

@@ -13,15 +13,18 @@ fieldsOfStudy:
 - Computer Science
 meta_key: ssd-single-shot-multibox-detector
 numCitedBy: 15424
-pdf_relpath: null
+pdf_relpath: pdfs/2016-ssd.pdf
 ref_count: 40
 status: todo
 tags:
-- gen-from-ref
 - paper
+- gen-from-ref
+- detection
 venue: ECCV
 year: 2016
 ---
+
+[local pdf](../../../pdfs/2016-ssd.pdf)
 
 # SSD - Single Shot MultiBox Detector
 
