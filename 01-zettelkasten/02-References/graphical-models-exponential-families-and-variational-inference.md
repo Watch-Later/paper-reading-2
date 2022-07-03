@@ -1,0 +1,280 @@
+---
+title: Graphical Models, Exponential Families, and Variational Inference
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# Graphical Models, Exponential Families, and Variational Inference
+
+## References
+
+- Log-determinant relaxation for approximate inference in discrete Markov random fields
+- Stochastic processes on graphs with cycles - geometric and variational approaches
+- Bayesian Random Fields - The Bethe-Laplace Approximation
+- Variational algorithms for approximate Bayesian inference
+- An Introduction to Variational Methods for Graphical Models
+- Tractable Variational Structures for Approximating Graphical Models
+- Embedded trees - estimation of Gaussian Processes on graphs with cycles
+- Propagation of Probabilities, Means, and Variances in Mixed Graphical Association Models
+- Convergence Analysis of Reweighted Sum-Product Algorithms
+- Linear Programming Relaxations and Belief Propagation - An Empirical Study
+- Factorial Hidden Markov Models
+- Correctness of Local Probability Propagation in Graphical Models with Loops
+- Propagation Algorithms for Variational Bayesian Learning
+- A new class of upper bounds on the log partition function
+- Variational inference for Dirichlet process mixtures
+- Correctness of Belief Propagation in Gaussian Graphical Models of Arbitrary Topology
+- Walk-Sums and Belief Propagation in Gaussian Graphical Models
+- Piecewise Training for Undirected Models
+- Model Selection Through Sparse Maximum Likelihood Estimation for Multivariate Gaussian or Binary Data
+- Graphical Models
+- Understanding belief propagation and its generalizations
+- Tutorial on variational approximation methods
+- Lagrangian Relaxation for MAP Estimation in Graphical Models
+- Counting without sampling - new algorithms for enumeration problems using statistical physics
+- Constructing free-energy approximations and generalized belief propagation algorithms
+- MAP estimation via agreement on trees - message-passing and linear programming
+- Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images
+- [Factor graphs and the sum-product algorithm](./factor-graphs-and-the-sum-product-algorithm.md)
+- Generalized Belief Propagation
+- Semidefinite Relaxations for Approximate Inference on Graphs with Cycles
+- Loop Series and Bethe Variational Bounds in Attractive Graphical Models
+- Expectation Consistent Approximate Inference
+- Boltzmann Chains and Hidden Markov Models
+- THE GEOMETRY OF EXPONENTIAL FAMILIES
+- Convergent Message-Passing Algorithms for Inference over General Graphs with Convex Free Energies
+- Mathematical Statistics - Basic Ideas and Selected Topics
+- Approximate inference using planar graph decomposition
+- Estimation and Marginalization Using the Kikuchi Approximation Methods
+- Tree-reweighted belief propagation algorithms and approximate ML estimation by pseudo-moment matching
+- Iterative Decoding of Compound Codes by Probability Propagation in Graphical Models
+- Learning Markov networks - maximum bounded tree-width graphs
+- Spatial Statistics and Bayesian Computation
+- MAP Estimation, Linear Programming and Belief Propagation with Convex Free Energies
+- Optimization over Time. Dynamic Programming and Stochastic Control. Volume 1
+- Loop series for discrete statistical models on graphs
+- Variational Probabilistic Inference and the QMR-DT Network
+- Approximate Inference and Constrained Optimization
+- A Linear Programming Approach to Max-Sum Problem - A Review
+- An Idiosyncratic Journey Beyond Mean Field Theory
+- An introduction to factor graphs
+- Tree consistency and bounds on the performance of the max-product algorithm and its generalizations
+- Approximations with Reweighted Generalized Belief Propagation
+- An Analysis of Convex Relaxations for MAP Estimation
+- $I$-Divergence Geometry of Probability Distributions and Minimization Problems
+- A family of algorithms for approximate Bayesian inference
+- Statistical Analysis of Non-Lattice Data
+- Differential Geometry of Curved Exponential Families-Curvatures and Information Loss
+- Maximum weight matching via max-product belief propagation
+- Bayesian Inference and Optimal Design in the Sparse Linear Model
+- Estimating the Wrong Graphical Model - Benefits in the Computation-Limited Setting
+- Belief Optimization for Binary Networks - A Stable Alternative to Loopy Belief Propagation
+- Expectation Propagation for approximate Bayesian inference
+- Solving Markov Random Fields using Second Order Cone Programming Relaxations
+- Survey propagation - An algorithm for satisfiability
+- Maximum Entropy Density Estimation with Generalized Regularization and an Application to Species Distribution Modeling
+- Convexity Arguments for Efficient Minimization of the Bethe and Kikuchi Free Energies
+- Variational Approximations between Mean Field Theory and the Junction Tree Algorithm
+- Quadratic programming relaxations for metric labeling and Markov random field MAP estimation
+- Contingency Tables and Log-Linear Models - Basic Results and New Developments
+- Gaussian Processes for Classification - Mean-Field Algorithms
+- Multiresolution Markov models for signal and image processing
+- Structured Learning with Approximate Inference
+- Convergent Propagation Algorithms via Oriented Trees
+- Structured Region Graphs - Morphing EP into GBP
+- A THEOREM ABOUT RANDOM FIELDS
+- Truncating the Loop Series Expansion for Belief Propagation
+- Determinant Maximization with Linear Matrix Inequality Constraints
+- Message-passing for graph-structured linear programs - proximal projections, convergence and rounding schemes
+- Tree-based reparameterization framework for analysis of sum-product and related algorithms
+- Efficient Learning in Boltzmann Machines Using Linear Response Theory
+- A new look at survey propagation and its generalizations
+- Tree-structured Approximations by Expectation Propagation
+- Fractional Belief Propagation
+- A Tighter Bound for Graphical Models
+- Truncating the loop series expansion for BP
+- Exploiting Tractable Substructures in Intractable Networks
+- [Latent Dirichlet Allocation](./latent-dirichlet-allocation.md)
+- Improving the Mean Field Approximation Via the Use of Mixture Distributions
+- Tractable Inference for Complex Stochastic Processes
+- Linear Response for Approximate Inference
+- Geometric Algorithms and Combinatorial Optimization
+- Monte Carlo Statistical Methods
+- Markov Random Field Texture Models
+- A Comparative Study of Energy Minimization Methods for Markov Random Fields with Smoothness-Based Priors
+- A View of the Em Algorithm that Justifies Incremental, Sparse, and other Variants
+- Approximation algorithms for classification problems with pairwise relationships - metric labeling and Markov random fields
+- A Comparative Study of Energy Minimization Methods for Markov Random Fields
+- Sampling-Based Approaches to Calculating Marginal Densities
+- A Linear Programming Formulation and Approximation Algorithms for the Metric Labeling Problem
+- Message Passing for Max-weight Independent Set
+- Combining phylogenetic and hidden Markov models in biosequence analysis
+- Residual Belief Propagation - Informed Scheduling for Asynchronous Message Passing
+- Using linear programming to Decode Binary linear codes
+- Lectures on Polytopes
+- A Hierarchy of Relaxations Between the Continuous and Convex Hull Representations for Zero-One Programming Problems
+- Modern Graph Theory
+- Loop Calculus Helps to Improve Belief Propagation and Linear Programming Decodings of Low-Density-Parity-Check Codes
+- CCCP Algorithms to Minimize the Bethe and Kikuchi Free Energies - Convergent Alternatives to Belief Propagation
+- Dimer Statistics and Phase Transitions
+- Probability propagation
+- Loopy Belief Propagation for Bipartite Maximum Weight b-Matching
+- Global Optimization with Polynomials and the Problem of Moments
+- On the Statistical Analysis of Dirty Pictures
+- Probabilistic Analysis of Linear Programming Decoding
+- Fixing Max-Product - Convergent Message Passing Algorithms for MAP LP-Relaxations
+- Minimizing and Learning Energy Functions for Side-Chain Prediction
+- Multiple-sequence functional annotation and the generalized hidden Markov phylogeny
+- Belief Propagation on Partially Ordered Sets
+- New Outer Bounds on the Marginal Polytope
+- A hierarchy of relaxation between the continuous and convex hull representations
+- Gene finding with a hidden Markov model of genome structure and evolution
+- Exactly solved models in statistical mechanics
+- Improved Dynamic Schedules for Belief Propagation
+- Submodular functions and convexity
+- Loopy Belief Propagation - Convergence and Effects of Message Errors
+- Information Theory and Statistical Mechanics
+- Linear programming analysis of loopy belief propagation for weighted matching
+- [Convex Optimization](./convex-optimization.md)
+- Improved approximation algorithms for maximum cut and satisfiability problems using semidefinite programming
+- Random K-satisfiability problem - from an analytic solution to an efficient algorithm.
+- Codes and Decoding on General Graphs
+- Multitarget-multisensor data association using the tree-reweighted max-product algorithm
+- Markov Chain Monte Carlo in Practice
+- Theory of linear and integer programming
+- The generalized distributive law
+- Applications of a general propagation algorithm for probabilistic expert systems
+- Constraint Processing
+- Globally optimal solutions for energy minimization in stereo vision using reweighted belief propagation
+- Learning in higher order Boltzmann machines using linear response
+- Semidefinite Programming
+- Learning Low-Level Vision
+- Computational molecular biology - an algorithmic approach
+- First-Order Methods for Sparse Covariance Selection
+- Very loopy belief propagation for unwrapping phase images
+- Linear Programming-Based Decoding of Turbo-Like Codes and its Relation to Iterative Approaches
+- On Improving the Efficiency of the Iterative Proportional Fitting Procedure
+- An Explicit Equivalent Positive Semidefinite Program for Nonlinear 0-1 Programs
+- Modern Coding Theory
+- An Idiosyncratic Journey Beyond Mean Field Theory
+- Semidefinite Relaxations for Max-Cut
+- Roof duality, complementation and persistency in quadratic 0-1 optimization
+- Treewidth-based conditions for exactness of the Sherali-Adams and Lasserre relaxations
+- An Efficient Pseudo-Codeword Search Algorithm for Linear Programming Decoding of LDPC Codes
+- Novel iteration schemes for the Cluster Variation Method
+- The boolean quadric polytope - Some characteristics, facets and relatives
+- Local computations with probabilities on graphical structures and their application to expert systems
+- Semidefinite programming relaxations for semialgebraic problems
+- Geometric Algorithms and Combinatorial Optimization
+- Expectation Propagation for Exponential Families
+- Introduction to Algorithms
+- Probabilistic reasoning in intelligent systems - networks of plausible inference
+- Analytic and Algorithmic Solution of Random Satisfiability Problems
+- Turbo Decoding as an Instance of Pearl's Belief Propagation Algorithm
+- Monte Carlo Statistical Methods (Springer Texts in Statistics)
+- Parallel Optimization - Theory, Algorithms, and Applications
+- Improved low-density parity-check codes using irregular graphs
+- LP Decoding Corrects a Constant Fraction of Errors
+- Graph-covers and iterative decoding of nite length codes
+- Guessing Facets - Polytope Structure and Improved LP Decoding
+- A Comparison of the Sherali-Adams, Lovász-Schrijver, and Lasserre Relaxations for 0-1 Programming
+- Multilocus linkage analysis by blocked Gibbs sampling
+- Upper-bounds for quadratic 0-1 maximization
+- Reducibility Among Combinatorial Problems
+- An Efficient Pseudocodeword Search Algorithm for Linear Programming Decoding of LDPC Codes
+- Fundamentals of Convex Analysis
+- Gibbs Measures and Phase Transitions
+- Decomposition and optimization over cycles in binary matroids
+- Towards Low-Complexity Linear-Programming Decoding
+- Predicting transmembrane protein topology with a hidden Markov model - application to complete genomes.
+- On the Dimer Solution of Planar Ising Models
+- Convergent Tree-Reweighted Message Passing for Energy Minimization
+- A Theory of Cooperative Phenomena
+- Integer and Combinatorial Optimization
+- Abstract dynamic programming models under commutativity conditions
+- The capacity of low-density parity-check codes under message-passing decoding
+- Pseudo-Boolean optimization
+- Signal-space characterization of iterative decoding
+- Approximation Algorithms
+- Codes and iterative decoding on general graphs
+- [Elements of Information Theory](./elements-of-information-theory.md)
+- Low-density parity-check codes
+- Evolutionary trees from DNA sequences - A maximum likelihood approach
+- Loopy Belief Propogation and Gibbs Measures
+- Adaptive Linear Programming Decoding
+- Power EP
+- [Foundations of statistical natural language processing](./foundations-of-statistical-natural-language-processing.md)
+- On the Shannon capacity of a graph
+- Cones of Matrices and Set-Functions and 0-1 Optimization
+- The complexity of theorem-proving procedures
+- A rigorous proof of the cavity method for counting matchings
+- On the Uniqueness of Loopy Belief Propagation Fixed Points
+- Statistical Field Theory
+- What Is Enumerative Combinatorics
+- The relaxation method of finding the common point of convex sets and its application to the solution of problems in convex programming
+- Real Analysis
+- Second order cone programming relaxation of nonconvex quadratic optimization problems
+- MRF Optimization via Dual Decomposition - Message-Passing Revisited
+- Matroids and Multicommodity Flows
+- On the inherent intractability of certain coding problems (Corresp.)
+- On the Effective Weights of Pseudocodewords for Codes Defined on Graphs with Cycles
+- Convergence of the Min-Sum Message Passing Algorithm for Quadratic Optimization
+- Using Linear Programming to Decode LDPC Codes
+- Convex analysis and minimization algorithms
+- Introduction to linear optimization
+- An Analysis of Turbo Decoding with Gaussian Densities
+- Convergence condition of the TAP equation for the infinite-ranged Ising spin glass model
+- Matroids and the greedy algorithm
+- Lower bounds on the minimum pseudoweight of linear codes
+- Gaussian Markov Distributions over Finite Graphs
+- The Maximum Entropy Method
+- Combinatorial optimization. Polyhedra and efficiency.
+- The Theory of Graphs and Its Applications.
+- Matroid theory
+- Introduction To Modern Statistical Mechanics
+- Approximate inference using conditional entropy decompositions
+- On the cycle polytope of a binary matroid
+- A note on the cluster variation method
+- Sufficient Conditions for Convergence of Loopy Belief Propagation
+- [Maximum likelihood from incomplete data via the EM - algorithm plus discussions on the paper](./maximum-likelihood-from-incomplete-data-via-the-em-algorithm-plus-discussions-on-the-paper.md)
+- Semidefinite relaxation and nonconvex quadratic optimization
+- Applied Numerical Linear Algebra
+- On Structured-Summary Propagation, LFSR Synchronization, and Low-Complexity Trellis Decoding
+- A Tourist Guide through Treewidth
+- Convergence of the Min-Sum Algorithm for Convex Optimization
+- Probabilistic reasoning in intelligent systems
+- A general computation rule for lossy summaries/messages with examples from equalization
+- Finding the genes in genomic DNA.
+- On the spanning tree polyhedron
+- Fundamentals of speech recognition
+- Spoken Language Processing
+- NOTE ON THE E. ISING'S PAPER ,,BEITRAG ZUR THEORIE DES FERROMAGNETISMUS (Zs. Physik, 31, 253 (1925))
+- Cluster variation method and image restoration problem
+- Distributed fusion in sensor networks
+- Categorical Data Analysis
+- Nonlinear Programming
+- Matrix computations
+- Adaptive TAP Equations
+- Factor graphs and the Sum-Product Algorithm
+- Theory of Cooperative Phenomena
+- Tchebycheff Systems - With Applications in Analysis and Statistics.
+- Generalized Iterative Scaling for Log-Linear Models
+- The theory of graphs and its applications
+- A geometric interpretation of Darroch and Ratcliff's generalized iterative scaling
+- Convex Analysis and Optimization
+- Asymptotic Statistics - U -Statistics
+- Lectures on Contingency Tables
+- Markov fields on finite graphs and lattices
+- Information And Exponential Families
+- Exact Maximum A Posteriori Estimation for Binary Images
+- Nonserial Dynamic Programming
+- The viterbi algorithm
+- Biological Sequence Analysis
+- Minimizing and Learning Energy Functions for Side-Chain Prediction
+- Methods of information geometry
+- Spatial Statistics
+- Spatial Interaction and the Statistical Analysis of Lattice Systems
+- Convex Analysisの二,三の進展について

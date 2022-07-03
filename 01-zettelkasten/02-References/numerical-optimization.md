@@ -1,0 +1,245 @@
+---
+title: Numerical Optimization
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# Numerical Optimization
+
+## References
+
+- Direct search algorithms for optimization calculations
+- Interior methods for constrained optimization
+- A view of unconstrained optimization
+- A First Course in Optimization Theory
+- Accuracy and stability of numerical algorithms
+- Lectures on modern convex optimization - analysis, algorithms, and engineering applications
+- Theory of algorithms for unconstrained optimization
+- The MINPACK-2 test problem collection
+- Variational methods for the solution of problems of equilibrium and vibrations
+- Newton-Type Minimization via the Lanczos Method
+- CUTE - constrained and unconstrained testing environment
+- Lagrange Multipliers and Optimality
+- Exact penalty function algorithms for finite dimensional and control optimization problems
+- A METHOD FOR THE SOLUTION OF CERTAIN NON - LINEAR PROBLEMS IN LEAST SQUARES
+- Solving large-scale linear programs by interior-point methods under the Matlab ∗ Environment †
+- Some numerical experiments with variable-storage quasi-Newton algorithms
+- On the Implementation of a Primal-Dual Interior Point Method
+- Centered newton method for mathematical programming
+- An iterative working-set method for large-scale nonconvex quadratic programming
+- Lipschitzian optimization without the Lipschitz constant
+- CONVERGENCE PROPERTIES OF A CLASS OF MINIMIZATION ALGORITHMS
+- Recent progress in unconstrained nonlinear optimization without derivatives
+- The conjugate gradient method in extremal problems
+- An Algorithm for Large-Scale Quadratic Programming
+- Applying new optimization algorithms to more predictive control
+- Algorithms for nonlinear constraints that use lagrangian functions
+- Computing Gradients in Large-Scale Optimization Using Automatic Differentiation
+- Nonlinear programming and nonsmooth optimization by successive linear programming
+- No free lunch theorems for optimization
+- Convergence properties of algorithms for nonlinear optimization
+- Combinatorial Optimization - Algorithms and Complexity
+- Multiplier and gradient methods
+- Updating Quasi-Newton Matrices With Limited Storage
+- Efficient computation of gradients and Jacobians by dynamic exploitation of sparsity in automatic differentiation
+- A Theoretical and Experimental Study of the Symmetric Rank-One Update
+- THE CONVERGENCE OF VARIABLE METRIC METHODS FOR NONLINEARLY CONSTRAINED OPTIMIZATION CALCULATIONS
+- Avoiding the Maratos effect by means of a nonmonotone line search II. Inequality constrained problems-feasible iterates
+- A Stable and Efficient Algorithm for Nonlinear Orthogonal Distance Regression
+- Line search algorithms with guaranteed sufficient decrease
+- Convergence Properties of a Class of Rank-two Updates
+- The multiplier method of Hestenes and Powell applied to convex programming
+- Potential-reduction methods in mathematical programming
+- AMPL - A Modeling Language for Mathematical Programming
+- Sequential Quadratic Programming
+- An Optimal Positive Definite Update for Sparse Hessian Matrices
+- A new polynomial-time algorithm for linear programming
+- Multiple centrality corrections in a primal-dual method for linear programming
+- Iterative solution of nonlinear equations in several variables
+- On the Estimation of Sparse Hessian Matrices
+- More AD of Nonlinear AMPL Models - Computing Hessian Information and Exploiting Partial Separability†
+- Presolving in linear programming
+- An Interior-Point Algorithm for Nonconvex Nonlinear Programming
+- Linear convergence of the conjugate gradient method
+- On the limited memory BFGS method for large scale optimization
+- ADIC - An Extensible Automatic Differentiation Tool for ANSI-C
+- Numerical experiments with the LANCELOT package (release A) for large-scale nonlinear optimization
+- Variable Metric Methods for Constrained Optimization
+- Solving the Trust-Region Subproblem using the Lanczos Method
+- Solving symmetric indefinite systems in an interior-point method for linear programming
+- Automatic Preconditioning by Limited Memory Quasi-Newton Updating
+- The Elimination form of the Inverse and its Application to Linear Programming
+- The Mosek Interior Point Optimizer for Linear Programming - An Implementation of the Homogeneous Algorithm
+- Numerical methods for unconstrained optimization and nonlinear equations
+- A practicable steepest-edge simplex algorithm
+- Tensor Methods for Nonlinear Equations.
+- Quasi-Newton Methods
+- The Conjugate Gradient Method and Trust Regions in Large Scale Optimization
+- Linear Programming - Foundations and Extensions
+- Global Convergence Properties of Conjugate Gradient Methods for Optimization
+- Reduced quasi-Newton methods with feasibility improvement for nonlinearly constrained optimization
+- Practical optimization
+- On a successive transformation of probability distribution and its application to the analysis of the optimum gradient method
+- A semidefinite framework for trust region subproblems with applications to large scale minimization
+- Variable Metric Method for Minimization
+- Quasi-Newton Methods, Motivation and Theory
+- Detection and Remediation of Stagnation in the Nelder--Mead Algorithm Using a Sufficient Decrease Condition
+- LSQR - An Algorithm for Sparse Linear Equations and Sparse Least Squares
+- Global Convergence of a Cass of Quasi-Newton Methods on Convex Problems
+- Indefinitely preconditioned inexact Newton method for large sparse equality constrained non-linear programming problems
+- On the use of directions of negative curvature in a modified newton method
+- A Simplex Method for Function Minimization
+- Estimation of Sparse Jacobian Matrices
+- Algorithm 755 - ADOL-C - a package for the automatic differentiation of algorithms written in C/C++
+- On the relation between quadratic termination and convergence properties of minimization algorithms
+- Steepest-edge simplex algorithms for linear programming
+- Modified Cholesky Factorizations in Interior-Point Algorithms for Linear Programming
+- Nonconvex minimization calculations and the conjugate gradient method
+- The watchdog technique for forcing convergence in algorithms for constrained optimization
+- A quadratically-convergent algorithm for general nonlinear programming problems
+- A Duality Theorem for Nonlinear Programming
+- Generalized equations and their solutions, part II - Applications to nonlinear programming
+- A Nonlinear Conjugate Gradient Method with a Strong Global Convergence Property
+- A Centered Projective Algorithm for Linear Programming
+- Modified Cholesky Factorizations for Sparse Preconditioners
+- Recent Developments in Algorithms and Software for Trust Region Methods
+- The simplex method of linear programming using LU decomposition
+- Circumventing Storage Limitations in Variational Data Assimilation Studies
+- Nonlinear least squares - the Levenberg algorithm revisited
+- Asynchronous Parallel Pattern Search for Nonlinear Optimization
+- Algorithm 778 - L-BFGS-B - Fortran subroutines for large-scale bound-constrained optimization
+- Approximate solution of the trust region problem by minimization over two-dimensional subspaces
+- A trust region method based on interior point techniques for nonlinear programming
+- Numerical linear algebra aspects of globally convergent homotopy methods
+- Software for estimating sparse Jacobian matrices
+- On the Convergence of Pattern Search Algorithms
+- Automatic Directional Differentiation of Nonsmooth Composite Functions
+- Local convergence analysis for partitioned quasi-Newton updates
+- Some convergence properties of the conjugate gradient method
+- A New Modified Cholesky Factorization
+- Constraint Preconditioning for Indefinite Linear Systems
+- Adifor 2.0 - automatic differentiation of Fortran 77 programs
+- On the Local Convergence of Quasi-Newton Methods for Constrained Optimization
+- Estimation of sparse hessian matrices and graph coloring problems
+- A Trust Region Algorithm for Equality Constrained Minimization - Convergence Properties and Implementation
+- Updated triangular factors of the basis to maintain sparsity in the product form simplex method
+- Algorithm 813 - SPG-Software for Convex-Constrained Optimization
+- The Mathematica Book
+- On search directions for minimization algorithms
+- Practical Methods of Optimization
+- Integer Programming
+- Analysis of a Symmetric Rank-One Trust Region Method
+- Computing a Trust Region Step
+- Some NP-complete problems in quadratic and nonlinear programming
+- Failure of global convergence for a class of interior point methods for nonlinear programming
+- Optimization Software Guide
+- A Modified Cholesky Algorithm Based on a Symmetric Indefinite Factorization
+- HOW GOOD IS THE SIMPLEX ALGORITHM
+- Implementation of the GMRES method using householder transformations
+- Methods of conjugate gradients for solving linear systems
+- Software for estimating sparse Hessian matrices
+- Convergence of quasi-Newton matrices generated by the symmetric rank one update
+- ODRPACK Software for Weighted Orthogonal Distance Regression.
+- The design of MA48 - a code for the direct solution of sparse unsymmetric linear systems of equations
+- Newton's Method for Large Bound-Constrained Optimization Problems
+- Superlinearly convergent variable metric algorithms for general nonlinear programming problems
+- Computing Sparse Hessian and Jacobian Approximations with Optimal Hereditary Properties
+- INEXACT NEWTON METHODS
+- Iterative Methods for Linear and Nonlinear Equations
+- On the convegence of a sequential penalty function method for constrained minimization
+- Rate of convergence of several conjugate gradient algorithms.
+- Partitioned variable metric updates for large structured optimization problems
+- Superlinear Convergence and Implicit Filtering
+- Optimal Time and Minimum Space-Time Product for Reversing a Certain Class of Programs
+- A globally convergent method for nonlinear programming
+- Convex analysis and minimization algorithms
+- HOPDM (version 2.12) - A fast LP solver based on a primal-dual interior point method
+- On the order of convergence of certain Quasi-Newton-methods
+- Numerical Computing with IEEE Floating Point Arithmetic
+- Solving least squares problems
+- Stable reduced Hessian updates for indefinite quadratic programming
+- Decision-making in a fuzzy environment
+- Achieving logarithmic growth of temporal and spatial complexity in reverse automatic differentiation
+- On sparse and symmetric matrix updating subject to a linear equation
+- Estimation of sparse jacobian matrices and graph coloring problems
+- Mathematical Programs with Complementarity Constraints - Stationarity, Optimality, and Sensitivity
+- On the truncated conjugate gradient method
+- The convergence of variable metric matrices in unconstrained optimization
+- Artificial neural network for reactive power optimization
+- Numerically stable methods for quadratic programming
+- Quadratic Programming is in NP
+- Particle swarm optimization
+- Perturbed Kuhn-Tucker points and rates of convergence for a class of nonlinear-programming algorithms
+- Nonlinear programming via an exact penalty function - Asymptotic analysis
+- Optimal reactive dispatch through interior point methods
+- A Family of Trust Region Based Algorithms for Unconstrained Minimization with Strong Global Convergence Properties.
+- On Adaptive-Step Primal-Dual Interior-Point Algorithms for Linear Programming
+- Algorithm 573 - NL2SOL-An Adaptive Nonlinear Least-Squares Algorithm [E4]
+- Exact penalty functions in nonlinear programming
+- Linear programming and extensions
+- An optimal control model of human response part I - Theory and validation
+- Pathways to the optimal set in linear programming
+- Optimization - Algorithms and Consistent Approximations
+- A new optimizer using particle swarm theory
+- Operations Research
+- Introduction to Numerical Analysis
+- The Levenberg-Marquardt algo-rithm - Implementation and theory
+- A nonmonotone line search technique for Newton's method
+- Minimizing a Quadratic Over a Sphere
+- PCx - an interior-point code for linear programming
+- Curvilinear path steplength algorithms for minimization which use directions of negative curvature
+- Incomplete Cholesky Factorizations with Limited Memory
+- Representations of quasi-Newton matrices and their use in limited memory methods
+- GMRES - a generalized minimal residual algorithm for solving nonsymmetric linear systems
+- Die Konvergenzordnung des Fletcher‐Powell‐Algorithmus
+- Implementation of Interior Point Methods for Large Scale Linear Programming
+- Direct Methods for Solving Symmetric Indefinite Systems of Linear Equations
+- Optimization And Nonsmooth Analysis
+- Algorithms for minimization without derivatives
+- Back and forth - the regulation and function of transbilayer phospholipid movement in eukaryotic cells.
+- On the rate of superlinear convergence of a class of variable metric methods
+- On the Accurate Determination of Search Directions for Simple Differentiable Penalty Functions
+- Note sur la convergence de méthodes de directions conjuguées
+- Descent Property and Global Convergence of the Fletcher-Reeves Method with Inexact Line Search
+- A Trust Region Algorithm for Nonlinearly Constrained Optimization
+- Some stable methods for calculating inertia and solving symmetric linear systems
+- The Multifrontal Solution of Indefinite Sparse Symmetric Linear
+- A trust region strategy for nonlinear equality constrained op-timization
+- [The change of serum alpha 1-antitrypsin level in patients with spontaneous pneumothorax].
+- Introduction to linear and nonlinear programming
+- Function minimization by conjugate gradients
+- A method for nonlinear constraints in minimization problems
+- Proof of Theorem 4
+- THEORY OF POSITIVE LINEAR DEPENDENCE.
+- A General Quadratic Programming Algorithm
+- An Algorithm for Least-Squares Estimation of Nonlinear Parameters
+- Optimization Theory with Applications
+- Linear Matrix Inequalities in Systems and Control Theory
+- Direct Solution of Sets of Linear Equations whose Matrix is Sparse, Symmetric and Indefinite
+- The Composite Simplex Algorithm
+- Introduction a l'analyse numerique matricielle et a l'optimisation
+- Constrained Optimization and Lagrange Multiplier Methods
+- Numerical Methods for Least Squares Problems
+- On the convergence of derivative-free methods for unconstrained optimization
+- A view of line-searches
+- A fast algorithm for nonlinearly constrained optimization calculations
+- Towards an efficient sparsity exploiting newton method for minimization
+- Second order corrections for non-differentiable optimization
+- Nonlinear Programming
+- Fundamentals of Unconstrained Optimization
+- Nonlinear Programming-Sequential Unconstrained Minimization Techniques
+- An efficient method for finding the minimum of a function of several variables without calculating derivatives
+- An Automatic Method for Finding the Greatest or Least Value of a Function
+- Finite Algorithms in Optimization and Data Analysis
+- A polynomial algorithm in linear programming
+- H = W.
+- Exposing Constraints
+- NONLINEAR PROGRAMMING
+- Combinatorial Optimization
+- Stochastic Programming
+- Structured second-and higher-order derivatives through univariate Taylor series
+- 1 User's guide
+- Direct search methods - Once scorned, now respectable

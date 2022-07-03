@@ -1,0 +1,217 @@
+---
+title: Gaussian Processes for Machine Learning
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# Gaussian Processes for Machine Learning
+
+## References
+
+- Gaussian Processes For Machine Learning
+- Introduction to Gaussian processes
+- Bayesian Gaussian process models - PAC-Bayesian generalisation error bounds and sparse approximations
+- Fast Sparse Gaussian Process Methods - The Informative Vector Machine
+- Sparse Bayesian Learning and the Relevance Vector Machine
+- PAC-Bayesian Generalisation Error Bounds for Gaussian Process Classification
+- Regression and Classification Using Gaussian Process Priors
+- Regression and Classification Using Gaussian Process Priors
+- An introduction to Support Vector Machines
+- Evaluation of gaussian processes and other methods for non-linear regression
+- Learning with Uncertainty - Gaussian Processes and Relevance Vector Machines
+- On the Noise Model of Support Vector Machines Regression
+- Monte Carlo Implementation of Gaussian Process Models for Bayesian Regression and Classification
+- Gaussian Processes for Classification - Mean-Field Algorithms
+- Generalization Error Bounds for Bayesian Mixture Algorithms
+- Sparse On-Line Gaussian Processes
+- Transductive and Inductive Methods for Approximate Gaussian Process Regression
+- Sparse Gaussian Process Classification With Multiple Classes
+- Gaussian process priors with ARMA noise models
+- Bayesian Classification With Gaussian Processes
+- Bayesian Model Selection for Support Vector Machines, Gaussian Processes and Other Kernel Classifiers
+- Bayesian Learning for Neural Networks
+- Learning in Graphical Models
+- RKHS approach to detection and estimation problems-I - Deterministic signals in Gaussian noise
+- Nonstationary Covariance Functions for Gaussian Process Regression
+- Predictive Approaches for Choosing Hyperparameters in Gaussian Processes
+- Comparison of Approximate Methods for Handling Hyperparameters
+- Regularization Theory and Neural Networks Architectures
+- On the Nyström Method for Approximating a Gram Matrix for Improved Kernel-Based Learning
+- Derivative Observations in Gaussian Process Models of Dynamic Systems
+- Smoothing spline ANOVA models for large data sets with Bernoulli observations and the randomized GACV
+- Posterior Consistency in Nonparametric Regression Problems under Gaussian Process Priors
+- Fast training of support vector machines using sequential minimal optimization, advances in kernel methods
+- Discovering Hidden Features with Gaussian Processes Regression
+- Gaussian Processes - A Replacement for Supervised Neural Networks?
+- Incremental Online Learning in High Dimensions
+- Convexity, Classification, and Risk Bounds
+- Gaussian regression and optimal finite dimensional linear models
+- A new algorithm for spline smoothing based on smoothing a stochastic process
+- Prediction with Gaussian Processes - From Linear Regression to Linear Prediction and Beyond
+- Nonparametric binary regression using a Gaussian process prior
+- Analysis of Sparse Bayesian Learning
+- Neural networks for pattern recognition
+- A kernel approximation to the kriging predictor of a spatial process
+- Learning the Kernel Matrix with Semidefinite Programming
+- Gaussian Processes for Ordinal Regression
+- Fast Forward Selection to Speed Up Sparse Gaussian Process Regression
+- String Kernels, Fisher Kernels and Finite State Automata
+- Regularization Uses Fractal Priors
+- [Machine learning](./machine-learning.md)
+- Dynamic Alignment Kernels
+- Healing the relevance vector machine through augmentation
+- Ridge Regression Learning Algorithm in Dual Variables
+- Models of Noise and Robust Estimates
+- Statistical behavior and consistency of classification methods based on convex risk minimization
+- Gaussian Processes to Speed up Hybrid Monte Carlo for Expensive Bayesian Integrals
+- A Bayesian Approach to Robust Binary Nonparametric Regression
+- Regression with Input-dependent Noise - A Gaussian Process Treatment
+- [Statistical learning theory](./statistical-learning-theory.md)
+- The Evidence Framework Applied to Classification Networks
+- A New Discriminative Kernel from Probabilistic Models
+- Pattern Recognition and Neural Networks
+- Learning Curves for Gaussian Processes
+- A Bayesian approach to model inadequacy for polynomial regression
+- Networks for approximation and learning
+- Some Aspects of the Spline Smoothing Approach to Non‐Parametric Regression Curve Fitting
+- Gaussian Processes for Regression
+- Smoothing noisy data with spline functions
+- Computation with Infinite Neural Networks
+- Fast Marginal Likelihood Maximisation for Sparse Bayesian Models
+- Kernel Logistic Regression and the Import Vector Machine
+- A family of algorithms for approximate Bayesian inference
+- MULTIVARIATE INTEGRATION AND APPROXIMATION FOR RANDOM FIELDS SATISFYING SACKS-YLVISAKER CONDITIONS
+- Infinite Mixtures of Gaussian Process Experts
+- Uncertainty analysis and other inference tools for complex computer codes
+- Finite-Dimensional Approximation of Gaussian Processes
+- Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images
+- PAC-Bayesian Stochastic Model Selection
+- The Error-Reject Tradeoff
+- Adaptive Tuning of Numerical Weather Prediction Models - Randomized GCV in Three- and Four-Dimensional Data Assimilation
+- Efficient SVM Training Using Low-Rank Kernel Representations
+- Gaussian Process Latent Variable Models for Visualisation of High Dimensional Data
+- Asymptotic Analysis of Penalized Likelihood and Related Estimators
+- Statistical Learning for Humanoid Robots
+- Optimum Smoothing of Two-Dimensional Fields
+- Kernels for Multi--task Learning
+- Dependent Gaussian Processes
+- Properties of diagnostic data distributions.
+- Sparse Greedy Gaussian Process Regression
+- Bayesian Monte Carlo
+- General Bounds on Bayes Errors for Regression with Gaussian Processes
+- Automatic Smoothing of Regression Functions in Generalized Linear Models
+- On the Bernstein-von Mises Theorem with Infinite Dimensional Parameters
+- Kernel independent component analysis
+- Assessing Approximations for Gaussian Process Classification
+- Image analysis, random fields and dynamic Monte Carlo methods - a mathematical introduction
+- Stochastic models for closed boundary analysis - Representation and reconstruction
+- Hybrid Adaptive Splines
+- Radon-Nikodym Derivatives of Gaussian Measures
+- Gaussian Process Priors with Uncertain Inputs - Application to Multiple-Step Ahead Time Series Forecasting
+- Tangent Prop - A Formalism for Specifying Selected Invariances in an Adaptive Network
+- Probabilistic kernel regression models
+- Semiparametric latent factor models
+- Reproducing kernel Hilbert spaces
+- A regularized solution to edge detection
+- Smoothing noisy data with spline functions
+- On the theory of brownian motion
+- Curve Fitting and Optimal Design for Prediction
+- Support vector regression with ANOVA decomposition kernels
+- Using the Equivalent Kernel to Understand Gaussian Process Regression
+- On Kernel-Target Alignment
+- Efficient Kernel Machines Using the Improved Fast Gauss Transform
+- Theory of Reproducing Kernels.
+- A First Course in Fourier Analysis
+- GTM - The Generative Topographic Mapping
+- Principles of Data Mining
+- Models of Noise and Robust Estimation
+- Some practical problems in implementing a certain sieve estimator of the gaussian mean function
+- A Probabilistic Theory of Pattern Recognition
+- Measure Theory
+- Scattered Data Approximation
+- Efficient spatiotemporal grouping using the Nystrom method
+- [Convex Optimization](./convex-optimization.md)
+- Level-crossing problems for random processes
+- Metric spaces and positive definite functions
+- Least Median of Squares Regression
+- Efficient Global Optimization of Expensive Black-Box Functions
+- Modelling Frontal Discontinuities in Wind Fields
+- Variational Gaussian process classifiers
+- Convolution Kernels for Natural Language
+- MULTIVARIATE SMOOTHING SPLINE FUNCTIONS
+- Design Problems for Optimal Surface Interpolation.
+- Pattern classification and scene analysis
+- TAP Gibbs Free Energy, Belief Propagation and Sparsity
+- The Stability of Kernel Principal Components Analysis and its Relation to the Process Eigenspectrum
+- Some results on Tchebycheffian spline functions
+- Mismatch String Kernels for SVM Protein Classification
+- Ridge Regression - Biased Estimation for Nonorthogonal Problems
+- Density Ratios, Empirical Likelihood and Cot Death
+- A Variational Approach to Learning Curves
+- Hands - A Pattern Theoretic Study of Biological Shapes
+- Suboptimal behavior of Bayes and MDL in classification under misspecification
+- Spline Models for Observational Data
+- A theory of the learnable
+- A Distribution-Free Theory of Nonparametric Regression
+- Nonparametric regression and generalized linear models
+- Occam's Razor
+- [The Nature of Statistical Learning Theory](./the-nature-of-statistical-learning-theory.md)
+- A Correspondence Between Bayesian Estimation on Stochastic Processes and Smoothing by Splines
+- On the theory of brownian motion
+- Least Squares Support Vector Machines
+- SVMTorch - Support Vector Machines for Large-Scale Regression Problems
+- Expectation Propagation for Exponential Families
+- Linear Stochastic Systems with Constant Coefficients
+- Design and analysis of computer experiments
+- Fast Kernels for String and Tree Matching
+- SPLINE FUNCTIONS AND THE PROBLEM OF GRADUATION.
+- Stochastic Differential Equations
+- Spline Smoothing - The Equivalent Variable Kernel Method
+- The Analysis of Time Series - An Introduction
+- Mathematical Methods for Physicists
+- Probability and random processes
+- Average-case analysis of numerical problems
+- The elements of integration and Lebesgue measure
+- A Comparison of GCV and GML for Choosing the Smoothing Parameter in the Generalized Spline Smoothing Problem
+- Atmospheric Data Analysis
+- Splines minimizing rotation-invariant semi-norms in Sobolev spaces
+- [Information Theory, Inference, and Learning Algorithms](./information-theory-inference-and-learning-algorithms.md)
+- Probabilities for SV Machines
+- Term-Weighting Approaches in Automatic Text Retrieval
+- A Predictive Approach to Model Selection
+- Dynamic Alignment Kernels
+- Time Series - A Biostatistical Introduction
+- [Numerical recipes in C](./numerical-recipes-in-c.md)
+- A Taxonomy of Global Optimization Methods Based on Response Surfaces
+- Continuous Univariate Distributions, Volume 2
+- The Design and Analysis of Computer Experiments
+- Statistics for Spatial Data.
+- The Theory of Stochastic Processes
+- Fractal Geometry of Nature
+- Generalized additive models for medical research
+- Noisy information and computational complexity
+- On the consistency of Bayes estimates
+- The Numerical Treatment of Integral Equations
+- Adaptive Mixtures
+- The theory of stochastic processes
+- Tables of Integrals, Series, and Products
+- Atmospheric CO 2 records from sites in the SIO air sampling network
+- Continuous Univariate Distributions Volume 2
+- Matrix computations
+- Solutions of ill-posed problems
+- Prediction and Regulation by Linear Least-Square Methods
+- Mathematical Theory of Probability and Statistics
+- Observations on the Nyström Method for Gaussian Process Prediction
+- Stochastic processes in information and dynamical systems
+- Extrapolation, Interpolation, and Smoothing of Stationary Time Series
+- Eigenvalue Distribution of Compact Operators
+- Correlation Theory of Stationary and Related Random Functions I - Basic Results
+- Spatial Statistics
+- Learning with kernels
+- Efficient implementation of gaussian processes
+- Suboptimal Behavior of Bayes and MDL in Classification Under Misspecification
+- Sparse Greedy Matrix Approximation for Machine Learning
+- Using the Nyström Method to Speed Up Kernel Machines

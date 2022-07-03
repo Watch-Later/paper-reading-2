@@ -1,0 +1,262 @@
+---
+title: A wavelet tour of signal processing
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# A wavelet tour of signal processing
+
+## References
+
+- Acoustic signal compression with wavelet packets
+- Estimation of noisy signals using time-invariant wavelet packets
+- Irregular sampling of wavelet and short-time Fourier transforms
+- Wavelets and signal processing
+- Asymptotic wavelet and Gabor analysis - Extraction of instantaneous frequencies
+- Signal processing with fractals - a wavelet-based approach
+- Interpolating Wavelet Transforms
+- WaveLab and Reproducible Research
+- Linear and quadratic time-frequency signal representations
+- Filtering and deconvolution by the wavelet transform
+- Wavelets and Multiscale Signal Processing
+- The wavelet transform, time-frequency localization and signal analysis
+- Adapted wavelet analysis from theory to software
+- On the instability of arbitrary biorthogonal wavelet packets
+- Wavelet packet and local cosine bases
+- On the Statistics of Best Bases Criteria
+- Adaptive time-frequency decompositions
+- Multiple window time-frequency analysis
+- Regular wavelets - a discrete-time approach
+- Best wavelet packet bases in a rate-distortion sense
+- Wavelets and turbulence
+- Exact Reconstruction Algorithms for the Discrete Wavelet Transform Using Spline Wavelets
+- Wavelet Smoothing of Evolutionary Spectra by Non-Linear Thresholding
+- Wavelet compression and nonlinearn-widths
+- Wavelets and Subband Coding
+- Second generation compact image coding with wavelets
+- The lifting scheme - a construction of second generation wavelets
+- Fast algorithms for discrete and continuous wavelet transforms
+- Wavelet-based representations for a class of self-similar signals with application to fractal modulation
+- Discrete, spatiotemporal, wavelet multiresolution analysis method for computing optical flow
+- Local frames and noise reduction
+- DFT/FFT and Convolution Algorithms - Theory and Implementation
+- Orthonormal bases of compactly supported wavelets
+- Acceleration of the frame algorithm
+- The discrete wavelet transform - wedding the a trous and Mallat algorithms
+- A Theory for Multiresolution Signal Decomposition - The Wavelet Representation
+- Orthogonal matching pursuit - recursive function approximation with applications to wavelet decomposition
+- Image coding using wavelet transform
+- Visual thresholds for wavelet quantization error
+- Sound Signals Decomposition Using a High Resolution Matching Pursuit
+- Entropy-based algorithms for best basis selection
+- Fast wavelet transforms and numerical algorithms I
+- Singularity detection and processing with wavelets
+- Characterization of Signals from Multiscale Edges
+- Signal processing with lapped transforms
+- Characterizations of fundamental scaling functions and wavelets
+- Multiresolution representations using the auto-correlation functions of compactly supported wavelets
+- Texture classification and segmentation using wavelet frames
+- Image compression using the 2-D wavelet transform
+- Wavelet analysis and synthesis of fractional Brownian motion
+- On the use of windows for harmonic analysis with the discrete Fourier transform
+- Atomic Decomposition by Basis Pursuit
+- Multiresolution approximations and wavelet orthonormal bases of L^2(R)
+- Wavelets and Filter Banks
+- Theory Of Function Spaces
+- Wavelet methods for fast resolution of elliptic problems
+- Wavelet analysis and signal processing
+- Continuous and Discrete Wavelet Transforms
+- Fast algorithms for the discrete W transform and for the discrete Fourier transform
+- Nonseparable multidimensional perfect reconstruction filter banks and wavelet bases for Rn
+- Properties of the multiscale maxima and zero-crossings representations
+- Spherical wavelets - efficiently representing functions on the sphere
+- Localized measurement of emergent image frequencies by Gabor wavelets
+- Removing noise from music using local trigonometric bases and wavelet packets
+- Irregular sampling and frames
+- Adaptive covariance estimation of locally stationary processes
+- Image compression through wavelet transform coding
+- Signal representation using adaptive normalized Gaussian functions
+- Improved time-frequency representation of multicomponent signals using exponential kernels
+- Minimax estimation via wavelet shrinkage
+- Space-frequency localized basis function networks for nonlinear system estimation and control
+- Cycle-octave and related transforms in seismic signal analysis
+- A First Course on Wavelets
+- On the Kullback-Leibler information divergence of locally stationary processes
+- Embedded wavelet image compression based on a joint probability model
+- Computer Description of Textured Surfaces
+- A wavelet-based analysis of fractal image compression
+- Frame representations for texture segmentation
+- The Generalized Gabor Scheme of Image Representation in Biological and Machine Vision
+- Factoring wavelet transforms into lifting steps
+- Wavelet applications in chemical engineering
+- Data Compression and Harmonic Analysis
+- Minimax Restoration and Deconvolution
+- Quantization noise spectra
+- Short wavelets and matrix dilation equations
+- Best basis algorithm for signal enhancement
+- The Binomial QMF-Wavelet Transform for Multiresolution Signal Decomposition
+- Practical Time-Frequency Analysis
+- Wavelet transform of the dilation equation
+- Low bit rate transparent audio compression using adapted wavelets
+- Unique reconstruction of band-limited signals by a Mallat-Zhong wavelet transform algorithm
+- Sub-band coding of images
+- Remarques sur l'analyse de Fourier à fenêtre
+- Spectrum estimation and harmonic analysis
+- Time-frequency distributions-a review
+- Two applications of wavelet transforms in magnetic resonance imaging
+- A Guide to Distribution Theory and Fourier Transforms
+- Multiscale autoregressive processes. I. Schur-Levinson parametrizations
+- Frame Analysis of Irregular Periodic Sampling of Signals and Their Derivatives
+- Wavelet Threshold Estimators for Data with Correlated Noise
+- Analysis of low bit rate image transform coding
+- Characterization of Self-Similar Multifractals with Wavelet Maxima
+- Characterization of acoustic signals through continuous linear time-frequency representations
+- A fast algorithm for the implementation of filter banks based on 'time domain aliasing cancellation'
+- An introduction to wavelets
+- Signal compression based on models of human perception
+- Computer Vision
+- The LOT - a link between block transform coding and multirate filter banks
+- Estimating Covariances of Locally Stationary Processes - Rates of Convergence of Best Basis Methods
+- The Multifractal Formalism Revisited with Wavelets
+- Wavelets and recursive filter banks
+- Tilings of the time-frequency plane - construction of arbitrary orthogonal bases and fast tiling algorithms
+- AM-FM energy detection and separation in noise using multiband energy operators
+- Necessary and sufficient conditions for constructing orthonormal wavelet bases
+- Localized texture processing in vision - analysis and synthesis in the Gaborian space
+- Shiftable multiscale transforms
+- Fast Fourier transforms - a tutorial review and a state of the art
+- Arithmetic Coding
+- Unsupervised texture segmentation using Gabor filters
+- Optimal data-based kernel estimation of evolutionary spectra
+- Biorthogonal bases of compactly supported wavelets
+- A general sampling theory for nonideal acquisition devices
+- Scaling Theorems for Zero Crossings
+- Translation-Invariant De-Noising
+- The LOT - transform coding without blocking effects
+- Wavelet Shrinkage - Asymptopia?
+- Linear time adaptive arithmetic coding
+- Fingerprints Go Digital
+- Adapting to Unknown Smoothness via Wavelet Shrinkage
+- Nonlinear Solution of Linear Inverse Problems by Wavelet-Vaguelette Decomposition
+- Arithmetic coding for data compression
+- Optimal kernels for nonstationary spectral estimation
+- Time - Domain Formant - Wave - Function Synthesis
+- Signal analysis
+- Implicit coding for very low bit rate image compression
+- Visual cortical neurons as localized spatial frequency filters
+- A new, fast, and efficient image codec based on set partitioning in hierarchical trees
+- A cardinal spline approach to wavelets
+- Edge and Curve Detection for Visual Scene Analysis
+- HIGH RESOLUTION PURSUIT FOR FEATURE EXTRACTION
+- Orthogonal Pyramid Transforms For Image Coding.
+- The Laplacian Pyramid as a Compact Image Code
+- Some remarks on greedy algorithms
+- The critical band coder-Digital encoding of speech signals based on the perceptual requirements of the auditory system
+- DECOMPOSITION OF HARDY FUNCTIONS INTO SQUARE INTEGRABLE WAVELETS OF CONSTANT SHAPE
+- Unconditional Bases Are Optimal Bases for Data Compression and for Statistical Estimation
+- A Computational Approach to Edge Detection
+- Robust computation of optical flow in a multi-scale differential framework
+- Matching pursuits with a wave-based dictionary
+- Computational Experiments with a Feature Based Stereo Algorithm
+- An overview of sigma-delta converters
+- Filter banks allowing perfect reconstruction
+- Second-generation image-coding techniques
+- Projection Pursuit Regression
+- The aliasing problem in discrete-time Wigner distributions
+- The Wigner distribution - theory and applications in signal processing
+- Propagation Of Singularities for Semilinear Hyperbolic Equations
+- Pointwise analysis of Riemann's “nondifferentiable” function
+- Video coding - the second generation approach
+- Filters for distortion-free two-band multirate filter banks
+- Wavelets associated with representations of the affine Weyl-Heisenberg group
+- Fast Fourier transform and convolution algorithms
+- Reconstructions from zero crossings in scale space
+- Textons, the elements of texture perception, and their interactions
+- Sojourns and Extremes of Stochastic Processes
+- Wigner-Ville spectral analysis of nonstationary processes
+- Inequalities of Littlewood-Paley type for frames and wavelets
+- Signal Compression - Technology Targets and Research Directions
+- MPEG - a video compression standard for multimedia applications
+- MPEG digital video-coding standards
+- Subband dictionaries for low-cost matching pursuits of video residues
+- Embedded image coding using zerotrees of wavelet coefficients
+- Estimating covariances of locally stationary processes - consistency of best basis methods
+- Wedgelets - nearly minimax estimation of edges
+- A MUSICAM source codec for digital audio broadcasting and storage
+- Sketch based coding of grey level images
+- Ideal denoising in an orthonormal basis chosen from a library of bases
+- Generalized Self-Similarity
+- Applied Nonlinear Control
+- Two-dimensional spectral analysis of cortical receptive field profiles
+- A Statistical Perspective on Ill-posed Inverse Problems
+- Families of multiresolution and wavelet spaces with optimal properties
+- Vector quantization and signal compression
+- Smart sensing within a pyramid vision machine
+- Pointwise smoothness, two-microlocalization and wavelet coefficients
+- The iso/mpeg-audio codec - A generic standard for coding of high quality digital audio
+- Fractal measures and their singularities - The characterization of strange sets.
+- Two-scale difference equations II. local regularity, infinite products of matrices and fractals
+- Complete iterative reconstruction algorithms for irregularly sampled data in spline-like spaces
+- Video Compression - Standards and Applications
+- Chaotic communications in the presence of noise
+- Linear Inverse and III-Posed Problems
+- A Multiscale Approach to Sensor Fusion and the Solution of Linear Inverse Problems
+- Computational anatomy and functional architecture of striate cortex - A spatial mapping approach to perceptual coding
+- Quantum mechanics as a statistical theory
+- Deterministic analysis of oversampled A/D conversion and decoding improvement based on consistent estimates
+- A method for the construction of minimum-redundancy codes
+- The JPEG still picture compression standard
+- The Lifting Scheme - A Custom - Design Construction of Biorthogonal Wavelets Industrial Mathematics
+- Data-dependent triangulations for scattered data interpolation and finite element approximation
+- A new polynomial-time algorithm for linear programming
+- A block spin construction of ondelettes. Part I - Lemarié functions
+- Long and thin triangles can be good for linear interpolation
+- Quantized Overcomplete Expansions in IRN - Analysis, Synthesis, and Algorithms
+- PAINLESS NONORTHOGONAL EXPANSIONS
+- Generalized evolutionary spectral analysis and the Weyl spectrum of nonstationary random processes
+- Unconditional Bases and Bit-Level Compression
+- Variable Bandwidth Kernel Estimators of Regression Curves
+- A procedure for designing exact reconstruction filter banks for tree-structured subband coders
+- Visual Organization of Illusory Surfaces
+- Quadrature mirror filter banks, M-band extensions and perfect-reconstruction techniques
+- Universal modeling and coding
+- Inequalities - Theory of Majorization and Its Applications
+- Generalized Phase-Space Distribution Functions
+- The local structure of turbulence in incompressible viscous fluid for very large Reynolds numbers
+- Prior Learning and Gibbs Reaction-Diffusion
+- Feature Article - Interior Point Methods for Linear Programming - Computational State of the Art
+- On a conjecture of Huber concerning the convergence of projection pursuit regression
+- Minimax Risk Over Hyperrectangles, and Implications
+- Lattice structures for optimal design and robust implementation of two-channel perfect-reconstruction QMF banks
+- Ondelettes et algorithmes concurrents
+- On the Quantum Correction for Thermodynamic Equilibrium
+- Regularité des bases d'ondelettes et mesures ergodiques
+- Ridge and skeleton extraction from the wavelet transform
+- Stationary Subdivision
+- Bounds for the Risks of Non-Parametric Regression Estimates
+- On convergence and growth of partial sums of Fourier series
+- A class of nonharmonic Fourier series
+- Wavelet Methods for Pointwise Regularity and Local Oscillations of Functions
+- Compression of wavelet decompositions
+- Zur Theorie der orthogonalen Funktionensysteme
+- The Theory of Groups and Quantum Mechanics
+- Splitting a signal into subsampled channels allowing perfect reconstruction
+- Interpolatory function theory
+- Analyse continue par ondelettes
+- Intermediate spaces and interpolation, the complex method
+- Evolutionary Spectra and Non‐Stationary Processes
+- The World According to Wavelets
+- An efficient image representation for multiscale analysis
+- Principe d'incertitude, bases hilbertiennes et algèbres d'opérateurs
+- Ideal spacial adaptation via wavelet shrinkage
+- The Fourier integral and its applications
+- Probability, random variables and stochastic processes
+- Passive and active filters
+- Fractional Brownian Motions, Fractional Noises and Applications
+- Estimation of the Mean of a Multivariate Normal Distribution
+- Numerical Linear Algebra and Optimization
+- Minimax Deconvolution in Mirror Wavelet Bases
+- Multivariate adaptive regression splines

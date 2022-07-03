@@ -1,0 +1,212 @@
+---
+title: Multiple View Geometry in Computer Vision
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# Multiple View Geometry in Computer Vision
+
+## References
+
+- Projective Geometry and Computer Vision
+- Oriented Projective Geometry for Computer Vision
+- A Combined Corner and Edge Detector
+- What can be seen in three dimensions with an uncalibrated stereo rig
+- Automatic calibration and removal of distortion from scenes of structured environments
+- Projective alignment with regions
+- Geometric Grouping of Repeated Elements within Images
+- Geometry and Critical Configurations of Multiple Views
+- Trilinearity in Visual Recognition by Alignment
+- In Defense of the Eight-Point Algorithm
+- PDE-based multi-view depth estimation
+- A Geometric Interpretation of Weak-Perspective Motion
+- Robust computation and parametrization of multiple view relations
+- Minimizing algebraic error in geometric estimation problems
+- A Factorization Based Algorithm for Multi-Image Projective Structure and Motion
+- Projective Structure and Motion from Image Sequences Using Subspace Methods
+- A simple and efficient rectification method for general motion
+- Wide baseline stereo matching
+- Algebraic Functions For Recognition
+- Reconstruction from Image Sequences by Means of Relative Depths
+- Estimation of Relative Camera Positions for Uncalibrated Cameras
+- A computer algorithm for reconstructing a scene from two projections
+- Camera Self-Calibration - Theory and Experiments
+- Parallax geometry of smooth surfaces in multiple views
+- Oriented Matching Constraints
+- Structure and Motion from Points, Lines and Conics with Affine Cameras
+- Using conic correspondences in two images to estimate the epipolar geometry
+- Factorization methods for projective structure and motion
+- Outlier correction in image sequences for the affine camera
+- A Case Against Epipolar Geometry
+- Euclidean Shape and Motion from Multiple Perspective Views by Affine Iterations
+- A Flexible New Technique for Camera Calibration
+- Automatic line matching across views
+- 3-D Reconstruction of Urban Scenes from Sequences of Images
+- Canonical Representations for the Geometries of Multiple Projective Views
+- Some Properties of the E Matrix in Two-View Motion Estimation
+- Computation of the Quadrifocal Tensor
+- Automatic 3D Model Construction for Turn-Table Sequences
+- Complete camera calibration using spheres - A dual-space approach
+- The Perspective View of Three Points
+- Relative 3D positioning and 3D convex hull computation from a weakly calibrated stereo pair
+- Reconstruction from six-point sequences
+- The Geometry of Projective Reconstruction I - Matching Constraints and the Joint Image
+- Stratification of three-dimensional vision - projective, affine, and metric representations
+- Creating full view panoramic image mosaics and environment maps
+- Linear multi view reconstruction and camera recovery
+- Self-Calibration from Multiple Views with a Rotating Camera
+- Self-Calibration of a Rotating Camera with Varying Intrinsic Parameters
+- Canonic Representations for the Geometries of Multiple Projective Views
+- Invariants of Points Seen in Multiple Images
+- Creating Architectural Models from Images
+- Camera Calibration from Vanishing Points in Image of Architectural Scenes
+- Critical Curves and Surfaces for Euclidean Reconstruction
+- The Geometry and Matching of Curves in Multiple Views
+- Class-based grouping in perspective images
+- Relative orientation revisited
+- Plane-based projective reconstruction
+- On plane-based camera calibration - A general algorithm, singularities, applications
+- Metric rectification for perspective images of planes
+- Tour into the picture - using a spidery mesh interface to make animation from a single image
+- Matching perspective views of coplanar structures using projective unwarping and similarity matching
+- Dualizing Scene Reconstruction Algorithms
+- From projective to Euclidean reconstruction
+- Single View Metrology
+- A Six Point Solution for Structure and Motion
+- Algebraic Varieties in Multiple View Geometry
+- On Degeneracy of Linear Reconstruction From Three Views - Linear Line Complex and Applications
+- Critical configurations for n-view projective reconstruction
+- 3D Model Acquisition from Extended Image Sequences
+- Gauge Independence in Optimization Algorithms for 3D Vision
+- Curve matching and stereo calibration
+- Minimal projective reconstruction for combinations of points and lines in three views
+- From Reference Frames to Reference Planes - Multi-View Parallax Geometry and Applications
+- Robust Video Mosaicing through Topology Inference and Local to Global Alignment
+- A Method for Interactive 3D Reconstruction of Piecewise Planar Objects from Single Images
+- Combining scene and auto-calibration constraints
+- The tensors of three affine views
+- Constraint on five points in two images
+- Stereo from uncalibrated cameras
+- Multi-frame optical flow estimation using subspace constraints
+- The Cubic Rational Polynomial Camera Model
+- Relative 3D Reconstruction Using Multiple Uncalibrated Images
+- Automatic Modelling of 3D Natural Objects from Multiple Views
+- Invariants of 6 Points from 3 Uncalibrated Images
+- Camera pose and calibration from 4 or 5 known 3D points
+- Duality of reconstruction and positioning from projective views
+- Camera calibration and the search for infinity
+- Planar grouping for automatic detection of vanishing lines and points
+- A Robust Technique for Matching two Uncalibrated Images Through the Recovery of the Unknown Epipolar Geometry
+- Automatic reconstruction of piecewise planar models from multiple views
+- Single Axis Geometry by Fitting Conics
+- Planar homologies as a basis for grouping and recognition
+- Differential matching constraints
+- A linear method for reconstruction from lines and points
+- Euclidean reconstruction from image sequences with varying and unknown focal length and principal point
+- Autocalibration and the absolute quadric
+- Affine structure from motion.
+- On the geometry and algebra of the point and line correspondences between N images
+- Projective Reconstruction and Invariants from Multiple Images
+- Multi-View Reconstruction and Camera Recovery using a Real or Virtual Reference Plane
+- A plane measuring device
+- Critical motion sequences for the self-calibration of cameras and stereo systems with variable focal length
+- Shape Ambiguities in Structure From Motion
+- Self-calibration and metric reconstruction in spite of varying and unknown internal camera parameters
+- A critical configuration for reconstruction from rectilinear motion
+- Autocalibration from Planar Scenes
+- Some invariant linear methods in photogrammetry and model-matching
+- Euclidean Reconstruction and Reprojection Up to Subgroups
+- Reactive Zoom Control while Tracking Using an Affine Camera
+- What Shadows Reveal about Object Structure
+- Linear auto-calibration for ground plane motion
+- Motion and Structure From Two Perspective Views - Algorithms, Error Analysis, and Error Estimation
+- Linear Pushbroom Cameras
+- Morphable 3D models from video
+- Metric calibration of a stereo rig
+- Zebra-crossing detection for the partially sighted
+- Closed-form solution+maximum likelihood - a robust approach to motion and structure estimation
+- Motion from point matches - Multiplicity of solutions
+- Epipolar Geometry in Stereo, Motion and Object Recognition
+- Automated mosaicing with super-resolution zoom
+- Linear self-calibration of a rotating and zooming camera
+- Outlier detection and motion segmentation
+- Surviving Dominant Planes in Uncalibrated Structure and Motion Recovery
+- The modulus constraint - a new constraint self-calibration
+- Euclidean Reconstruction from Uncalibrated Views
+- Joint Orientation of Epipoles
+- Motion Clustering using the Trilinear Constraint over Three Views
+- Direct least-squares fitting of algebraic surfaces
+- Multilinear Relationships between Coordinates of Corresponding Image Points and Lines
+- Self-Calibration of a 1D Projective Camera and Its Application to the Self-Calibration of a 2D Projective Camera
+- Tracking and modeling non-rigid objects with rank constraints
+- Sensitivity of Calibration to Principal Point Position
+- The projective geometry of ambiguous surfaces
+- Oriented projective geometry
+- Closed-Form Solutions for the Euclidean Calibration of a Stereo Rig
+- A Paraperspective Factorization Method for Shape and Motion Recovery
+- Ambiguous Configurations for 3-View Projective Reconstruction
+- Reconstruction of Surfaces from Profiles
+- Active visual navigation using non-metric structure
+- Analysis and solutions of the three point perspective pose estimation problem
+- On focal length calibration from two views
+- From projective to Euclidean space under any practical situation, a criticism of self-calibration
+- Uncalibrated 1D projective camera and 3D affine reconstruction of lines
+- Recovering unknown focal lengths in self-calibration - an essentially linear algorithm and degenerate configurations
+- Direct Solution of Modulus Constraints
+- Reconstruction from Uncalibrated Sequences with a Hierarchy of Trifocal Tensors
+- Mathematica - a system for doing mathematics by computer, 2nd Edition
+- Ambiguity in reconstruction from images of six points
+- Plane+Parallax, Tensors and Factorization
+- Geometric Invariance in Computer Vision
+- A Computational Approach to Edge Detection
+- Critical motion sequences for monocular self-calibration and uncalibrated Euclidean reconstruction
+- Factorization-based segmentation of motions
+- Using Singular Displacements for Uncalibrated Monocular Visual Systems
+- What Does the Occluding Contour Tell Us about Solid Shape?
+- Automatic Camera Recovery for Closed or Open Image Sequences
+- Close-Range Camera Calibration
+- Random sample consensus - a paradigm for model fitting with applications to image analysis and automated cartography
+- Self-Calibration from Image Triplets
+- Estimation of Planar Curves, Surfaces, and Nonplanar Space Curves Defined by Implicit Equations with Applications to Edge and Range Image Segmentation
+- Separability of pose and expression in facial tracking and animation
+- Self-calibration and metric 3d reconstruction from uncalibrated image sequences
+- Direct least squares fitting of ellipses
+- Géométrie d'un système de N caméras - théorie, estimation et applications. (Geometry of a System of n Cameras. Theory. Estimation. Applications)
+- Degenerate n Point Configura-tions of Three Views - Do Critical Surfaces Exist
+- Characterizing the Uncertainty of the Fundamental Matrix
+- Critical motions and ambiguous Euclidean reconstructions in auto-calibration
+- Accurate Visual Metrology from Single and Multiple Uncalibrated Images
+- Geometric concepts for geometric design
+- Camera Calibration and Reconstruction of Geometry from Images
+- Grassman-Cayley algebra for modelling systems of cameras and the algebraic equations of the manifold of trifocal tensors
+- Threading Fundamental Matrices
+- Algorithms for the Solution of the Nonlinear Least-Squares Problem
+- Fitting conic sections to scattered data
+- Fitting conic sections to very scattered data - An iterative refinement of the bookstein algorithm
+- The twisted cubic and camera calibration
+- Elementary Mathematics from an Advanced Standpoint
+- Critical Sets for 3D Reconstruction Using Lines
+- Sketchpad - a man-machine graphical communication system
+- Vision 3D non calibrée - contributions à la reconstruction projective et étude des mouvements critiques pour l'auto-calibrage. (Uncalibrated 3D Vision - Contributions to Projective Reconstruction and Study of the Critical Motions for Self-Calibration)
+- Kruppa's Equations Derived from the Fundamental Matrix
+- Algebraic Projective Geometry
+- Statistical Bias of Conic Fitting and Renormalization
+- Matrice fondamentale et autocalibration en vision par ordinateur
+- [Numerical recipes in C](./numerical-recipes-in-c.md)
+- Robust Regression and Outlier Detection
+- Numerical methods in finite element analysis
+- Geometry and Analysis of Projective Spaces
+- Geometry and algebra of multiple projective transformations
+- Die Bestimmung der Kernpunkte in der Photogrammetrie
+- Affine reconstruction from perspective image pairs
+- Geometry and the Imagination
+- Geometric computation for machine vision
+- Quadric Surface Reconstruction from Dual-Space Geometry.
+- Manual of Photogrammetry
+- Three-Dimensional Computer Vision - A Geometric Viewpoint
+- Affine structure from line correspondences with uncalibrated affine cameras
+- Affine Calibration of Mobile Vehicles
+- Self-Calibration from Image Sequences

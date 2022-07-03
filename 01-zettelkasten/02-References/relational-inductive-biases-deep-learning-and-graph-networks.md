@@ -1,0 +1,205 @@
+---
+title: Relational inductive biases, deep learning, and graph networks
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# Relational inductive biases, deep learning, and graph networks
+
+## References
+
+- [Compositional Attention Networks for Machine Reasoning](./compositional-attention-networks-for-machine-reasoning.md)
+- Relational inductive bias for physical construction in humans and machines
+- [Towards Deep Symbolic Reinforcement Learning](./towards-deep-symbolic-reinforcement-learning.md)
+- [Building machines that learn and think like people](./building-machines-that-learn-and-think-like-people.md)
+- [A simple neural network module for relational reasoning](./a-simple-neural-network-module-for-relational-reasoning.md)
+- Relational Deep Reinforcement Learning
+- Relational Neural Expectation Maximization - Unsupervised Discovery of Objects and their Interactions
+- [Graph Attention Networks](./graph-attention-networks.md)
+- Learning Deep Generative Models of Graphs
+- Using Neural Network Formalism to Solve Multiple-Instance Problems
+- [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](./model-agnostic-meta-learning-for-fast-adaptation-of-deep-networks.md)
+- Schema Networks - Zero-shot Transfer with a Generative Causal Model of Intuitive Physics
+- How to Grow a Mind - Statistics, Structure, and Abstraction
+- Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets
+- [Neural Module Networks](./neural-module-networks.md)
+- [Deep Convolutional Networks on Graph-Structured Data](./deep-convolutional-networks-on-graph-structured-data.md)
+- [End-To-End Memory Networks](./end-to-end-memory-networks.md)
+- node2vec - Scalable Feature Learning for Networks
+- [Geometric Deep Learning on Graphs and Manifolds Using Mixture Model CNNs](./geometric-deep-learning-on-graphs-and-manifolds-using-mixture-model-cnns.md)
+- Human-level concept learning through probabilistic program induction
+- [Hybrid computing using a neural network with dynamic external memory](./hybrid-computing-using-a-neural-network-with-dynamic-external-memory.md)
+- Graph networks as learnable physics engines for inference and control
+- [Gated Graph Sequence Neural Networks](./gated-graph-sequence-neural-networks.md)
+- [Interaction Networks for Learning about Objects, Relations and Physics](./interaction-networks-for-learning-about-objects-relations-and-physics.md)
+- Towards a Neural Statistician
+- NerveNet - Learning Structured Policy with Graph Neural Networks
+- Learning to reinforcement learn
+- [Self-Attention with Relative Position Representations](./self-attention-with-relative-position-representations.md)
+- Learning to Represent Programs with Graphs
+- Discovering objects and their relations from entangled scene representations
+- [Attention is All you Need](./attention-is-all-you-need.md)
+- Learning Explanatory Rules from Noisy Data
+- Can Neural Networks Understand Logical Entailment?
+- Action Schema Networks - Generalised Policies with Deep Learning
+- [Inductive Representation Learning on Large Graphs](./inductive-representation-learning-on-large-graphs.md)
+- Adversarial Attacks on Neural Networks for Graph Data
+- [Neural Message Passing for Quantum Chemistry](./neural-message-passing-for-quantum-chemistry.md)
+- Neuro-Symbolic Program Synthesis
+- Deep Models of Interactions Across Sets
+- [Geometric Deep Learning - Going beyond Euclidean data](./geometric-deep-learning-going-beyond-euclidean-data.md)
+- [Sequence to Sequence Learning with Neural Networks](./sequence-to-sequence-learning-with-neural-networks.md)
+- Still not systematic after all these years - On the compositional skills of sequence-to-sequence recurrent networks
+- A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks
+- Metacontrol for Adaptive Imagination-Based Optimization
+- Composable Planning with Attributes
+- Attend, Infer, Repeat - Fast Scene Understanding with Generative Models
+- Modular Multitask Reinforcement Learning with Policy Sketches
+- [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](./recursive-deep-models-for-semantic-compositionality-over-a-sentiment-treebank.md)
+- [Deep learning in neural networks - An overview](./deep-learning-in-neural-networks-an-overview.md)
+- Covariant Compositional Networks For Learning Graphs
+- Representation Learning for Visual-Relational Knowledge Graphs
+- Iterative Visual Reasoning Beyond Convolutions
+- Learning to Search with MCTSnets
+- Learning to Transduce with Unbounded Memory
+- MolGAN - An implicit generative model for small molecular graphs
+- Neural Programmer-Interpreters
+- [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](./inception-v4-inception-resnet-and-the-impact-of-residual-connections-on-learning.md)
+- GraphRNN - A Deep Generative Model for Graphs
+- [Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift](./batch-normalization-accelerating-deep-network-training-by-reducing-internal-covariate-shift.md)
+- TreeQN and ATreeC - Differentiable Tree Planning for Deep Reinforcement Learning
+- [Human-level control through deep reinforcement learning](./human-level-control-through-deep-reinforcement-learning.md)
+- Deep Learning - A Critical Appraisal
+- Innateness, AlphaZero, and Artificial Intelligence
+- [Few-Shot Learning with Graph Neural Networks](./few-shot-learning-with-graph-neural-networks.md)
+- Deep Amortized Inference for Probabilistic Programs
+- Failures of Gradient-Based Deep Learning
+- [Effective Approaches to Attention-based Neural Machine Translation](./effective-approaches-to-attention-based-neural-machine-translation.md)
+- Learning Graphical State Transitions
+- Behavior Is Everything - Towards Representing Concepts with Sensorimotor Contingencies
+- Recursive Distributed Representations
+- Differentiable Programs with Neural Libraries
+- Translating Embeddings for Modeling Multi-relational Data
+- Discriminative Embeddings of Latent Variable Models for Structured Data
+- Finding Structure in Time
+- [Dropout - a simple way to prevent neural networks from overfitting](./dropout-a-simple-way-to-prevent-neural-networks-from-overfitting.md)
+- Visual Interaction Networks - Learning a Physics Simulator from Video
+- Learning to Communicate with Deep Multi-Agent Reinforcement Learning
+- subgraph2vec - Learning Distributed Representations of Rooted Sub-graphs from Large Graphs
+- NetGAN - Generating Graphs via Random Walks
+- Neural Relational Inference for Interacting Systems
+- Computational Capabilities of Graph Neural Networks
+- Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution
+- Knowledge Transfer for Out-of-Knowledge-Base Entities - A Graph Neural Network Approach
+- Knowledge Transfer for Out-of-Knowledge-Base Entities - A Graph Neural Network Approach
+- graph2vec - Learning Distributed Representations of Graphs
+- [ImageNet classification with deep convolutional neural networks](./imagenet-classification-with-deep-convolutional-neural-networks.md)
+- The discovery of structural form
+- [Mastering the game of Go with deep neural networks and tree search](./mastering-the-game-of-go-with-deep-neural-networks-and-tree-search.md)
+- [Recurrent Models of Visual Attention](./recurrent-models-of-visual-attention.md)
+- Learning model-based planning from scratch
+- Learning a SAT Solver from Single-Bit Supervision
+- Distributed representations, simple recurrent networks, and grammatical structure
+- Fusion, Propagation, and Structuring in Belief Networks
+- A Compositional Object-Based Approach to Learning Physical Dynamics
+- [DeepWalk - online learning of social representations](./deepwalk-online-learning-of-social-representations.md)
+- DeepStack - Expert-level artificial intelligence in heads-up no-limit poker
+- Inference in Probabilistic Graphical Models by Graph Neural Networks
+- [The Graph Neural Network Model](./the-graph-neural-network-model.md)
+- [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](./improved-semantic-representations-from-tree-structured-long-short-term-memory-networks.md)
+- Learning Continuous Semantic Representations of Symbolic Expressions
+- [Non-local Neural Networks](./non-local-neural-networks.md)
+- Answering Visual-Relational Queries in Web-Extracted Knowledge Graphs
+- [Spectral Networks and Locally Connected Networks on Graphs](./spectral-networks-and-locally-connected-networks-on-graphs.md)
+- Learning to See Physics via Visual De-animation
+- From Skills to Symbols - Learning Symbolic Representations for Abstract High-Level Planning
+- Probabilistic models of cognition - exploring representations and inductive biases
+- [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](./convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering.md)
+- Semantic Code Repair using Neuro-Symbolic Transformation Networks
+- Mapping Part-Whole Hierarchies into Connectionist Networks
+- [Learning Convolutional Neural Networks for Graphs](./learning-convolutional-neural-networks-for-graphs.md)
+- A new model for learning in graph domains
+- Hyperbolic Attention Networks
+- Probabilistic reasoning in intelligent systems - networks of plausible inference
+- The Need for Biases in Learning Generalizations
+- [Parsing Natural Scenes and Natural Language with Recursive Neural Networks](./parsing-natural-scenes-and-natural-language-with-recursive-neural-networks.md)
+- Neural Random Access Machines
+- [Relation Networks for Object Detection](./relation-networks-for-object-detection.md)
+- Attention Solves Your TSP
+- [Neural Machine Translation by Jointly Learning to Align and Translate](./neural-machine-translation-by-jointly-learning-to-align-and-translate.md)
+- [LINE - Large-scale Information Network Embedding](./line-large-scale-information-network-embedding.md)
+- Learning Combinatorial Optimization Algorithms over Graphs
+- Hierarchical Representations for Efficient Architecture Search
+- [GloVe - Global Vectors for Word Representation](./glove-global-vectors-for-word-representation.md)
+- [Linguistic Regularities in Continuous Space Word Representations](./linguistic-regularities-in-continuous-space-word-representations.md)
+- On the Generalization of Equivariance and Convolution in Neural Networks to the Action of Compact Groups
+- Learning Multiagent Communication with Backpropagation
+- Deep Sets
+- Acquisition of cognitive skill.
+- [Semantic Compositionality through Recursive Matrix-Vector Spaces](./semantic-compositionality-through-recursive-matrix-vector-spaces.md)
+- Probabilistic machine learning and artificial intelligence
+- [Layer Normalization](./layer-normalization.md)
+- Diffusion Convolutional Recurrent Neural Network - Data-Driven Traffic Forecasting
+- Learning Graph Representations with Embedding Propagation
+- Prefrontal cortex as a meta-reinforcement learning system
+- Tree-to-tree Neural Networks for Program Translation
+- [Semi-Supervised Classification with Graph Convolutional Networks](./semi-supervised-classification-with-graph-convolutional-networks.md)
+- Graph neural networks for ranking Web pages
+- Dynamic Routing Between Capsules
+- [Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions](./semi-supervised-recursive-autoencoders-for-predicting-sentiment-distributions.md)
+- Connectionism and cognitive architecture - A critical analysis
+- [Probabilistic Graphical Models - Principles and Techniques](./probabilistic-graphical-models-principles-and-techniques.md)
+- High-Order Graph Convolutional Recurrent Neural Network - A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting
+- Neural Networks and the Bias/Variance Dilemma
+- Group Equivariant Convolutional Networks
+- Structure mapping in analogy and similarity.
+- On language and connectionism - Analysis of a parallel distributed processing model of language acquisition
+- [PointNet - Deep Learning on Point Sets for 3D Classification and Segmentation](./pointnet-deep-learning-on-point-sets-for-3d-classification-and-segmentation.md)
+- A symbolic-connectionist theory of relational inference and generalization.
+- [A Structured Self-attentive Sentence Embedding](./a-structured-self-attentive-sentence-embedding.md)
+- [Dynamic Graph CNN for Learning on Point Clouds](./dynamic-graph-cnn-for-learning-on-point-clouds.md)
+- [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](./learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md)
+- Theory-based Bayesian models of inductive learning and reasoning
+- Church - a language for generative models
+- [Weisfeiler-Lehman Graph Kernels](./weisfeiler-lehman-graph-kernels.md)
+- [Neocognitron - A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position](./neocognitron-a-self-organizing-neural-network-model-for-a-mechanism-of-pattern-recognition-unaffected-by-shift-in-position.md)
+- Simulation as an engine of physical scene understanding
+- [Molecular graph convolutions - moving beyond fingerprints](./molecular-graph-convolutions-moving-beyond-fingerprints.md)
+- [Convolutional Networks on Graphs for Learning Molecular Fingerprints](./convolutional-networks-on-graphs-for-learning-molecular-fingerprints.md)
+- Forest before trees - The precedence of global features in visual perception
+- Core knowledge.
+- A simple rule for the evolution of cooperation on graphs and social networks
+- How to Build a Brain - A Neural Architecture for Biological Cognition
+- Backpropagation Applied to Handwritten Zip Code Recognition
+- Neural Combinatorial Optimization with Reinforcement Learning
+- VAIN - Attentional Multi-agent Predictive Modeling
+- Transition-Based Dependency Parsing with Stack Long Short-Term Memory
+- Reasoning about relations.
+- Understanding normal and impaired word reading - computational principles in quasi-regular domains.
+- Holographic reduced representations
+- Hierarchical models of behavior and prefrontal function
+- Mind Games - Game Engines as an Architecture for Intuitive Physics
+- [LANGUAGE OF THOUGHT](./language-of-thought.md)
+- PRINCIPLES OF NEURODYNAMICS. PERCEPTRONS AND THE THEORY OF BRAIN MECHANISMS
+- The Nature of Explanation
+- Artificial intelligence - a modern approach, 2nd Edition
+- Bayesian Nonparametrics I
+- Origins of knowledge.
+- Aspects of the Theory of Syntax
+- On language - on the diversity of human language construction and its influence on the mental development of the human species
+- Concepts in a Probabilistic Language of Thought
+- Tensor Product Variable Binding and the Representation of Symbolic Structures in Connectionist Systems
+- Causality - Models, Reasoning and Inference
+- STRIPS - A New Approach to the Application of Theorem Proving to Problem Solving
+- Five Rules for the Evolution of Cooperation
+- On the new Riddle of induction
+- An interactive activation model of context effects in letter perception - I. An account of basic findings.
+- Introduction to Statistical Relational Learning
+- Principles of neurodynamics
+- The interaction of nature and nurture.
+- [Parallel & distributed processing](./parallel-distributed-processing.md)
+- [Deep Learning](./deep-learning.md)
+- Relational Reinforcement Learning

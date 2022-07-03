@@ -1,0 +1,220 @@
+---
+title: Convex Optimization
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# Convex Optimization
+
+## References
+
+- Lectures on modern convex optimization - analysis, algorithms, and engineering applications
+- Robust Convex Optimization
+- The Mathematics Of Nonlinear Programming
+- Optimization by Vector Space Methods
+- Some applications of optimization in matrix theory
+- A Computational Study of the Homogeneous Algorithm for Large-scale Convex Optimization
+- Complexity Analysis of an Interior Cutting Plane Method for Convex Feasibility Problems
+- A central cutting plane algorithm for the convex programming problem
+- A mathematical view of interior-point methods in convex optimization
+- A Matlab toolbox for optimization over symmetric cones
+- Combinatorial Optimization - Algorithms and Complexity
+- Lectures on modern convex optimization
+- Pattern separation by convex programming
+- A long-step primal-dual algorithm for the symmetric programming problem
+- Moment Problems and Semidefinite Optimization
+- Finite Dimensional Convexity and Optimization
+- Method of centers for minimizing generalized eigenvalues
+- An Introduction to Optimization
+- Squared Functional Systems and Optimization Problems
+- Semidefinite programming relaxations of nonconvex quadratic optimization
+- Interior Point Approach to Linear, Quadratic and Convex Programming - Algorithms and Complexity
+- Interior-point polynomial algorithms in convex programming
+- Lagrange Multipliers and Optimality
+- Theory and algorithms for linear optimization - an interior point approach
+- Direct Methods for Sparse Matrices
+- Robust solutions of uncertain linear programs
+- Robust convex quadratically constrained programs
+- Geometric Programming - Methods, Computations and Applications
+- Robust Portfolio Selection Problems
+- Convex analysis and minimization algorithms
+- Second-order cone programming
+- Approximating quadratic programming with bound and quadratic constraints
+- Interior point algorithms - theory and analysis
+- Conic convex programming and self-dual embedding
+- Semidefinite relaxation and nonconvex quadratic optimization
+- Structured semidefinite programs and semialgebraic geometry methods in robustness and optimization
+- Inequalities - Theory of Majorization and Its Applications
+- Robust Solutions to Least-Squares Problems with Uncertain Data
+- Nonlinear programming - a historical view
+- Euclidean Jordan Algebras and Interior-point Algorithms
+- Geometric Algorithms and Combinatorial Optimization
+- Interior Methods for Nonlinear Optimization
+- The interior-point revolution in optimization - History, recent developments, and lasting consequences
+- Handbook of global optimization
+- Generalizations of Farkas' Theorem
+- Linear systems in Jordan algebras and primal-dual interior-point algorithms
+- Applications of convex optimization in signal processing and digital communication
+- Semidefinite programming relaxations for semialgebraic problems
+- The solution of augmented systems
+- Feature Article - Interior Point Methods for Linear Programming - Computational State of the Art
+- Superlinear convergence of an interior-point method for monotone variational inequalities
+- Cones, matrices and mathematical programming
+- Convex Sets and their Applications
+- Linear programming and extensions
+- Handbook of Semidefinite Programming
+- The many facets of linear programming
+- Applied Numerical Linear Algebra
+- More on linear inequalities with applications to matrix theory
+- Optimal design - Some geometrical aspects of D-optimality
+- On Extending Some Primal-Dual Interior-Point Algorithms From Linear Programming to Semidefinite Programming
+- A course in convexity
+- Nonlinear optimization - complexity issues
+- Iterative solution of nonlinear equations in several variables
+- Inequalities of the types of chebyshev and cramér-rao and mathematical programming
+- Accuracy and stability of numerical algorithms
+- Primal-dual algorithms and infinite-dimensional Jordan algebras of finite rank
+- Nonlinear total variation based noise removal algorithms
+- The Symmetric Eigenvalue Problem
+- A simplified homogeneous and self-dual linear programming algorithm and its implementation
+- Logarithmic Concave Measures and Related Topics
+- Nonnegative Matrices in the Mathematical Sciences
+- On the Implementation of a Primal-Dual Interior Point Method
+- On logarithmic concave measures and functions
+- Robust Solutions to Uncertain Semidefinite Programs
+- ON THE FIELD OF VALUES OF A MATRIX
+- An O(√nL)-Iteration Homogeneous and Self-Dual Linear Programming Algorithm
+- Linear systems of real quadratic forms. II
+- Numerical methods for unconstrained optimization and nonlinear equations
+- Interior-Point Methods for the Monotone Semidefinite Linear Complementarity Problem in Symmetric Matrices
+- An analytical centre for polyhedrons and new classes of global algorithms for linear (smooth, convex) programming
+- On projected newton barrier methods for linear programming and an equivalence to Karmarkar's projective method
+- The Ellipsoid Method - A Survey
+- Solving least squares problems
+- [Learning with Kernels - Support Vector Machines, Regularization, Optimization, and Beyond](./learning-with-kernels-support-vector-machines-regularization-optimization-and-beyond.md)
+- Linear and Nonlinear Separation of Patterns by Linear Programming
+- A recurring theorem about pairs of quadratic forms and extensions - a survey
+- An Interior-Point Method for Semidefinite Programming
+- Linear Programming - Foundations and Extensions
+- Primal-Dual Path-Following Algorithms for Semidefinite Programming
+- Theory of Location of Industries.
+- Matrix Analysis and Applied Linear Algebra
+- Application of Interior-Point Methods to Model Predictive Control
+- Randomized Algorithms
+- Advances in linear matrix inequality methods in control - advances in design and control
+- Bounded error parameter estimation - a sequential analytic center approach
+- Primal-Dual Interior-Point Methods
+- AMPL - A Modeling Language for Mathematical Programming
+- Parameter Estimation in the Presence of Bounded Data Uncertainties
+- SuperLU Users'' Guide
+- Theory of Location of Industries.
+- On the Nesterov-Todd Direction in Semidefinite Programming
+- A new Farkas lemma for positive semidefinite matrices
+- [The Elements of Statistical Learning - Data Mining, Inference, and Prediction](./the-elements-of-statistical-learning-data-mining-inference-and-prediction.md)
+- Inequalities for Symmetric Functions and Hermitian Matrices
+- Conjugate Duality and Optimization
+- Nonlinear Programming Theory and Algorithms
+- Practical optimization
+- Optimal ellipsoidal approximations around the Analytic center
+- The Consistent Assessment and Fairing of Preference Functions
+- Theory of Location of Industries.
+- Theory of Games and Economic Behavior
+- convex sets
+- Control of Uncertain Systems - A Linear Programming Approach
+- An Introduction to Mathematical Finance - Options and Other Topics
+- Theory of linear and integer programming
+- Fastest Mixing Markov Chain on a Graph
+- Path-Following Methods for Linear Programming
+- A Course in Robust Control Theory - A Convex Approach
+- The Reference Manual for SPOOLES, Release 2.2 - An Object Oriented Software Library for Solving Sparse Linear Systems of Equations
+- Theory of Location of Industries.
+- Investment in Science
+- Mathematical Methods of Organizing and Planning Production
+- Robust Statistics
+- Principles of mathematical analysis
+- DSDP4 { A Software Package Implementing the Dual-Scaling Algorithm for Semidenite Programming 1
+- Atomic Decomposition by Basis Pursuit
+- Topics in Matrix Analysis
+- Analytical placement - a linear or a quadratic objective function?
+- Theory of Location of Industries.
+- THE INTRODUCTION OF RISK INTO A PROGRAMMING MODEL
+- [Regression Shrinkage and Selection via the Lasso](./regression-shrinkage-and-selection-via-the-lasso.md)
+- Linear Matrix Inequalities In System And Control Theory
+- Properties of Euclidean and non-Euclidean distance matrices
+- Convexity Through the Ages
+- Self-regularity - a new paradigm for primal-dual interior-point algorithms
+- Introduction to linear optimization
+- Linear Algebra and its Applications
+- Bibliography in fractional programming
+- Theory of Location of Industries.
+- THE INTRODUCTION OF RISK INTO A PROGRAMMING MODEL
+- A unified approach to statistical design centering of integrated circuits with correlated parameters
+- Design of orthogonal pulse shapes for communications via semidefinite programming
+- An exact solution to the transistor sizing problem for CMOS circuits using convex optimization
+- Quasi-maximum-likelihood multiuser detection using semi-definite relaxation with application to synchronous CDMA
+- Optimal design of a CMOS op-amp via geometric programming
+- [Numerical Optimization](./numerical-optimization.md)
+- [Pattern Classification](./pattern-classification.md)
+- [Elements of Information Theory](./elements-of-information-theory.md)
+- Theory of Location of Industries.
+- THE INTRODUCTION OF RISK INTO A PROGRAMMING MODEL
+- Robust process control
+- Seven kinds of convexity
+- TILOS - A posynomial programming approach to transistor sizing
+- Global optimization in action
+- Theory of the Combination of Observations Least Subject to Errors
+- Theorie der einfachen Ungleichungen.
+- Theory of Location of Industries.
+- THE INTRODUCTION OF RISK INTO A PROGRAMMING MODEL
+- ACTIVITY ANALYSIS OF PRODUCTION AND ALLOCATION
+- Manual of Political Economy
+- The introduction of risk into a programming model - different criteria and actual behaviour of farmers.
+- Optimization under Constraints
+- Theory of Value - An Axiomatic Analysis of Economic Equilibrium.
+- Remarks to Maurice Frechet's Article ``Sur La Definition Axiomatique D'Une Classe D'Espace Distances Vectoriellement Applicable Sur L'Espace De Hilbert
+- Solutions of ill-posed problems
+- An algorithm for quadratic programming
+- Linear equations and inequalities on finite dimensional, real or complex, vector spaces - A unified theory☆
+- The Cutting-Plane Method for Solving Convex Programs
+- Sur les fonctions convexes et les inégalités entre les valeurs moyennes
+- Bounds on measures satisfying moment conditions
+- La mèthode des centres dans un espace topologique
+- A quadratic programming procedure
+- Tchebycheff Systems - With Applications in Analysis and Statistics.
+- Über monotone Matrixfunktionen
+- Computer solution of large sparse positive definite systems
+- Pairs of quadratic forms
+- Multivariate Chebyshev Inequalities
+- Quasi-Convex Programming
+- Convexity and Optimization in Finite Dimensions I
+- Numerical Methods for Least Squares Problems
+- Functional analysis and applied mathematics
+- Beiträge zur Theorie der linearen Ungleichungen
+- Convex Analysis - An Introductory Text
+- On Systems of Linear Inequalities in Hermitian Matrix Variables
+- Notions generalizing convexity for functions defined on spaces of matrices
+- Theorie der konvexen Körper
+- The Markov Moment Problem and Extremal Problems
+- Numerical optimization techniques for engineering design
+- The optimization of a quadratic function subject to linear constraints
+- Nonlinear Programming-Sequential Unconstrained Minimization Techniques
+- On robust estimation of the location parameter
+- YALMIP - A toolbox for modeling and optimization in MATLAB
+- Optimal Design of Experiments
+- Problem Complexity and Method Efficiency in Optimization
+- Linear programming and theory of games
+- Convex Analysis And Nonlinear Optimization
+- On von Neumann's minimax theorem
+- A polynomial algorithm in linear programming
+- A Convex Set
+- NONLINEAR PROGRAMMING
+- Convex Analysis and Optimization
+- Rank-Deficient and Discrete Ill-Posed Problems
+- Linear controller design - limits of performance
+- Microeconomic Theory
+- Logarithmic concave measures with applications to stochastic programming
+- Convex Analysisの二,三の進展について
+- QUASI-CONCAVE PROGRAMMING

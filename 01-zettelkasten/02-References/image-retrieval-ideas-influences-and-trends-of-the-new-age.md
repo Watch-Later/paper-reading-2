@@ -1,0 +1,293 @@
+---
+title: Image retrieval - Ideas, influences, and trends of the new age
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# Image retrieval - Ideas, influences, and trends of the new age
+
+## References
+
+- Image Retrieval - Current Techniques, Promising Directions, and Open Issues
+- Content-Based Image Retrieval at the End of the Early Years
+- A unified framework for semantics and feature based relevance feedback in image retrieval systems
+- Image Retrieval from the World Wide Web - Issues, Techniques, and Systems
+- Toward bridging the annotation-retrieval gap in image search by a generative modeling approach
+- Relevance feedback in region-based image retrieval
+- Cortina - a system for large-scale, content-based web image retrieval
+- The State of the Art in Image and Video Retrieval
+- A memory learning framework for effective image retrieval
+- Optimizing learning in image retrieval
+- QCluster - relevance feedback using adaptive clustering for content-based image retrieval
+- Relevance feedback - a power tool for interactive content-based image retrieval
+- Boosting Image Retrieval
+- Performance evaluation in content-based image retrieval - overview and proposals
+- Evaluating group-based relevance feedback for content-based image retrieval
+- A framework for grid-based image retrieval
+- Visual structures for image browsing
+- Two-scale image retrieval with significant meta-information feedback
+- A unified framework for image retrieval using keyword and visual features
+- Web image clustering by consistent utilization of visual features and surrounding texts
+- Robust color image retrieval for the World Wide Web
+- Mean version space - a new active learning method for content-based image retrieval
+- Content-based image retrieval with relevance feedback in MARS
+- How to complete performance graphs in content-based image retrieval - add generality and normalize scope
+- The Truth about Corel - Evaluation in Image Retrieval
+- Image annotations by combining multiple evidence & wordNet
+- iFind-a system for semantics and feature based image retrieval over Internet
+- Content-Based Image Retrieval in Astronomy
+- WALRUS - a similarity retrieval algorithm for image databases
+- A probabilistic architecture for content-based image retrieval
+- Keyblock - an approach for content-based image retrieval
+- Incremental semi-supervised subspace learning for image retrieval
+- Integrated region-based image retrieval using region's spatial relationships
+- Blobworld - Image Segmentation Using Expectation-Maximization and Its Application to Image Querying
+- Relevance feedback in image retrieval - A comprehensive review
+- Relevance feedback in content-based image retrieval - Bayesian framework, feature subspaces, and progressive learning
+- CLUE - cluster-based retrieval of images by unsupervised learning
+- Multi-model similarity propagation and its application for web image retrieval
+- Boosting contextual information in content-based image retrieval
+- Object-based image retrieval using the statistical structure of images
+- TRECVID - evaluating the effectiveness of information retrieval tasks on digital video
+- Automatic Image Annotation and Retrieval using CrossMedia Relevance Models
+- A bootstrapping framework for annotating and retrieving WWW images
+- Multimodal concept-dependent active learning for image retrieval
+- Hidden semantic concept discovery in region based image retrieval
+- On the robustness of color points of interest for image retrieval
+- Evaluating image retrieval
+- An efficient parts-based near-duplicate and sub-image retrieval system
+- One-class SVM for learning in image retrieval
+- Automatic image annotation and retrieval using cross-media relevance models
+- Semantic manifold learning for image retrieval
+- Learning the consensus on visual quality for next-generation image management
+- Integrated spatial and feature image query
+- Analysis of user need in image archives
+- AMORE - a world-wide web image retrieval engine
+- Manifold-ranking based image retrieval
+- Sketch-based image matching Using Angular partitioning
+- Indexing pictorial documents by their content - a survey of current techniques
+- Three-Dimensional Interfaces for Querying by Example in Content-Based Image Retrieval
+- Matching Words and Pictures
+- Image retrieval using wavelet-based salient points
+- Spatial Color Indexing and Applications
+- A study of image retrieval by anchoring
+- NeTra - A toolbox for navigating large image databases
+- Discriminant-EM algorithm with application to image retrieval
+- Faceted metadata for image search and browsing
+- Query by Image and Video Content - The QBIC System
+- A review of content-based image retrieval systems in medical applications - clinical benefits and future directions
+- On the efficient evaluation of probabilistic similarity functions for image retrieval
+- Content-based multimedia information retrieval - State of the art and challenges
+- 15 years of image processing and the fine arts
+- Active concept learning for image retrieval in dynamic databases
+- A novel log-based relevance feedback technique in content-based image retrieval
+- A Model for Learning the Semantics of Pictures
+- IRM - integrated region matching for image retrieval
+- Learning from User Behavior in Image Retrieval - Application of Market Basket Analysis
+- On image auto-annotation with latent space models
+- A generic scheme for color image retrieval based on the multivariate Wald-Wolfowitz test
+- Support vector machine active learning for image retrieval
+- Real-Time Computerized Annotation of Pictures
+- Successful approaches in the TREC video retrieval evaluations
+- Content-based image indexing and searching using Daubechies' wavelets
+- Using a probabilistic source model for comparing images
+- Users' relevance criteria in image retrieval in American history
+- Image indexing and similarity retrieval based on spatial relationship model
+- An efficient and effective region-based image retrieval framework
+- Locality preserving clustering for image database
+- A visual attention model for adapting images on small displays
+- A scalable integrated region-based image retrieval system
+- Tagging over time - real-world image annotation by lightweight meta-learning
+- Efficient Matching and Indexing of Graph Models in Content-Based Retrieval
+- Visual Image Retrieval by Elastic Matching of User Sketches
+- Addressing the challenge of visual information access from digital image and video libraries
+- Confidence-based dynamic ensemble for image annotation and semantics discovery
+- Adaptive nearest neighbor search for relevance feedback in large image databases
+- SIMPLIcity - Semantics-sensitive Integrated Matching for Picture Libraries
+- Learning the semantics of multimedia queries and concepts from a small number of examples
+- Visual information retrieval from large distributed online repositories
+- Photobook - tools for content-based manipulation of image databases
+- Learning from User Feedback in Image Retrieval Systems
+- Multimodal Video Indexing - A Review of the State-of-the-art
+- Does organisation by similarity assist image browsing?
+- Grouping web image search result
+- Experiments in Mental Face Retrieval
+- Hierarchical part-based visual object categorization
+- Benchmark for image retrieval using distributed systems over the Iinternet - BIRDS-I
+- Weighted walkthroughs between extended entities for retrieval by spatial arrangement
+- Retrieval by classification of images containing large manmade objects using perceptual grouping
+- On interactive browsing of large images
+- VisualSEEk - a fully automated content-based image query system
+- PicToSeek - combining color and shape invariant features for image retrieval
+- [Color indexing](./color-indexing.md)
+- Virtual Images for Similarity Retrieval in Image Databases
+- A multiresolution manifold distance for invariant image similarity
+- ImageMap - An Image Indexing Method Based on Spatial Similarity
+- Content-Based Image Retrieval Using Multiple-Instance Learning
+- [A performance evaluation of local descriptors](./a-performance-evaluation-of-local-descriptors.md)
+- Searching in high-dimensional spaces - Index structures for improving the performance of multimedia databases
+- Content-Based Image Retrieval Based on Local Affinely Invariant Regions
+- Efficient image matching with distributions of local invariant features
+- [Normalized cuts and image segmentation](./normalized-cuts-and-image-segmentation.md)
+- Small sample learning during multimedia retrieval using BiasMap
+- [The Earth Mover's Distance as a Metric for Image Retrieval](./the-earth-mover-s-distance-as-a-metric-for-image-retrieval.md)
+- A metric for distributions with applications to image databases
+- Memory cues for meeting video retrieval
+- Local Grayvalue Invariants for Image Retrieval
+- Sparse Flexible Models of Local Features
+- Semantic feedback for interactive image retrieval
+- PicSOM-self-organizing image retrieval with MPEG-7 content descriptors
+- Automatic Linguistic Indexing of Pictures by a Statistical Modeling Approach
+- The Bayesian image retrieval system, PicHunter - theory, implementation, and psychophysical experiments
+- Colour histogram content-based image retrieval and hardware implementation
+- Learning an image-word embedding for image auto-annotation on the nonlinear latent space
+- IGroup - web image search results clustering
+- Matching and Retrieval of Distorted and Occluded Shapes Using Dynamic Programming
+- Comparing discriminating transformations and SVM for learning during multimedia retrieval
+- Image Categorization by Learning and Reasoning with Regions
+- Unsupervised robust clustering for image database categorization
+- Effective automatic image annotation via a coherent language model and active learning
+- An interactive system for mental face retrieval
+- Shape Similarity Measure Based on Correspondence of Visual Parts
+- Multiresolution histograms and their use for recognition
+- Learning an image manifold for retrieval
+- Interactive learning and probabilistic retrieval in remote sensing image archives
+- [Face recognition - A literature survey](./face-recognition-a-literature-survey.md)
+- Labeling images with a computer game
+- A Texture Thesaurus for Browsing Large Aerial Photographs
+- A sparse object category model for efficient learning and exhaustive recognition
+- WillHunter - Interactive Image Retrieval with Multilevel Relevance Measurement
+- Image retrieval based on histogram of fractal parameters
+- Local image representations using pruned salient points with applications to CBIR
+- Efficient top-k hyperplane query processing for multimedia information retrieval
+- Toward Improved Ranking Metrics
+- Region based image annotation through multiple-instance learning
+- A Region-Based Fuzzy Feature Matching Approach to Content-Based Image Retrieval
+- Unifying Keywords and Visual Contents in Image Retrieval
+- WARP - accurate retrieval of shapes using phase of Fourier descriptors and time warping distance
+- Fast spatial pattern discovery integrating boosting with constellations of contextual descriptors
+- Physics-motivated features for distinguishing photographic images and computer graphics
+- Self-Organising Maps as a Relevance Feedback Technique in Content-Based Image Retrieval
+- Image classification for content-based indexing
+- Image processing for the analysis and conservation of paintings - opportunities and challenges
+- Hierarchical clustering of WWW image search results using visual, textual and link information
+- EnjoyPhoto - a vertical image search engine for enjoying high-quality photos
+- Formulating context-dependent similarity functions
+- Diversity in multimedia information retrieval research
+- An image retrieval system using FPGAs
+- Contour and Texture Analysis for Image Segmentation
+- Semantic Video Transcoding Using Classes of Relevance
+- Object Recognition as Machine Translation - Learning a Lexicon for a Fixed Image Vocabulary
+- Texture Features for Browsing and Retrieval of Image Data
+- Studying Aesthetics in Photographic Images Using a Computational Approach
+- Intuitive and effective interfaces for WWW image search engines
+- An efficient color representation for image retrieval
+- A visuospatial memory cue system for meeting video retrieval
+- Retrieval by Shape Similarity with Perceptual Distance and Effective Indexing
+- Minimum Bayes error features for visual recognition by sequential feature selection and extraction
+- Combining speech and haptics for intuitive and efficient navigation through image databases
+- IMAGINATION - a robust image-based CAPTCHA generation system
+- Recognizing objects in adversarial clutter - breaking a visual CAPTCHA
+- Fuzzy integral for leaf image retrieval
+- Optimal multimodal fusion for multimedia data analysis
+- Unsupervised Segmentation of Color-Texture Regions in Images and Video
+- Detection of Documentary Scene Changes by Audio-Visual Fusion
+- Image processing for artist identification
+- Wavelet-based texture retrieval using generalized Gaussian density and Kullback-Leibler distance
+- Similarity Searching in Medical Image Databases
+- [Mean Shift - A Robust Approach Toward Feature Space Analysis](./mean-shift-a-robust-approach-toward-feature-space-analysis.md)
+- Unsupervised Learning of Models for Recognition
+- Object and event detection for semantic annotation and transcoding
+- Color and texture descriptors
+- The Story Picturing Engine---a system for automatic text illustration
+- Viewpoint invariant texture matching and wide baseline stereo
+- M-tree - An Efficient Access Method for Similarity Search in Metric Spaces
+- Applying the information bottleneck principle to unsupervised clustering of discrete and continuous image representations
+- CBSA - content-based soft annotation for multimodal image retrieval using Bayes point machines
+- Object class recognition by unsupervised scale-invariant learning
+- Similar-Shape Retrieval in Shape Data Management
+- Toward Robust Distance Metric Analysis for Similarity Estimation
+- Image retrieval using color histograms generated by Gauss mixture vector quantization
+- Region Competition - Unifying Snakes, Region Growing, and Bayes/MDL for Multiband Image Segmentation
+- Using Discriminant Eigenfeatures for Image Retrieval
+- Unsupervised Multiresolution Segmentation for Images with Low Depth of Field
+- Story Segmentation in News Videos Using Visual and Text Cues
+- Ten years of art imaging research
+- Learning user interest for image browsing on small-form-factor devices
+- The Design of High-Level Features for Photo Quality Assessment
+- Group-based relevance feedback with support vector machine ensembles
+- Affine-invariant local descriptors and neighborhood statistics for texture recognition
+- Ranking on Data Manifolds
+- [Distance Metric Learning with Application to Clustering with Side-Information](./distance-metric-learning-with-application-to-clustering-with-side-information.md)
+- Adaptive image segmentation based on color and texture
+- Combining Fuzzy Information from Multiple Systems
+- How people describe their image information needs - a grounded theory analysis of visual arts queries
+- A Parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficients
+- Automated annotation of human faces in family albums
+- Segmentation given partial grouping constraints
+- Studying digital imagery of ancient paintings by mixtures of stochastic models
+- A Greedy Performance Driven Algorithm for Decision Fusion Learning
+- Texture Similarity Measure Using Kullback-Leibler Divergence between Gamma Distributions
+- An Intelligent Image Database System
+- Structural Matching by Discrete Relaxation
+- Time quilt - scaling up zoomable photo browsers for large, unstructured photo collections
+- Unsupervised Feature Selection Using Feature Similarity
+- Preattentive texture discrimination with early vision mechanisms.
+- Evaluating Relevance Feedback and Display Strategies for Searching on Small Displays
+- Modeling annotated data
+- Silhouette-Based Isolated Object Recognition through Curvature Scale Space
+- Unsupervised texture segmentation using Gabor filters
+- Content-Based Representation and Retrieval of Visual Media - A State-of-the-Art Review
+- Iconic Indexing by 2-D Strings
+- Digital imagery for significant cultural and historical materials
+- How do people manage their digital photographs?
+- Image classification by a two-dimensional hidden Markov model
+- An Introduction to Variable and Feature Selection
+- Image segmentation by data driven Markov chain Monte Carlo
+- Efficient Near-duplicate Detection and Sub-image Retrieval
+- A digital technique for art authentication
+- Toward Bridging the Annotation-Retrieval Gap in Image Search
+- Texture classification and segmentation using wavelet frames
+- Learning a Mahalanobis Metric from Equivalence Constraints
+- Feature selection in unsupervised learning via evolutionary search
+- Hierarchical classification of paintings using face- and brush stroke models
+- Marie-4 - A High-Recall, Self-Improving Web Crawler That Finds Images Using Captions
+- Evaluating Relevance Feedback Algorithms for Searching on Small Displays
+- Color in Perspective
+- [Scale & Affine Invariant Interest Point Detectors](./scale-affine-invariant-interest-point-detectors.md)
+- [Shape matching and object recognition using shape contexts](./shape-matching-and-object-recognition-using-shape-contexts.md)
+- The Earth Mover's distance is the Mallows distance - some insights from statistics
+- [The Elements of Statistical Learning](./the-elements-of-statistical-learning.md)
+- PARAgrab - a comprehensive architecture for web image management and multimodal querying
+- SVM binary classifier ensembles for image classification
+- An analysis of multimedia searching on AltaVista
+- SPIN-IT - a data centric routing protocol for image retrieval in wireless networks
+- Multiresolution image classification by hierarchical modeling with two-dimensional hidden Markov models
+- Identifying biological concepts from a protein-related corpus with a probabilistic topic model
+- Boosting the distance estimation - Application to the K-Nearest Neighbor Classifier
+- Image Recognition CAPTCHAs
+- Finite Mixture Models
+- Heterogeneous Video Transcoding to Lower Spatio-Temporal Resolutions and Different Encoding Formats
+- Segmentation of brain MR images through a hidden Markov random field model and the expectation-maximization algorithm
+- Geometric hashing - an overview
+- [WordNet - A Lexical Database for English](./wordnet-a-lexical-database-for-english.md)
+- Normalized cuts in 3-D for spinal MRI segmentation
+- Visual information retrieval
+- Retrieval of subpixel snow-covered area and grain size from imaging spectrometer data
+- Global Versus Local Methods in Nonlinear Dimensionality Reduction
+- Modeling Spatial Relationships between 3D Objects
+- Feature Selection for SVMs
+- Human-centered computing - a multimedia perspective
+- Statistical and Structural Approaches to Texture
+- Interaction-Based Adaptation for Small Screen Devices
+- Stroke detection of brush strokes in portrait miniatures using a semi-parametric and a model based approach
+- Combining fuzzy information from multiple systems (extended abstract)
+- コンピュータ・サイエンス - ACM computing surveys
+- A Note on Asymptotic Joint Normality
+- Guest Editorial Special Issue on Image Processing for Cultural Heritage
+- Computerized visual analysis of paintings
+- Video Transcoding Architectures and Techniques - An Overview
+- Detecting image near-duplicate by stochastic attributed relational graph matching with learning

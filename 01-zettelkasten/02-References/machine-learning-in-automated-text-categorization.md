@@ -1,0 +1,192 @@
+---
+title: Machine learning in automated text categorization
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# Machine learning in automated text categorization
+
+## References
+
+- Automated learning of decision rules for text categorization
+- A comparison of two learning algorithms for text categorization
+- Inductive learning algorithms and representations for text categorization
+- Experiments on the Use of Feature Selection and Negative Evidence in Automated Text Categorization
+- Applying an existing machine learning algorithm to text categorization
+- N-gram-based text categorization
+- Using a generalized instance set for automatic text categorization
+- ACTION - automatic classification for full-text documents
+- Feature Engineering for Text Classification
+- Context-sensitive learning methods for text categorization
+- Context-sensitive learning methods for text categorization
+- NEW DIRECTIONS IN TEXT CATEGORIZATION
+- Text categorization for multiple users based on semantic features from a machine-readable dictionary
+- Hierarchically Classifying Documents Using Very Few Words
+- A re-examination of text categorization methods
+- Improving Text Classification by Shrinkage in a Hierarchy of Classes
+- Automatic Document Classification
+- Guest Editors' Introduction to the Special Issue on Automated Text Categorization
+- Expert network - effective and efficient learning from human decisions in text categorization and retrieval
+- The use of titles for automatic document classification
+- Text categorization for multi-page documents - a hybrid naive Bayes HMM approach
+- Representation and Learning in Information Retrieval
+- Feature selection, perceptron learning, and a usability case study for text categorization
+- Using WordNet to Complement Training Information in Text Categorization
+- Mistake-Driven Learning in Text Categorization
+- Hidden Markov Models for Text Categorization in Multi-Page Documents
+- An example-based mapping method for text categorization and retrieval
+- Feature Selection in SVM Text Categorization
+- A sequential algorithm for training text classifiers
+- Information extraction as a basis for high-precision text classification
+- Automatic Web Page Categorization by Link and Context Analysis
+- Exploiting Hierarchy in Text Categorization
+- An improved boosting algorithm and its application to text categorization
+- Scalable feature selection, classification and signature generation for organizing large text databases into hierarchical topic taxonomies
+- Learning Rules that Classify E-Mail
+- Learning to Classify Text from Labeled and Unlabeled Documents
+- An experimental evaluation of OCR text representations for learning document classifiers
+- Automatic Text Categorization and Its Application to Text Retrieval
+- Turning {{\sc Yahoo!}}\ into an automatic Web page classifier
+- A probabilistic description-oriented approach for categorizing web documents
+- [Text Classification from Labeled and Unlabeled Documents using EM](./text-classification-from-labeled-and-unlabeled-documents-using-em.md)
+- An Evaluation of Statistical Approaches to Text Categorization
+- Active Learning with Committees for Text Categorization
+- Exploiting Thesaurus Knowledge in Rule Induction for Text Classification
+- Automatic essay grading using text categorization techniques
+- Categorisation by Context
+- A learner-independent evaluation of the usefulness of statistical phrases for automated text categorization
+- Hierarchical neural networks for text categorization (poster abstract)
+- Text-Based Approaches for the Categorization of Images
+- Distributional clustering of words for text classification
+- A Study of Approaches to Hypertext Categorization
+- Text filtering by boosting naive Bayes classifiers
+- Hierarchical classification of Web content
+- Evaluating and optimizing autonomous text classification systems
+- Combining classifiers in text categorization
+- Text Categorization with Support Vector Machines - Learning with Many Relevant Features
+- A Scalable Self-organizing Map Algorithm for Textual Classification - A Neural Network Approach to Thesaurus Generation
+- A Comparative Study of Classification Based Personal E-mail Filtering
+- Text-based approaches for non-topical image categorization
+- A Comparative Study on Feature Selection in Text Categorization
+- Transductive Inference for Text Classification using Support Vector Machines
+- BoosTexter - A Boosting-based System for Text Categorization
+- Automatic indexing and generation of classification systems by algorithm
+- Enhanced hypertext categorization using hyperlinks
+- TCS - a shell for content-based text categorization
+- Text classification using ESC-based stochastic decision lists
+- Employing EM and Pool-Based Active Learning for Text Classification
+- Text classification with self-organizing maps - Some lessons learned
+- A Probabilistic Analysis of the Rocchio Algorithm with TFIDF for Text Categorization
+- A probabilistic learning approach for document indexing
+- Mining online text
+- Training algorithms for linear text classifiers
+- Autonomous document classification for business
+- Employing Em in Pool-based Active Learning for Text Classiication
+- Four text classification algorithms compared on a Dutch corpus
+- Text categorization of low quality images
+- TOWARDS AUTOMATIC INDEXING - AUTOMATIC ASSIGNMENT OF CONTROLLED‐LANGUAGE INDEXING AND CLASSIFICATION FROM FREE INDEXING
+- An evaluation of phrasal and clustered representations on a text categorization task
+- Learnable visual keywords for image classification
+- Classifying news stories using memory based reasoning
+- A Theory of Relevance for Automatic Document Classification
+- Joins that Generalize - Text Classification Using WHIRL
+- HMM-based passage models for document classification and ranking
+- Classification of Text Documents
+- A sequential algorithm for training text classifiers - corrigendum and additional data
+- Feature Subset Selection in Text-Learning
+- Noise reduction in a statistical approach to text categorization
+- Creating segmented databases from free text for text retrieval
+- Cluster-based text categorization - a comparison of category search strategies
+- Information Extraction
+- Feature reduction for neural network based text categorization
+- Noun Homograph Disambiguation Using Local Context in Large Text Corpora
+- Automatic Word Sense Discrimination
+- Text Categorization and Relational Learning
+- A method for disambiguating word senses in a large corpus
+- Little words can make a big difference for text classification
+- Indexing by Latent Semantic Analysis
+- A comparison of classifiers and document representations for the routing problem
+- [Machine learning](./machine-learning.md)
+- Learning to Resolve Natural Language Ambiguities - A Unified Approach
+- Detecting Concept Drift with Support Vector Machines
+- Irrelevant Features and the Subset Selection Problem
+- Machine-aided indexing of technical literature
+- Text mining - finding nuggets in mountains of textual data
+- Support vector machines for spam categorization
+- Word sequences as features in text-learning
+- NewsWeeder - Learning to Filter Netnews
+- Term-Weighting Approaches in Automatic Text Retrieval
+- Boosting and Rocchio applied to text filtering
+- Document Classification by Machine - Theory and Practice
+- Recent trends in hierarchic document clustering - A critical review
+- Classification Trees for Document Routing, A Report on the TREC Experiment
+- A patent search and classification system
+- Automatic Indexing - An Experimental Inquiry
+- Boosting Applied to Word Sense Disambiguation
+- Automatic Detection of Text Genre
+- A vector space model for automatic indexing
+- A theoretical basis for the use of co-occurence data in information retrieval
+- Computer assisted indexing
+- Boosting Applied toe Word Sense Disambiguation
+- A technique for machine-aided indexing
+- Document classification using multiword features
+- Exploiting Structural Information for Text Classification on the WWW
+- Naive (Bayes) at Forty - The Independence Assumption in Information Retrieval
+- Probabilistic Automatic Indexing by Learning from Human indexers
+- AIR/X - A rule-based multistage indexing system for Iarge subject fields
+- A Decision Theory Approach to Optimal Automatic Indexing
+- An experimental comparison of naive Bayesian and keyword-based anti-spam filtering with personal e-mail messages
+- Improving text retrieval for the routing problem using latent semantic indexing
+- Boosting for document routing
+- [Foundations of statistical natural language processing](./foundations-of-statistical-natural-language-processing.md)
+- Probabilistic information retrieval as a combination of abstraction, inductive learning, and probabilistic assumptions
+- A Boosting Approach to Topic Spotting on Subdialogues
+- Error Correlation and Error Reduction in Ensemble Classifiers
+- Heterogeneous Uncertainty Sampling for Supervised Learning
+- Models for retrieval with probabilistic indexing
+- On modeling information retrieval with probabilistic inference
+- “Is this document relevant?…probably” - a survey of probabilistic models in information retrieval
+- Automatic Resource Compilation by Analyzing Hyperlink Structure and Associated Text
+- A probabilistic model of dictionary based automatic indexing
+- Information storage and retrieval
+- Automatic indexing based on Bayesian inference networks
+- Method combination for document filtering
+- A practical hypertext catergorization method using links and incrementally available class information
+- Some inconsistencies and misnomers in probabilistic information retrieval
+- Probabilistic learning for selective dissemination of information
+- Some inconsistencies and misidentified modeling assumptions in probabilistic information retrieval
+- A neural network approach to topic spotting
+- The text categorization system TEKLIS at TREC-6
+- Relevance weighting of search terms
+- Research and Development in Information Retrieval
+- Prism - A Case-Based Telex Classifier
+- The automatic indexing system AIR/PHYS - from research to applications
+- [On the Optimality of the Simple Bayesian Classifier under Zero-One Loss](./on-the-optimality-of-the-simple-bayesian-classifier-under-zero-one-loss.md)
+- Retrieval Test Evaluation of a Rule Based Automatic Index (AIR/PHYS)
+- Adaptive Information Filtering using Evolutionary Computation
+- OHSUMED - an interactive retrieval evaluation and new large test collection for research
+- Learning routing queries in a query zone
+- Maximizing text-mining performance
+- Trading MIPS and memory for knowledge engineering
+- Cryptotype, Overgeneralization and Competition - A Connectionist Model of the Learning of English Reversive Prefixes
+- Causal Models and Intelligent Data Management
+- RELEVANCE - A review of and a framework for the thinking on the notion in information science
+- Optimizing convenient online access to bibliographic databases
+- Hierarchical neural networks for text categorization
+- Using a Bayesian Network Induction Approach for Text Categorization
+- Distributional clustering of words for text categorization
+- Proceedings of the 38th Annual Meeting of the Association for Computational Linguistics
+- Optimizing confidence of text classification by evolution of symbolic expressions
+- Readings in information retrieval.
+- Indexing by latent semantic indexing
+- Integrating linguistic resources in a uniform way for Text classification tasks
+- Document Retrieval Systems
+- ATTICS - A Software Platform for Online Text Classification (poster abstract).
+- The TREC-7 Filtering Track - Description and Analysis
+- The EURATOM automatic indexing project
+- Guest Editorial - Special Issue on Text Categorization
+- A new on-line learning algorithm for adaptive text filtering
+- Information filtering and information retrieval - two sides of the same coin?

@@ -1,0 +1,392 @@
+---
+title: Building machines that learn and think like people
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# Building machines that learn and think like people
+
+## References
+
+- Towards more human-like concept learning in machines - compositionality, causality, and learning-to-learn
+- Human-level concept learning through probabilistic program induction
+- How to Grow a Mind - Statistics, Structure, and Abstraction
+- One-Shot Generalization in Deep Generative Models
+- Intrinsically Motivated Learning in Natural and Artificial Systems
+- [Towards AI-Complete Question Answering - A Set of Prerequisite Toy Tasks](./towards-ai-complete-question-answering-a-set-of-prerequisite-toy-tasks.md)
+- Concept learning as motor program induction - A large-scale empirical study
+- Computational rationality - A converging paradigm for intelligence in brains, minds, and machines
+- Adapting Deep Network Features to Capture Psychological Representations
+- [Show and tell - A neural image caption generator](./show-and-tell-a-neural-image-caption-generator.md)
+- Theory learning as stochastic search in the language of thought
+- [Hybrid computing using a neural network with dynamic external memory](./hybrid-computing-using-a-neural-network-with-dynamic-external-memory.md)
+- Deep Neural Networks - A New Framework for Modeling Biological Vision and Brain Information Processing.
+- [Human-level control through deep reinforcement learning](./human-level-control-through-deep-reinforcement-learning.md)
+- [Matching Networks for One Shot Learning](./matching-networks-for-one-shot-learning.md)
+- On the Emergence of Rules in Neural Networks
+- Robot Learning from Human Teachers
+- From machine learning to machine reasoning
+- From simple innate biases to complex visual concepts
+- [Artificial Intelligence - A Modern Approach](./artificial-intelligence-a-modern-approach.md)
+- Parallel Distributed Processing - Implications for Cognition and Development
+- [Memory Networks](./memory-networks.md)
+- [Actor-Mimic - Deep Multitask and Transfer Reinforcement Learning](./actor-mimic-deep-multitask-and-transfer-reinforcement-learning.md)
+- Deep Neural Networks Predict Category Typicality Ratings for Images
+- How Language Programs the Mind
+- Reinforcement learning in the brain
+- Picture - A probabilistic programming language for scene perception
+- Bootstrapping & the origin of concepts
+- [How transferable are features in deep neural networks?](./how-transferable-are-features-in-deep-neural-networks.md)
+- Attend, Infer, Repeat - Fast Scene Understanding with Generative Models
+- The Origin of Concepts
+- [Mastering the game of Go with deep neural networks and tree search](./mastering-the-game-of-go-with-deep-neural-networks-and-tree-search.md)
+- Intrinsically motivated action-outcome learning and goal-based action recall - a system-level bio-constrained computational model.
+- GPS, a program that simulates human thought
+- Deep Supervised, but Not Unsupervised, Models May Explain IT Cortical Representation
+- The acquisition of inductive constraints
+- The minority report - some common assumptions to reconsider in the modelling of the brain and behaviour
+- Cognitive control over learning - creating, clustering, and generalizing task-set structure.
+- Learning Physical Intuition of Block Towers by Example
+- Modeling Visual Problem Solving as Analogical Reasoning
+- Letting structure emerge - connectionist and dynamical systems approaches to cognition
+- Efficient analysis-by-synthesis in vision - A computational framework , behavioral tests , and comparison with neural representations
+- The Algebraic Mind - Integrating Connectionism and Cognitive Science
+- Words and the World
+- One-shot learning of generative speech concepts
+- Hierarchical Deep Reinforcement Learning - Integrating Temporal Abstraction and Intrinsic Motivation
+- Random feedback weights support learning in deep neural networks
+- Model-Based Reasoning in Humans Becomes Automatic with Training
+- A Roadmap Towards Machine Intelligence
+- [End-To-End Memory Networks](./end-to-end-memory-networks.md)
+- Principles of Synthetic Intelligence - Psi - An Architecture of Motivated Cognition
+- Observing the unexpected enhances infants' learning and exploration
+- Learning with Hierarchical-Deep Models
+- Neural Programmer-Interpreters
+- [Show, Attend and Tell - Neural Image Caption Generation with Visual Attention](./show-attend-and-tell-neural-image-caption-generation-with-visual-attention.md)
+- Structured Imagination - the Role of Category Structure in Exemplar Generation
+- Towards a Biologically Plausible Backprop
+- One-year-old infants use teleological representations of actions productively
+- Better Computer Go Player with Neural Network and Long-term Prediction
+- Active learning of inverse models with intrinsically motivated goal exploration in robots
+- A Model of Inductive Bias Learning
+- Rethinking Eliminative Connectionism
+- [DeCAF - A Deep Convolutional Activation Feature for Generic Visual Recognition](./decaf-a-deep-convolutional-activation-feature-for-generic-visual-recognition.md)
+- [A Fast Learning Algorithm for Deep Belief Nets](./a-fast-learning-algorithm-for-deep-belief-nets.md)
+- [Deep learning in neural networks - An overview](./deep-learning-in-neural-networks-an-overview.md)
+- Model-Free Episodic Control
+- Computational Developmental Psychology
+- Learning to Transduce with Unbounded Memory
+- A constructivist connectionist model of transitions on false-belief tasks
+- Performance-optimized hierarchical models predict neural responses in higher visual cortex
+- How Children Learn the Meanings of Words
+- Probabilistic machine learning and artificial intelligence
+- The Brain's concepts - the role of the Sensory-motor system in conceptual knowledge
+- Amortized Inference in Probabilistic Reasoning
+- Probabilistic models of cognition - exploring representations and inductive biases
+- Pure Reasoning in 12-Month-Old Infants as Probabilistic Inference
+- Connectionism and cognitive architecture - A critical analysis
+- Dueling Network Architectures for Deep Reinforcement Learning
+- Siamese Neural Networks for One-Shot Image Recognition
+- The child as word learner
+- Imagination and the generation of new ideas
+- [Recurrent Models of Visual Attention](./recurrent-models-of-visual-attention.md)
+- Social perception - detection and interpretation of animacy, agency, and intention
+- Productivity and Reuse in Language - A Theory of Linguistic Computation and Storage
+- Humans predict liquid dynamics using probabilistic simulation
+- Modeling the effects of memory on human online sentence processing with particle filters
+- Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning
+- Fast Adaptation in Generative Models with Generative Matching Networks
+- Exploiting compositionality to explore a large space of model structures
+- Learning to learn by gradient descent by gradient descent
+- Discriminative Transfer Learning with Tree-based Priors
+- Action understanding as inverse planning
+- The role of explanation in discovery and generalization - evidence from category learning
+- Book Review - Mind as machine - a history of cognitive science
+- Object name Learning Provides On-the-Job Training for Attention
+- Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models
+- Using Inverse Planning and Theory of Mind for Social Goal Inference
+- Rational quantitative attribution of beliefs, desires and percepts in human mentalizing
+- An Integrated Systems Approach to Explanation-Based Conceptual Change
+- Engines of the Brain - The Computational Instruction Set of Human Cognition
+- Infants consider both the sample and the sampling process in inductive generalization
+- Using Speakers' Referential Intentions to Model Early Cross-Situational Word Learning
+- Unsupervised learning of invariant representations
+- A Large-Scale Model of the Functioning Brain
+- Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming
+- The Arcade Learning Environment - An Evaluation Platform for General Agents (Extended Abstract)
+- Self-reflexive networks - Theory · topology · applications
+- Simulation as an engine of physical scene understanding
+- [Multi-task Sequence to Sequence Learning](./multi-task-sequence-to-sequence-learning.md)
+- On language and connectionism - Analysis of a parallel distributed processing model of language acquisition
+- Explanation-Based Generalization - A Unifying View
+- [Speech recognition with deep recurrent neural networks](./speech-recognition-with-deep-recurrent-neural-networks.md)
+- [Multi-column deep neural networks for image classification](./multi-column-deep-neural-networks-for-image-classification.md)
+- The faculty of language - what is it, who has it, and how did it evolve?
+- Adaptive pattern classification and universal recoding - I. Parallel development and coding of neural feature detectors
+- What are the computations of the cerebellum, the basal ganglia and the cerebral cortex?
+- [Deep Visual-Semantic Alignments for Generating Image Descriptions](./deep-visual-semantic-alignments-for-generating-image-descriptions.md)
+- Motor primitives in vertebrates and invertebrates
+- [Deep Residual Learning for Image Recognition](./deep-residual-learning-for-image-recognition.md)
+- [Visualizing and Understanding Convolutional Networks](./visualizing-and-understanding-convolutional-networks.md)
+- Theory-based causal induction.
+- [Neural Machine Translation by Jointly Learning to Align and Translate](./neural-machine-translation-by-jointly-learning-to-align-and-translate.md)
+- Analysis by Synthesis - A (Re-)Emerging Program of Research for Language and Vision
+- Artificial consciousness, artificial emotions, and autonomous robots
+- Infants Attribute Value to the Goal-Directed Actions of Self-propelled Objects
+- Predictive coding - an account of the mirror neuron system
+- Technical Note - Q-Learning
+- [DRAW - A Recurrent Neural Network For Image Generation](./draw-a-recurrent-neural-network-for-image-generation.md)
+- One and Done? Optimal Decisions From Very Few Samples
+- Reconciling intuitive physics and Newtonian mechanics for colliding objects.
+- Understanding natural language
+- Goal attribution to inanimate agents by 6.5-month-old infants
+- Playing Atari with Deep Reinforcement Learning
+- Inductive judgments about natural categories.
+- Dynamic binding in a neural network for shape recognition.
+- Word learning as Bayesian inference.
+- Probabilistic models, learning algorithms, and response variability - sampling in cognitive development
+- Why there are complementary learning systems in the hippocampus and neocortex - insights from the successes and failures of connectionist models of learning and memory.
+- How Important Is Weight Symmetry in Backpropagation?
+- A theory of causal learning in children - causal maps and Bayes nets.
+- Linguistic theory and psychological reality
+- An integrated theory of the mind.
+- Core knowledge.
+- Children's understanding of the costs and rewards underlying rational action
+- The neuroscience of learning - beyond the Hebbian synapse.
+- Against the moral Turing test - accountable design and the moral reasoning of autonomous systems
+- Feeling robots and human zombies - Mind perception and the uncanny valley
+- Help or Hinder - Bayesian Models of Social Goal Inference
+- The Hierarchical Organisation of Cortical and Basal-Ganglia Systems - A Computationally-Informed Review and Integrated Hypothesis
+- The importance of shape in early lexical learning
+- Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning
+- [LANGUAGE OF THOUGHT](./language-of-thought.md)
+- Comprehending Complex Concepts
+- The Visual System's Internal Model of the World
+- Bridging Levels of Analysis for Probabilistic Models of Cognition
+- The Hamiltonian Brain - Efficient Probabilistic Inference with Excitatory-Inhibitory Neural Circuit Dynamics
+- Neural Variational Inference and Learning in Belief Networks
+- Parallel distributed processing - explorations in the microstructure of cognition, vol. 1 - foundations
+- Adaptive pattern classification and universal recoding - II. Feedback, expectation, olfaction, illusions
+- Q-learning
+- [ImageNet classification with deep convolutional neural networks](./imagenet-classification-with-deep-convolutional-neural-networks.md)
+- Memory and Information Processing in Neuromorphic Systems
+- Towards a Learning Theory of Cause-Effect Inference
+- Perceived physical and social causality in animated motions - spontaneous reports and ratings.
+- Speed/Accuracy Trade-Off between the Habitual and the Goal-Directed Processes
+- [Going deeper with convolutions](./going-deeper-with-convolutions.md)
+- Rethinking innateness.
+- Acquiring a Single New Word
+- [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](./overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks.md)
+- Information Selection in Noisy Environments with Large Action Spaces
+- Cognitive Developmental Robotics - A Survey
+- What are intrinsic motivations? A biological perspective
+- Where science starts - Spontaneous experiments in preschoolers' exploratory play
+- Domain-specific perceptual causality in children depends on the spatio-temporal configuration, not motion onset
+- Bootstrapping the Mind - Analogical Processes and Symbol Systems
+- A Roadmap for a Rigorous Science of Interpretability
+- Connectionist models of cognitive development - where next?
+- Prioritized Experience Replay
+- Bayesian sampling in visual perception
+- Recurrent deep neural networks for robust speech recognition
+- A decision network account of reasoning about other people's choices
+- The Helmholtz Machine
+- Just-In-Time Learning for Fast and Flexible Inference
+- Deep Convolutional Inverse Graphics Network
+- A probabilistic account of exemplar and category generation
+- Retrospective revaluation in sequential decision making - a tale of two systems.
+- A rational account of pedagogical reasoning - Teaching by, and learning from, examples
+- Multistability and Perceptual Inference
+- Divisions of the physical world - Concepts of objects and substances.
+- Venture - a higher-order probabilistic programming platform with programmable inference
+- The Packet Switching Brain
+- An object-oriented representation for efficient reinforcement learning
+- [Training Products of Experts by Minimizing Contrastive Divergence](./training-products-of-experts-by-minimizing-contrastive-divergence.md)
+- The perceptron - a probabilistic model for information storage and organization in the brain.
+- Principles of Object Perception
+- [Distributed Representations of Words and Phrases and their Compositionality](./distributed-representations-of-words-and-phrases-and-their-compositionality.md)
+- How, whether, why - Causal judgments as counterfactual contrasts
+- Neural Networks and the Bias/Variance Dilemma
+- One-Shot Learning with a Hierarchical Nonparametric Bayesian Model
+- Neural Dynamics as Sampling - A Model for Stochastic Computation in Recurrent Networks of Spiking Neurons
+- Recognition-by-components - a theory of human image understanding.
+- [Stochastic Backpropagation and Approximate Inference in Deep Generative Models](./stochastic-backpropagation-and-approximate-inference-in-deep-generative-models.md)
+- Learning representations by back-propagating errors
+- Young infants' actions reveal their developing knowledge of support variables - Converging evidence for violation-of-expectation findings
+- Intrinsic motivations and open-ended development in animals, humans, and robots - an overview
+- Prefrontal cortex and flexible cognitive control - rules without symbols.
+- Automatic Construction and Natural-Language Description of Nonparametric Regression Models
+- Origins of human communication
+- Equilibrium Propagation - Bridging the Gap between Energy-Based Models and Backpropagation
+- Parts of recognition
+- Predictions From Uncertain Categorizations
+- Compositionality, MDL Priors, and Object Recognition
+- A Neural Substrate of Prediction and Reward
+- Learning from one example through shared densities on transforms
+- Whose gaze will infants follow? The elicitation of gaze-following in 12-month-olds
+- [Gradient-based learning applied to document recognition](./gradient-based-learning-applied-to-document-recognition.md)
+- A Cognitive Model of Planning
+- The mentalistic basis of core social cognition - experiments in preverbal infants and a computational model.
+- Social evaluation by preverbal infants
+- Computing Machinery and Intelligence
+- Sidekick agents for sequential planning problems
+- Sharing Visual Features for Multiclass and Multiview Object Detection
+- The Symbolic Species - The Co-evolution of Language and the Brain
+- Probabilistic Inference in General Graphical Models through Sampling in Stochastic Networks of Spiking Neurons
+- Routing in the brain
+- Constraints on Hypothesis Selection in Causal Learning
+- Objects, parts, and categories.
+- Development of artificial empathy
+- The Developmental Course of Distance, Time, and Velocity Concepts - A Generative Connectionist Model
+- Parallel Distributed Processing - Explorations in the Microstructure of Cognition, vol 1 - Foundations, vol 2 - Psychological and Biological Models
+- The misunderstood limits of folk science - an illusion of explanatory depth
+- Fast Mapping but Poor Retention by 24-Month-Old Infants.
+- Concepts do more than categorize
+- Ad hoc categories
+- Internal models in the cerebellum
+- A framework for representing knowledge
+- [Neocognitron - A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position](./neocognitron-a-self-organizing-neural-network-model-for-a-mechanism-of-pattern-recognition-unaffected-by-shift-in-position.md)
+- Midbrain Dopamine Neurons Encode a Quantitative Reward Prediction Error Signal
+- Learning to Pass Expectation Propagation Messages
+- Case-Based Reasoning
+- [ImageNet Large Scale Visual Recognition Challenge](./imagenet-large-scale-visual-recognition-challenge.md)
+- [Deep Neural Networks for Acoustic Modeling in Speech Recognition](./deep-neural-networks-for-acoustic-modeling-in-speech-recognition.md)
+- A survey of advances in vision-based human motion capture and analysis
+- The basal ganglia - learning new tricks and loving it
+- On Overview of KRL, a Knowledge Representation Language
+- [Generating Sequences With Recurrent Neural Networks](./generating-sequences-with-recurrent-neural-networks.md)
+- Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control
+- The origins of inquiry - inductive inference and exploration in early childhood
+- Neurons as Monte Carlo Samplers - Bayesian Inference and Learning in Spiking Networks
+- [Semi-supervised Learning with Deep Generative Models](./semi-supervised-learning-with-deep-generative-models.md)
+- The nature of insight
+- Referential communication and category acquisition.
+- Bayesian data analysis.
+- Moral Judgment and Action in Preverbal Infants and Toddlers
+- Five-Month-Old Infants Have Different Expectations for Solids and Liquids
+- Computer Simulation of Individual Belief Systems *
+- The role of theories in conceptual coherence.
+- Category use and category learning.
+- Church - a language for generative models
+- Unifying distillation and privileged information
+- Qualitative Mental Models - Simulations or Memories?
+- The use and abuse of large-scale brain models
+- Perception of Animacy from the Motion of a Single Object
+- Theory for the development of neuron selectivity - orientation specificity and binocular interaction in visual cortex
+- Achieving Master Level Play in 9 x 9 Computer Go
+- Learning and the language of thought
+- Object-Oriented Representation
+- [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](./deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.md)
+- Goals and Habits in the Brain
+- Consensus Paper - Towards a Systems-Level View of Cerebellar Function - the Interplay Between Cerebellum, Basal Ganglia, and Cortex
+- Towards Conceptual Compression
+- Learning Stochastic Inverses
+- Why Smart People Can Be So Stupid
+- Learning to Synchronously Imitate Gestures Using Entrainment Effect
+- Embodied Cognition - A field guide
+- Cognitive development - foundational theories of core domains.
+- Place cells, grid cells, and the brain's spatial representation system.
+- Preschool children learn about causal structure from conditional interventions.
+- A new kind of science
+- The hippocampus as a cognitive map J. O'Keefe & L. Nadel, Oxford University Press, Oxford (1978). 570 pp., £25.00
+
+- Learning to share visual appearance for multiclass object detection
+- Causal knowledge and categories - the effects of causal beliefs on categorization, induction, and similarity.
+- Intermodal synchrony - as a form of maternal responsiveness - is associated with language development
+- Genetic programming - on the programming of computers by means of natural selection
+- Representing the dynamics of a static form
+- Machine learning - an artificial intelligence approach
+- A Model of How the Basal Ganglia Generate and Use Neural Signals That Predict Reinforcement
+- A causal-model theory of conceptual representation and categorization.
+- Explanation and categorization - How “why?” informs “what?”
+- Representation and recognition of the spatial organization of three-dimensional shapes
+- Synaptic modification by correlated activity - Hebb's postulate revisited.
+- Words, thoughts, and theories
+- Backpropagation Applied to Handwritten Zip Code Recognition
+- Developmental Differences in Rule Learning - A Microgenetic Analysis
+- Canonical Microcircuits for Predictive Coding
+- Commonsense reasoning and commonsense knowledge in artificial intelligence
+- The visual brain in action
+- Basis for a neuronal version of Grover's quantum algorithm
+- Hidden Markov Models for Speech Recognition
+- Context and behavioral processes in extinction.
+- Using Qualitative Reasoning for the Attribution of Moral Responsibility
+- Enhanced synaptic transmission in CA1 hippocampus after eyeblink conditioning.
+- Stan - A Probabilistic Programming Language
+- The wake-sleep algorithm for unsupervised neural networks.
+- Metamagical Themas - Questing for the Essence of Mind and Pattern
+- Incentivizing exploration
+- Infants' Physical World
+- In Advances in Neural Information Processing Systems
+- The recent excitement about neural networks
+- Human Problem Solving
+- PACHI - State of the Art Open Source Go Program
+- Monte-Carlo tree search and rapid action value estimation in computer Go
+- The effects of repeated induction of long-term potentiation in the dentate gyrus
+- Anatomy of the mind.
+- Noradrenergic long-term potentiation in the dentate gyrus.
+- Stan - A Probabilistic Programming Language for Bayesian Inference and Optimization.
+- The organization of behavior.
+- On the adequacy of prototype theory as a theory of concepts
+- Intrinsic and Extrinsic Motivations - Classic Definitions and New Directions.
+- Neocognitron - A Self-Organizing Neural Network Model for a Mechanism of Visual Pattern Recognition
+- Scientific Discovery - Computational Explorations of the Creative Processes
+- A neural network model of Borderline Personality Disorder
+- US Manufacturing - Understanding Its Past and Its Potential Future
+- Learning Structural Descriptions From Examples
+- Part-based modelling of compound scenes from images
+- Speech recognition - A model and a program for research
+- Meta Net - A New Meta-Classifier Family
+- Program good ethics into artificial intelligence
+- Perceptrons - an introduction to computational geometry
+- Dimensions of Mind Perception
+- Teachers' ethnotheories of the ‘ideal student' in five western cultures
+- Three-month-olds show a negativity bias in their social evaluations.
+- Fuzzy Clustering of Seismic Sequences - Segmentation of Time-Frequency Representations
+- The Go Files - AI computer wraps up 4-1 victory against human champion
+- Handwriting and pattern recognition
+- A new meta-classifier
+- The Essential Child - Origins of Essentialism in Everyday Thought
+- Vision
+- Democracia e Cidadania na Escola - Do Discurso à Prática
+- Superintelligence - Paths, Dangers, Strategies
+- Metamagical themas - Questing for the essence of mind and patterns
+- Advances in Neural Information Processing Systems 29
+- Learning and satiation of response in intrinsically motivated complex puzzle performance by monkeys.
+- Knowledge acquisition in foundational domains.
+- 郊外の未来像 - Do Androids Dream of Electric Sheep?における消費文化・環境正義
+- What does it mean to be smart
+- The Evolved Apprentice
+- Perceiving Animacy and Intentionality
+- An Account of Infants' Physical Reasoning
+- Foundations of Language
+- Conceptual dependency - A theory of natural language understanding
+- Learning and satiation of response in intrinsically motivated complex puzzle performance by monkeys.
+- The Intentional Stance
+- Letter spirit (part two) - modeling creativity in a visual domain
+- The Gates of Hell - Sir John Franklin's Tragic Quest for the North West Passage (review)
+- Categorization and naming in children
+- Charts of the Atmosphere
+- Why Only Us? Language and Evolution
+- MASTERING THE GAME
+- The society of mind
+- Neural population dynamics during
+- Computer Vision and Pattern Recognition (CVPR)
+- International Conference on Learning Representations (ICLR)
+- Creativity and Artificial Intelligence
+- Machine learning - An artificial intelligence approach (vol. 2) - R. S. Michalski, J. G. Carbonell, and T. M. Mitchell (Eds.). Los Alton, CA - Morgan Kaufmann, 1986. Pp. x + 738. $39.95
+- The learning curve equation
+- Development of object perception
+- What makes us smart? Core knowledge and natural language
+- Curiosity and exploration.
+- Perception of the speech code.
+- The formation of learning sets.
+- The short-latency dopamine signal - a role in discovering novel actions?
+- Foundations of Language
+- [Deep Learning](./deep-learning.md)
+- Learning Theory
+- Language and Perception
+- Cognitive Psychology
+- Dynamic mental representations.

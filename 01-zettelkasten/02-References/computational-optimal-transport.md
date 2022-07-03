@@ -1,0 +1,445 @@
+---
+title: Computational Optimal Transport
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# Computational Optimal Transport
+
+## References
+
+- Fast Transport Optimization for Monge Costs on the Circle
+- Constructing optimal maps for Monge's transport problem as a limit of strictly convex costs
+- Stochastic Optimization for Large-scale Optimal Transport
+- Free boundaries in optimal transport and Monge-Ampere obstacle problems
+- Notions of optimal transport theory and how to implement them on a computer
+- Tsallis Regularized Optimal Transport and Ecological Inference
+- A Newton algorithm for semi-discrete optimal transport
+- Large Scale computation of Means and Clusters for Persistence Diagrams using Optimal Transport
+- Unbalanced Optimal Transport - Geometry and Kantorovich Formulation
+- On the Relation Between Optimal Transport and Schrödinger Bridges - A Stochastic Control Viewpoint
+- A Numerical Algorithm for L2 Semi-Discrete Optimal Transport in 3D
+- Iterative Bregman Projections for Regularized Transportation Problems
+- Convergence of Entropic Schemes for Optimal Transport and Gradient Flows
+- [Sinkhorn Distances - Lightspeed Computation of Optimal Transport](./sinkhorn-distances-lightspeed-computation-of-optimal-transport.md)
+- Regularized Optimal Transport and the Rot Mover's Distance
+- From Knothe's Transport to Brenier's Map and a Continuation Method for Optimal Transport
+- A Multiscale Approach to Optimal Transport
+- A MACROSCOPIC CROWD MOTION MODEL OF GRADIENT FLOW TYPE
+- Optimal Transport in Competition with Reaction - The Hellinger-Kantorovich Distance and Geodesic Curves
+- Local Matching Indicators for Transport Problems with Concave Costs
+- Computational methods for martingale optimal transport problems
+- Large Scale Optimal Transport and Mapping Estimation
+- Quadratically-Regularized Optimal Transport on Graphs
+- A polynomial bound on the diameter of the transportation polytope
+- Discrete Wasserstein barycenters - optimal transport for discrete data
+- Computation of optimal transport on discrete metric measure spaces
+- A new class of transport distances between measures
+- Near-linear time approximation algorithms for optimal transport via Sinkhorn iteration
+- Scaling Algorithms for Unbalanced Transport Problems
+- A generalized model for optimal transport of images including dissipation and density modulation
+- Dynamic trees as search trees via euler tours, applied to the network simplex algorithm
+- Robust clustering tools based on optimal transportation
+- {Euclidean, metric, and Wasserstein} gradient flows - an overview
+- Successive overrelaxation (SOR) and related methods
+- Fast Computation of Wasserstein Barycenters
+- Optimal transportation under controlled stochastic dynamics
+- A Convexity Principle for Interacting Gases
+- Positive contraction mappings for classical and quantum Schrödinger systems
+- Interpolating between Optimal Transport and MMD using Sinkhorn Divergences
+- Dual coordinate step methods for linear network flow problems
+- On the matrix Monge-Kantorovich problem
+- Generalized solutions and hydrostatic approximation of the Euler equations
+- Generalized optimal transport with singular sources
+- Gromov-Wasserstein Distances and the Metric Approach to Object Matching
+- The least action principle and the related concept of generalized flows for incompressible perfect fluids
+- Optimal-transport formulation of electronic density-functional theory
+- IMAGE SEGMENTATION VIA L 1 MONGE-KANTOROVICH PROBLEM
+- A Gromov-Hausdorff Framework with Diffusion Geometry for Topologically-Robust Non-rigid Shape Matching
+- Entropic Approximation of Wasserstein Gradient Flows
+- Optimal Mass Transport for Registration and Warping
+- Optimal Transport Methods in Economics
+- Density Functional Theory and Optimal Transportation with Coulomb Cost
+- About the analogy between optimal transport and minimal entropy
+- Principal Geodesic Analysis for Probability Measures under the Optimal Transport Metric
+- Wasserstein Barycentric Coordinates - Histogram Regression Using Optimal Transport
+- Entropic metric alignment for correspondence problems
+- Gromov-Wasserstein Averaging of Kernel and Distance Matrices
+- Multi-marginal optimal transport - theory and applications
+- A Course in Metric Geometry
+- Optimal Transport with Proximal Splitting
+- Transport distances and geodesic convexity for systems of degenerate diffusion equations
+- Consistent estimation of a population barycenter in the Wasserstein space
+- Minimization for conditional simulation - Relationship to optimal transport
+- Fréchet means and Procrustes analysis in Wasserstein space
+- Optimal Entropy-Transport problems and a new Hellinger-Kantorovich distance between positive measures
+- Computational Optimal Transport - Complexity by Accelerated Gradient Descent Is Better Than by Sinkhorn's Algorithm
+- Bayesian inference with optimal maps
+- Optimal transportation with capacity constraints
+- The Optimal Partial Transport Problem
+- Optimal Transportation with Traffic Congestion and Wardrop Equilibria
+- Characterization of barycenters in the Wasserstein space by averaging optimal transport maps
+- From the Schr\odinger problem to the Monge-Kantorovich problem
+- Sample Complexity of Sinkhorn Divergences
+- A reconstruction of the initial conditions of the Universe by optimal mass transportation
+- Displacement Interpolation Using Lagrangian Mass Transport
+- A Sparse Multiscale Algorithm for Dense Optimal Transport
+- Optimal transport for particle image velocimetry
+- Discretization of functionals involving the Monge-Ampère operator
+- Matrix Scaling and Balancing via Box Constrained Newton's Method and Interior Point Methods
+- Graph Matching - Relax at Your Own Risk
+- Fast projection onto the simplex and the $$\pmb {l}_\mathbf {1}$$l1 ball
+- An efficient linear programming method for Optimal Transportation
+- Geodesics in heat - A new approach to computing distance based on heat flow
+- The ∞-Wasserstein Distance - Local Solutions and Existence of Optimal Transport Maps
+- A Linear Optimal Transportation Framework for Quantifying and Visualizing Variations in Sets of Images
+- An Interpolating Distance Between Optimal Transport and Fisher-Rao Metrics
+- [The Earth Mover's Distance as a Metric for Image Retrieval](./the-earth-mover-s-distance-as-a-metric-for-image-retrieval.md)
+- Towards Optimal Transport with Global Invariances
+- Convex Optimization & Euclidean Distance Geometry
+- On the Monge mass transfer problem
+- Decentralize and Randomize - Faster Algorithm for Wasserstein Barycenters
+- User-friendly guarantees for the Langevin Monte Carlo with inaccurate gradient
+- Classical complexity and quantum entanglement
+- Convergence of the Mass-Transport Steepest Descent Scheme for the Subcritical Patlak-Keller-Segel Model
+- History of mathematical programming - a collection of personal reminiscences
+- A polynomial time primal network simplex algorithm for minimum cost flows
+- Minkowski-Type Theorems and Least-Squares Clustering
+- Continuous-Flow Graph Transportation Distances
+- Planar Earthmover Is Not in L1
+- Earth mover's distances on discrete surfaces
+- A Transportation Lp Distance for Signal Analysis
+- A tumor growth model of Hele-Shaw type as a gradient flow
+- Positivity and Transportation
+- Sublinear Time Algorithms for Earth Mover's Distance
+- Scalable Bayes via Barycenter in Wasserstein Space
+- [Learning Generative Models with Sinkhorn Divergences](./learning-generative-models-with-sinkhorn-divergences.md)
+- Matching for teams
+- A fixed-point approach to barycenters in Wasserstein space
+- On the use of Gromov-Hausdorff Distances for Shape Comparison
+- Much Faster Algorithms for Matrix Scaling
+- Riemannian Center of Mass and so called karcher mean
+- Wasserstein Barycenter and Its Application to Texture Mixing
+- A Parallel Method for Earth Mover's Distance
+- Monotone Operators and the Proximal Point Algorithm
+- Parallel Streaming Wasserstein Barycenters
+- Achieving logarithmic growth of temporal and spatial complexity in reverse automatic differentiation
+- Augmented Lagrangian Methods for Transport Optimization, Mean Field Games and Degenerate Elliptic Equations
+- Earth Mover's Morphing - Topology-Free Shape Morphing Using Cluster-Based EMD Flows
+- Optimal Transport - Old and New
+- Blue noise through optimal transport
+- Fast Projection onto the Simplex and the l 1 Ball
+- Harmonic mappings valued in the Wasserstein space
+- An Efficient Earth Mover's Distance Algorithm for Robust Histogram Comparison
+- A Smoothed Dual Approach for Variational Wasserstein Problems
+- An optimal transport approach for seismic tomography - application to 3D full waveform inversion
+- From optimal transport to generative modeling - the VEGAN cookbook
+- On the Bures-Wasserstein distance between positive definite matrices
+- Quantum entropic regularization of matrix-valued optimal transport
+- Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers
+- A review of matrix scaling and Sinkhorn's normal form for matrices and positive maps
+- Minimal geodesics on groups of volume-preserving maps and generalized solutions of the Euler equations
+- Geodesic PCA in the Wasserstein space by Convex PCA
+- Stabilized Sparse Scaling Algorithms for Entropy Regularized Transport Problems
+- A discrete Schrödinger equation via optimal transport on graphs
+- Ground metric learning
+- Numerical solution of the Optimal Transportation problem using the Monge-Ampère equation
+- Optimal Mass Transport for Shape Matching and Comparison
+- On the Perron-Frobenius theorem.
+- Relating the Bures Measure to the Cauchy Two-Matrix Model
+- A JKO Splitting Scheme for Kantorovich-Fisher-Rao Gradient Flows
+- Empirical Likelihood
+- Optimal maps for the multidimensional Monge-Kantorovich problem
+- Information geometry connecting Wasserstein distance and Kullback-Leibler divergence via the entropy-relaxed transportation problem
+- Inference in generative models using the Wasserstein distance
+- The Evolution of the Minimum Degree Ordering Algorithm
+- Evaluating derivatives - principles and techniques of algorithmic differentiation, Second Edition
+- The Structure of Superspace
+- WASP - Scalable Bayes via barycenters of subset posteriors
+- A survey of the Schr\odinger problem and some of its connections with optimal transport
+- On the n-Coupling Problem
+- Optimal Spatial Interaction and the Gravity Model
+- Ranking via Sinkhorn Propagation
+- Extensions of Lipschitz mappings into Hilbert space
+- Gradient flow structures for discrete porous medium equations
+- Geodesics in the Space of Measure-Preserving Maps and Plans
+- Vector and Matrix Optimal Mass Transport - Theory, Algorithm, and Applications
+- Auction algorithms for network flow problems - A tutorial introduction
+- Nonlinear Perron-Frobenius Theory
+- Introduction to Automatic Differentiation and MATLAB Object-Oriented Programming
+- NUMERICAL METHODS FOR MATCHING FOR TEAMS AND WASSERSTEIN BARYCENTERS
+- Simple Bounds for the Convergence of Empirical and Occupation Measures in 1-Wasserstein Distance
+- On Wasserstein Two-Sample Testing and Related Families of Nonparametric Tests
+- Joint distribution optimal transportation for domain adaptation
+- Dirichlet Energy for Analysis and Synthesis of Soft Maps
+- Earth mover distance over high-dimensional spaces
+- The Hele-Shaw Asymptotics for Mechanical Models of Tumor Growth
+- Adaptivity of averaged stochastic gradient descent to local strong convexity for logistic regression
+- Metric spaces and positive definite functions
+- On integral probability metrics, φ-divergences and binary classification
+- Modelling Convex Shape Priors and Matching Based on the Gromov-Wasserstein Distance
+- Learning from uncertain curves - The 2-Wasserstein metric for Gaussian processes
+- Distributionally Robust Logistic Regression
+- A Graduated Assignment Algorithm for Graph Matching
+- Matrix-valued Monge-Kantorovich optimal mass transport
+- Approximate earth mover's distance in linear time
+- Polar Factorization and Monotone Rearrangement of Vector-Valued Functions
+- A Kernel Two-Sample Test
+- Differential equations methods for the Monge-Kantorovich mass transfer problem
+- Pressureless Euler equations with maximal density constraint - a time-splitting scheme
+- Barycenters in the Wasserstein Space
+- Synthesizing and Mixing Stationary Gaussian Texture Models
+- The Earth Mover's Distance under transformation sets
+- Regularized Regression and Density Estimation based on Optimal Transport
+- Supervised Earth Mover's Distance Learning and Its Computer Vision Applications
+- Recursively implementating the Gaussian and its derivatives
+- [Modeling the Shape of the Scene - A Holistic Representation of the Spatial Envelope](./modeling-the-shape-of-the-scene-a-holistic-representation-of-the-spatial-envelope.md)
+- Light in Power - A General and Parameter-free Algorithm for Caustic Design
+- Power Diagrams - Properties, Algorithms and Applications
+- [Theano - A Python framework for fast computation of mathematical expressions](./theano-a-python-framework-for-fast-computation-of-mathematical-expressions.md)
+- Wasserstein Training of Restricted Boltzmann Machines
+- On the Douglas-Rachford splitting method and the proximal point algorithm for maximal monotone operators
+- Fokker-Planck Equations for a Free Energy Functional or Markov Process on a Graph
+- Learning Probability Measures with respect to Optimal Transport Metrics
+- Fast Optimal Transport Averaging of Neuroimaging Data
+- The Sinkhorn-Knopp Algorithm - Convergence and Applications
+- Amplitude and phase variation of point processes
+- Tensor Balancing on Statistical Manifold
+- Further and stronger analogy between sampling and optimization - Langevin Monte Carlo and gradient descent
+- An extension of Kakutani's theorem on infinite product measures to the tensor product of semifinite *-algebras
+- Generalizing Point Embeddings using the Wasserstein Space of Elliptical Distributions
+- GPU-based SoftAssign for Maximizing Image Utilization in Photomosaics
+- Hölder-Lipschitz Norms and Their Duals on Spaces with Semigroups, with Applications to Earth Mover's Distance
+- Optimal Transport and Cournot-Nash Equilibria
+- Data-driven distributionally robust optimization using the Wasserstein metric - performance guarantees and tractable reformulations
+- Gradient flows of the entropy for finite Markov chains
+- Matrix Optimal Mass Transport - A Quantum Mechanical Approach
+- Sliced Wasserstein Kernels for Probability Distributions
+- Kantorovich-Rubinstein norm and its application in the theory of Lipschitz spaces
+- Diffeomorphic matching of distributions - a new approach for unlabelled point-sets and sub-manifolds matching
+- A Theoretical and Computational Framework for Isometry Invariant Recognition of Point Cloud Data
+- Unsupervised Alignment of Embeddings with Wasserstein Procrustes
+- Dykstras algorithm with bregman projections - A convergence proof
+- A mixed finite element method for nonlinear diffusion equations
+- A new optimal transport distance on the space of finite Radon measures
+- Local Histogram Based Segmentation Using the Wasserstein Distance
+- New Algorithms for 2D and 3D Point Matching - Pose Estimation and Correspondence
+- Reminiscences about the origins of linear programming
+- A new class of metric divergences on probability spaces and its applicability in statistics
+- Diagonal equivalence to matrices with prescribed row and column sums. II
+- On the total variation Wasserstein gradient flow and the TV-JKO scheme
+- Metamorphoses Through Lie Group Action
+- Convergent Finite Difference Solvers for Viscosity Solutions of the Elliptic Monge-Ampère Equation in Dimensions Two and Higher
+- Fisher information distance - a geometrical reading?
+- An Optimal Transportation Approach for Nuclear Structure-Based Pathology
+- On the optimal mapping of distributions
+- Martingale optimal transport and robust hedging in continuous time
+- A Lagrangian Scheme à la Brenier for the Incompressible Euler Equations
+- Wasserstein active contours
+- Interior-point polynomial algorithms in convex programming
+- NUMERICAL RESOLUTION OF AN \UNBALANCED MASS TRANSPORT PROBLEM
+- Multilevel Clustering via Wasserstein Means
+- Surface Matching via Currents
+- Generalized Wasserstein Distance and its Application to Transport Equations with Source
+- On the Application of the Monge--Kantorovich Problem to Image Registration
+- The Wasserstein Gradient Flow of the Fisher Information and the Quantum Drift-diffusion Equation
+- Fast Dictionary Learning with a Smoothed Wasserstein Loss
+- Sur l'approximation, par éléments finis d'ordre un, et la résolution, par pénalisation-dualité d'une classe de problèmes de Dirichlet non linéaires
+- Monotone and consistent discretization of the Monge-Ampère operator
+- Optimal Transport for Diffeomorphic Registration
+- Comparison between W2 distance and Ḣ−1 norm, and Localization of Wasserstein distance
+- A General Class of Coefficients of Divergence of One Distribution from Another
+- Distances and Riemannian Metrics for Multivariate Spectral Densities
+- Supervised Word Mover's Distance
+- The Tangent Earth Mover's Distance
+- A Convergent Lagrangian Discretization for a Nonlinear Fourth-Order Equation
+- Inference for empirical Wasserstein distances on finite spaces
+- A dual algorithm for the solution of nonlinear variational problems via finite element approximation
+- Optimal Mass Transport - Signal processing and machine-learning applications
+- Metric Learning - A Survey
+- On a Formula for the L2 Wasserstein Metric between Measures on Euclidean and Hilbert Spaces
+- Mirror descent and nonlinear projected subgradient methods for convex optimization
+- Asymptotic analysis of the exponential penalty trajectory in linear programming
+- Wasserstein Loss for Image Synthesis and Restoration
+- The geometry of optimal transportation
+- A Wavelet Tour of Signal Processing - The Sparse Way, 3rd Edition
+- [TensorFlow - Large-Scale Machine Learning on Heterogeneous Distributed Systems](./tensorflow-large-scale-machine-learning-on-heterogeneous-distributed-systems.md)
+- Monge's transport problem on a Riemannian manifold
+- TESTING FOR EQUAL DISTRIBUTIONS IN HIGH DIMENSION
+- Measure-Valued Variational Models with Applications to Diffusion-Weighted Imaging
+- A Fast Algorithm for Matrix Balancing
+- The pyramid match kernel - discriminative classification with sets of image features
+- Estimating Matching Affinity Matrix Under Low-Rank Constraints
+- The Dykstra algorithm with Bregman projec-tions
+- Sliced and Radon Wasserstein Barycenters of Measures
+- A Continuous Model of Transportation
+- An Analog of the 2-Wasserstein Metric in Non-Commutative Probability Under Which the Fermionic Fokker-Planck Equation is Gradient Flow for the Entropy
+- Closedness of Sum Spaces andthe Generalized Schrödinger Problem
+- Constructive quantization - Approximation by empirical measures
+- A Stochastic Control Approach to No-Arbitrage Bounds Given Marginals, with an Application to Lookback Options
+- A new algorithm for the assignment problem
+- Snowflake universality of Wasserstein spaces
+- Wasserstein geometry of Gaussian measures
+- Langevin Monte Carlo and JKO splitting
+- Fast and robust Earth Mover's Distances
+- A Finite-Volume Method for Nonlinear Nonlocal Equations with a Gradient Flow Structure
+- [Distance Metric Learning for Large Margin Nearest Neighbor Classification](./distance-metric-learning-for-large-margin-nearest-neighbor-classification.md)
+- Reconstruction of developmental landscapes by optimal-transport analysis of single-cell gene expression sheds light on cellular reprogramming
+- [Numerical Optimization](./numerical-optimization.md)
+- Generalized Sinkhorn Iterations for Regularizing Inverse Problems Using Optimal Mass Transport
+- Multi-scale Non-Rigid Point Cloud Registration Using Robust Sliced-Wasserstein Distance via Laplace-Beltrami Eigenmap
+- Numerical Simulation of Diffusive and Aggregation Phenomena in Nonlinear Continuity Equations by Evolving Diffeomorphisms
+- Object Segmentation by Shape Matching with Wasserstein Modes
+- Matching with Trade-Offs - Revealed Preferences Over Competing Characteristics
+- Topics in Optimal Transportation
+- Introduction to linear optimization
+- Robust Hypothesis Testing Using Wasserstein Uncertainty Sets
+- An Image Morphing Technique Based on Optimal Mass Preserving Mapping
+- From Word Embeddings To Document Distances
+- A Linear Time Histogram Metric for Improved SIFT Matching
+- On complexity of matrix scaling
+- Learning with a Wasserstein Loss
+- Nonnegative Matrix Factorization with Earth Mover's Distance Metric for Image Analysis
+- A Symmetry Preserving Algorithm for Matrix Scaling
+- Convex Variational Image Restoration with Histogram Priors
+- Convex Color Image Segmentation with Optimal Transport Distances
+- Diffusion Distance for Histogram Comparison
+- Convergence Properties of the Softassign Quadratic Assignment Algorithm
+- The invisible hand algorithm - Solving the assignment problem with statistical physics
+- Efficient Bayesian inference methods via convex optimization and optimal transport
+- A characterization of random variables with minimum L 2 -distance
+- On the rate of convergence in Wasserstein distance of the empirical measure
+- Unbalanced and Partial $$L_1$$L1 Monge-Kantorovich Problem - A Scalable Parallel First-Order Method
+- A Kernel Method for the Two-Sample-Problem
+- Convergence of the iterative proportional fitting procedure
+- Optimal Transport for Domain Adaptation
+- Imaging with Kantorovich-Rubinstein Discrepancy
+- Sharp asymptotic and finite-sample rates of convergence of empirical measures in Wasserstein distance
+- The Speed of Mean Glivenko-Cantelli Convergence
+- Minimax Statistical Learning with Wasserstein distances
+- Gradient Flows - In Metric Spaces and in the Space of Probability Measures
+- Simultaneous Ground Metric Learning and Matrix Factorization with Earth Mover's Distance
+- [A Survey on Transfer Learning](./a-survey-on-transfer-learning.md)
+- Point Set Registration - Coherent Point Drift
+- Metrics for Matrix-valued Measures via Test Functions
+- Discretization of the 3D Monge-Ampere operator, between Wide Stencils and Power Diagrams
+- Kernels on Structured Objects Through Nested Histograms
+- Optimal Patch Assignment for Statistically Constrained Texture Synthesis
+- Applied Logistic Regression
+- Reproducing kernel Hilbert spaces in probability and statistics
+- A Novel Earth Mover's Distance Methodology for Image Matching with Gaussian Mixture Models
+- Convex Analysis and Monotone Operator Theory in Hilbert Spaces
+- Wasserstein Riemannian Geometry of Positive Definite Matrices
+- Optimal Transport for Applied Mathematicians - Calculus of Variations, PDEs, and Modeling
+- Automated colour grading using colour distribution transfer
+- A new algorithm for non-rigid point matching
+- Existence and consistency of Wasserstein barycenters
+- On the scaling of multidimensional matrices
+- Concerning nonnegative matrices and doubly stochastic matrices
+- [Learning with Kernels - Support Vector Machines, Regularization, Optimization, and Beyond](./learning-with-kernels-support-vector-machines-regularization-optimization-and-beyond.md)
+- Vector quantile regression beyond correct specification
+- An Iterative Procedure for Obtaining $I$-Projections onto the Intersection of Convex Sets
+- Density-functional theory for strongly interacting electrons.
+- Approximation of Parabolic Equations Using the Wasserstein Metric
+- Convergence of a variational Lagrangian scheme for a nonlinear drift diffusion equation
+- An Algorithm for Restricted Least Squares Regression
+- The relaxation method of finding the common point of convex sets and its application to the solution of problems in convex programming
+- On the local structure of optimal measures in the multi-marginal optimal transportation problem
+- Optimal spectral transportation with application to music transcription
+- Entropy dissipation of Fokker-Planck equations on graphs
+- Multivariate f-divergence Estimation With Confidence
+- K-median clustering, model-based compressive sensing, and sparse recovery for earth mover distance
+- One-Dimensional Numerical Algorithms for Gradient Flows in the p-Wasserstein Spaces
+- A Nonparametric Ensemble Transform Method for Bayesian Inference
+- On the Monge-Ampère equation
+- General entropy criteria for inverse problems, with applications to data compression, pattern classification, and cluster analysis
+- [Beyond Bags of Features - Spatial Pyramid Matching for Recognizing Natural Scene Categories](./beyond-bags-of-features-spatial-pyramid-matching-for-recognizing-natural-scene-categories.md)
+- Wasserstein Propagation for Semi-Supervised Learning
+- A survey on continuous elliptical vector distributions
+- Self-concordant analysis for logistic regression
+- A Douglas-Rachford Splitting Approach to Nonsmooth Convex Variational Signal Recovery
+- Midway Image Equalization
+- Geodesic convexity of the relative entropy in reversible Markov chains
+- [Learning the parts of objects by non-negative matrix factorization](./learning-the-parts-of-objects-by-non-negative-matrix-factorization.md)
+- The heat equation on manifolds as a gradient flow in the Wasserstein space
+- Semi-dual Regularized Optimal Transport
+- Polygon Mesh Processing
+- Flows in Networks
+- A computational fluid mechanics solution to the Monge-Kantorovich mass transfer problem
+- Distribution's template estimate with Wasserstein metrics
+- On Choosing and Bounding Probability Metrics
+- Modern Multidimensional Scaling - Theory and Applications
+- THE GEOMETRY OF DISSIPATIVE EVOLUTION EQUATIONS - THE POROUS MEDIUM EQUATION
+- Quantitative Concentration Inequalities for Empirical Measures on Non-compact Spaces
+- Parameter Estimation in Finite Mixture Models by Regularized Optimal Transport - A Unified Framework for Hard and Soft Clustering
+- [Improving GANs Using Optimal Transport](./improving-gans-using-optimal-transport.md)
+- Model-Independent Bounds for Option Prices - A Mass Transport Approach
+- VARIATIONAL PARTICLE SCHEMES FOR THE POROUS MEDIUM EQUATION AND FOR THE SYSTEM OF ISENTROPIC EULER EQUATIONS
+- A Framework for Wasserstein-1-Type Metrics
+- Nonparametric entropy estimation. An overview
+- Linear Programming
+- The Monge-Ampère Equation and Optimal Transportation, an elementary review
+- Wasserstein Distributionally Robust Kalman Filtering
+- Generalized multidimensional scaling - A framework for isometry-invariant partial surface matching
+- Optimal output-sensitive convex hull algorithms in two and three dimensions
+- An efficient approach for the numerical solution of the Monge-Ampère equation
+- A deterministic strongly polynomial algorithm for matrix scaling and approximate permanents
+- Optimal transport for data fusion in remote sensing
+- Optimum Utilization of the Transportation System
+- A Survey of the Quadratic Assignment Problem
+- The space of spaces - curvature bounds and gradient flows on the space of metric measure spaces
+- A new metric for probability distributions
+- On a generalization of cyclic monotonicity and distances among random vectors
+- Combinatorial Matrix Classes
+- Tomographic Reconstruction from a Few Views - A Multi-Marginal Optimal Transport Approach
+- De investigando ordine systematis aequationum differentialium vulgarium cujuscunque.
+- Vers un théorème de la limite centrale dans l'espace de Wasserstein ?
+- Optimal Transport for Secure Spread-Spectrum Watermarking of Still Images
+- [Efficient Estimation of Word Representations in Vector Space](./efficient-estimation-of-word-representations-in-vector-space.md)
+- [Wasserstein Generative Adversarial Networks](./wasserstein-generative-adversarial-networks.md)
+- A Survey of Gaussian Convolution Algorithms
+- Cross entropy, dissimilarity measures, and characterizations of quadratic entropy
+- Automatic Differentiation - Techniques and Applications
+- [The Hungarian Method for the Assignment Problem](./the-hungarian-method-for-the-assignment-problem.md)
+- On minimum Kantorovich distance estimators
+- CONSTRUCTING GEODESICS ON THE SPACE OF COMPACT METRIC SPACES
+- GAN and VAE from an Optimal Transport Point of View
+- THE VARIATIONAL FORMULATION OF THE FOKKER-PLANCK EQUATION
+- A course in convexity
+- Splitting Algorithms for the Sum of Two Nonlinear Operators
+- Metric Structures for Riemannian and Non-Riemannian Spaces
+- [Domain Adaptation for Large-Scale Sentiment Classification - A Deep Learning Approach](./domain-adaptation-for-large-scale-sentiment-classification-a-deep-learning-approach.md)
+- On the empirical estimation of integral probability metrics
+- Multiscale Nonrigid Point Cloud Registration Using Rotation-Invariant Sliced-Wasserstein Distance via Laplace-Beltrami Eigenmap
+- Density Estimation for Statistics and Data Analysis.
+- Kernel Methods for Machine Learning
+- A Relationship Between Arbitrary Positive Matrices and Doubly Stochastic Matrices
+- On the Methods of Measuring Association Between Two Attributes
+- Density Estimation for Statistics and Data Analysis
+- Programming of Interdependent Activities - II Mathematical Model
+- Estimating Nonnegative Matrices from Marginal Data
+- Fast Slant Stack - a notion of Radon transform for data in a Cartesian grid which is rapidly computable, algebraically exact, geometrically faithful and invertible
+- Optimal Transport for Applied Mathematicians
+- Ueber die gerade Linie als kürzeste Verbindung zweier Punkte
+- Density estimation for statistics and data analysis
+- On the behavior of the fundamental solution of the heat equation with variable coefficients
+- The dual Least Action Problem for an ideal, incompressible fluid
+- Notes on the Wasserstein Metric in Hilbert Spaces
+- On a Least Squares Adjustment of a Sampled Frequency Table When the Expected Marginal Totals are Known
+- On the proximal minimization algorithm with D-Functions
+- Geometric Problems in the Theory of Infinite-dimensional Probability Distributions
+- The Gravity Model in Transportation Analysis - Theory and Extensions
+- Harmonic Analysis on Semigroups
+- On the Numerical Solution of the Problem of Reflector Design with Given Far-Field Scattering Data
+- The Collected Mathematical Papers - On Monge's “Mémoire sur la théorie des déblais et des remblais”
+- The Distribution of a Product from Several Sources to Numerous Localities
+- Use of entropy maximizing models in theory of trip distribution, mode split and route split
+- Extensions of Jentzsch's theorem
+- Central limit theorems for Sinkhorn divergence between probability distributions on finite spaces and statistical applications
+- Learning Population-Level Diffusions with Generative RNNs
+- Combinatorial Optimization
+- A nonparametric estimate of a multivariate density function
+- Network optimization - continuous and discrete models

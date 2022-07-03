@@ -1,0 +1,237 @@
+---
+title: Learning Deep Architectures for AI
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# Learning Deep Architectures for AI
+
+## References
+
+- [Greedy Layer-Wise Training of Deep Networks](./greedy-layer-wise-training-of-deep-networks.md)
+- Scaling learning algorithms towards AI
+- Exploring Strategies for Training Deep Neural Networks
+- Representational Power of Restricted Boltzmann Machines and Deep Belief Networks
+- Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations
+- The Difficulty of Training Deep Architectures and the Effect of Unsupervised Pre-Training
+- [A Fast Learning Algorithm for Deep Belief Nets](./a-fast-learning-algorithm-for-deep-belief-nets.md)
+- On the quantitative analysis of deep belief networks
+- Sparse Feature Learning for Deep Belief Networks
+- Deep Boltzmann Machines
+- An empirical evaluation of deep architectures on problems with many factors of variation
+- Recursive Distributed Representations
+- [Curriculum learning](./curriculum-learning.md)
+- Sparse deep belief net model for visual area V2
+- [A unified architecture for natural language processing - deep neural networks with multitask learning](./a-unified-architecture-for-natural-language-processing-deep-neural-networks-with-multitask-learning.md)
+- Efficient training of large neural networks for language modeling
+- Connectionist Learning of Belief Networks
+- Learning internal representations
+- A Scalable Hierarchical Distributed Language Model
+- Classification using discriminative restricted Boltzmann machines
+- A Learning Algorithm for Boltzmann Machines
+- Training Hierarchical Feed-Forward Visual Recognition Models Using Transfer Learning from Pseudo-Tasks
+- Using Deep Belief Nets to Learn Covariance Kernels for Gaussian Processes
+- The Helmholtz Machine
+- Many-Layered Learning
+- Learning long-term dependencies with gradient descent is difficult
+- A Neural Probabilistic Language Model
+- Learning representations by back-propagating errors
+- Modeling image patches with a directed hierarchy of Markov random fields
+- A Bayesian/Information Theoretic Model of Learning to Learn via Multiple Task Sampling
+- [Extracting and composing robust features with denoising autoencoders](./extracting-and-composing-robust-features-with-denoising-autoencoders.md)
+- Convex Neural Networks
+- Slow, Decorrelated Features for Pretraining Complex Cell-like Networks
+- Generative models for discovering sparse distributed representations.
+- Natural Language Processing With Modular PDP Networks and Distributed Lexicon
+- Learning Multilevel Distributed Representations for High-Dimensional Sequences
+- Factored conditional restricted Boltzmann Machines for modeling motion style
+- Bayesian Learning for Neural Networks
+- Constituent Parsing with Incremental Sigmoid Belief Networks
+- Learning Continuous Attractors in Recurrent Networks
+- Parallel distributed processing - explorations in the microstructure of cognition, vol. 1 - foundations
+- Exploiting Generative Models in Discriminative Classifiers
+- The Curse of Highly Variable Functions for Local Kernel Machines
+- [Training Products of Experts by Minimizing Contrastive Divergence](./training-products-of-experts-by-minimizing-contrastive-divergence.md)
+- Learning and development in neural networks - the importance of starting small
+- A Tutorial on Energy-Based Learning
+- Unsupervised Learning of Distributions of Binary Vectors Using 2-Layer Networks
+- Training Connectionist Models for the Structured Language Model
+- Using fast weights to improve persistent contrastive divergence
+- On Contrastive Divergence Learning
+- Unsupervised Learning of Image Transformations
+- Self Supervised Boosting
+- Energy-Based Models for Sparse Overcomplete Representations
+- A Two-Layer ICA-Like Model Estimated by Score Matching
+- Restricted Boltzmann machines for collaborative filtering
+- Three new graphical models for statistical language modelling
+- Principled Hybrids of Generative and Discriminative Models
+- [Reinforcement Learning - An Introduction](./reinforcement-learning-an-introduction.md)
+- Large-scale kernel machines
+- Deep learning via semi-supervised embedding
+- [Support-Vector Networks](./support-vector-networks.md)
+- Efficient Non-Parametric Function Induction in Semi-Supervised Learning
+- Semi-supervised learning of compact document representations with deep networks
+- Shift-Invariance Sparse Coding for Audio Classification
+- [Reducing the Dimensionality of Data with Neural Networks](./reducing-the-dimensionality-of-data-with-neural-networks.md)
+- Active Learning with Statistical Models
+- Efficient sparse coding algorithms
+- Products of Experts
+- Semantic hashing
+- Differentiable Sparse Coding
+- To recognize shapes, first learn to generate images.
+- Learning Overcomplete Representations
+- Links between perceptrons, MLPs and SVMs
+- A Formal Theory of Inductive Inference. Part II
+- A Unified Energy-Based Framework for Unsupervised Learning
+- Best practices for convolutional neural networks applied to visual document analysis
+- Exponential Family Harmoniums with an Application to Information Retrieval
+- Universal Artificial Intellegence - Sequential Decisions Based on Algorithmic Probability
+- Efficient Learning of Sparse Representations with an Energy-Based Model
+- Nonlocal Estimation of Manifold Structure
+- Sparse coding with an overcomplete basis set - A strategy employed by V1?
+- Stacked generalization
+- Establishing Good Benchmarks and Baselines for Face Recognition
+- Unsupervised Discovery of Nonlinear Structure Using Contrastive Backpropagation
+- Unsupervised Learning of Invariant Feature Hierarchies with Applications to Object Recognition
+- Deep belief net learning in a long-range vision system for autonomous off-road driving
+- Is Learning The n-th Thing Any Easier Than Learning The First?
+- Experiments with a New Boosting Algorithm
+- Justifying and Generalizing Contrastive Divergence
+- Self-taught learning - transfer learning from unlabeled data
+- Autoencoders, Minimum Description Length and Helmholtz Free Energy
+- Hierarchical Bayesian inference in the visual cortex.
+- A New View of ICA
+- Learning a Nonlinear Embedding by Preserving Class Neighbourhood Structure
+- Non-Local Manifold Tangent Learning
+- Connectionist language modeling for large vocabulary continuous speech recognition
+- Learning Despite Concept Variation by Finding Structure in Attribute-based Data
+- The Cost of Cortical Computation
+- Loss Functions for Discriminative Training of Energy-Based Models
+- [Gradient-based learning applied to document recognition](./gradient-based-learning-applied-to-document-recognition.md)
+- [Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions](./semi-supervised-learning-using-gaussian-fields-and-harmonic-functions.md)
+- Flexible shaping - How learning in small steps helps
+- Learning Nonlinear Overcomplete Representations for Efficient Coding
+- Unsupervised Learning of Models for Recognition
+- Parallel Models of Associative Memory
+- Information processing in dynamical systems - foundations of harmony theory
+- Auto-association by multilayer perceptrons and singular value decomposition
+- Deep learning from temporal coherence in video
+- [A global geometric framework for nonlinear dimensionality reduction.](./a-global-geometric-framework-for-nonlinear-dimensionality-reduction.md)
+- Learning in Graphical Models
+- Rational Kernels - Theory and Algorithms
+- An Information-Maximization Approach to Blind Separation and Blind Deconvolution
+- Evaluating probabilities under high-dimensional latent variable models
+- Learning the Kernel Matrix with Semidefinite Programming
+- Backpropagation Applied to Handwritten Zip Code Recognition
+- A logical calculus of the ideas immanent in nervous activity
+- An Introduction to Kolmogorov Complexity and Its Applications
+- [Neocognitron - A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position](./neocognitron-a-self-organizing-neural-network-model-for-a-mechanism-of-pattern-recognition-unaffected-by-shift-in-position.md)
+- Object Class Recognition and Localization Using Sparse Features with Limited Receptive Fields
+- Training restricted Boltzmann machines using approximations to the likelihood gradient
+- Using manifold structure for partially labelled classification
+- [Visualizing Data using t-SNE](./visualizing-data-using-t-sne.md)
+- Supervised Dictionary Learning
+- Descartes' Rule of Signs for Radial Basis Function Neural Networks
+- Advances in kernel methods - support vector learning
+- Modeling Human Motion Using Binary Latent Variables
+- On Discriminative vs. Generative Classifiers - A comparison of logistic regression and naive Bayes
+- How to Make a Low-Dimensional Representation Suitable for Diverse Tasks
+- Building continuous space language models for transcribing european languages
+- Some extensions of score matching
+- [Random Forests](./random-forests.md)
+- Slow Feature Analysis - Unsupervised Learning of Invariances
+- A Hierarchical Model of Shape and Appearance for Human Action Classification
+- Input space versus feature space in kernel-based methods
+- Nonlinear Autoassociation Is Not Equivalent to PCA
+- Learning and relearning in Boltzmann machines
+- A Nonparametric Bayesian Approach to Modeling Overlapping Clusters
+- Learning methods for generic object recognition with invariance to pose and lighting
+- Describing Visual Scenes Using Transformed Objects and Parts
+- A quantitative theory of immediate visual recognition.
+- A Theoretical Analysis of Robust Coding over Noisy Overcomplete Channels
+- [A training algorithm for optimal margin classifiers](./a-training-algorithm-for-optimal-margin-classifiers.md)
+- Gaussian Processes for Regression
+- Estimation of Non-Normalized Statistical Models by Score Matching
+- A Sparse and Locally Shift Invariant Feature Extractor Applied to Document Images
+- On Kernel-Target Alignment
+- Small codes and large image databases for recognition
+- A Context-Sensitive Generalization of ICA
+- [Learning with Local and Global Consistency](./learning-with-local-and-global-consistency.md)
+- A survey of kernels for structured data
+- Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images
+- Mean Field Theory for Sigmoid Belief Networks
+- Dimensionality Reduction by Learning an Invariant Mapping
+- Learning Eigenfunctions Links Spectral Embedding and Kernel PCA
+- Extracting distributed representations of concepts and relations from positive and negative propositions
+- Transformation Invariant Autoassociation with Application to Handwritten Character Recognition
+- Statistical models for partial membership
+- Computational complexity of neural networks - a survey
+- Receptive fields, binocular interaction and functional architecture in the cat's visual cortex
+- The wake-sleep algorithm for unsupervised neural networks.
+- Global Data Analysis and the Fragmentation Problem in Decision Tree Induction
+- Parallel Distributed Processing - Explorations in the Microstructure of Cognition, vol 1 - Foundations, vol 2 - Psychological and Biological Models
+- [Nonlinear dimensionality reduction by locally linear embedding.](./nonlinear-dimensionality-reduction-by-locally-linear-embedding.md)
+- Decoding by linear programming
+- Connections Between Score Matching, Contrastive Divergence, and Pseudolikelihood for Continuous-Valued Variables
+- Parallel continuation-based global optimization for molecular conformation and protein folding
+- [Optimization by Simulated Annealing](./optimization-by-simulated-annealing.md)
+- An Introduction to MCMC for Machine Learning
+- Online Convex Programming and Generalized Infinitesimal Gradient Ascent
+- Explorations in parallel distributed processing - a handbook of models, programs, and exercises
+- An Information Measure for Classification
+- Introduction to Reinforcement Learning
+- Book Review - An introduction to Kolmogorov Complexity and its Applications Second Edition, 1997 by Ming Li and Paul Vitanyi (Springer (Graduate Text Series))
+- Learning kernel parameters by using class separability measure
+- Indexing by Latent Semantic Analysis
+- Segmentation using eigenvectors - a unifying view
+- Training Invariant Support Vector Machines using Selective Sampling
+- Almost optimal lower bounds for small depth circuits
+- Efficient Pattern Recognition Using a New Transformation Distance
+- Charting a Manifold
+- An introduction to hidden Markov models.
+- Regularization and Semi-supervised Learning on Large Graphs
+- Global continuation for distance geometry problems
+- Asymptotic analysis
+- The complexity of Boolean functions
+- An asymptotic analysis of generative, discriminative, and pseudolikelihood estimators
+- An Energy Budget for Signaling in the Grey Matter of the Brain
+- The Entire Regularization Path for the Support Vector Machine
+- Introduction to mathematical logic
+- A day of great illumination - B. F. Skinner's discovery of shaping.
+- Separating the polynomial-time hierarchy by oracles
+- Numerical continuation methods - an introduction
+- Is postnatal neocortical maturation hierarchical?
+- The Origins of Intelligence in Children
+- Information Processing Systems
+- Smoothing techniques for macromolecular global optimization
+- On the power of small-depth threshold circuits
+- [The Nature of Statistical Learning Theory](./the-nature-of-statistical-learning-theory.md)
+- Nonlinear Component Analysis as a Kernel Eigenvalue Problem
+- Global Continuation for Distance Geometry Problems Global Continuation for Distance Geometry Problems
+- Hybrid Monte Carlo
+- Complexity Lower Bounds for Approximation Algebraic Computation Trees
+- Three approaches to the quantitative definition of information
+- Energy Budget
+- Analysis of a complex of statistical variables into principal components.
+- An information-maximization approach to blind separation and blind deconvolution
+- Learning distributed representations of concepts.
+- An interactive activation model of context effects in letter perception - I. An account of basic findings.
+- Numerical Continuation Methods
+- Fundamentals of statistical exponential families - with applications in statistical decision theory
+- Markov fields on finite graphs and lattices
+- What is learning
+- Memoires associatives distribuees - Une comparaison (Distributed associative memories - A comparison)
+- Advances in Neural Information Processing Systems 26 (NIPS 2013)
+- Editors. Advances in Neural Information Processing Systems
+- Learning long-term dependencies is not as difficult with NARX recurrent neural networks
+- Untersuchungen zu dynamischen neuronalen Netzen
+- Explorations In Parallel Distributed Processing
+- Stochastic Complexity in Statistical Inquiry
+- Introduction to mathematical logic (3. ed.)
+- An Introduction to Kolmogorov Complexity and Its Applications
+- Learning in neural networks
+- A Formal Theory of Inductive Inference. Part I
+- How to invent a lexicon - the development of shared symbols in interaction

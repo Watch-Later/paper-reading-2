@@ -1,0 +1,237 @@
+---
+title: Foundations of statistical natural language processing
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# Foundations of statistical natural language processing
+
+## References
+
+- Corpus-Based Approaches to Semantic Interpretation in Natural Language Processing
+- Statistical language learning
+- Natural Language in Information Retrieval
+- Natural Language Parsing as Statistical Pattern Recognition
+- Progress in the Application of Natural Language Processing to Information Retrieval Tasks
+- Exploiting Syntactic Structure for Language Modeling
+- Exploiting Syntactic Structure for Language Modeling
+- A Fully Statistical Approach to Natural Language Interfaces
+- Probabilistic Tree-Adjoining Grammar as a Framework for Statistical Natural Language Processing
+- Noun-phrase co-occurrence statistics for semi-automatic semantic lexicon construction
+- Computer Aided Interpretation of Lexical Coocurrences
+- Statistical Decision-Tree Models for Parsing
+- An Analysis of Statistical and Syntactic Phrases
+- Adaptive Statistical Language Modeling; A Maximum Entropy Approach
+- Lexical Semantic Techniques for Corpus Analysis
+- Modeling with Structures in Statistical Machine translation
+- Adaptive Multilingual Sentence Boundary Disambiguation
+- Word-Sense Disambiguation Using Statistical Models of Roget's Categories Trained on Large Corpora
+- Coping with Ambiguity and Unknown Words through Probabilistic Models
+- Building a Large Annotated Corpus of English - The Penn Treebank
+- Information Retrieval Based on Word Senses
+- A Simple Introduction to Maximum Entropy Models for Natural Language Processing
+- Distinguishing Word Senses in Untagged Text
+- Comparing a Linguistic and a Stochastic Tagger
+- A Corpus-Based Approach for Building Semantic Lexicons
+- Retrieving Collocations from Text - Xtract
+- Automatically Extracting and Representing Collocations for Language Generation
+- Get It Where You Can - Acquiring and Maintaining Bilingual Lexicons for Machine Translation
+- Structural Ambiguity and Conceptual Relations
+- Learning to Resolve Natural Language Ambiguities - A Unified Approach
+- Retrieving Collocations by Co-Occurrences and Word Order Constraints
+- Pearl - A Probabilistic Chart Parser
+- A Polynomial-Time Algorithm for Statistical Machine Translation
+- A Maximum-Entropy Partial Parser for Unrestricted Text
+- Improving Statistical Language Model Performance with Automatically Generated Word Hierarchies
+- A Perspective on Word Sense Disambiguation Methods and Their Evaluation
+- Computational Complexity of Probabilistic Disambiguation by means of Tree-Grammars
+- The Application of Morpho-Syntactic Language Processing to Effective Phrase Matching
+- Exploring the Statistical Derivation of Transformational Rule Sequences for Part-of-Speech Tagging
+- Unsupervised Word Sense Disambiguation Rivaling Supervised Methods
+- Adaptive Sentence Boundary Disambiguation
+- A Dictionary of Grammatical Terms in Linguistics
+- A Maximum Entropy Model for Prepositional Phrase Attachment
+- Translating Collocations for Bilingual Lexicons - A Statistical Approach
+- Decision Lists for Lexical Ambiguity Resolution - Application to Accent Restoration in Spanish and French
+- Fishing for Exactness
+- Internal and External Evidence in the Identification and Semantic Categorization of Proper Names
+- Machine Learning Comprehension Grammars for Ten Languages
+- Integrating Multiple Knowledge Sources to Disambiguate Word Sense - An Exemplar-Based Approach
+- Probabilistic Parsing using Left Corner Language Models
+- Morphological Tagging Based Entirely on Bayesian Inference
+- Using Suffix Arrays to Compute Term Frequency and Document Frequency for All Substrings in a Corpus
+- Comparative Experiments on Disambiguating Word Senses - An Illustration of the Role of Bias in Machine Learning
+- From Submit to Submitted via Submission - On Lexical Rules in Large-Scale Lexicon Acquisition
+- Resolving PP attachment Ambiguities with Memory-Based Learning
+- Improving Data Driven Wordclass Tagging by System Combination
+- Aligning a Parallel English-Chinese Corpus Statistically With Lexical Criteria
+- A Linear Observed Time Statistical Parser Based on Maximum Entropy Models
+- A Word-to-Word Model of Translational Equivalence
+- PRELIMINARY ANALYSIS OF A BREADTH-FIRST PARSING ALGORITHM - THEORETICAL AND EXPERIMENTAL RESULTS
+- Inside-Outside Reestimation From Partially Bracketed Corpora
+- A Stochastic Finite-State Word-Segmentation Algorithm for Chinese
+- A maximum entropy approach to adaptive statistical language modelling
+- Knowledge Resource Tools for Accessing Large Text Files
+- Global Text Matching for Information Retrieval
+- A syntax-based part-of-speech analyser
+- Automatic Acquisition of the Lexical Semantics of Verbs from Sentence Frames
+- Head-driven phrase structure grammar
+- Retrieving collocations from text
+- Context Space
+- Making sense out of searching
+- Dimensions of meaning
+- Automatic Analysis, Theme Generation, and Summarization of Machine-Readable Texts
+- A Maximum Entropy Approach to Identifying Sentence Boundaries
+- Efficient Disambiguation by means of Stochastic Tree Substitution Grammars
+- Morphology and computation
+- Using cognates to align sentences in bilingual corpora
+- Predictable Meaning Shift - Some Linguistic Properties of Lexical Implication Rules
+- Stochastic Lexicalized Tree-adjoining Grammars
+- Probabilistic Unification Grammars
+- Machine Translation with a Stochastic Grammatical Channel
+- Disambiguating Highly Ambiguous Words
+- Stochastic approach to the grammatical coding of english
+- Tagging English Text with a Probabilistic Model
+- Memory-Based Learning - Using Similarity for Smoothing
+- A Cooccurrence-Based Thesaurus and Two Applications to Information Retrieval
+- The Penn Treebank - Annotating Predicate Argument Structure
+- Distributional Clustering of English Words
+- Cross-language speech retrieval - establishing a baseline performance
+- Classifying news stories using memory based reasoning
+- An approach to the segmentation problem in speech analysis and language translation
+- Efficiency, Robustness and Accuracy in Picky Chart Parsing
+- A Portable Algorithm for Mapping Bitext Correspondence
+- Parsing the Wall Street Journal with the Inside-Outside Algorithm
+- Part-of-Speech Induction from Scratch
+- Finite-State Language Processing
+- Distributional Part-of-Speech Tagging
+- Selection and information - a class-based approach to lexical relationships
+- Inducing Probabilistic Grammars by Bayesian Model Merging
+- Noise reduction in a statistical approach to text categorization
+- Text Alignment in a Tool for Translating Revised Documents
+- Expert network - effective and efficient learning from human decisions in text categorization and retrieval
+- An Evaluation of Statistical Approaches to Text Categorization
+- An Efficient Probabilistic Context-Free Parsing Algorithm that Computes Prefix Probabilities
+- Automatic Word Sense Discrimination
+- Probabilistic grammars for natural languages
+- The lexical nature of syntactic ambiguity resolution
+- An algorithm for suffix stripping
+- Categorization and Standardizing Proper Nouns for Efficient Information Retrieval
+- Probabilistic part-of-speech tagging using decision trees
+- Lexical Cohesion Computed by Thesaural Relations as an Indicator of the Structure of Text
+- Selective text utilization and text traversal
+- Introduction to the Theory of Grammar
+- Detecting Dependencies between Semantic Verb Subclasses and Subcategorization Frames in Text Corpora
+- Deterministic Part-of-Speech Tagging with Finite-State Transducers
+- HMM-Based Word Alignment in Statistical Translation
+- Relevance weighting of search terms
+- A Maximum Entropy Model for Part-Of-Speech Tagging
+- Dialog Act Modeling for Conversational Speech
+- Bilingual Sentence Alignment - Balancing Robustness and Accuracy
+- A computational study of cross-situational techniques for learning word-to-meaning mappings
+- Dialogue Act Tagging with Transformation-Based Learning
+- The empirical base of linguistics - Grammaticality judgments and linguistic methodology
+- CTM - An Example-Based Translation Aid System
+- Prediction and entropy of printed English
+- Prediction and Entropy of Printed English
+- Statistical methods for speech recognition
+- Text information retrieval systems
+- Improvements in Stochastic Language Modeling
+- Text and Corpus Analysis - Computer-Assisted Studies of Language and Culture
+- Recognition and Parsing of Context-Free Languages in Time n^3
+- Selectional constraints - an information-theoretic model and its computational realization
+- Decoding Algorithm in Statistical Machine Translation
+- English for the computer
+- Empirical Studies in Discourse
+- Systematic polysemy in lexicology and lexicography
+- On learning the past-tenses of English verbs - implicit rules or parallel distributed processing
+- Introduction to Modern Information Retrieval
+- A statistical interpretation of term specificity and its application in retrieval
+- The Pragmatics of Information Retrieval Experimentation Revisited
+- A framework of a mechanical translation between Japanese and English by analogy principle
+- [C4.5 - Programs for Machine Learning](./c4-5-programs-for-machine-learning.md)
+- Exploring the similarity space
+- Stochastic context-free grammars for modeling RNA
+- Stochastic context-free grammars for tRNA modeling.
+- Length Normalization in Degraded Text Collections
+- Almost-constant-time clustering of arbitrary corpus subsets4
+- Speech and Language Processing
+- Statistical Language Modeling Using Leaving-One-Out
+- The zero-frequency problem - Estimating the probabilities of novel events in adaptive text compression
+- A neural network approach to topic spotting
+- Feature Lattices for Maximum Entropy Modelling
+- Boosting and Rocchio applied to text filtering
+- Part-of-Speech Tagging Using a Variable Memory Markov Model
+- Language - An Introduction to the Study of Speech
+- The linguistics of punctuation
+- [Induction of Decision Trees](./induction-of-decision-trees.md)
+- Contextual correlates of semantic similarity
+- Roget's International Thesaurus
+- PARSEME.1st - SGML for software developers
+- Best-first Model Merging for Hidden Markov Model Induction
+- Relative Frequency as a Determinant of Phonetic Change
+- Collins Cobuild English dictionary
+- XML - A Primer
+- A __ comprehensive grammar of the English language
+- Recent trends in hierarchic document clustering - A critical review
+- Introduction to the Practice of Statistics
+- Maximum Entropy Modeling Toolkit
+- Learning Optimal Dialogue Strategies - A Case Study of a Spoken Dialogue Agent for Email
+- A comparison of classifiers and document representations for the routing problem
+- Part-of-speech tagging guidelines for the penn treebank project
+- Hidden Markov Model} Induction by Bayesian Model Merging
+- Browsing in digital libraries - a phrase-based approach
+- Statistics for the Behavioral Sciences
+- Speech Recognition Using Hidden Markov Models
+- Readings in speech recognition
+- Handling Sparse Data by Successive Abstraction
+- Unsupervised Learning of Mixtures of Multiple Causes in Binary Data
+- Feature discovery by competitive learning
+- Rational models of cognition
+- Translation
+- Relevance feedback in information retrieval
+- Information Retrieval - A Health Care Perspective
+- The statistical sleuth - a course in methods of data analysis
+- A Comparison of Some Measures for the Determination of Inter‐Molecular Structural Similarity Measures of Inter‐Molecular Structural Similarity
+- Hierarchical Non-Emitting Markov Models
+- Bagging, Boosting, and C4.5
+- An Introduction to the Theory of Statistics
+- [Numerical recipes in C](./numerical-recipes-in-c.md)
+- [Nonparametric Statistics for the Behavioral Sciences.](./nonparametric-statistics-for-the-behavioral-sciences.md)
+- Perceptrons - an introduction to computational geometry
+- PRINCIPLES OF NEURODYNAMICS. PERCEPTRONS AND THE THEORY OF BRAIN MECHANISMS
+- A natural law of succession
+- Toward memory-based reasoning
+- Introduction
+- Error bounds for convolutional codes and an asymptotically optimum decoding algorithm
+- A Tutorial on Hidden Markov Models and Selected Applications
+- Vision - A computational investigation into the human representation
+- Estimating 'small' probabilities by leaving-one-out
+- Linguistics - The Cambridge Survey
+- A New Tool for Discourse Analysis - The Vocabulary-Management Profile.
+- The Psycho-Biology of Language.
+- Vision - A computational investigation into the human representation and processing of visual information - David Marr. San Francisco - W. H. Freeman, 1982. pp. xvi + 397
+- Distinguished usage
+- Principles of neurodynamics
+- Webster's new collegiate dictionary
+- Dependency Syntax - Theory and Practice
+- How Fully Does a Machine-Usable Dictionary Cover English Text?
+- Human behavior and the principle of least effort
+- Ambiguity resolution in language learning
+- The SMART Retrieval System-Experiments in Automatic Document Processing
+- Applied Bayesian and classical inference - the case of the Federalist papers
+- Readings in information retrieval.
+- Text and corpus analysis
+- Geometry in Nature
+- Experiments in Automatic Thesaurus Construction for Information Retrieval
+- Introduction to the theory of computation
+- An Information-Theoretic Measure of Term Specificity
+- Extended Boolean information retrieval
+- Automatic Text Processing - The Transformation, Analysis, and Retrieval of Information by Computer
+- Branching processes with terminal types - application to context-free grammars
+- Exporting phrases - a statistical analysis of topical language
+- Guidelines for electronic text encoding and interchange
+- A DP based Search Algorithm for Statistical Machine Translation

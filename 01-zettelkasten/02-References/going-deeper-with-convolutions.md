@@ -1,0 +1,270 @@
+---
+title: Going deeper with convolutions
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# Going deeper with convolutions
+
+## References
+
+- Some Improvements on Deep Convolutional Neural Network Based Image Classification
+- [DeCAF - A Deep Convolutional Activation Feature for Generic Visual Recognition](./decaf-a-deep-convolutional-activation-feature-for-generic-visual-recognition.md)
+- Scalable Object Detection Using Deep Neural Networks
+- [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](./overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks.md)
+- [ImageNet classification with deep convolutional neural networks](./imagenet-classification-with-deep-convolutional-neural-networks.md)
+- [Visualizing and Understanding Convolutional Networks](./visualizing-and-understanding-convolutional-networks.md)
+- [Network In Network](./network-in-network.md)
+- [Two-Stream Convolutional Networks for Action Recognition in Videos](./two-stream-convolutional-networks-for-action-recognition-in-videos.md)
+- [Multi-scale Orderless Pooling of Deep Convolutional Activation Features](./multi-scale-orderless-pooling-of-deep-convolutional-activation-features.md)
+- [Deep Neural Networks for Object Detection](./deep-neural-networks-for-object-detection.md)
+- [Large-Scale Video Classification with Convolutional Neural Networks](./large-scale-video-classification-with-convolutional-neural-networks.md)
+- [Deep Inside Convolutional Networks - Visualising Image Classification Models and Saliency Maps](./deep-inside-convolutional-networks-visualising-image-classification-models-and-saliency-maps.md)
+- [Learning Deep Features for Scene Recognition using Places Database](./learning-deep-features-for-scene-recognition-using-places-database.md)
+- [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](./rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation.md)
+- [DeViSE - A Deep Visual-Semantic Embedding Model](./devise-a-deep-visual-semantic-embedding-model.md)
+- R-CNNs for Pose Estimation and Action Detection
+- Part-Based R-CNNs for Fine-Grained Category Detection
+- [Simultaneous Detection and Segmentation](./simultaneous-detection-and-segmentation.md)
+- Fisher Kernels on Visual Vocabularies for Image Categorization
+- [Learning Hierarchical Features for Scene Labeling](./learning-hierarchical-features-for-scene-labeling.md)
+- Predicting Parameters in Deep Learning
+- [The Pascal Visual Object Classes (VOC) Challenge](./the-pascal-visual-object-classes-voc-challenge.md)
+- Supervised translation-invariant sparse coding
+- Incremental Learning of NCM Forests for Large-Scale Image Classification
+- [Large Scale Distributed Deep Networks](./large-scale-distributed-deep-networks.md)
+- Evaluating knowledge transfer and zero-shot learning in a large-scale setting
+- Reconstructing the World* in Six Days *(As Captured by the Yahoo 100 Million Image Dataset)
+- [Microsoft COCO - Common Objects in Context](./microsoft-coco-common-objects-in-context.md)
+- [DeepPose - Human Pose Estimation via Deep Neural Networks](./deeppose-human-pose-estimation-via-deep-neural-networks.md)
+- Mining actionlet ensemble for action recognition with depth cameras
+- Aggregating local descriptors into a compact image representation
+- Provable Bounds for Learning Some Deep Representations
+- Leveraging Hierarchical Parametric Networks for Skeletal Joints Based Action Segmentation and Recognition
+- Hollywood 3D - Recognizing Actions in 3D Natural Scenes
+- Supervised Sequence Labelling with Recurrent Neural Networks
+- [On the importance of initialization and momentum in deep learning](./on-the-importance-of-initialization-and-momentum-in-deep-learning.md)
+- [Improving neural networks by preventing co-adaptation of feature detectors](./improving-neural-networks-by-preventing-co-adaptation-of-feature-detectors.md)
+- Weakly Supervised Object Detection with Posterior Regularization
+- Predicting human gaze beyond pixels.
+- Fast cost-volume filtering for visual correspondence and beyond
+- Learning Output Kernels with Block Coordinate Descent
+- Mid-level Visual Element Discovery as Discriminative Mode Seeking
+- Backpropagation Applied to Handwritten Zip Code Recognition
+- Robust human action recognition via long short-term memory
+- Blocks That Shout - Distinctive Parts for Scene Classification
+- Structured Forests for Fast Edge Detection
+- Robust Object Recognition with Cortex-Like Mechanisms
+- [HMDB - A large video database for human motion recognition](./hmdb-a-large-video-database-for-human-motion-recognition.md)
+- [Real-time human pose recognition in parts from single depth images](./real-time-human-pose-recognition-in-parts-from-single-depth-images.md)
+- [Learning realistic human actions from movies](./learning-realistic-human-actions-from-movies.md)
+- [Gradient-based learning applied to document recognition](./gradient-based-learning-applied-to-document-recognition.md)
+- Parsing the Hand in Depth Images
+- Recognizing indoor scenes
+- Segmentation as selective search for object recognition
+- [Are we ready for autonomous driving? The KITTI vision benchmark suite](./are-we-ready-for-autonomous-driving-the-kitti-vision-benchmark-suite.md)
+- From single image query to detailed 3D reconstruction
+- [Locality-constrained Linear Coding for image classification](./locality-constrained-linear-coding-for-image-classification.md)
+- Human action recognition by learning bases of action attributes and parts
+- Finding People in Images and Videos
+- Unnatural L0 Sparse Representation for Natural Image Deblurring
+- Shared Segmentation of Natural Scenes Using Dependent Pitman-Yor Processes
+- Semantic Label Sharing for Learning with Many Categories
+- Real-Time Continuous Pose Recovery of Human Hands Using Convolutional Networks
+- VocMatch - Efficient Multiview Correspondence for Structure from Motion
+- Alternating Decision Forests
+- Cosegmentation of Image Pairs by Histogram Matching - Incorporating a Global Constraint into MRFs
+- Large-Margin Multi-ViewInformation Bottleneck
+- Image Classification Using Super-Vector Coding of Local Image Descriptors
+- Learning to Detect Ground Control Points for Improving the Accuracy of Stereo Matching
+- Detecting People Using Mutually Consistent Poselet Activations
+- Corrected-Moment Illuminant Estimation
+- Hand Pose Estimation and Hand Shape Classification Using Multi-layered Randomized Decision Forests
+- Multimodal templates for real-time detection of texture-less objects in heavily cluttered scenes
+- Ensemble Learning for Confidence Measures in Stereo Vision
+- Deformable Part Descriptors for Fine-Grained Recognition and Attribute Prediction
+- Scalable multi-class object detection
+- Pedestrian detection - A benchmark
+- Super Normal Vector for Activity Recognition Using Depth Sequences
+- A Fully-Connected Layered Model of Foreground and Background Flow
+- Latent Regression Forest - Structured Estimation of 3D Articulated Hand Posture
+- Nonlocal Image Restoration With Bilateral Variance Estimation - A Low-Rank Approach
+- [ImageNet - A large-scale hierarchical image database](./imagenet-a-large-scale-hierarchical-image-database.md)
+- Encoding High Dimensional Local Features by Sparse Coding Based Fisher Vectors
+- Max-Margin Markov Networks
+- HON4D - Histogram of Oriented 4D Normals for Activity Recognition from Depth Sequences
+- SUN - A Bayesian framework for saliency using natural statistics.
+- Data-driven visual similarity for cross-domain image matching
+- Object Detection with Grammar Models
+- Fast Approximate Energy Minimization with Label Costs
+- Discriminative figure-centric models for joint action localization and recognition
+- Spatio-temporal Depth Cuboid Similarity Feature for Activity Recognition Using Depth Camera
+- Building Rome in a day
+- Alternating Regression Forests for Object Detection and Pose Estimation
+- Emotion related structures in large image databases
+- Class-specific Hough forests for object detection
+- Learning 6D Object Pose Estimation Using 3D Object Coordinates
+- A Unified Video Segmentation Benchmark - Annotation, Metrics and Analysis
+- Mixtures of trees for object recognition
+- Computer vision -- ECCV 2014 - 13th European conference Zurich, Switzerland, September 6-12, 2014 - proceedings
+- [Object Detection with Discriminatively Trained Part Based Models](./object-detection-with-discriminatively-trained-part-based-models.md)
+- From learning models of natural image patches to whole image restoration
+- Video Segmentation with Superpixels
+- Pedestrian Classification and Detection in Far Infrared Images
+- [Efficient Estimation of Word Representations in Vector Space](./efficient-estimation-of-word-representations-in-vector-space.md)
+- BLSTM-RNN Based 3D Gesture Classification
+- Efficient Human Pose Estimation from Single Depth Images
+- Secrets of optical flow estimation and their principles
+- Efficient Hand Pose Estimation from a Single Depth Image
+- Layered segmentation and optical flow estimation over time
+- Spatiotemporal Deformable Part Models for Action Detection
+- [Vision meets robotics - The KITTI dataset](./vision-meets-robotics-the-kitti-dataset.md)
+- Shape-based pedestrian parsing
+- Video Action Detection with Relational Dynamic-Poselets
+- Weakly Supervised Localization and Learning with Generic Knowledge
+- Motion Detail Preserving Optical Flow Estimation
+- Scene Coordinate Regression Forests for Camera Relocalization in RGB-D Images
+- Learning Multi-View Neighborhood Preserving Projections
+- Real time head pose estimation with random regression forests
+- Exploiting the Power of Stereo Confidences
+- A Co-training Approach for Multi-view Spectral Clustering
+- Image Deblurring and Super-Resolution by Adaptive Sparse Domain Selection and Adaptive Regularization
+- Convex multi-task feature learning
+- Real-Time Articulated Hand Pose Estimation Using Semi-supervised Transductive Regression Forests
+- Representing and Recognizing the Visual Appearance of Materials using Three-dimensional Textons
+- Image deblurring and denoising using color priors
+- A Survey on Multi-view Learning
+- Spectral Graph Reduction for Efficient Image and Streaming Video Segmentation
+- [Action Recognition with Improved Trajectories](./action-recognition-with-improved-trajectories.md)
+- Visual tracking via adaptive structural local sparse appearance model
+- Layered image motion with explicit occlusions, temporal consistency, and depth ordering
+- Kernel-Based Weighted Multi-view Clustering
+- Hough Transform and 3D SURF for Robust Three Dimensional Classification
+- Learning to Estimate and Remove Non-uniform Image Blur
+- Blind Deblurring Using Internal Patch Recurrence
+- Building Rome on a Cloudless Day
+- Blind Motion Deblurring Using Image Statistics
+- Rolling Guidance Filter
+- Edge-based blur kernel estimation using patch priors
+- Representing moving images with layers
+- A database for fine grained activity detection of cooking activities
+- Face Alignment by Explicit Shape Regression
+- Segmentation-Free Dynamic Scene Deblurring
+- Minimizing Energies with Hierarchical Costs
+- Multi-instance learning by treating instances as non-I.I.D. samples
+- Interpretable aesthetic features for affective image classification
+- Kernels for Vector-Valued Functions - a Review
+- Kernels for Multi--task Learning
+- SMILE - A Similarity-Based Approach for Multiple Instance Learning
+- Analyzing Co-training Style Algorithms
+- Clustered Multi-Task Learning - A Convex Formulation
+- Demisting the Hough Transform for 3D Shape Recognition and Registration
+- Skeletal graphs for efficient structure from motion
+- Receptive fields, binocular interaction and functional architecture in the cat's visual cortex
+- Learning Must-Link Constraints for Video Segmentation Based on Spectral Clustering
+- [Video Google - a text retrieval approach to object matching in videos](./video-google-a-text-retrieval-approach-to-object-matching-in-videos.md)
+- A Thermal Infrared Video Benchmark for Visual Analysis
+- Cascaded pose regression
+- Convergent Tree-Reweighted Message Passing for Energy Minimization
+- Combining labeled and unlabeled data with co-training
+- [Distance Metric Learning for Large Margin Nearest Neighbor Classification](./distance-metric-learning-for-large-margin-nearest-neighbor-classification.md)
+- [Large Displacement Optical Flow - Descriptor Matching in Variational Motion Estimation](./large-displacement-optical-flow-descriptor-matching-in-variational-motion-estimation.md)
+- Affective image classification using features inspired by psychology and art theory
+- Global stereo reconstruction under second order smoothness priors
+- Three-Dimensional Model-Based Object Recognition and Segmentation in Cluttered Scenes
+- Practical low-rank matrix approximation under robust L1-norm
+- [Action recognition by dense trajectories](./action-recognition-by-dense-trajectories.md)
+- Modeling Temporal Structure of Decomposable Motion Segments for Activity Classification
+- Algebraic Functions For Recognition
+- A taxonomy and evaluation of dense two-frame stereo correspondence algorithms
+- What do eyes reveal about the mind? - Algorithmic inference of search targets from fixations
+- Color lines - image specific color representation
+- Image restoration by sparse 3D transform-domain collaborative filtering
+- Higher-order clique reduction in binary graph cut
+- Articulated Human Detection with Flexible Mixtures of Parts
+- Model globally, match locally - Efficient and robust 3D object recognition
+- Fast motion deblurring
+- Unifying Nuclear Norm and Bilinear Factorization Approaches for Low-Rank Matrix Decomposition
+- Joint motion estimation and segmentation of complex scenes with label costs and occlusion modeling
+- [Distributed Representations of Words and Phrases and their Compositionality](./distributed-representations-of-words-and-phrases-and-their-compositionality.md)
+- A Quantitative Evaluation of Confidence Measures for Stereo Vision
+- A Convex Formulation for Learning Task Relationships in Multi-Task Learning
+- Efficient $l_{1}$ -Norm-Based Low-Rank Matrix Approximations for Large-Scale Problems Using Alternating Rectified Gradient Method
+- Dense Semi-rigid Scene Flow Estimation from RGBD Images
+- Robust L/sub 1/ norm factorization in the presence of outliers and missing data by alternative convex programming
+- Large-Scale Object Classification Using Label Relation Graphs
+- Single Image Deblurring Using Motion Density Functions
+- People detection and tracking from aerial thermal views
+- Non-uniform Deblurring for Shaken Images
+- Outdoor stereo camera system for the generation of real-world benchmark data sets
+- Smooth Representation Clustering
+- Background-subtraction using contour-based fusion of thermal and visible imagery
+- Learning structural SVMs with latent variables
+- Functional maps
+- Solving the Multiple Instance Problem with Axis-Parallel Rectangles
+- Multi-Wiener SURE-LET Deconvolution
+- PatchMatch - a randomized correspondence algorithm for structural image editing
+- Towards Linear-Time Incremental Structure from Motion
+- Efficient Mining of Frequent and Distinctive Feature Configurations
+- Robust real-time visual odometry for dense RGB-D mapping
+- Fast removal of non-uniform camera shake
+- [Multiple View Geometry in Computer Vision](./multiple-view-geometry-in-computer-vision.md)
+- Fast approximate energy minimization via graph cuts
+- Estimating Optical Flow in Segmented Images Using Variable-Order Parametric Models With Local Deformations
+- Minimal Solutions for Panoramic Stitching with Radial Distortion
+- Regularization and variable selection via the elastic net
+- Analyzing spatially-varying blur
+- KinectFusion - Real-time dense surface mapping and tracking
+- Locally Optimized RANSAC
+- [Greedy function approximation - A gradient boosting machine.](./greedy-function-approximation-a-gradient-boosting-machine.md)
+- Motion Competition - A Variational Approach to Piecewise Parametric Motion Segmentation
+- Graph Embedding and Extensions - A General Framework for Dimensionality Reduction
+- A benchmark for the evaluation of RGB-D SLAM systems
+- Robust Global Translations with 1DSfM
+- Interactive Markerless Articulated Hand Motion Tracking Using RGB and Depth Data
+- Sparse Modeling of Intrinsic Correspondences
+- Eye can read your mind - decoding gaze fixations to reveal categorical search targets.
+- Multi-view clustering via canonical correlation analysis
+- [Photo tourism - exploring photo collections in 3D](./photo-tourism-exploring-photo-collections-in-3d.md)
+- Nonlinear total variation based noise removal algorithms
+- Human Action Recognition by Representing 3D Skeletons as Points in a Lie Group
+- Realtime and Robust Hand Tracking from Depth
+- Coupled quasi‐harmonic bases
+- MAP Estimation of Semi-Metric MRFs via Hierarchical Graph Cuts
+- Discrete-continuous optimization for large-scale structure from motion
+- ForWaRD - Fourier-wavelet regularized deconvolution for ill-conditioned systems
+- [Latent Dirichlet Allocation](./latent-dirichlet-allocation.md)
+- Clustering with Multiple Graphs
+- Lines and Points in Three Views and the Trifocal Tensor
+- Simultaneous linear estimation of multiple view geometry and lens distortion
+- Weighted Low-Rank Approximations
+- Using Spin Images for Efficient Object Recognition in Cluttered 3D Scenes
+- Convex Clustering with Exemplar-Based Models
+- Iterative Thresholding for Sparse Approximations
+- Fast and robust numerical solutions to minimal problems for cameras with radial distortion
+- An iterative integrated framework for thermal-visible image registration, sensor fusion, and people tracking for video surveillance applications
+- Sparse Subspace Clustering - Algorithm, Theory, and Applications
+- Efficient model-based 3D tracking of hand articulations using Kinect
+- Projective reconstruction from line correspondences
+- Maximum-Margin Matrix Factorization
+- [Regression Shrinkage and Selection via the Lasso](./regression-shrinkage-and-selection-via-the-lasso.md)
+- Scaling up matrix computations on shared-memory manycore systems with 1000 CPU cores
+- [Induction of Decision Trees](./induction-of-decision-trees.md)
+- On Two-Dimensional Sparse Matrix Partitioning - Models, Methods, and a Recipe
+- Structure from motion using line correspondences
+- Closed-form solution of absolute orientation using unit quaternions
+- A Kernel Method for the Two-Sample-Problem
+- Motion and Structure from Line Correspondences; Closed-Form Solution, Uniqueness, and Optimization
+- MDL-Based Decision Tree Pruning
+- [Distinctive Image Features from Scale-Invariant Keypoints](./distinctive-image-features-from-scale-invariant-keypoints.md)
+- Mining data with random forests - A survey and results of new tests
+- Block Variable Selection in Multivariate Regression and High-dimensional Causal Inference
+- Measuring emotion - the Self-Assessment Manikin and the Semantic Differential.
+- Eye, brain and vision
+- Acceleration of stochastic approximation by averaging
+- Stereo Processing by Semiglobal Matching and Mutual Information
+- Fast Algorithms for Mining Association Rules in Large Databases
+- Optimization algorithms on matrix manifolds

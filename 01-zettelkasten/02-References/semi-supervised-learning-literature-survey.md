@@ -1,0 +1,190 @@
+---
+title: Semi-Supervised Learning Literature Survey
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# Semi-Supervised Learning Literature Survey
+
+## References
+
+- Semi-supervised learning for structured output variables
+- Beyond the point cloud - from transductive to semi-supervised learning
+- Semi-supervised Induction with Basis Functions
+- [Maximum likelihood from incomplete data via the EM - algorithm plus discussions on the paper](./maximum-likelihood-from-incomplete-data-via-the-em-algorithm-plus-discussions-on-the-paper.md)
+- Semi-Supervised Self-Training of Object Detection Models
+- Fast Computational Methods for Visually Guided Robots
+- Automatic Alignment of Local Representations
+- Large-Scale Sparsified Manifold Regularization
+- Efficient Non-Parametric Function Induction in Semi-Supervised Learning
+- Simple, robust, scalable semi-supervised learning via expectation regularization
+- Semi-Supervised Sequence Modeling with Syntactic Topic Models
+- PAC Generalization Bounds for Co-training
+- Active + Semi-supervised Learning = Robust Multi-View Learning
+- Learning Classification with Unlabeled Data
+- Semi-Supervised Learning -- A Statistical Physics Approach
+- Inference with the Universum
+- Deterministic annealing for semi-supervised kernel machines
+- Semi-Supervised Learning
+- On the relation between multi-instance learning and semi-supervised learning
+- A Co-Regularization Approach to Semi-supervised Learning with Multiple Views
+- Co-Training and Expansion - Towards Bridging Theory and Practice
+- Learning to Model Spatial Dependency - Semi-Supervised Discriminative Random Fields
+- Convex Methods for Transduction
+- A Tutorial on Hidden Markov Models and Selected Applications
+- Semi-Supervised Regression with Co-Training Style Algorithms
+- Transductive Classification via Local Learning Regularization
+- A Method for Inferring Label Sampling Mechanisms in Semi-Supervised Learning
+- On Transductive Regression
+- Blockwise Supervised Inference on Large Graphs
+- Semi-superyised support vector machines for unlabeled data classification
+- Generalization Error Bounds Using Unlabeled Data
+- Semi-Supervised Learning with Very Few Labeled Training Examples
+- Semi-supervised Learning by Entropy Minimization
+- Semi-supervised learning using randomized mincuts
+- A PAC-Style Model for Learning from Labeled and Unlabeled Data
+- Max-Margin Markov Networks
+- Manifold Regularization - A Geometric Framework for Learning from Examples
+- Two-view feature generation model for semi-supervised learning
+- Combining active learning and semi-supervised learning using Gaussian fields and harmonic functions
+- A Framework for Learning Predictive Structures from Multiple Tasks and Unlabeled Data
+- Self-taught learning - transfer learning from unlabeled data
+- Analysis of Semi-Supervised Learning with the Yarowsky Algorithm
+- Maximum Margin Semi-Supervised Learning for Structured Variables
+- Think Globally, Fit Locally - Unsupervised Learning of Low Dimensional Manifold
+- Semi-supervised learning with graphs
+- Semi-supervised learning with sparse grids
+- Unsupervised and Semi-supervised Clustering - a Brief Survey ∗
+- Combining labeled and unlabeled data with co-training
+- Semi-Supervised Learning with Trees
+- Metric-Based Methods for Adaptive Model Selection and Regularization
+- The Role of Unlabeled Data in Supervised Learning
+- Partially labeled classification with Markov random walks
+- Enhancing Supervised Learning with Unlabeled Data
+- [Learning with Local and Global Consistency](./learning-with-local-and-global-consistency.md)
+- Two view learning - SVM-2K, Theory and Practice
+- A continuation method for semi-supervised SVMs
+- Semi-Supervised Learning by Mixed Label Propagation
+- Semi-Supervised Learning with Conditional Harmonic Mixing
+- On Information Regularization
+- Semi-Supervised Regression with Co-Training
+- Exploiting Unlabelled Data for Hybrid Object Classification
+- Face Recognition by Humans - Nineteen Results All Computer Vision Researchers Should Know About
+- Unsupervised and Semi-Supervised Multi-Class Support Vector Machines
+- Relational Learning with Gaussian Processes
+- Tri-training - exploiting unlabeled data using three classifiers
+- Exploiting Unlabeled Data in Content-Based Image Retrieval
+- Stable Mixing of Complete and Incomplete Information
+- Does Baum-Welch Re-estimation Help Taggers?
+- Person Identification in Webcam Images - An Application of Semi-Supervised Learning
+- Analyzing the effectiveness and applicability of co-training
+- Maximum Entropy Discrimination
+- Harmonic mixtures - combining mixture models and graph-based methods for inductive and scalable semi-supervised learning
+- Semi-Supervised Support Vector Machines
+- Semi-Supervised Classification by Low Density Separation
+- Unsupervised Models for Named Entity Classification
+- Can Infants Map Meaning to Newly Segmented Words?
+- Efficient Approximation Methods for Harmonic Semi-Supervised Learning
+- Learning with Positive and Unlabeled Examples Using Weighted Logistic Regression
+- Splitting the Unsupervised and Supervised Components of Semi-Supervised Learning
+- [Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions](./semi-supervised-learning-using-gaussian-fields-and-harmonic-functions.md)
+- Learning From Labeled And Unlabeled Data - An Empirical Study Across Techniques And Domains
+- Transductive Learning via Spectral Graph Partitioning
+- Enhancing relevance feedback in image retrieval using unlabeled data
+- Hessian eigenmaps - Locally linear embedding techniques for high-dimensional data
+- Exploiting Generative Models in Discriminative Classifiers
+- Information Regularization with Partially Labeled Data
+- Learning from a mixture of labeled and unlabeled examples with parametric side information
+- Branch and Bound for Semi-Supervised Support Vector Machines
+- Semi-supervised Learning via Gaussian Processes
+- Nonlinear Dimensionality Reduction by Semidefinite Programming and Kernel Matrix Factorization
+- Kernel conditional random fields - representation and clique selection
+- A Hybrid Generative/Discriminative Approach to Semi-Supervised Classifier Design
+- Unsupervised Learning of Image Manifolds by Semidefinite Programming
+- Probabilistic Modeling for Face Orientation Discrimination - Learning from Labeled and Unlabeled Data
+- Using unlabeled data to improve text classification
+- [Statistical learning theory](./statistical-learning-theory.md)
+- Semi-supervised nonlinear dimensionality reduction
+- The Canonical Distortion Measure for Vector Quantization and Function Approximation
+- Word Sense Disambiguation with Semi-Supervised Learning
+- Link-based Classifi-cation using Labeled and Unlabeled Data
+- A Mixture of Experts Classifier with Learning Based on Both Labelled and Unlabelled Data
+- Linear Manifold Regularization for Large Scale Semi-supervised Learning
+- Integrating Topics and Syntax
+- Hyperparameter and Kernel Learning for Graph Based Semi-Supervised Classification
+- Hyperparameter Learning for Graph Based Semi-supervised Learning Algorithms
+- Learning a kernel matrix for nonlinear dimensionality reduction
+- Employing Em in Pool-based Active Learning for Text Classiication
+- Unsupervised Word Sense Disambiguation Rivaling Supervised Methods
+- On the exponential value of labeled samples
+- Colorization using optimization
+- [Nonlinear dimensionality reduction by locally linear embedding.](./nonlinear-dimensionality-reduction-by-locally-linear-embedding.md)
+- Distributed Information Regularization on Graphs
+- Learning to Extract Entities from Labeled and Unlabeled Text
+- Learning subjective nouns using extraction pattern bootstrapping
+- Effects of temporal association on recognition memory
+- Semi-supervised Learning on Directed Graphs
+- Word Sense Disambiguation Using Label Propagation Based Semi-Supervised Learning
+- Proximity Graphs for Clustering and Manifold Learning
+- Nonparametric Transforms of Graph Kernels for Semi-Supervised Learning
+- Partially Supervised Classification of Text Documents
+- Latent Semantic Kernels
+- Learning from Labeled and Unlabeled Data using Graph Mincuts
+- Segmentation using eigenvectors - a unifying view
+- [Text Classification from Labeled and Unlabeled Documents using EM](./text-classification-from-labeled-and-unlabeled-documents-using-em.md)
+- Probabilistic Latent Semantic Analysis
+- Fast SDP Relaxations of Graph Cut Clustering, Transduction, and Other Combinatorial Problem
+- Trading convexity for scalability
+- Transductive Inference for Text Classification using Support Vector Machines
+- Semi-Supervised Clustering Using Genetic Algorithms
+- Co-training for Predicting Emotions with Spoken Dialogue Data
+- Manifold Regularization
+- The effect of unlabeled samples in reducing the small sample size problem and mitigating the Hughes phenomenon
+- Ranking on Data Manifolds
+- [A global geometric framework for nonlinear dimensionality reduction.](./a-global-geometric-framework-for-nonlinear-dimensionality-reduction.md)
+- The relative value of labeled and unlabeled samples in pattern recognition with an unknown mixing parameter
+- Spectral grouping using the Nystrom method
+- Seeing stars when there aren't many stars - Graph-based semi-supervised learning for sentiment categorization
+- Improving Text Classification with LSI Using Background Knowledge
+- Learning with Hypergraphs - Clustering, Classification, and Embedding
+- Manifold Denoising
+- An Augmented PAC Model for Semi-Supervised Learning
+- A comparison of event models for naive bayes text classification
+- [Latent Dirichlet Allocation](./latent-dirichlet-allocation.md)
+- Analysis of Spectral Kernel Design based Semi-supervised Learning
+- Semi-supervised learning - from Gaussian fields to Gaussian processes
+- The Value of Unlabeled Data for Classification Problems
+- Statistical Machine Translation with Word- and Sentence-Aligned Parallel Corpora
+- Learning from labeled and unlabeled data on a directed graph
+- [Laplacian Eigenmaps for Dimensionality Reduction and Data Representation](./laplacian-eigenmaps-for-dimensionality-reduction-and-data-representation.md)
+- Clustering unlabeled data with SOMs improves classification of labeled real-world data
+- A model-based distance for clustering
+- Estimating and computing density based distance metrics
+- Semi-Supervised Learning of Mixture Models
+- On the Relation Between Low Density Separation, Spectral Clustering and Graph Cuts
+- [Normalized cuts and image segmentation](./normalized-cuts-and-image-segmentation.md)
+- Gaussian Processes for Ordinal Regression
+- Regularization and Semi-supervised Learning on Large Graphs
+- Dissimilarity in Graph-Based Semi-Supervised Classification
+- Measure Based Regularization
+- Diffusion Kernels on Graphs and Other Discrete Input Spaces
+- Deriving cluster analytic distance functions from Gaussian mixture models
+- Multi-label Image Segmentation for Medical Applications Based on Graph-Theoretic Electrical Potentials
+- Cluster Kernels for Semi-Supervised Learning
+- Limits of Spectral Clustering
+- [On Spectral Clustering - Analysis and an algorithm](./on-spectral-clustering-analysis-and-an-algorithm.md)
+- [A Sentimental Education - Sentiment Analysis Using Subjectivity Summarization Based on Minimum Cuts](./a-sentimental-education-sentiment-analysis-using-subjectivity-summarization-based-on-minimum-cuts.md)
+- Kernels and Regularization on Graphs
+- AOAC Research Institute
+- Spectral Graph Theory, Regional Conference Series in Math.
+- San sebastian, spain
+- ACM Transactions on Graphics - Editorial
+- ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 16
+- A Distributed-Cooperative Learning Algorithm for Multi-Layered Neural Networks using a PC Cluster
+- An Augmented PAC Model for Semi-Supervised Learning
+- Editorial - On Machine Learning
+- Text Classification from Positive and Unlabeled Examples
+- Towards semi-supervised classification with Markov random fields

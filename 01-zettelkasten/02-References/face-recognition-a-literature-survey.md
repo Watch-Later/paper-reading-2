@@ -1,0 +1,267 @@
+---
+title: Face recognition - A literature survey
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# Face recognition - A literature survey
+
+## References
+
+- Face Detection - A Survey
+- Human and machine recognition of faces - a survey
+- [Detecting Faces in Images - A Survey](./detecting-faces-in-images-a-survey.md)
+- Face recognition under varying pose
+- Face Recognition - The Problem of Compensating for Changes in Illumination Direction
+- Face recognition vendor test 2002
+- Dynamic Vision - From Images to Face Recognition
+- [From Few to Many - Illumination Cone Models for Face Recognition under Variable Lighting and Pose](./from-few-to-many-illumination-cone-models-for-face-recognition-under-variable-lighting-and-pose.md)
+- [Eigenfaces for Recognition](./eigenfaces-for-recognition.md)
+- Feature-based face recognition using mixture-distance
+- Face Recognition Vendor Test 2000 - Evaluation Report
+- Automatic recognition and analysis of human faces and facial expressions - a survey
+- Illumination-insensitive face recognition using symmetric shape-from-shading
+- Face recognition/detection by probabilistic decision-based neural network
+- Independent component representations for face recognition
+- Towards unconstrained face recognition from image sequences
+- SFS based view synthesis for robust face recognition
+- Component-Based Face Recognition with 3D Morphable Models
+- Robust image based face recognition
+- Learning probabilistic distribution model for multi-view face detection
+- Illumination cones for recognition under variable lighting - faces
+- Computational and Performance Aspects of PCA-Based Face-Recognition Algorithms
+- Robust face feature analysis for automatic speechreading and character animation
+- Discriminant analysis for recognition of human face images
+- Acquisition of a Large Database for Biometric Identity Verification
+- The FERET database and evaluation procedure for face-recognition algorithms
+- Recognizing Imprecisely Localized, Partially Occluded, and Expression Variant Faces from a Single Sample per Class
+- Comparison of visible and infra-red imagery for face recognition
+- Visual learning and recognition of 3-d objects from appearance
+- Face recognition based on depth maps and surface curvature
+- The Quotient Image - Class-Based Re-Rendering and Recognition with Varying Illuminations
+- Face reconstruction from monocular video using uncertainty analysis and a generic model
+- [Rapid object detection using a boosted cascade of simple features](./rapid-object-detection-using-a-boosted-cascade-of-simple-features.md)
+- Face recognition from one example view
+- Subspace Linear Discriminant Analysis for Face RecognitionW
+- Support Vector Machines Applied to Face Recognition
+- Face Authentication Using Morphological Dynamic Link Architecture
+- Face recognition using the nearest feature line method
+- The global dimensionality of face space
+- A feature based approach to face recognition
+- Face detection with information-based maximum discrimination
+- Automatic Video-based Person Authentication Using the RBF Network
+- The Role of Movement in Face Recognition
+- Dual-space linear discriminant analysis for face recognition
+- Information and viewpoint dependence in face recognition
+- Face recognition - a convolutional neural-network approach
+- Neural and psychophysical analysis of object and face recognition
+- Detection of human faces under scale, orientation and viewpoint variations
+- HMM-based architecture for face identification
+- Vectorizing Face Images by Interleaving Shape and Texture Computations
+- Recognizing human eyes
+- Automatic Analysis of Facial Expressions - The State of the Art
+- Recognizing novel 3-D objects under new illumination and viewing position using a small number of example views or even a single view
+- FERET (Face Recognition Technology) Recognition Algorithm Development and Test Results.
+- Training support vector machines - an application to face detection
+- Comparison of Face Verification Results on the XM2VTS Database
+- Evolutionary Pursuit and Its Application to Face Recognition
+- A shape- and texture-based enhanced Fisher classifier for face recognition
+- Recognition-by-components - a theory of human image understanding.
+- A comparison of two computer-based face identification systems with human perceptions of faces
+- Real time tracking and modeling of faces - an EKF-based analysis by synthesis approach
+- Modelling faces dynamically across views and over time
+- Constructing facial identity surfaces in a nonlinear discriminating space
+- Face recognition using Hidden Markov Models
+- Application of morphology to feature extraction for face recognition
+- Face Recognition Based on Fitting a 3D Morphable Model
+- Rotation invariant neural network-based face detection
+- Discriminant analysis of principal components for face recognition
+- Learning Salient Features for Real-Time Face Verification
+- Probabilistic recognition of human faces from video
+- Tracking and learning graphs and pose on image sequences of faces
+- Geometry and photometry in three-dimensional visual recognition
+- The M2VTS Multimodal Face Database (Release 1.00)
+- Identification of spatially quantised tachistoscopic images of faces - How many pixels does it take to carry identity?
+- Towards 3-D model-based tracking and recognition of human movement - a multi-view approach
+- Example-Based Learning for View-Based Human Face Detection
+- View-based and modular eigenspaces for face recognition
+- A reliable descriptor for face objects in visual content
+- Geometric and Illumination Invariants for Object Recognition
+- Non-intrusive Person Authentication for Access Control by Visual Tracking and Face Recognition
+- Recognizing moving faces - a psychological and neural synthesis
+- Multimodal person recognition using unconstrained audio and video
+- Probabilistic modeling of local appearance and spatial relationships for object recognition
+- Automatic face identification system using flexible appearance models
+- Component-based face detection
+- Human Face Perception and Identification
+- Neural Network-Based Face Detection
+- PCA versus LDA
+- Feature correspondence by interleaving shape and texture computations
+- Face similarity space as perceived by humans and artificial systems
+- Size and distortion invariant object recognition by hierarchical graph matching
+- Comparison of face verification results on the XM2VTFS database
+- Single-View Based Recognition of Faces Rotated in Depth
+- Face verification through tracking facial features.
+- Emotion recognition - the role of facial movement and the relative importance of upper and lower areas of the face.
+- Speechreading - an overview of image processing, feature extraction, sensory integration and pattern recognition techniques
+- A System for Tracking and Recognizing Multiple People with Multiple Cameras
+- Determination of face position and pose with a learned representation based on labelled graphs
+- Learning bilinear models for two-factor problems in vision
+- Learning to identify and track faces in image sequences
+- Mixtures of eigenfeatures for real-time structure from texture
+- Comparing images under variable illumination
+- Motion and Structure from Image Sequences
+- Subspace methods in object/face recognition
+- Distortion Invariant Object Recognition in the Dynamic Link Architecture
+- An accurate and robust face identification scheme
+- Aspects of face processing
+- What is the set of images of an object under all possible lighting conditions?
+- Mechanisms of Human Facial Recognition
+- Active Shape Models-Their Training and Application
+- A nonparametric statistical comparison of principal component and linear discriminant subspaces for face recognition
+- Linear Object Classes and Image Synthesis From a Single Example Image
+- Comparing Facial Line Drawings with Gray-Level Images - A Case Study on PHANTOMAS
+- A verification protocol and statistical performance analysis for face recognition algorithms
+- Learning and recognition of 3D objects from appearance
+- Biometric image processing and recognition
+- Recognition by Linear Combinations of Models
+- Pedestrian detection using wavelet templates
+- A low-dimensional representation of human faces for arbitrary lighting conditions
+- Restoration of a single superresolution image from several blurred, noisy, and undersampled measured images
+- Face recognition by elastic bunch graph matching
+- Determination of Face Position and Pose with a Learned Representation Based on Labeled Graphs Determination of Face Position and Pose with a Learned Representation Based on Labeled Graphs
+- Recognizing Facial Expressions in Image Sequences Using Local Parameterized Models of Image Motion
+- PersonSpotter-fast and robust system for human detection, tracking and recognition
+- The FERET verification testing protocol for face recognition algorithms
+- Statistical Approach to Shape from Shading - Reconstruction of Three-Dimensional Face Surfaces from Single Two-Dimensional Images
+- 3-D Motion Estimation in Model-Based Facial Image Coding
+- Active face tracking and pose estimation in an interactive room
+- The Interpretation of Visual Motion
+- Face Recognition by Computer
+- Recognising Moving Faces
+- A morphable model for the synthesis of 3D faces
+- Hidden Markov models for face recognition
+- The statistics of natural images
+- The Bochum/USC Face Recognition System And How it Fared in the FERET Phase III Test
+- Hand Gesture Modeling, Analysis, and Synthesis
+- The BANCA Database and Evaluation Protocol
+- Optical Flow Constraints on Deformable Models with Applications to Face Tracking
+- Decision-based neural networks with signal/image classification applications
+- Acoustic-labial Speaker Verification
+- IS FACE RECOGNITION NOT SO UNIQUE AFTER ALL?
+- Illumination-based image synthesis - creating novel images of human faces under differing pose and lighting
+- Efficient Region Tracking With Parametric Models of Geometry and Illumination
+- Classifying Facial Actions
+- Visual Recognition of American Sign Language Using Hidden Markov Models.
+- Reconstruction of high resolution 3D visual information
+- A vision system for observing and extracting facial action parameters
+- Can Face Recognition Really be Dissociated from Object Recognition?
+- Newborns' preferential tracking of face-like stimuli and its subsequent decline
+- Recognising Faces - Effects of Lighting Direction, Inversion, and Brightness Reversal
+- Segmentation of people in motion
+- A framework for recognizing a facial image from a police sketch
+- Separating Style and Content with Bilinear Models
+- Finding faces in cluttered scenes using random labeled graph matching
+- Optimal edge-based shape detection
+- A Bayesian similarity measure for direct image matching
+- Robust detection of facial features by generalized symmetry
+- Statistical Pattern Recognition
+- Real-time tracking of image regions with changes in geometry and illumination
+- What's Distinctive about a Distinctive Face?
+- A framework for modeling appearance change in image sequences
+- Recognizing faces.
+- Handbook of Research on Face Processing
+- Computing spatio-temporal representations of human faces
+- Multi-Modal Person Authentication
+- The “independent components” of natural scenes are edge filters
+- Combining evidence from multiple views of 3-D objects
+- Automatic creation of 3D facial models
+- Image Sequences - Ten (Octal) Years - from phenomenology towards a Theoretical Foundation
+- Learning visual behavior for gesture analysis
+- Is human object recognition better described by geon structural descriptions or by multiple views? Comment on Biederman and Gerhardstein (1993).
+- Measurement of Visual Motion
+- On the computation of motion from sequences of images-A review
+- Inversion and Configuration of Faces
+- Profile Authentication Using a Chamfer Matching Algorithm
+- Shape from shading using linear approximation
+- Microgenesis of Face Perception
+- Using Discriminant Eigenfeatures for Image Retrieval
+- Simultaneous tracking and verification via sequential posterior estimation
+- Face Recognition - From Theory to Applications
+- Robust coding schemes for indexing and retrieval from large face databases
+- Geometry and Photometry in 3D Visual Recognition
+- Motion Understanding - Robot and Human Vision
+- Active part-decomposition, shape and motion estimation of articulated objects - a physics-based approach
+- Real-time recognition of activity using temporal templates
+- Tracking people with twists and exponential maps
+- Computer vision for computer games
+- An Information-Maximization Approach to Blind Separation and Blind Deconvolution
+- Probabilistic Visual Learning for Object Representation
+- Human emotion recognition from motion using a radial basis function network architecture
+- Personal Identification and Description
+- Low-dimensional procedure for the characterization of human faces.
+- Lambertian reflectance and linear subspaces
+- Analysis and Synthesis of Facial Image Sequences Using Physical and Anatomical Models
+- Local blur estimation and super-resolution
+- Bundle Adjustment - A Modern Synthesis
+- Recursive estimation of structure and motion using relative orientation constraints
+- Aaective Computing
+- Human Facial Motion Analysis and Synthesis with Application to Model-Based Coding
+- Motion Analysis and Image Sequence Processing
+- Quantifying driver stress - developing a system for collecting and processing bio-metric signals in natural situations.
+- Contour Tracking by Stochastic Propagation of Conditional Density
+- Introduction to Aspects of Face Processing - Ten Questions in Need of Answers
+- Constraints on Deformable Models - Recovering 3D Shape and Nonrigid Motion
+- Application of the Karhunen-Loeve Procedure for the Characterization of Human Faces
+- Perception
+- Gestural interface to a visual computing environment for molecular biologists
+- Learning and recognizing human dynamics in video sequences
+- Visual Information Processing Based on Spatial Filters Constrained by Biological Data.
+- Flexible flow for 3D nonrigid tracking and shape recovery
+- Expert Conciliation for Multi Modal Person Authentication Systems by Bayesian Statistics
+- Fisher discriminant analysis with kernels
+- Recursive estimation of shape and nonrigid motion
+- A fast linear shape from shading
+- Self-Organization and Associative Memory
+- Active Appearance Models
+- Networks for approximation and learning
+- Facial expressions of emotion - an old controversy and new findings.
+- Using adaptive tracking to classify and monitor activities in a site
+- Recovery of non-rigid motion and structure
+- Looking at Upside-down Faces
+- Introduction to Matrix Analysis
+- Visually Controlled Graphics
+- Local feature analysis - A general statistical theory for object representation
+- The Nature Of Statistical Learning Theory
+- Sequential Monte Carlo methods for dynamic systems
+- XM2VTSDB - The Extended M2VTS Database
+- Optical neural computers
+- Vision
+- [The Nature of Statistical Learning Theory](./the-nature-of-statistical-learning-theory.md)
+- Visual identification of people by computer
+- Face Recognition by Elastic Bunch Graph Matching
+- Discriminant analysis and eigenspace partition tree for face and object recognition from views
+- A morphable model for the synthesis of 3D faces
+- コンピュータ・サイエンス - ACM computing surveys
+- THE PERCEPTION OF PEOPLE
+- Studies of cue saliency
+- Analysis and synthesis
+- THE STATISTICAL UTILIZATION OF MULTIPLE MEASUREMENTS
+- Speechreading by Humans and Machines
+- Statistical Pattern Recognition
+- Deformable templates
+- Introduction to statistical pattern recognition (2nd ed.)
+- Computer recognition of human faces
+- 3D Dynamic Scene Analysis
+- Face recognition using Hidden Markov Models
+- The recognition of faces.
+- Margaret Thatcher - A New Illusion
+- Mathematical Statistics
+- THE USE OF MULTIPLE MEASUREMENTS IN TAXONOMIC PROBLEMS
+- A Definition of Caricature and Caricature and Recognition
+- A tutorial on Hidden Markov Models
+- Comparison of Handprinted Digit Classifiers
+- Image Sequence Analysis

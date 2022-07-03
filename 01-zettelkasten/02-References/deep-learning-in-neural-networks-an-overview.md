@@ -1,0 +1,947 @@
+---
+title: Deep learning in neural networks - An overview
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# Deep learning in neural networks - An overview
+
+## References
+
+- Unsupervised Learning in LSTM Recurrent Neural Networks
+- Neural Networks - Tricks of the Trade
+- Co-evolving recurrent neurons learn deep memory POMDPs
+- Adaptive dropout for training deep neural networks
+- Unsupervised Learning Procedures for Neural Networks
+- A Learning Algorithm for Continually Running Fully Recurrent Neural Networks
+- Learning long-term dependencies with gradient descent is difficult
+- How to Construct Deep Recurrent Neural Networks
+- [Greedy Layer-Wise Training of Deep Networks](./greedy-layer-wise-training-of-deep-networks.md)
+- [Learning Deep Architectures for AI](./learning-deep-architectures-for-ai.md)
+- Forecasting with Recurrent Neural Networks - 12 Tricks
+- Learning Long-Term Dependencies with
+- Deep auto-encoder neural networks in reinforcement learning
+- Learning to Learn Using Gradient Descent
+- Learning in linear neural networks - a survey
+- Deep Machine Learning - A New Frontier in Artificial Intelligence Research [Research Frontier]
+- [On the difficulty of training recurrent neural networks](./on-the-difficulty-of-training-recurrent-neural-networks.md)
+- Learning Deep and Wide - A Spectral Method for Learning Deep Networks
+- Learning Recurrent Neural Networks with Hessian-Free Optimization
+- Unsupervised feature learning for audio classification using convolutional deep belief networks
+- Training Recurrent Networks by Evolino
+- Why Does Unsupervised Pre-training Help Deep Learning?
+- [Practical Variational Inference for Neural Networks](./practical-variational-inference-for-neural-networks.md)
+- A Growing Neural Gas Network Learns Topologies
+- On Fast Dropout and its Applicability to Recurrent Networks
+- Learning State Space Trajectories in Recurrent Neural Networks
+- Playing Atari with Deep Reinforcement Learning
+- [Speech recognition with deep recurrent neural networks](./speech-recognition-with-deep-recurrent-neural-networks.md)
+- Gradient calculations for dynamic recurrent neural networks - a survey
+- [Improving neural networks by preventing co-adaptation of feature detectors](./improving-neural-networks-by-preventing-co-adaptation-of-feature-detectors.md)
+- An overview of reservoir computing - theory, applications and implementations
+- [Representation Learning - A Review and New Perspectives](./representation-learning-a-review-and-new-perspectives.md)
+- Learning long-term dependencies in NARX recurrent neural networks
+- Evolving large-scale neural networks for vision-based reinforcement learning
+- Unsupervised and Transfer Learning Challenge - a Deep Learning Approach
+- Foundations and Advances in Deep Learning
+- Stochastic variational learning in recurrent spiking networks
+- Data Mining Using Surface and Deep Agents Based on Neural Networks
+- Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations
+- Incremental training of first order recurrent neural networks to predict a context-sensitive language
+- [A Fast Learning Algorithm for Deep Belief Nets](./a-fast-learning-algorithm-for-deep-belief-nets.md)
+- Computation in Recurrent Neural Networks - From Counters to Iterated Function Systems
+- Deep Learning - Methods and Applications
+- [A unified architecture for natural language processing - deep neural networks with multitask learning](./a-unified-architecture-for-natural-language-processing-deep-neural-networks-with-multitask-learning.md)
+- Bidirectional recurrent neural networks
+- Neural Networks and the Bias/Variance Dilemma
+- The Recurrent Cascade-Correlation Architecture
+- Modular Learning in Neural Networks
+- Deep Learning Made Easier by Linear Transformations in Perceptrons
+- Sequential Behavior and Learning in Evolved Dynamical Neural Networks
+- Discrete recurrent neural networks for grammatical inference
+- Intrinsically motivated neuroevolution for vision-based reinforcement learning
+- Combining the Predictions of Multiple Classifiers - Using Competitive Learning to Initialize Neural Networks
+- A Local Learning Algorithm for Dynamic Feedforward and Recurrent Networks
+- [Sequence to Sequence Learning with Neural Networks](./sequence-to-sequence-learning-with-neural-networks.md)
+- Learning to play Go using recursive neural networks
+- Large-scale deep unsupervised learning using graphics processors
+- Generalization of back-propagation to recurrent neural networks.
+- Dropout Improves Recurrent Neural Networks for Handwriting Recognition
+- Learning a context-free task with a recurrent neural network - An analysis of stability
+- Recurrent Neural Networks Can Learn to Implement Symbol-Sensitive Counting
+- On-line Q-learning using connectionist systems
+- [ImageNet classification with deep convolutional neural networks](./imagenet-classification-with-deep-convolutional-neural-networks.md)
+- A Recurrent Neural Network that Learns to Count
+- A Machine Learning Method for Extracting Symbolic Knowledge from Recurrent Neural Networks
+- Introduction to the theory of neural computation
+- Sequence discriminative distributed training of long short-term memory recurrent neural networks
+- Accelerated Learning in Layered Neural Networks
+- Forward Models - Supervised Learning with a Distal Teacher
+- An Empirical Investigation of Catastrophic Forgeting in Gradient-Based Neural Networks
+- How to Train Neural Networks
+- Learning Complex, Extended Sequences Using the Principle of History Compression
+- Learning long-term dependencies with recurrent neural networks
+- Hierarchical spatiotemporal feature extraction using recurrent online clustering
+- Solving Deep Memory POMDPs with Recurrent Policy Gradients
+- Reinforcement Learning on Slow Features of High-Dimensional Input Streams
+- Learning in Artificial Neural Networks - A Statistical Perspective
+- Learning to Forget - Continual Prediction with LSTM
+- Recurrent policy gradients
+- [Multi-column deep neural networks for image classification](./multi-column-deep-neural-networks-for-image-classification.md)
+- [Long Short-Term Memory](./long-short-term-memory.md)
+- Evolving Memory Cell Structures for Sequence Learning
+- [Extracting and composing robust features with denoising autoencoders](./extracting-and-composing-robust-features-with-denoising-autoencoders.md)
+- Combining Symbolic and Neural Learning
+- Extraction of rules from discrete-time recurrent neural networks
+- Enhanced Gradient for Training Restricted Boltzmann Machines
+- Recent Advances in Hierarchical Reinforcement Learning
+- Recent Advances in Hierarchical Reinforcement Learning
+- A Clockwork RNN
+- Adaptive Back-Propagation in On-Line Learning of Multilayer Networks
+- An empirical study of learning speed in back-propagation networks
+- Bayesian Learning for Neural Networks
+- LSTM recurrent networks learn simple context-free and context-sensitive languages
+- Online reservoir adaptation by intrinsic plasticity for backpropagation-decorrelation and echo state learning
+- Evolutionary Computation for Reinforcement Learning
+- My First Deep Learning System of 1991 + Deep Learning Timeline 1962-2013
+- [Flexible, High Performance Convolutional Neural Networks for Image Classification](./flexible-high-performance-convolutional-neural-networks-for-image-classification.md)
+- Discovering Predictable Classifications
+- Reinforcement learning for robots using neural networks
+- On Fast Deep Nets for AGI Vision
+- Hierarchical Recurrent Neural Networks for Long-Term Dependencies
+- The Neural Network Pushdown Automaton - Model, Stack and Learning Simulations
+- Field Guide to Dynamical Recurrent Networks
+- Enhanced Multi-Stream Kalman Filter Training for Recurrent Networks
+- Reinforcement Learning with Long Short-Term Memory
+- New results on recurrent network training - unifying the algorithms and accelerating convergence
+- Training restricted Boltzmann machines - An introduction
+- Multi-Dimensional Deep Memory Atari-Go Players for Parameter Exploring Policy Gradients
+- Learning and Evolution in Neural Networks
+- Regularization and nonlinearities for neural language models - when are they needed?
+- Sequential Constant Size Compressors for Reinforcement Learning
+- Context-free and context-sensitive dynamics in recurrent neural networks
+- An Approach to Combining Explanation-based and Neural Learning Algorithms
+- Connectionist Learning Procedures
+- [Long short-term memory recurrent neural network architectures for large scale acoustic modeling](./long-short-term-memory-recurrent-neural-network-architectures-for-large-scale-acoustic-modeling.md)
+- A robot that reinforcement-learns to identify and memorize important previous observations
+- Tempering Backpropagation Networks - Not All Weights are Created Equal
+- Recursive Distributed Representations
+- Noise injection into inputs in back-propagation learning
+- The Recurrent Temporal Restricted Boltzmann Machine
+- [Reinforcement Learning - An Introduction](./reinforcement-learning-an-introduction.md)
+- [Reducing the Dimensionality of Data with Neural Networks](./reducing-the-dimensionality-of-data-with-neural-networks.md)
+- [Simple statistical gradient-following algorithms for connectionist reinforcement learning](./simple-statistical-gradient-following-algorithms-for-connectionist-reinforcement-learning.md)
+- Keeping Neural Networks Simple
+- Constructive neural-network learning algorithms for pattern classification
+- An 'introspective' network that can learn to run its own weight change algorithm
+- Neural networks and principal component analysis - Learning from examples without local minima
+- Training a 3-node neural network is NP-complete
+- Autoencoders, Unsupervised Learning, and Deep Architectures
+- Learning Algorithms for Networks with Internal and External Feedback
+- A learning algorithm for analog, fully recurrent neural networks
+- Artificial vision by multi-layered neural networks - Neocognitron and its advances
+- Many-Layered Learning
+- [Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition](./context-dependent-pre-trained-deep-neural-networks-for-large-vocabulary-speech-recognition.md)
+- [Improving deep neural networks for LVCSR using rectified linear units and dropout](./improving-deep-neural-networks-for-lvcsr-using-rectified-linear-units-and-dropout.md)
+- Generalization of backpropagation with application to a recurrent gas market model
+- Cresceptron - a self-organizing neural network which grows adaptively
+- Generative learning structures and processes for generalized connectionist networks
+- Generative models for discovering sparse distributed representations.
+- Sparse deep belief net model for visual area V2
+- [DeCAF - A Deep Convolutional Activation Feature for Generic Visual Recognition](./decaf-a-deep-convolutional-activation-feature-for-generic-visual-recognition.md)
+- Neural Network Design And The Complexity Of Learning
+- Large-Scale Feature Learning With Spike-and-Slab Sparse Coding
+- Efficient reinforcement learning through symbiotic evolution
+- Effects of Noise on Convergence and Generalization in Recurrent Networks
+- Recurrent nets that time and count
+- [Connectionist temporal classification - labelling unsegmented sequence data with recurrent neural networks](./connectionist-temporal-classification-labelling-unsegmented-sequence-data-with-recurrent-neural-networks.md)
+- Training a Single Sigmoidal Neuron Is Hard
+- Compete to Compute
+- Automatic language identification using long short-term memory recurrent neural networks
+- The Dynamics of Discrete-Time Computation, with Application to Recurrent Neural Networks and Finite State Machine Extraction
+- Knowledge-Based Artificial Neural Networks
+- Gradient descent learning algorithm overview - a general dynamical systems perspective
+- An Efficient Gradient-Based Algorithm for On-Line Training of Recurrent Network Trajectories
+- A reply to Honavar's book review of Neural Network Design and the Complexity of Learning
+- A learning algorithm for multilayered neural networks based on linear least squares problems
+- [Going deeper with convolutions](./going-deeper-with-convolutions.md)
+- [Rectifier Nonlinearities Improve Neural Network Acoustic Models](./rectifier-nonlinearities-improve-neural-network-acoustic-models.md)
+- Comparing Biases for Minimal Network Construction with Back-Propagation
+- A review of evolutionary artificial neural networks
+- Variational inference of latent state sequences using Recurrent Networks
+- Training Feedforward Neural Networks Using Genetic Algorithms
+- Spike-and-Slab Sparse Coding for Unsupervised Feature Discovery
+- Hebbian learning and competition in the neural abstraction pyramid
+- Kalman filters improve LSTM network performance in problems unsolvable by traditional recurrent nets
+- Reinforcement Learning
+- Flat Minima
+- Deep Belief Networks for phone recognition
+- Discovering Discrete Distributed Representations with Iterative Competitive Learning
+- Prosody contour prediction with long short-term memory, bi-directional, deep recurrent neural networks
+- The Loading Problem for Pyramidal Neural NetworksMarc
+- Training multi-layered neural network neocognitron
+- Learning Precise Timing with LSTM Recurrent Networks
+- Learning to Use Selective Attention and Short-Term Memory in Sequential Tasks
+- Perturbation response in feedforward networks
+- A Recurrent Network that performs a Context-Sensitive Prediction Task
+- [Large-Scale Video Classification with Convolutional Neural Networks](./large-scale-video-classification-with-convolutional-neural-networks.md)
+- A stochastic version of the delta rule
+- Deep Architectures and Deep Learning in Chemoinformatics - The Prediction of Aqueous Solubility for Drug-Like Molecules
+- Architectural Bias in Recurrent Neural Networks - Fractal Analysis
+- Evolving neural networks in compressed weight space
+- Real-time classification and sensor fusion with a spiking deep belief network
+- Autonomous reinforcement learning on raw visual input data in a real world application
+- A Practical Bayesian Framework for Backpropagation Networks
+- Event-driven contrastive divergence for spiking neuromorphic systems
+- Learning Sequential Tasks by Incrementally Adding Higher Orders
+- The Principled Design of Large-Scale Recursive Neural Network Architectures--DAG-RNNs and the Protein Structure Prediction Problem
+- Dynamic node creation in backpropagation networks
+- Combining Explanation-Based and Neural Learning - An Algorithm and Empirical Results
+- Neural Networks, Principal Components, and Subspaces
+- Design and evolution of modular neural network architectures
+- A signal processing framework based on dynamic neural networks with application to problems in adaptation, filtering, and classification
+- Continuous history compression
+- [Deep Neural Networks for Acoustic Modeling in Speech Recognition - The Shared Views of Four Research Groups](./deep-neural-networks-for-acoustic-modeling-in-speech-recognition-the-shared-views-of-four-research-groups.md)
+- Self-Delimiting Neural Networks
+- Transfer learning for Latin and Chinese characters with Deep Neural Networks
+- A Simple Weight Decay Can Improve Generalization
+- [Building high-level features using large scale unsupervised learning](./building-high-level-features-using-large-scale-unsupervised-learning.md)
+- Free-energy-based reinforcement learning in a partially observable environment
+- Natural Image Denoising with Convolutional Networks
+- Real-Time Computing Without Stable States - A New Framework for Neural Computation Based on Perturbations
+- Fast Pruning Using Principal Components
+- Gradient Descent for General Reinforcement Learning
+- Bayesian Back-Propagation
+- Synaptic Weight Noise During MLP Learning Enhances Fault-Tolerance, Generalization and Learning Trajectory
+- Reinforcement Learning - A Survey
+- Accelerated Learning in Back-propagation Nets
+- [ADADELTA - An Adaptive Learning Rate Method](./adadelta-an-adaptive-learning-rate-method.md)
+- Fast dropout training
+- Matching Recall and Storage in Sequence Learning with Spiking Neural Networks
+- The''echo state''approach to analysing and training recurrent neural networks
+- A Fast Stochastic Error-Descent Algorithm for Supervised Learning and Optimization
+- [A Survey on Transfer Learning](./a-survey-on-transfer-learning.md)
+- Reinforcement Learning
+- Curvature-driven smoothing - a learning algorithm for feedforward networks
+- Training recurrent networks using the extended Kalman filter
+- [Deep Neural Networks for Object Detection](./deep-neural-networks-for-object-detection.md)
+- Neuroevolution strategies for episodic reinforcement learning
+- Bridging Long Time Lags by Weight Guessing and \long Short Term Memory
+- Cartesian genetic programming encoded artificial neural networks - a comparison using three benchmarks
+- Genetic evolution of the topology and weight distribution of neural networks
+- First-Order Recurrent Neural Networks and Deterministic Finite State Automata
+- Reinforcement Learning in Markovian and Non-Markovian Environments
+- Learning processes in multilayer threshold nets
+- Sequence Labelling in Structured Domains with Hierarchical Recurrent Neural Networks
+- The wake-sleep algorithm for unsupervised neural networks.
+- Experimental Analysis of the Real-time Recurrent Learning Algorithm
+- [Maxout Networks](./maxout-networks.md)
+- A Hypercube-Based Encoding for Evolving Large-Scale Neural Networks
+- Learning to count without a counter - A case study of dynamics and activation landscapes in recurrent networks
+- The Helmholtz Machine
+- Unsupervised Learning of Individuals and Categories from Images
+- Incremental multi-step Q-learning
+- Accelerated Neural Evolution through Cooperatively Coevolved Synapses
+- Learning Speaker-Specific Characteristics With a Deep Neural Architecture
+- Learning in Spiking Neural Networks by Reinforcement of Stochastic Synaptic Transmission
+- An on-line algorithm for dynamic reinforcement learning and planning in reactive environments
+- [Artificial Intelligence - A Modern Approach](./artificial-intelligence-a-modern-approach.md)
+- Learning Face Localization Using Hierarchical Recurrent Networks
+- A Practical Bayesian Framework for Backprop Networks
+- Loading Deep Networks Is Hard
+- [Unsupervised Learning](./unsupervised-learning.md)
+- Inter-module credit assignment in modular reinforcement learning
+- Forming sparse representations by local anti-Hebbian learning
+- [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](./overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks.md)
+- Neural Fitted Q Iteration - First Experiences with a Data Efficient Neural Reinforcement Learning Method
+- Adaptive behavior with fixed weights in RNN - an overview
+- [Multitask Learning](./multitask-learning.md)
+- Learning and relearning in Boltzmann machines
+- Social signal classification using deep blstm recurrent neural networks
+- High Dimensional Classification with Bayesian Neural Networks and Dirichlet Diffusion Trees
+- Holographic Recurrent Networks
+- An intrinsic value system for developing multiple invariant representations with incremental slowness learning
+- The dropout learning algorithm
+- Modeling Spiking Neural Networks on SpiNNaker
+- Backwards Differentiation in AD and Neural Nets - Past Links and New Opportunities
+- Neuroevolution for reinforcement learning using evolution strategies
+- Fast Learning in Multi-Resolution Hierarchies
+- Symbiotic Evolution of Neural Networks in Sequential Decision Tasks
+- [Deep Sparse Rectifier Neural Networks](./deep-sparse-rectifier-neural-networks.md)
+- [Visualizing and Understanding Convolutional Networks](./visualizing-and-understanding-convolutional-networks.md)
+- Backpropagation Applied to Handwritten Zip Code Recognition
+- Results of the time series prediction competition at the Santa Fe Institute
+- Neural Networks for Time Series Processing
+- Networks of Spiking Neurons - The Third Generation of Neural Network Models
+- Evolving Neural Networks through Augmenting Topologies
+- Recurrent Processing during Object Recognition
+- Analysis of Dynamical Recognizers
+- Continual learning in reinforcement environments
+- No more pesky learning rates
+- Actor-Critic Reinforcement Learning with Energy-Based Policies
+- G-maximization - An unsupervised learning procedure for discovering regularities
+- Discovering Neural Nets with Low Kolmogorov Complexity and High Generalization Capability
+- [Learning and Transferring Mid-level Image Representations Using Convolutional Neural Networks](./learning-and-transferring-mid-level-image-representations-using-convolutional-neural-networks.md)
+- Connectionist Speech Recognition - A Hybrid Approach
+- On supervised learning from sequential data with applications for speech regognition
+- Adaptive pattern classification and universal recoding - I. Parallel development and coding of neural feature detectors
+- Survey and critique of techniques for extracting rules from trained artificial neural networks
+- Feature discovery by competitive learning
+- Natural Gradient Works Efficiently in Learning
+- Q-learning
+- Dynamics of a recurrent network of spiking neurons before and following learning
+- TTS synthesis with bidirectional LSTM based recurrent neural networks
+- Networks of spiking neurons - the third generation of neural network models
+- TD-Gammon, a Self-Teaching Backgammon Program, Achieves Master-Level Play
+- A unified approach to evolving plasticity and neural geometry
+- Development of feature detectors by self-organization. A network model.
+- A Survey of Actor-Critic Reinforcement Learning - Standard and Natural Policy Gradients
+- Simplifying Neural Networks by Soft Weight-Sharing
+- The two-dimensional organization of behavior
+- Recurrent neural networks and robust time series prediction
+- The Moving Targets Training Algorithm
+- What Size Net Gives Valid Generalization?
+- Long-short term memory neural networks language modeling for handwriting recognition
+- Non-linear Feature Extraction by Redundancy Reduction in an Unsupervised Stochastic Neural Network
+- Sum-product networks - A new deep architecture
+- Theory of the backpropagation neural network
+- Increased rates of convergence through learning rate adaptation
+- Unsupervised Learning of Mixtures of Multiple Causes in Binary Data
+- Feudal Reinforcement Learning
+- A spiking network model of short-term active memory
+- [Gradient-based learning applied to document recognition](./gradient-based-learning-applied-to-document-recognition.md)
+- Bayesian Backpropagation Over I-O Functions Rather Than Weights
+- Evolutionary Function Approximation for Reinforcement Learning
+- Classification with Bayesian Neural Networks
+- A Developmental Approach to Structural Self-Organization in Reservoir Computing
+- [Rectified Linear Units Improve Restricted Boltzmann Machines](./rectified-linear-units-improve-restricted-boltzmann-machines.md)
+- Deep, Big, Simple Neural Nets for Handwritten Digit Recognition
+- Intrinsically Motivated Learning of Hierarchical Collections of Skills
+- Stacked generalization - when does it work?
+- Efficient Learning of Sparse Representations with an Energy-Based Model
+- Unsupervised Learning of Invariant Feature Hierarchies with Applications to Object Recognition
+- An Optimality Principle for Unsupervised Learning
+- Dynamic learning rate optimization of the backpropagation algorithm
+- Neural network language models for off-line handwriting recognition
+- Constructive Neural Network Learning Algorithms for Multi-Category Pattern Classification
+- Error-backpropagation in temporally encoded networks of spiking neurons
+- Development of feature detectors by self-organization
+- Simple and conditioned adaptive behavior from Kalman filter trained recurrent networks
+- Introduction to Reinforcement Learning
+- [Towards End-To-End Speech Recognition with Recurrent Neural Networks](./towards-end-to-end-speech-recognition-with-recurrent-neural-networks.md)
+- Induction of Multiscale Temporal Structure
+- Unsupervised learning in noise
+- Exploiting the past and the future in protein secondary structure prediction
+- [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](./adaptive-subgradient-methods-for-online-learning-and-stochastic-optimization.md)
+- [Framewise phoneme classification with bidirectional LSTM and other neural network architectures](./framewise-phoneme-classification-with-bidirectional-lstm-and-other-neural-network-architectures.md)
+- Deep learning via Hessian-free optimization
+- Multi-column deep neural network for traffic sign classification
+- A Theory for Neural Networks with Time Delays
+- A comparison between cellular encoding and direct encoding for genetic neural networks
+- Accelerating the convergence of the back-propagation method
+- Finding Structure in Time
+- A Fixed Size Storage O(n3) Time Complexity Learning Algorithm for Fully Recurrent Continually Running Networks
+- Classifying Unprompted Speech by Retraining LSTM Nets
+- Residual Algorithms - Reinforcement Learning with Function Approximation
+- Evolving spiking neural networks for audiovisual information processing
+- Associative Storage and Retrieval of Digital Information in Networks of Adaptive “Neurons”
+- Bayesian Computation Emerges in Generic Cortical Microcircuits through Spike-Timing-Dependent Plasticity
+- Learning Factorial Codes by Predictability Minimization
+- Optimal Brain Damage
+- A fast learning algorithm for image segmentation with max-pooling convolutional networks
+- Free-Energy Based Reinforcement Learning for Vision-Based Navigation with High-Dimensional Sensory Inputs
+- Reinforcement learning of motor skills with policy gradients
+- Hierarchical Policy Gradient Algorithms
+- [CNN Features Off-the-Shelf - An Astounding Baseline for Recognition](./cnn-features-off-the-shelf-an-astounding-baseline-for-recognition.md)
+- Hierarchical Modular Optimization of Convolutional Networks Achieves Representations Similar to Macaque IT and Human Ventral Stream
+- Emergence of complex computational structures from chaotic neural networks through reward-modulated Hebbian learning.
+- Learning Recognition and Segmentation Using the Cresceptron
+- State-Dependent Exploration for Policy Gradient Methods
+- Local Feature Based Online Mode Detection with Recurrent Neural Networks
+- A direct adaptive method for faster backpropagation learning - the RPROP algorithm
+- RNN-based Learning of Compact Maps for Efficient Robot Localization
+- Best practices for convolutional neural networks applied to visual document analysis
+- Learning Invariance from Natural Images Inspired by Observations in the Primary Visual Cortex
+- High Performance Convolutional Neural Networks for Document Processing
+- Minitaur, an Event-Driven FPGA-Based Spiking Network Accelerator
+- Discovering hierarchical speech features using convolutional non-negative matrix factorization
+- Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks
+- Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning
+- Emergence of simple-cell receptive field properties by learning a sparse code for natural images
+- Associative memory in a network of ‘spiking' neurons
+- Parameter-exploring policy gradients
+- Designing Neural Networks Using Genetic Algorithms with Graph Generation System
+- The Effects of Adding Noise During Backpropagation Training on a Generalization Performance
+- Average reward reinforcement learning - Foundations, algorithms, and empirical results
+- Parallel distributed processing - explorations in the microstructure of cognition, vol. 1 - foundations
+- Neurocontrol of nonlinear dynamical systems with Kalman filter trained recurrent networks
+- Natural Actor-Critic
+- Fast image scanning with deep max-pooling convolutional neural networks
+- Maximally fault tolerant neural networks
+- Second Order Derivatives for Network Pruning - Optimal Brain Surgeon
+- Time Warping Invariant Neural Networks
+- Harnessing Nonlinearity - Predicting Chaotic Systems and Saving Energy in Wireless Communication
+- Intrinsically Motivated Learning in Natural and Artificial Systems
+- Biologically Plausible Error-Driven Learning Using Local Activation Differences - The Generalized Recirculation Algorithm
+- NeuCube - A spiking neural network architecture for mapping, learning and understanding of spatio-temporal brain data
+- Redundancy Reduction as a Strategy for Unsupervised Learning
+- Hierarchical Temporal Memory Concepts , Theory , and Terminology
+- Multiple Model-Based Reinforcement Learning
+- Deep Hierarchies in the Primate Visual Cortex - What Can We Learn for Computer Vision?
+- The Effective Number of Parameters - An Analysis of Generalization and Regularization in Nonlinear Learning Systems
+- [3D Convolutional Neural Networks for Human Action Recognition](./3d-convolutional-neural-networks-for-human-action-recognition.md)
+- Theory Formation by Heuristic Search
+- Deep learning with COTS HPC systems
+- Multilayer feedforward networks are universal approximators
+- A Gaussian potential function network with hierarchically self-organizing learning
+- How to solve classification and regression problems on high-dimensional data with a supervised extension of slow feature analysis
+- Multi-resolution linear prediction based features for audio onset detection with bidirectional LSTM neural networks
+- Learning Iterative Image Reconstruction in the Neural Abstraction Pyramid
+- Loading Deep Networks Is Hard - The Pyramidal Case
+- A Constructive Algorithm that Converges for Real-Valued Input Patterns
+- Stacked generalization
+- On the Performance of Indirect Encoding Across the Continuum of Regularity
+- First- and Second-Order Methods for Learning - Between Steepest Descent and Newton's Method
+- R-MAX - A General Polynomial Time Algorithm for Near-Optimal Reinforcement Learning
+- GPU implementation of neural networks
+- Learning to Represent Spatial Transformations with Factored Higher-Order Boltzmann Machines
+- Varieties of Helmholtz Machine
+- Robust speech recognition using long short-term memory recurrent neural networks for hybrid acoustic modelling
+- Induction of Finite-State Automata Using Second-Order Recurrent Networks
+- [Pattern Recognition and Machine Learning (Information Science and Statistics)](./pattern-recognition-and-machine-learning-information-science-and-statistics.md)
+- The Hierarchical Hidden Markov Model - Analysis and Applications
+- Reinforcement Learning Algorithm for Partially Observable Markov Decision Problems
+- Feature-based methods for large scale dynamic programming
+- Closed-Loop Learning of Visual Control Policies
+- Advances in Minimum Description Length - Theory and Applications
+- Empirical evaluation of the improved Rprop learning algorithms
+- Experiments with Reinforcement Learning in Problems with Continuous State and Action Spaces
+- Hebbian learning and spiking neurons
+- Stock performance modeling using neural networks - A comparative study with regression models
+- Learning Automata - A Survey
+- Designing Neural Networks using Genetic Algorithms
+- Reinforcement learning in continuous time - advantage updating
+- Deep Learning Based Imaging Data Completion for Improved Brain Disease Diagnosis
+- Policy-Gradient Algorithms for Partially Observable Markov Decision Processes
+- Developing Population Codes by Minimizing Description Length
+- Generalizations of principal component analysis, optimization problems, and neural networks
+- Technical Note - Q-Learning
+- [Machine learning](./machine-learning.md)
+- Hybrid Modeling, HMM/NN Architectures, and Protein Applications
+- [Deep Neural Networks Segment Neuronal Membranes in Electron Microscopy Images](./deep-neural-networks-segment-neuronal-membranes-in-electron-microscopy-images.md)
+- An Application of Recurrent Neural Networks to Discriminative Keyword Spotting
+- The perceptron - a probabilistic model for information storage and organization in the brain.
+- Qualitative Transfer for Reinforcement Learning with Continuous State and Action Spaces
+- Infinite-Horizon Policy-Gradient Estimation
+- Statistical Theory of Learning Curves under Entropic Loss Criterion
+- Fast Online Q(λ)
+- Lower Bounds for the Computational Power of Networks of Spiking Neurons
+- Critical factors in the performance of hyperNEAT
+- Phone recognition using Restricted Boltzmann Machines
+- On the Computational Power of Winner-Take-All
+- Using Knowledge-Based Neural Networks to Improve Algorithms - Refining the Chou-Fasman Algorithm for Protein Folding
+- Policy Gradient Methods for Reinforcement Learning with Function Approximation
+- Developmental robotics, optimal artificial curiosity, creativity, music, and the fine arts
+- Hierarchical Neural Networks for Image Interpretation
+- A committee of neural networks for traffic sign classification
+- Robust Reinforcement Learning
+- Time series prediction by using a connectionist network with internal delay lines
+- Reinforcement Learning with Self-Modifying Policies
+- Improving model accuracy using optimal linear combinations of trained neural networks
+- In Advances in Neural Information Processing Systems
+- Reinforcement Learning with Factored States and Actions
+- A time-delay neural network architecture for isolated word recognition
+- Gradient Flow in Recurrent Nets - the Difficulty of Learning Long-Term Dependencies
+- A Reinforcement Learning Method for Maximizing Undiscounted Rewards
+- Evolving Keepaway Soccer Players through Task Decomposition
+- Steps toward Artificial Intelligence
+- Sparse coding in the primate cortex
+- A self-optimizing, nonsymmetrical neural net for content addressable memory and pattern recognition
+- SpiNNaker - Mapping neural networks onto a massively-parallel chip multiprocessor
+- Structure-adaptable digital neural networks
+- Associative memory
+- A Large-Scale Model of the Functioning Brain
+- Learning to Generate Artificial Fovea Trajectories for Target Detection
+- Supervised learning and systems with excess degrees of freedom
+- Backpropagation and neurocontrol - a review and prospectus
+- Tikhonov-Type Regularization for Restricted Boltzmann Machines
+- Direct gradient-based reinforcement learning
+- Using knowledge-based neural networks to improve algorithms - Refining the Chou-Fasman algorithm for protein folding
+- Efficient sparse coding algorithms
+- Between MDPs and Semi-MDPs - A Framework for Temporal Abstraction in Reinforcement Learning
+- Emergence of a 'visual number sense' in hierarchical generative models
+- A novel generative encoding for exploiting neural network sensor and output geometry
+- VLSI implementations of electronic neural networks - an example in character recognition
+- Inductive Learning Algorithms for Complex Systems Modeling
+- Graphical Models - Foundations of Neural Computation
+- Partial BFGS Update and Efficient Step-Length Calculation for Three-Layer Neural Networks
+- Nonlinear neurons in the low-noise limit - a factorial code maximizes information transfer Network 5
+- Multi-Column Deep Neural Networks for offline handwritten Chinese character classification
+- Q-Cut - Dynamic Discovery of Sub-goals in Reinforcement Learning
+- Unsupervised Discrimination of Clustered Data via Optimization of Binary Information Gain
+- [Genetic Algorithms in Search Optimization and Machine Learning](./genetic-algorithms-in-search-optimization-and-machine-learning.md)
+- Offline Handwriting Recognition with Multidimensional Recurrent Neural Networks
+- Neural networks and physical systems with emergent collective computational abilities.
+- Hierarchical Reinforcement Learning with the MAXQ Value Function Decomposition
+- [Neocognitron - A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position](./neocognitron-a-self-organizing-neural-network-model-for-a-mechanism-of-pattern-recognition-unaffected-by-shift-in-position.md)
+- A Simple Hebbian/Anti-Hebbian Network Learns the Sparse, Independent Components of Natural Images
+- Evolving structure and function of neurocontrollers
+- The Tempo 2 Algorithm - Adjusting Time-Delays By Supervised Learning
+- Incremental Slow Feature Analysis - Adaptive Low-Complexity Slow Feature Updating from High-Dimensional Input Streams
+- Universal Artificial Intellegence - Sequential Decisions Based on Algorithmic Probability
+- Foundations and Trends ® in Machine Learning > Vol 7 > Issue 4-5 Ordering Info About Us Alerts Contact Help Log in Adaptation , Learning , and Optimization over Networks
+- Adaptive pattern classification and universal recoding - II. Feedback, expectation, olfaction, illusions
+- Unconstrained Online Handwriting Recognition with Recurrent Neural Networks
+- Implications of Recursive Distributed Representations
+- An Information-Maximization Approach to Blind Separation and Blind Deconvolution
+- Hierarchical models of object recognition in cortex
+- [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](./rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation.md)
+- Reinforcement Learning Algorithms for Average-Payoff Markovian Decision Processes
+- Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition
+- Efficient natural evolution strategies
+- Unconstrained On-line Handwriting Recognition with Recurrent Neural Networks
+- Learning invariance through imitation
+- Neuronlike adaptive elements that can solve difficult learning control problems
+- The growing hierarchical self-organizing map - exploratory analysis of high-dimensional data
+- Discovering Solutions with Low Kolmogorov Complexity and High Generalization Capability
+- Evolving Recurrent Dynamical Networks for Robot Control
+- Emergence of Dynamic Memory Traces in Cortical Microcircuit Models through STDP
+- Explanation-based generalization - A unifying view
+- Handwritten Digit Recognition with a Back-Propagation Network
+- Accelerated Backpropagation Learning - Two Optimization Methods
+- Making Working Memory Work - A Computational Model of Learning in the Prefrontal Cortex and Basal Ganglia
+- Automatic Learning Rate Maximization by On-Line Estimation of the Hessian's Eigenvectors
+- Leveraging Hierarchical Parametric Networks for Skeletal Joints Based Action Segmentation and Recognition
+- A minimum description length framework for unsupervised learning
+- Explanation-Based Generalization - A Unifying View
+- Intrinsically Motivated Reinforcement Learning
+- Neural networks - applications in industry, business and science
+- Nonlinear principal component analysis using autoassociative neural networks
+- Efficient Visual Coding - From Retina To V2
+- Slow Feature Analysis - Unsupervised Learning of Invariances
+- Face localization and tracking in the neural abstraction pyramid
+- Parallel Distributed Processing - Explorations in the Microstructures of Cognition
+- Generalization by Weight-Elimination with Application to Forecasting
+- Optimal stopping and effective machine complexity in learning
+- Competitive Hebbian learning through spike-timing-dependent synaptic plasticity
+- Neural abstraction pyramid - a hierarchical image understanding architecture
+- Explanation-based learning - An alternative view
+- Neurodynamics of biased competition and cooperation for attention - a model with spiking neurons.
+- Evolution of neural networks using Cartesian Genetic Programming
+- [Training Products of Experts by Minimizing Contrastive Divergence](./training-products-of-experts-by-minimizing-contrastive-divergence.md)
+- Learning of Context-Free Languages - A Survey of the Literature
+- Prioritized sweeping - Reinforcement learning with less data and less time
+- [Learning Hierarchical Features for Scene Labeling](./learning-hierarchical-features-for-scene-labeling.md)
+- Dynamics of Sparsely Connected Networks of Excitatory and Inhibitory Spiking Neurons
+- Advances in kernel methods - support vector learning
+- Three-dimensional neural net for learning visuomotor coordination of a robot arm
+- Natural Evolution Strategies
+- Non linear neurons in the low noise limit - a factorial code maximizes information transferJean
+- Multi-time Models for Temporally Abstract Planning
+- The Strength of Weak Learnability
+- Architecture Selection Strategies for Neural Networks - Application to Corporate Bond Rating Predicti
+- Neural networks for optimization and signal processing
+- Neural Networks with Dynamic Synapses
+- Neural circuits for pattern recognition with small total wire length
+- How Does the Brain Solve Visual Object Recognition?
+- Semantic hashing
+- Policy gradient methods
+- Least-Squares Policy Iteration
+- Implementing Synaptic Plasticity in a VLSI Spiking Neural Network Model
+- A hybrid of genetic algorithm and particle swarm optimization for recurrent network design
+- A New Learning Algorithm for Blind Signal Separation
+- What Is the Goal of Sensory Coding?
+- Feature Extraction Through LOCOCODE
+- Phoneme boundary estimation using bidirectional recurrent neural networks and its applications
+- Skeletonization - A Technique for Trimming the Fat from a Network via Relevance Assessment
+- Serial Order - A Parallel Distributed Processing Approach
+- Traffic sign recognition with multi-scale Convolutional Networks
+- Simulation of networks of spiking neurons - A review of tools and strategies
+- Mitosis Detection in Breast Cancer Histology Images with Deep Neural Networks
+- Robust non-linear control through neuroevolution
+- Reinforcement learning for the adaptive control of perception and action
+- Self-organization in a perceptual network
+- [Contractive Auto-Encoders - Explicit Invariance During Feature Extraction](./contractive-auto-encoders-explicit-invariance-during-feature-extraction.md)
+- Hierarchical Reinforcement Learning Based on Subgoal Discovery and Subpolicy Specialization
+- Intrinsically Motivated Learning of Real-World Sensorimotor Skills with Developmental Constraints
+- A learning system based on genetic adaptive algorithms
+- Solving POMDPs with Levin Search and EIRA
+- Evolution of Spiking Neural Controllers for Autonomous Vision-Based Robots
+- Evolving neural network controllers for unstable systems
+- [Bagging predictors](./bagging-predictors.md)
+- RAAM for infinite context-free languages
+- Optimal Linear Combination of Neural Networks for Improving Classification Performance
+- Real-life voice activity detection with LSTM Recurrent Neural Networks and an application to Hollywood movies
+- The Neural Heat Exchanger
+- Exact Calculation of the Product of the Hessian Matrix of Feed-Forward Network Error Functions and a Vector in 0(N) Time
+- The truck backer-upper - an example of self-learning in neural networks
+- Learning Policies for Partially Observable Environments - Scaling Up
+- Automatic Feature Learning for Robust Shadow Detection
+- Increasing robustness against background noise - Visual pattern recognition by a neocognitron
+- A hierarchical unsupervised growing neural network for clustering gene expression patterns
+- High-Performance OCR for Printed English and Fraktur Using LSTM Networks
+- Learing Fine Motion by Using the Hierarchical Extended Kohonen Map
+- Mixing floating- and fixed-point formats for neural network learning on neuroprocessors
+- On the Role of Object-Specific Features for Real World Object Recognition in Biological Vision
+- A Convergent O(n) Temporal-difference Algorithm for Off-policy Learning with Linear Function Approximation
+- GQ(λ) - A general gradient algorithm for temporal-difference prediction learning with eligibility traces
+- Why AM and Eurisko Appear to Work
+- Probabilistic Incremental Program Evolution
+- A Method for Integrating Genetic Search Based Function Optimization and Competitive Learning
+- Principles of Artificial Intelligence
+- Learning by maximizing the information transfer through nonlinear noisy neurons and noise breakdown
+- A System for Robotic Heart Surgery that Learns to Tie Knots Using Recurrent Neural Networks
+- Sparse Code Shrinkage - Denoising by Nonlinear Maximum Likelihood Estimation
+- Dimensionality Reduction by Learning an Invariant Mapping
+- Probabilistic Incremental Program Evolution
+- HQ-Learning
+- Exponential natural evolution strategies
+- Correlation Matrix Memories
+- A convergent O ( n ) algorithm for off-policy temporal-difference learning with linear function approximation
+- Overview of neural hardware
+- Convolutional Networks Can Learn to Generate Affinity Graphs for Image Segmentation
+- A training algorithm for classification of high-dimensional data
+- Model circuit of spiking neurons generating directional selectivity in simple cells.
+- Linear Least-Squares algorithms for temporal difference learning
+- Deep architectures for protein contact map prediction
+- PowerPlay - Training an Increasingly General Problem Solver by Continually Searching for the Simplest Still Unsolvable Problem
+- Evolving spiking neural network controllers for autonomous robots
+- Mode Detection in Online Handwritten Documents Using BLSTM Neural Networks
+- A logical calculus of the ideas immanent in nervous activity
+- Fast Exact Multiplication by the Hessian
+- Keyword spotting exploiting Long Short-Term Memory
+- Hierarchical Chunking in Classifier Systems
+- Explanation-Based Learning - A Problem Solving Perspective
+- Learning Finite-State Controllers for Partially Observable Environments
+- Multiprocessor And Memory Architecture Of The Neurocomputer Synapse-1
+- CYBERNETIC PREDICTING DEVICES
+- Distributed hierarchical processing in the primate cerebral cortex.
+- Shape representation in the inferior temporal cortex of monkeys
+- A million spiking-neuron integrated circuit with a scalable communication network and interface
+- The Speed Prior - A New Simplicity Measure Yielding Near-Optimal Computable Predictions
+- Polynomial Theory of Complex Systems
+- Shifting Inductive Bias with Success-Story Algorithm, Adaptive Levin Search, and Incremental Self-Improvement
+- Sampling Strategies for Bag-of-Features Image Classification
+- Neuro-Dynamic Programming
+- A linear time natural evolution strategy for non-separable functions
+- Parallel Distributed Processing - Explorations in the Microstructure of Cognition, vol 1 - Foundations, vol 2 - Psychological and Biological Models
+- A Formal Theory of Inductive Inference. Part II
+- A New Approach to Linear Filtering and Prediction Problems
+- A single spike suffices - the simplest form of stochastic resonance in model neurons
+- Self-organizing semantic maps
+- Analysis of Linsker's application of Hebbian rules to linear networks
+- Man vs. computer - Benchmarking machine learning algorithms for traffic sign recognition
+- An original approach for the localization of objects in images
+- A Convolutional Learning System for Object Classification in 3-D Lidar Data
+- The growing hierarchical self-organizing map
+- Structural Risk Minimization for Character Recognition
+- Planning and Acting in Partially Observable Stochastic Domains
+- Orientation-Selective aVLSI Spiking Neurons
+- Turing computability with neural nets
+- Neural network hardware
+- Parallel and Serial Neural Mechanisms for Visual Search in Macaque Area V4
+- Analysis of Linsker's Simulations of Hebbian Rules
+- Fast Readout of Object Identity from Macaque Inferior Temporal Cortex
+- Robustness in Multilayer Perceptrons
+- Principles of Risk Minimization for Learning Theory
+- The parti-game algorithm for variable resolution reinforcement learning in multidimensional state-spaces
+- Slowness and Sparseness Lead to Place, Head-Direction, and Spatial-View Cells
+- Information processing in dynamical systems - foundations of harmony theory
+- Simple model of spiking neurons
+- Neural networks for control and system identification
+- Competition and Multiple Cause Models
+- Semilinear Predictability Minimization Produces Well-Known Feature Detectors
+- Book Review - An introduction to Kolmogorov Complexity and its Applications Second Edition, 1997 by Ming Li and Paul Vitanyi (Springer (Graduate Text Series))
+- Computing Optimal Policies for Partially Observable Decision Processes Using Compact Representations
+- Population dynamics and theta rhythm phase precession of hippocampal place cell firing - A spiking neuron model
+- Dynamic Programming and Optimal Control
+- When pyramidal neurons lock, when they respond chaotically, and when they like to synchronize
+- Self-organization of orientation sensitive cells in the striate cortex
+- [Adaptation in natural and artificial systems](./adaptation-in-natural-and-artificial-systems.md)
+- Kalman Filtering and Neural Networks
+- Learning in Logic
+- Policy gradient reinforcement learning for fast quadrupedal locomotion
+- The Limits of Feedforward Vision - Recurrent Processing Promotes Robust Object Recognition when Objects Are Degraded
+- Receptive fields of single neurones in the cat's striate cortex
+- Neural network control for a closed-loop System using Feedback-error-learning
+- CBM (CAM-BRAIN MACHINE) A Hardware Tool which Evolves a Neural Net Module in a Fraction of a Second and Runs a Million Neuron Artificial Brain in Real Time
+- Recursive ICA
+- Dynamic Programming
+- A model for the development of simple cell receptive fields and the ordered arrangement of orientation columns through activity-dependent competition between ON- and OFF-center inputs
+- Stable Adaptive Neural Network Control
+- Curious model-building control systems
+- The evolutionary origins of modularity
+- Algorithms for Sequential Decision Making
+- On the Computational Complexity of Stochastic Controller Optimization in POMDPs
+- Genetic programming - on the programming of computers by means of natural selection
+- Fast Curvature Matrix-Vector Products for Second-Order Gradient Descent
+- Self-organizing hierarchical feature maps
+- Evaluation of secondary structure of proteins from UV circular dichroism spectra using an unsupervised learning neural network.
+- An Introduction to Kolmogorov Complexity and Its Applications
+- Continuous latent variable models for dimensionality reduction and sequential data reconstruction
+- Some Studies in Machine Learning Using the Game of Checkers
+- Nonlinear Dimensionality Reduction
+- How patterned neural connections can be set up by self-organization
+- On the Identification and control of dynamical systems using neural networks
+- Sequence Classification For Protein Analysis
+- Completely Derandomized Self-Adaptation in Evolution Strategies
+- Relations between the statistics of natural images and the response properties of cortical cells.
+- Complexity-based induction systems - Comparisons and convergence theorems
+- Spiking Neuron Models
+- Learning Algorithms for Markov Decision Processes with Average Cost
+- Knowledge Discovery in Databases
+- Stimulus-selective properties of inferior temporal neurons in the macaque
+- Self-Organization and Associative Memory
+- A Novel Approach for the Implementation of Large Scale Spiking Neural Networks on FPGA Hardware
+- Realizing biological spiking network models in a configurable wafer-scale hardware system
+- Non-Linear Dimensionality Reduction
+- CONDITIONAL MARKOV PROCESSES
+- Detecting Human Actions in Surveillance Videos
+- Receptive fields, binocular interaction and functional architecture in the cat's visual cortex
+- Neuromorphic Silicon Neuron Circuits
+- [Pattern Recognition and Machine Learning](./pattern-recognition-and-machine-learning.md)
+- Reduction of the Hodgkin-Huxley Equations to a Single-Variable Threshold Model
+- Learning internal representations by error propagation
+- Building and Understanding Adaptive Systems - A Statistical/Numerical Approach to Factory Automation and Brain Research
+- Clustering properties of hierarchical self-organizing maps
+- Organization and functions of cells responsive to faces in the temporal cortex.
+- Efficient large-scale sequence comparison by locality-sensitive hashing
+- Blind separation of sources, part I - An adaptive algorithm based on neuromimetic architecture
+- The German Traffic Sign Recognition Benchmark - A multi-class classification competition
+- Finding Minimum Entropy Codes
+- Off-Road Obstacle Avoidance through End-to-End Learning
+- How to Build a Brain - A Neural Architecture for Biological Cognition
+- How to Evolve Autonomous Robots - Different Approaches in Evolutionary Robotics
+- On the undecidability of probabilistic planning and related stochastic optimization problems
+- Multi-layered GMDH-type neural network self-selecting optimum neural network architecture and its application to 3-dimensional medical image recognition of blood vessels
+- CAVIAR - A 45k Neuron, 5M Synapse, 12G Connects/s AER Hardware Sensory-Processing- Learning-Actuating System for High-Speed Visual Object Recognition and Tracking
+- A Theory of Adaptive Pattern Classifiers
+- Hardware spiking neural network with run-time reconfigurable connectivity in an autonomous robot
+- Active Guidance for a Finless Rocket Using Neuroevolution
+- Original approach for the localisation of objects in images
+- Cartesian genetic programming
+- Toward a Neurobiology of Unrealistic Optimism
+- Skill Characterization Based on Betweenness
+- Bayesian methods for neural networks
+- Transformation of shape information in the ventral pathway
+- Genetic L-System Programming
+- Matching Categorical Object Representations in Inferior Temporal Cortex of Man and Monkey
+- Kolmogorov Complexity and Computational Complexity
+- Neuronal selectivities to complex object features in the ventral visual pathway of the macaque cerebral cortex.
+- Optimal Ordered Problem Solver
+- Control of nonlinear dynamical systems using neural networks. II. Observability, identification, and control
+- Evolving Soccer Keepaway Players Through Task Decomposition
+- Connectionist expert systems
+- Receptive fields and functional architecture of monkey striate cortex
+- [Object recognition from local scale-invariant features](./object-recognition-from-local-scale-invariant-features.md)
+- Evolving Mobile Robots in Simulated and Real Environments
+- Coding of color and form in the geniculostriate visual pathway (invited review).
+- Reducing the Time Complexity of the Derandomized Evolution Strategy with Covariance Matrix Adaptation (CMA-ES)
+- Cross-Entropy Optimization for Independent Process Analysis
+- Online Driver Distraction Detection Using Long Short-Term Memory
+- Fast neural net simulation with a DSP processor array
+- Keyword Spotting in Online Handwritten Documents Containing Text and Non-text Using BLSTM Neural Networks
+- Preattentive texture discrimination with early vision mechanisms.
+- Learning from delayed rewards
+- A Theory of Communication
+- Locality-sensitive hashing scheme based on p-stable distributions
+- Genetic and Evolutionary Computation - GECCO 2003
+- Evolving virtual creatures
+- The mathematical biophysics of some mental phenomena
+- Self-organized formation of topologically correct feature maps
+- Estimation of Distribution Algorithms - A New Tool for Evolutionary Computation
+- An evaluation of the two-dimensional Gabor filter model of simple receptive fields in cat striate cortex.
+- Automated Network Design-The Frequency-Domain Case
+- Neural Networks for Fingerprint Recognition
+- [The Elements of Statistical Learning](./the-elements-of-statistical-learning.md)
+- Applications of pattern recognition technology
+- Planning simple trajectories using neural subgoal generators
+- [The Nature of Statistical Learning Theory](./the-nature-of-statistical-learning-theory.md)
+- The A2iA Arabic Handwritten Text Recognition System at the Open HaRT2013 Evaluation
+- Independent component analysis, A new concept?
+- NNcon - improved protein contact map prediction using 2D-recursive neural networks
+- Operational Fault Tolerance of CMAC Networks
+- A survey of computational complexity results in systems and control
+- On-line Driver Distraction Detection using Long Short-Term Memory
+- A Rapidly Convergent Descent Method for Minimization
+- Mitosis detection in breast cancer histological images An ICPR 2012 contest
+- Biologically Inspired Approaches to Advanced Information Technology
+- An Information Measure for Classification
+- Conditioning of Quasi-Newton Methods for Function Minimization
+- Control of nonlinear dynamical systems using neural networks - controllability and stabilization
+- Visual neurones responsive to faces in the monkey temporal cortex
+- Generalized cross-validation as a method for choosing a good ridge parameter
+- Separation of a mixture of independent signals using time delayed correlations.
+- Applications of advances in nonlinear sensitivity analysis
+- Signature Verification Using A Siamese Time Delay Neural Network
+- The Intelligent Movement Machine - An Ethological Perspective on the Primate Motor System
+- From Animals to Animats 2 - Proceedings of the Second International Conference on Simulation of Adaptive Behavior
+- Structure-Adaptable Digital Neural Networks
+- [Distinctive Image Features from Scale-Invariant Keypoints](./distinctive-image-features-from-scale-invariant-keypoints.md)
+- Generalized Additive Models
+- The handbook of brain theory and neural networks
+- A family of variable-metric methods derived by variational means
+- Independent Component Analysis
+- Finite Combinatory Processes-Formulation 1
+- Stochastic Complexity and Modeling
+- On the Performance of Orthogonal Source Separation Algorithms
+- Compiling fast partial derivatives of functions given by algorithms
+- [A new look at the statistical model identification](./a-new-look-at-the-statistical-model-identification.md)
+- The Fastest and Shortest Algorithm for all Well-Defined Problems
+- On the Information Storage Capacity of Local Learning Rules
+- Gödel Machines - Fully Self-referential Optimal Universal Self-improvers
+- Prototype Resilient, Self-Modeling Robots
+- Smoothing noisy data with spline functions
+- On computable numbers, with an application to the Entscheidungsproblem
+- Understanding Retinal Color Coding from First Principles
+- The Speed Prior - A New Simplicity Measure Yielding Near-Optimal Computable Predictions
+- Neural Networks for Control
+- On the Length of Programs for Computing Finite Binary Sequences
+- Chinese Handwriting Recognition Competition
+- Impulses and Physiological States in Theoretical Models of Nerve Membrane.
+- Dynamische neuronale Netze und das fundamentale raumzeitliche Lernproblem
+- Mathematical models for cellular interactions in development. I. Filaments with one-sided inputs.
+- Pattern Recognition - Human and Mechanical
+- A Steepest-Ascent Method for Solving Optimum Programming Problems
+- Artificial Intelligence through Simulated Evolution
+- GMDH neural network algorithm using the heuristic self-organization method and its application to the pattern identification problem
+- A blind source separation technique using second-order statistics
+- Methods of conjugate gradients for solving linear systems
+- How to Create a Mind - The Secret of Human Thought Revealed
+- A quantitative description of membrane current and its application to conduction and excitation in nerve.
+- A Class of Methods for Solving Nonlinear Simultaneous Equations
+- The complexity of theorem-proving procedures
+- Applications of Time-Bounded Kolmogorov Complexity in Complexity Theory
+- Handbook of Intelligent Control - Neural, Fuzzy, and Adaptive Approaches
+- An Active Pulse Transmission Line Simulating Nerve Axon
+- Applied Optimal Control - Optimization, Estimation, and Control
+- Sequential GMDH Algorithm and Its Application to River Flow Prediction
+- On the Representation of Continuous Functions of Several Variables as Superpositions of Continuous Functions of one Variable and Addition
+- An essay towards solving a problem in the doctrine of chances
+- [A mathematical theory of communication](./a-mathematical-theory-of-communication.md)
+- The computational solution of optimal control problems with time lag
+- IEEE International Symposium on Biomedical Imaging
+- A GMDH neural network-based approach to robust fault diagnosis - Application to the DAMADICS benchmark problem
+- Document image defect models
+- The 2009 Simulated Car Racing Championship
+- Information Theory and an Extension of the Maximum Likelihood Principle
+- Evolving Neural Control Systems
+- Theory of communication. Part 1 - The analysis of information
+- A METHOD FOR THE SOLUTION OF CERTAIN NON - LINEAR PROBLEMS IN LEAST SQUARES
+- The seeing passenger car 'VaMoRs-P'
+- Gradient Theory of Optimal Flight Paths
+- Reinforcing the Driving Quality of Soccer Playing Robots by Anticipation (Verbesserung der Fahreigenschaften von fußballspielenden Robotern durch Antizipation)
+- Spline smoothing and nonparametric regression
+- FU-Fighters Small Size 2004
+- PROW - A Step Toward Automatic Program Writing
+- Logic Program Synthesis
+- Smoothing noisy data with spline functions
+- An Unsolvable Problem of Elementary Number Theory
+- Theory of the combination of observations least subject to error - part one, part two, supplement = Theoria combinationis observationum erroribus minimus obnoxiae - pars prior, pars posterior, supplementum
+- A 15 Year Perspective on Automatic Programming
+- [Maximum likelihood from incomplete data via the EM - algorithm plus discussions on the paper](./maximum-likelihood-from-incomplete-data-via-the-em-algorithm-plus-discussions-on-the-paper.md)
+- The organization of behavior.
+- Taylor expansion of the accumulated rounding error
+- A method for the construction of minimum-redundancy codes
+- A Representation for the Adaptive Generation of Simple Sequential Programs
+- Statistical predictor identification
+- Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I
+- Learning to Forget
+- On Information and Sufficiency
+- An efficient implementation of BP on RISC-based workstations
+- Cross‐Validatory Choice and Assessment of Statistical Predictions
+- Simulated Car Racing Championship - Competition Software Manual
+- Generalized additive models for medical research
+- The algebraic eigenvalue problem
+- Learning to program = learning to construct mechanisms and explanations
+- Theoria Motus Corporum Coelestium in Sectionibus Conicis Solem Ambientium
+- Three approaches to the quantitative definition of information
+- Democracia e Cidadania na Escola - Do Discurso à Prática
+- Ensemble Methods in Machine Learning
+- The numerical solution of variational problems
+- LNCS - Lecture Notes In Computer Science
+- Cybernetics and forecasting techniques
+- Hierarchical Neural Networks for Image Interpretation (Lecture Notes in Computer Science)
+- Comparison of two Unsupervised Neural Network Models for Redundancy Reduction
+- Goal-Oriented Representations of the External World - A Free-Energy-Based Approach
+- Reinforcement learning
+- Goal-oriented representations of the external world - a free-energy-based approach
+- Beyond Regression - New Tools for Prediction and Analysis in the Behavioral Sciences
+- Mathematical Models for Cellular Interactions in Development
+- Learning by maximizing the information transfer through nonlinear noisy neurons and noise breakdown
+- Reinforcement learning in continuous state and action spaces
+- Proceedings of the Genetic and Evolutionary Computation Conference
+- [The Elements of Statistical Learning](./the-elements-of-statistical-learning.md)
+- Machine Learning Challenges. Evaluating Predictive Uncertainty, Visual Object Classification, and Recognising Tectual Entailment
+- Medical Image Computing and Computer-Assisted Intervention
+- A Formal Theory of Inductive Inference. Part I
+- A Novel Connectionist System for Unconstrained Handwriting Recognition
+- Self-organized formation of topographically correct feature maps
+- Philosophiae Naturalis Principia Mathematica邦訳書の底本に関するノート
+- Kat. 16 Das Gründungsdokument der modernen Naturwissenschaft Isaac Newton - Philosophiae naturalis principia mathematica. Londini - jussi Societatus Regiae ac typis Josephi Streater / London - John Streater und Samuel Smith, 1687
+- Philosophical transactions of the Royal Society of London. B
+- Intrinsically Motivated Evolutionary Search for Vision-Based Reinforcement Learning
+- Self-Organizing Methods in Modeling
+- Advances in Neural Information Processing Systems (NIPS)
+- Control of Nonlinear Dynamical Systems
+- MONOGRAPHS ON STATISTICS AND APPLIED PROBABILITY
+- The Mathematical Theory of Optimal Processes.
+- Some Networks That Can Learn, Remember, and Reproduce any Number of Complicated Space-Time Patterns, I
+- Numerische Mathematik. I
+- Solutions of ill-posed problems
+- An Algorithm for Least-Squares Estimation of Nonlinear Parameters
+- Statistical Inference for Probabilistic Functions of Finite State Markov Chains
+- Nouvelles méthodes pour la détermination des orbites des comètes
+- Mathematical Theory of Optimal Processes
+- Theoria combinationis observationum erroribus minimis obnoxiae
+- Analyse des infiniment petits, pour l'intelligence des lignes courbes
+- Separation of 14C16O and 12C18O by thermal diffusion
+- Rechenberg, Ingo, Evolutionsstrategie - Optimierung technischer Systeme nach Prinzipien der biologischen Evolution. 170 S. mit 36 Abb. Frommann‐Holzboog‐Verlag. Stuttgart 1973. Broschiert
+- Learning to generate sub-goals for action sequences
+- Netzwerkarchitekturen, Zielfunktionen und Kettenregel
+- System identification
+- International Conference on Learning Representations (ICLR)
+- Une procedure d'apprentissage pour reseau a seuil asymmetrique (A learning scheme for asymmetric threshold networks)
+- Learning to Use Selective Attention and Short-Term Memory in Sequential Tasks
+- Structured Document Image Analysis, IAPR Workshop on Syntactic and Structural Pattern Recognition, 13-15 June 1990, Murray Hill, NJ, USA
+- Principles of neurodynamics
+- Learning via task decomposition
+- The Mathematical Theory of Optimal Processes
+- Numerical optimization of computer models
+- IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS Editor
+- Genetic Algorithms in Search
+- GQ(lambda) - A general gradient algorithm for temporal-difference prediction learning with eligibility traces
+- Adaptive, learning, and pattern recognition systems - Theory and applications
+- Learning long-term dependencies is not as difficult with NARX recurrent neural networks
+- Evolutionsstrategie - Optimierung technischer Systeme nach Prinzipien der biologischen Evolution
+- Untersuchungen zu dynamischen neuronalen Netzen
+- The evolution of mental models
+- Artificial neural networks and their application to sequence recognition
+- Dynamic reinforcement driven error propagation networks with application to game playing
+- Spiking Neuron Models - An Introduction
+- Self-organization and associative memory - 3rd edition
+- Improving the convergence of back-propagation learning with second-order methods
+- Numerische Mathematik 1
+- A learning rule for asynchronous perceptrons with feedback in a combinatorial environment
+- Self-Organizing Methods in Modeling - Gmdh Type Algorithms
+- Spline Smoothing and Nonparametric Regression.
+- Deep Big Simple Neural Nets Excel on Handwritten Digit Recognition
+- Neural networks
+- Occam's razor
+- On the theory of generalization and self-structuring in linearly weighted connectionist networks
+- Reinforcement Learning in POMDPs with Function Approximation
+- Inferring Sparse, Overcomplete Image Codes Using an Efficient Coding Framework
+- Discourse on one way in which a quantum-mechanics language on the classical logical base can be built up
+- The human brain project.
+- SPATIAL FREQUENCY SELECTIVITY OF CELLS IN MACAQUE VISUAL CORTEX
+- Knowledge Discovery in Databases
+- Syntactic pattern recognition and applications
+- ICDAR 2013 Chinese Handwriting Recognition Competition
+- From Animals to Animats
+- A Theoretical Framework for Back-Propagation
+- Evolving Neural Networks
+- System Identification I
+- Genetic Algorithms

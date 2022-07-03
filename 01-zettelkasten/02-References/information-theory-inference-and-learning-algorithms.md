@@ -1,0 +1,202 @@
+---
+title: Information Theory, Inference, and Learning Algorithms
+pdf_relpath: null
+status: todo
+tags:
+- gen-from-ref
+- paper
+---
+
+# Information Theory, Inference, and Learning Algorithms
+
+## References
+
+- Graphical Models for Machine Learning and Digital Communication
+- [The Nature of Statistical Learning Theory](./the-nature-of-statistical-learning-theory.md)
+- Statistical Decision Theory and Bayesian Analysis
+- Learning and relearning in Boltzmann machines
+- An Idiosyncratic Journey Beyond Mean Field Theory
+- Variational Gaussian process classifiers
+- LDPC codes - a group algebra formulation
+- Bayesian Learning via Stochastic Dynamics
+- “Haldane's Dilemma” and the Rate of Evolution
+- Arithmetic coding for data compression
+- Statistical inference for spatial processes
+- Choice of Basis for Laplace Approximation
+- Perfect Simulation for orthogonal model mixing
+- Networks for approximation and learning
+- Bayesian Methods for Backpropagation Networks
+- Learning algorithms and probability distributions in feed-forward and feed-back networks.
+- Fractal Geometry of Nature
+- Gaussian Processes for Regression
+- Belief Optimization for Binary Networks - A Stable Alternative to Loopy Belief Propagation
+- Probable networks and plausible predictions - a review of practical Bayesian methods for supervised neural networks
+- On ensembles of low-density parity-check codes - Asymptotic distance distributions
+- Gaussian Processes for Bayesian Classification via Hybrid Monte Carlo
+- Induction and Analogy in Mathematics
+- The Infinite Gaussian Mixture Model
+- Sparse Greedy Gaussian Process Regression
+- Ensemble Learning for Blind Image Separation and Deconvolution
+- Fundamentals of Statistical and Thermal Physics
+- A universal algorithm for sequential data compression
+- Discovering Multiple Constraints that are Frequently Approximately Satisfied
+- The Evidence Framework Applied to Classification Networks
+- Good Codes Based on Very Sparse Matrices
+- Optimal decoding of linear codes for minimizing symbol error rate (Corresp.)
+- Hybrid Monte Carlo
+- Bayesian Learning for Neural Networks
+- Do the right thing - studies in limited rationality
+- Theory of Information and Coding
+- Classic Maximum Entropy
+- Extensions of a Theory of Networks for Approximation and Learning
+- [A Mathematical Theory of Communication](./a-mathematical-theory-of-communication.md)
+- VIBES - A Variational Inference Engine for Bayesian Networks
+- Probabilistic reasoning in intelligent systems - networks of plausible inference
+- Good Error-Correcting Codes Based on Very Sparse Matrices
+- Constructing free-energy approximations and generalized belief propagation algorithms
+- A View of the Em Algorithm that Justifies Incremental, Sparse, and other Variants
+- Generalized Belief Propagation
+- A Practical Bayesian Framework for Backpropagation Networks
+- [Reinforcement Learning - An Introduction](./reinforcement-learning-an-introduction.md)
+- A family of algorithms for approximate Bayesian inference
+- Sparse low-density parity-check codes for channels with cross-talk
+- Fast Forward Selection to Speed Up Sparse Gaussian Process Regression
+- Estimation and Inference by Compact Coding
+- Survey propagation - An algorithm for satisfiability
+- Derivation of a class of training algorithms
+- Pattern Recognition and Neural Networks
+- Exact Calculation of the Hessian Matrix for the Multilayer Perceptron
+- Gaussian Processes for Classification - Mean-Field Algorithms
+- Turbo Decoding as an Instance of Pearl's Belief Propagation Algorithm
+- A new outlook of Shannon's information measures
+- [Elements of Information Theory](./elements-of-information-theory.md)
+- Regression, Prediction and Shrinkage
+- Near Shannon limit performance of low density parity check codes
+- Infinite Mixtures of Gaussian Process Experts
+- A Bayesian Committee Machine
+- Comparison of Approximate Methods for Handling Hyperparameters
+- An Information-Maximization Approach to Blind Separation and Blind Deconvolution
+- Monte Carlo is fundamentally unsound
+- Information Theory and Coding
+- “The Origins of Life”
+- Exact sampling with coupled Markov chains and applications to statistical mechanics
+- Ensemble learning for independent component analysis
+- Evaluation of gaussian processes and other methods for non-linear regression
+- On genetic algorithms
+- Tree-based reparameterization framework for analysis of sum-product and related algorithms
+- Convergence of iterative decoding
+- Bayesian Monte Carlo
+- AN ALGEBRAIC DESCRIPTION OF ITERATIVE DECODING SCHEMES
+- BAYESIAN NON-LINEAR MODELING FOR THE PREDICTION COMPETITION
+- A Bayesian Approach to Relevance in Game Playing
+- The Infinite Hidden Markov Model
+- “Neural” computation of decisions in optimization problems
+- [A mathematical theory of communication](./a-mathematical-theory-of-communication.md)
+- Fourier analysis on finite groups and applications
+- Watermark codes - reliable communication over insertion/deletion channels
+- From Laplace to Supernova SN 1987A - Bayesian Inference in Astrophysics
+- Design of capacity-approaching irregular low-density parity-check codes
+- [Neural Networks for Pattern Recognition](./neural-networks-for-pattern-recognition.md)
+- Learning representations by back-propagating errors
+- Keeping the neural networks simple by minimizing the description length of the weights
+- Improving Markov chain Monte Carlo Estimators by Coupling to an Approximating Chain
+- A New Learning Algorithm for Blind Signal Separation
+- A recursive approach to low complexity codes
+- The limiting information capacity of a neuronal link
+- Bethe free energy, Kikuchi approximations, and belief propagation algorithms
+- Practical loss-resilient codes
+- Similarity Metric Learning for a Variable-Kernel Classifier
+- Monte Carlo Implementation of Gaussian Process Models for Bayesian Regression and Classification
+- Biological Sequence Analysis - Probabilistic Models of Proteins and Nucleic Acids
+- The Origins of Spread-Spectrum Communications
+- Improved low-density parity-check codes using irregular graphs and belief propagation
+- Codes and Decoding on General Graphs
+- Efficient encoding of low-density parity-check codes
+- Origin of the genetic code - a testable hypothesis based on tRNA structure, sequence, and kinetic proofreading.
+- Exact sampling and approximate counting techniques
+- A hierarchical Dirichlet language model
+- Bayesian kriging-Merging observations and qualified guesses in kriging
+- Over-relaxation method for the Monte Carlo evaluation of the partition function for multiquadratic actions
+- Simulated tempering - a new Monte Carlo scheme
+- Higher-Order Boltzmann Machines
+- Probability estimation for PPM
+- Following a moving target-Monte Carlo inference for dynamic Bayesian models
+- Universal codeword sets and representations of the integers
+- Best Play for Imperfect Players and Game Tree Search; part I - theory
+- Neural networks and physical systems with emergent collective computational abilities.
+- Suppressing Random Walks in Markov Chain Monte Carlo Using Ordered Overrelaxation
+- Storing infinite numbers of patterns in a spin-glass model of neural networks.
+- Codes and iterative decoding on general graphs
+- A New View of ICA
+- Efficient erasure correcting codes
+- Error bounds for convolutional codes and an asymptotically optimum decoding algorithm
+- Comparison of constructions of irregular Gallager codes
+- Annealed importance sampling
+- Reliable communication over channels with insertions, deletions, and substitutions
+- The capacity of low-density parity-check codes under message-passing decoding
+- Sparse-graph codes for quantum error correction
+- Dynamic conditional independence models and Markov chain Monte Carlo methods
+- Codes on graphs - normal realizations
+- Near Shannon limit error-correcting coding and decoding - Turbo-codes. 1
+- Compression of individual sequences via variable-rate coding
+- Evolution of sex
+- Markov Chain Monte Carlo Methods Based on `Slicing' the Density Function
+- The technology of error-correcting codes
+- BSC Thresholds for Code Ensembles Based on “Typical Pairs” Decoding
+- Linear-time encodable and decodable error-correcting codes
+- Hybrid Adaptive Splines
+- CBMS-NSF REGIONAL CONFERENCE SERIES IN APPLIED MATHEMATICS
+- Error control coding - fundamentals and applications
+- Mean-Field Approaches to Independent Component Analysis
+- Near optimum error correcting coding and decoding - turbo-codes
+- A Technique for High-Performance Data Compression
+- Hierarchical vector quantisation
+- On Two-Dimensional Arrays and Crossword Puzzles
+- Autoencoders, Minimum Description Length and Helmholtz Free Energy
+- The Major Transitions in Evolution
+- An Alternative to Runlength-limiting Codes - Turn Timing Errors into Substitution Errors
+- Two inequalities implied by unique decipherability
+- Insertion/deletion correction with spectral nulls
+- Maximum Likelihood Blind Source Separation - A Context-Sensitive Generalization of ICA
+- Parallel Networks that Learn to Pronounce English Text
+- The Z-coder adaptive binary coder
+- An Information Measure for Classification
+- Principles of geostatistics
+- Extracting Support Data for a Given Task
+- Mendel's Demon - Gene Justice and the Complexity of Life
+- Low-density parity-check codes
+- Variations on a theme by Huffman
+- Evaluation of Gallager Codes for Short Block Length and High Rate Applications
+- Causality
+- What is a moment? Transient synchrony as a collective mechanism for spatiotemporal integration.
+- What is a moment? Cortical sensory integration over a brief interval.
+- Kinetic proofreading - a new mechanism for reducing errors in biosynthetic processes requiring high specificity.
+- The energy relay - a proofreading scheme based on dynamic cooperativity and lacking all characteristic symptoms of kinetic proofreading in DNA replication and protein synthesis.
+- MUTATIONS OF BACTERIA FROM VIRUS SENSITIVITY TO VIRUS RESISTANCE'-'
+- Adaptive optics for array telescopes using neural-network techniques
+- A New Code for Galileo
+- High genomic deleterious mutation rates in hominids
+- The organization of behavior.
+- Color Adaptation of Edge-Detectors in the Human Visual System
+- Dasher-a data entry interface using continuous gestures and language models
+- Tracking and data association
+- Human behavior and the principle of least effort
+- On a measure of divergence between two statistical populations defined by their probability distributions
+- Blind Separation of Sources
+- Archaeoastronomy in the Old World - STONE CIRCLE GEOMETRIES - AN INFORMATION THEORY APPROACH
+- Tools for Statistical Inference - Methods for the Exploration of Posterior Distributions and Likelihood Functions, 3rd Edition
+- Studies in the History of Probability and Statistics. XXXI. The simple branching process, a turning point test and a fundamental inequality - A historical note on I. J. Bienaymé
+- Statistical Inference for Probabilistic Functions of Finite State Markov Chains
+- Matrix Methods for Engineers and Scientists
+- Bayesian numerical analysis
+- Information Theory and Reliable Communication
+- Binary codes capable of correcting deletions, insertions, and reversals
+- Applied Bayesian and classical inference - the case of the Federalist papers
+- Information Theory, Inference, and Learning Algorithms
+- Principles and practice of information theory
+- Involuntary motions of the eye during monocular fixation.
+- The time course of the McCollough effect and its physiological implications.
+- Fast Hands-free Writing by Gaze Direction
+- Using the Nyström Method to Speed Up Kernel Machines
+- Perfect sampling for the wavelet reconstruction of signals
+- A Double-Loop Algorithm to Minimize the Bethe and Kikuchi Free Energies
