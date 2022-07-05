@@ -50,6 +50,21 @@ video: https://www.bilibili.com/video/BV1H44y1t75x/?spm_id_from=333.788&vd_sourc
 
 1. 如果是我来做，会怎么做。能否比作者做得更好。
 2. 作者说 xxx 没有往下走，留到之后的结果。我能往下走吗？
+3. pass 2 中圈出的重要 paper，在 pass 3 之前，应该读掉。
+
+## 一些 Tips
+
+### 技术报告 vs 论文
+
+技术报告，只要讲清楚自己做了什么就行了。
+
+一般不需要分析自己与别人的区别、不需要讲清楚原理等。
+
+[AlexNet](../02-References/imagenet-classification-with-deep-convolutional-neural-networks.md) 更像是一篇技术报告
+
+### 实验怎么读
+
+一般只看看结论就好了。怎么做的实验，细节不太需要看。除非是 reviewer，或者，准备复现一下他的实验。
 
 ## References
 
