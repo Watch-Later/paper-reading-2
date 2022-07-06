@@ -27,6 +27,8 @@ year: 2015
 
 ## 阅读价值
 
+李沐的论文精读，很好。https://www.bilibili.com/video/BV1P3411y7nn/
+
 论文评价：
 
 1. 作者的写作，很厉害。值得学习。

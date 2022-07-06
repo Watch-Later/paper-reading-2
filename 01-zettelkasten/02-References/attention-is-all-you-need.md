@@ -13,17 +13,25 @@ fieldsOfStudy:
 - Computer Science
 meta_key: attention-is-all-you-need
 numCitedBy: 35157
-pdf_relpath: null
+pdf_relpath: pdfs/Attention%20Is%20All%20You%20Need.pdf
 ref_count: 44
 status: todo
 tags:
-- gen-from-ref
 - paper
+- gen-from-ref
+- transformer
+- nlp
 venue: NIPS
 year: 2017
 ---
 
+[local pdf](../../../pdfs/Attention%20Is%20All%20You%20Need.pdf)
+
 # Attention is All you Need
+
+## 阅读价值
+
+开创了 MLP、CNN、RNN 之后的第 4 大类模型。
 
 ## References
 
